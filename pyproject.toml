@@ -1,0 +1,19 @@
+[project]
+name = "bots"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "patchright",
+    "pydantic-settings",
+    "python-dotenv",
+    "camoufox[geoip]",
+    "loguru",
+]
+
+[dependency-groups]
+dev = [
+    "ruff",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]

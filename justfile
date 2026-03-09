@@ -1,5 +1,23 @@
 export PYTHONPATH := "src"
 
+# ── Dev ────────────────────────────────────────────────────────────────────
+
+[group('dev')]
+[doc('List all receipts')]
+list:
+    just --list
+
+[group('dev')]
+[doc('Run ruff linter')]
+lint:
+    uv run ruff check src/
+
+[group('dev')]
+[doc('Run ruff formatter')]
+fmt:
+    uv run ruff format src/
+
+
 # ── Setup ──────────────────────────────────────────────────────────────────
 
 [group('setup')]
@@ -20,19 +38,19 @@ browser:
 # ── Run ────────────────────────────────────────────────────────────────────
 
 [group('run')]
-[doc('Run a bot  (--bot required, --user defaults to 1)')]
-run bot user="1":
-    uv run python src/run.py --bot {{bot}} --user {{user}}
+[doc('Run a bot  (bot + action required; user defaults to 1; pass refresh="--refresh" to force re-scrape)')]
+run bot action user="1" refresh="":
+    uv run python src/run.py --bot {{bot}} --action {{action}} --user {{user}} {{refresh}}
 
 [group('run')]
-[doc('Run the kraken bot with user 1')]
-kraken:
-    just run kraken
+[doc('Run the kraken deposit flow for user 1')]
+kraken-deposit user="1" refresh="":
+    just run kraken deposit {{user}} {{refresh}}
 
 [group('run')]
-[doc('Run the kraken bot with a specific user id')]
-kraken-user user:
-    just run kraken {{user}}
+[doc('Run the kraken withdraw flow for user 1')]
+kraken-withdraw user="1" refresh="":
+    just run kraken withdraw {{user}} {{refresh}}
 
 
 # ── Logs ───────────────────────────────────────────────────────────────────
@@ -53,14 +71,3 @@ clear-logs:
     rm -f logs/bot.log logs/network_debug.log
 
 
-# ── Dev ────────────────────────────────────────────────────────────────────
-
-[group('dev')]
-[doc('Run ruff linter')]
-lint:
-    uv run ruff check src/
-
-[group('dev')]
-[doc('Run ruff formatter')]
-fmt:
-    uv run ruff format src/

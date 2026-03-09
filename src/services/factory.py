@@ -1,9 +1,6 @@
 from typing import Any
 
-from services.kraken import KrakenBot
-
-
-
+from services.bots import KrakenBot
 
 class BotFactory:
 

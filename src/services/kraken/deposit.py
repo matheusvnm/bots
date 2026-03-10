@@ -1,18 +1,25 @@
-import json
-from pathlib import Path
-
 from loguru import logger
 from patchright.sync_api import Page
 
-from components.dtos import CryptoAsset, KrakenCredentials
+from components.dtos import CryptoAsset
 from components.trace import PageTracer
+from services.kraken.interceptors import AccountBalanceInterceptor, AssetListingInterceptor, MarketCapInterceptor
 
 
 class KrakenDeposit:
 
-    def __init__(self, cache_path: Path, tracer: PageTracer, **_):
-        self.cache_path = cache_path.with_name("deposit_assets_cache.json")
+    def __init__(
+        self,
+        tracer: PageTracer,
+        asset_listing_interceptor: AssetListingInterceptor,
+        account_balance_interceptor: AccountBalanceInterceptor,
+        market_cap_interceptor: MarketCapInterceptor,
+        **_,
+    ):
         self.tracer = tracer
+        self.asset_listing_interceptor = asset_listing_interceptor
+        self.account_balance_interceptor = account_balance_interceptor
+        self.market_cap_interceptor = market_cap_interceptor
 
     def _open_crypto_modal(self, page: Page) -> None:
         """Navigate to portfolio and open the deposit crypto selection modal."""
@@ -35,79 +42,33 @@ class KrakenDeposit:
 
         logger.info("Deposit step 4 — clicking crypto tab")
         page.click('[role="tab"][id="crypto"]')
-        logger.info("Crypto tab clicked — waiting 5 s for list to load")
-        page.wait_for_timeout(5000)
+        logger.info("Crypto tab clicked — waiting 2s for list to load")
+        page.wait_for_timeout(2000)
         self.tracer.save(page, "deposit_crypto_tab_loaded")
 
-    def _load_cache(self, cache_path: Path) -> list[CryptoAsset] | None:
-        if not cache_path.exists():
-            return None
-        try:
-            data = json.loads(cache_path.read_text(encoding="utf-8"))
-            assets = [
-                CryptoAsset(name=d["name"], short_name=d.get("short_name"), value=None, usd_value=None)
-                for d in data
-            ]
-            logger.info("Cache loaded from {} ({} items)", cache_path, len(assets))
-            return assets
-        except Exception as e:
-            logger.warning("Cache read failed ({}): {}", cache_path, e)
-            return None
+    def _fetch_assets(self, page: Page) -> list[CryptoAsset]:
+        logger.info("Intercepting deposit assets from browser API...")
+        self._open_crypto_modal(page)
 
-    def _save_cache(self, cache_path: Path, assets: list[CryptoAsset]) -> None:
-        try:
-            cache_path.parent.mkdir(parents=True, exist_ok=True)
-            data = [{"name": a.name, "short_name": a.short_name} for a in assets]
-            cache_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
-            logger.info("Cache saved → {} ({} items)", cache_path, len(assets))
-        except Exception as e:
-            logger.warning("Cache write failed ({}): {}", cache_path, e)
+        balance_by_ticker = {b["asset"]: b for b in self.account_balance_interceptor.get()}
 
+        assets = []
+        for item in self.asset_listing_interceptor.get():
+            cripto = CryptoAsset(
+                name=item["name"],
+                short_name=item["asset"],
+                value=balance_by_ticker.get(item["asset"], {}).get("balance"),
+                usd_value=balance_by_ticker.get(item["asset"], {}).get("quote_balance"),
+            )
+            assets.append(cripto)
 
-    def _scrape_assets(self, page: Page) -> list[CryptoAsset]:
-        """Scroll the full virtualized list and return all assets (name + short_name only).
+        assets.sort(key=lambda a: (
+            0 if float(a.usd_value or 0) > 0 else 1,
+            -float(a.usd_value or 0),
+            self.market_cap_interceptor.rank(a.short_name),
+        ))
 
-        Stops after two consecutive passes with no new assets.
-        """
-        logger.info("Scraping all deposit assets (virtualized list)...")
-        scroll_container = page.locator('[role="table"]').first
-        seen: set[str] = set()
-        assets: list[CryptoAsset] = []
-        stable_passes = 0
-
-        while stable_passes < 2:
-            prev_count = len(seen)
-            for btn in page.locator('[role="button"].group').all():
-                name_el = btn.locator(".text-ds-primary.text-left")
-                if name_el.count() == 0:
-                    continue
-                name = (name_el.text_content() or "").strip()
-                if not name or name in seen:
-                    continue
-
-                seen.add(name)
-                short_name_el = btn.locator(".text-ds-neutral.text-left")
-                short_name = (
-                    (short_name_el.text_content() or "").strip() or None
-                    if short_name_el.count() > 0
-                    else None
-                )
-                assets.append(CryptoAsset(name=name, short_name=short_name, value=None, usd_value=None))
-                logger.debug("  Found: {} ({})", name, short_name or "—")
-
-            new = len(seen) - prev_count
-            if new == 0:
-                stable_passes += 1
-                logger.debug("No new rows (pass {}/2, total={})", stable_passes, len(seen))
-            else:
-                stable_passes = 0
-                logger.debug("{} new rows (total={})", new, len(seen))
-
-            if stable_passes < 2:
-                scroll_container.evaluate("el => { el.scrollTop += 400; }")
-                page.wait_for_timeout(300)
-
-        logger.info("Deposit scrape complete — {} assets", len(assets))
+        logger.info("Intercepted {} enabled crypto assets for deposit", len(assets))
         return assets
 
     def _find_asset(self, assets: list[CryptoAsset], query: str) -> CryptoAsset | None:
@@ -128,27 +89,15 @@ class KrakenDeposit:
 
         return None
 
-
-    def run(self, page: Page, credentials: KrakenCredentials, refresh: bool = False, **_) -> None:
+    def run(self, page: Page, **_) -> None:
         """
         Deposit flow:
-          1. Load asset list from cache (or scrape if cache missing / --refresh).
+          1. Open modal and intercept asset list from the browser's API call.
           2. Print all assets numbered for selection.
           3. Ask the user which asset to deposit.
           4. Log the intended action (execution TBD).
         """
-
-        assets: list[CryptoAsset] | None = None
-        if not refresh:
-            assets = self._load_cache(self.cache_path)
-            if assets:
-                logger.info("Using cached asset list — pass --refresh to re-scrape")
-
-        if assets is None:
-            logger.info("Scraping deposit asset list from Kraken...")
-            self._open_crypto_modal(page)
-            assets = self._scrape_assets(page)
-            self._save_cache(self.cache_path, assets)
+        assets = self._fetch_assets(page)
 
         logger.info("Available assets for deposit ({} total):", len(assets))
         for i, asset in enumerate(assets, 1):

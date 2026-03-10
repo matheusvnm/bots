@@ -23,14 +23,14 @@ class KrakenBot:
         self.tracer = tracer
         self.authenticator = KrakenAuthenticator(tracer)
 
-    def run(self, credentials: KrakenCredentials, action: str, refresh: bool = False) -> None:
+    def run(self, credentials: KrakenCredentials, action: str) -> None:
         if action not in self.ACTIONS:
             available = ", ".join(self.ACTIONS)
             raise ValueError(f"Unknown action: {action!r}. Available: {available}")
 
         state_path = Path(credentials.device_cookie_path)
-        with self.authenticator.login(state_path, credentials=credentials) as page:
+        with self.authenticator.login(state_path, credentials=credentials) as (page, interceptors):
             logger.info("Starting action: {}", action)
             handler_cls: KrakenDeposit | KrakenWithdraw = self.ACTIONS[action]
-            handler = handler_cls(tracer=self.tracer, cache_path=state_path)
-            handler.run(page, credentials=credentials, refresh=refresh)
+            handler = handler_cls(tracer=self.tracer, **interceptors)
+            handler.run(page, credentials=credentials)

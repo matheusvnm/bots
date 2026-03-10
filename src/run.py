@@ -4,7 +4,6 @@ Bot runner entrypoint.
 Usage:
     python src/run.py --bot kraken --action deposit
     python src/run.py --bot kraken --action withdraw --user 123456789
-    python src/run.py --bot kraken --action deposit --refresh
 """
 
 import argparse
@@ -41,12 +40,6 @@ def parse_args() -> argparse.Namespace:
         choices=["deposit", "withdraw"],
         help="Action to perform after login",
     )
-    parser.add_argument(
-        "--refresh",
-        action="store_true",
-        default=False,
-        help="Ignore cached asset list and re-scrape from Kraken",
-    )
     return parser.parse_args()
 
 
@@ -74,7 +67,7 @@ def run_bot() -> None:
     with logger.contextualize(bot=ctx.bot, user_id=ctx.user_id, session_id=ctx.session_id):
         logger.info("Session started  session_id={}", session_id)
         try:
-            bot.run(credentials, action=args.action, refresh=args.refresh)
+            bot.run(credentials, action=args.action)
             logger.info("Session ended successfully")
         except NoOTPAuthenticatorError as e:
             logger.error(

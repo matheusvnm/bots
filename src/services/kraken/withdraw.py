@@ -1,16 +1,16 @@
-import re
-
 from loguru import logger
 from patchright.sync_api import Page
 
 from components.dtos import CryptoAsset
 from components.trace import PageTracer
+from services.kraken.interceptors import AccountBalanceInterceptor
 
 
 class KrakenWithdraw:
 
-    def __init__(self, tracer: PageTracer, **_):
+    def __init__(self, tracer: PageTracer, account_balance_interceptor: AccountBalanceInterceptor, **_):
         self.tracer = tracer
+        self.account_balance_interceptor = account_balance_interceptor
 
     def _open_crypto_modal(self, page: Page) -> None:
         """Navigate to portfolio and open the withdraw crypto selection modal."""
@@ -37,91 +37,20 @@ class KrakenWithdraw:
         page.wait_for_timeout(5000)
         self.tracer.save(page, "withdraw_crypto_tab_loaded")
 
-    def _is_zero_balance(self, value: str | None, usd_value: str | None) -> bool:
-        """Return True if the value or USD value represents a zero balance."""
-        for text in (usd_value, value):
-            if not text:
-                continue
-            stripped = re.sub(r"[^\d.]", "", text)
-            try:
-                if float(stripped) == 0:
-                    return True
-            except ValueError:
-                continue
-        return False
-
-    def _scrape_assets(self, page: Page) -> list[CryptoAsset]:
-        """Scroll the virtualized list and return only assets with non-zero balance.
-
-        Stops immediately when the first zero-balance row is encountered, assuming
-        the list is sorted by balance descending.
-        """
-        logger.info("Scraping withdraw assets (stopping at first zero balance)...")
-        scroll_container = page.locator('[role="table"]').first
-        seen: set[str] = set()
-        assets: list[CryptoAsset] = []
-        stable_passes = 0
-
-        while stable_passes < 2:
-            prev_count = len(seen)
-            stop = False
-
-            for btn in page.locator('[role="button"].group').all():
-                name_el = btn.locator(".text-ds-primary.text-left")
-                if name_el.count() == 0:
-                    continue
-                name = (name_el.text_content() or "").strip()
-                if not name or name in seen:
-                    continue
-
-                value_el = btn.locator(".text-ds-primary.text-right")
-                usd_el = btn.locator(".text-ds-neutral.text-right")
-                value = (
-                    (value_el.text_content() or "").strip() or None
-                    if value_el.count() > 0
-                    else None
-                )
-                usd_value = (
-                    (usd_el.text_content() or "").strip() or None
-                    if usd_el.count() > 0
-                    else None
-                )
-
-                if self._is_zero_balance(value, usd_value):
-                    logger.info("Zero balance at '{}' — stopping scroll", name)
-                    stop = True
-                    break
-
-                seen.add(name)
-                short_name_el = btn.locator(".text-ds-neutral.text-left")
-                short_name = (
-                    (short_name_el.text_content() or "").strip() or None
-                    if short_name_el.count() > 0
-                    else None
-                )
-                asset = CryptoAsset(name=name, short_name=short_name, value=value, usd_value=usd_value)
-                assets.append(asset)
-                logger.info(
-                    "  {} ({}) — value={} usd={}",
-                    name, short_name or "—", value or "—", usd_value or "—",
-                )
-
-            if stop:
-                break
-
-            new = len(seen) - prev_count
-            if new == 0:
-                stable_passes += 1
-                logger.debug("No new rows (pass {}/2, total={})", stable_passes, len(seen))
-            else:
-                stable_passes = 0
-                logger.debug("{} new rows (total={})", new, len(seen))
-
-            if stable_passes < 2:
-                scroll_container.evaluate("el => { el.scrollTop += 400; }")
-                page.wait_for_timeout(300)
-
-        logger.info("Withdraw scrape complete — {} non-zero assets", len(assets))
+    def _fetch_assets(self, page: Page) -> list[CryptoAsset]:
+        logger.info("Intercepting withdraw balances from browser API...")
+        self._open_crypto_modal(page)
+        assets = [
+            CryptoAsset(
+                name=item["asset"],
+                short_name=item["asset"],
+                value=item["balance"],
+                usd_value=item["quote_balance"],
+            )
+            for item in self.account_balance_interceptor.get()
+        ]
+        assets.sort(key=lambda a: -float(a.usd_value or 0))
+        logger.info("Intercepted {} non-zero crypto assets for withdraw", len(assets))
         return assets
 
     def _find_asset(self, assets: list[CryptoAsset], query: str) -> CryptoAsset | None:
@@ -150,8 +79,7 @@ class KrakenWithdraw:
           3. Ask the user which asset to withdraw.
           4. Log the intended action (execution TBD).
         """
-        self._open_crypto_modal(page)
-        assets = self._scrape_assets(page)
+        assets = self._fetch_assets(page)
 
         if not assets:
             logger.warning("No assets with non-zero balance found — nothing to withdraw")

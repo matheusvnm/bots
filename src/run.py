@@ -12,6 +12,7 @@ import sys
 import uuid
 from pathlib import Path
 
+from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 
 from components.dtos import KrakenCredentials
@@ -75,6 +76,11 @@ def run_bot() -> None:
         try:
             bot.run(credentials, action=args.action, refresh=args.refresh)
             logger.info("Session ended successfully")
+        except NoOTPAuthenticatorError as e:
+            logger.error(
+                "Passkey-only 2FA is not supported. "
+                "Please add an authenticator app to your Kraken account and try again."
+            )
         except Exception as e:
             logger.error("Session failed: {}", e)
             raise

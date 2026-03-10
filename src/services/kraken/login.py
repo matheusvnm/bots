@@ -3,6 +3,7 @@ from contextlib import contextmanager
 from pathlib import Path
 from urllib.parse import urlparse
 
+from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 from patchright.sync_api import BrowserContext, Page, sync_playwright
 
@@ -141,6 +142,33 @@ class KrakenAuthenticator:
 
         raise RuntimeError(f"OTP failed after {max_retries} attempts")
 
+    def _wait_for_otp(self, page: Page) -> None:
+        """
+        Wait for the OTP input field, handling the passkey-selection screen if it appears first.
+
+        After submitting credentials Kraken may show a 2FA method picker
+        (data-testid="TwoFactorAuthentication") when the account has a passkey configured.
+        We cannot use a passkey, so we click "Authenticator app" to reach the OTP field.
+        If the OTP field appears directly (no passkey configured), we proceed immediately.
+        """
+        page.wait_for_selector(
+            '[data-testid="TwoFactorAuthentication"], input[name="tfa"]',
+            timeout=60000,
+        )
+        if page.locator('input[name="tfa"]').is_visible():
+            logger.debug("OTP input already visible — no method selection needed")
+            return 
+
+        logger.info("Passkey selection screen detected — looking for authenticator app option")
+        self.tracer.save(page, "2fa_method_selection")
+        authenticator_btn = page.locator('[data-testid="TwoFactorAuthentication"] button:has-text("Authenticator app")')
+        if not authenticator_btn.is_visible():
+            raise NoOTPAuthenticatorError("Authenticator app 2FA method not available")
+
+        authenticator_btn.click()
+        logger.info("Authenticator app selected — waiting for OTP input")
+        page.wait_for_selector('input[name="tfa"]', timeout=30000)
+
     def _dismiss_passkey(self, page: Page) -> None:
         """Dismiss the passkey prompt if present."""
         if not page.url.startswith(KrakenPages.PASSKEY):
@@ -166,7 +194,7 @@ class KrakenAuthenticator:
         self.tracer.save(page, "credentials_submitted")
 
         logger.info("Waiting for OTP field...")
-        page.wait_for_selector('input[name="tfa"]', timeout=60000)
+        self._wait_for_otp(page)
 
         expected = [KrakenPages.DASHBOARD, KrakenPages.DEVICE_APPROVAL, KrakenPages.PASSKEY]
         self._handle_otp(page, expected_urls=expected)
@@ -211,7 +239,7 @@ class KrakenAuthenticator:
         self.tracer.save(page, "credentials_submitted")
 
         logger.info("Waiting for OTP field...")
-        page.wait_for_selector('input[name="tfa"]', timeout=60000)
+        self._wait_for_otp(page)
 
         expected = [KrakenPages.DASHBOARD, KrakenPages.DEVICE_APPROVAL, KrakenPages.PASSKEY]
         self._handle_otp(page, expected_urls=expected)

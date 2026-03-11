@@ -147,6 +147,9 @@ class NetworkInterceptor:
         if "deposits/methods" not in response.url:
             return
 
+        if self._networks:
+            return
+
         logger.info("The methods were captured: {}", response.url)
         try:
             methods = response.json().get("result", [])
@@ -192,7 +195,7 @@ class NetworkInterceptor:
                     sort_weight=sort_weight,
                     addresses=addresses,
                 )
-
+                
                 self._networks[asset].append(network)
 
             logger.info("We processed {} assets networks", len(self._networks))
@@ -234,7 +237,7 @@ class NetworkAddressesInterceptor:
                     continue
                 
                 asset = address_info["asset"]
-                crypto_address = CryptoNetworkAddress(address=address_info["address"], tag=address_info["tag"])
+                crypto_address = CryptoNetworkAddress(address=address_info.get("address"), tag=address_info.get("tag"))
                 self._addresses[asset].append(crypto_address)
 
             logger.info("We processed {} network addresses", len(self._addresses))

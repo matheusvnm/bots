@@ -57,19 +57,49 @@ class KrakenDeposit:
         page.wait_for_timeout(2000)
         self.tracer.save(page, "deposit_crypto_tab_loaded")
 
+    def _scroll_and_click_by_name(self, page: Page, name: str) -> None:
+        """Scroll [role="table"] until the row with matching name is visible, then click it."""
+        container_sel = '[role="table"]'
+        scroll_step = 400
+        max_scroll = 50_000
+
+        page.evaluate(f"document.querySelector('{container_sel}').scrollTop = 0")
+        page.wait_for_timeout(300)
+
+        scroll_pos = 0
+        while scroll_pos <= max_scroll:
+            el = page.locator(".text-ds-primary.text-left").filter(has_text=name).first
+            if el.is_visible():
+                el.click()
+                return
+
+            scroll_pos += scroll_step
+            page.evaluate(
+                f"document.querySelector('{container_sel}').scrollTop = {scroll_pos}"
+            )
+            page.wait_for_timeout(300)
+
+        raise RuntimeError(f"'{name}' not found in list after scrolling to {max_scroll}px")
+
     def _generate_address(self, asset: CryptoAsset, network: CryptoNetwork, page: Page) -> None:
-        # Instructions
-        # Find the element where the name equals to asset.name (scroll the tab if needed).
-        # Click on it.
+        logger.info("Scrolling to find asset '{}' in deposit list", asset.name)
+        self._scroll_and_click_by_name(page, asset.name)
+        page.wait_for_timeout(1000)
+        self.tracer.save(page, "deposit_asset_selected")
 
+        if len(asset.networks) > 1:
+            # Network selection is a flat list of buttons (not virtualized).
+            logger.info(f"{len(asset.networks)} networks detected — selecting '{network.name}'")
+            page.locator('button[aria-label="fund methods"]').filter(has_text=network.name).first.click()
+            page.wait_for_timeout(1000)
+            self.tracer.save(page, "deposit_network_selected")
 
-        if asset.networks > 1:
-            # 1. Select the network wit the same name as network.name (scroll the tab if needed).
-            # 2. Click on it.
-            pass
-        
-        # 3. The modal load confirmation "I understand" as a span appear, just click on it.
-        logger.info("Address generated succesfully — waiting 2s getting information")
+        # 3. The modal loads a confirmation "I understand" span — click it.
+        logger.info("Clicking 'I understand' confirmation")
+        page.wait_for_selector('span:has-text("I understand")', timeout=15000)
+        page.click('span:has-text("I understand")')
+
+        logger.info("Address generated successfully — waiting 2s getting information")
         page.wait_for_timeout(2000)
         self.tracer.save(page, "address_network_generated")
 

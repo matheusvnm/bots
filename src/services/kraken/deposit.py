@@ -9,6 +9,7 @@ from services.kraken.interceptors import (
     AccountBalanceInterceptor,
     AssetListingInterceptor,
     MarketCapInterceptor,
+    NetworkAddressesInterceptor,
     NetworkInterceptor,
 )
 
@@ -21,6 +22,7 @@ class KrakenDeposit:
         account_balance_interceptor: AccountBalanceInterceptor,
         market_cap_interceptor: MarketCapInterceptor,
         network_interceptor: NetworkInterceptor,
+        network_addresses_interceptor: NetworkAddressesInterceptor,
         **_,
     ):
         self.tracer = tracer
@@ -28,6 +30,7 @@ class KrakenDeposit:
         self.account_balance_interceptor = account_balance_interceptor
         self.market_cap_interceptor = market_cap_interceptor
         self.network_interceptor = network_interceptor
+        self.network_addresses_interceptor = network_addresses_interceptor
 
     def _open_crypto_modal(self, page: Page) -> None:
         """Navigate to portfolio and open the deposit crypto selection modal."""
@@ -70,6 +73,7 @@ class KrakenDeposit:
         page.wait_for_timeout(2000)
         self.tracer.save(page, "address_network_generated")
 
+        return self.network_addresses_interceptor.get(asset.asset)
 
     def _fetch_assets(self, page: Page) -> list[CryptoAsset]:
         logger.info("Intercepting deposit assets from browser API...")
@@ -97,27 +101,23 @@ class KrakenDeposit:
         logger.info("Intercepted {} enabled crypto assets for deposit", len(assets))
         return assets
 
-    def _find_asset(self, assets: list[CryptoAsset], query: str) -> CryptoAsset | None:
-        """Find an asset by 1-based index, ticker, or partial name (case-insensitive)."""
-        if query.isdigit():
-            idx = int(query) - 1
-            return assets[idx] if 0 <= idx < len(assets) else None
+    def _find_asset(self, assets: list[CryptoAsset], index: str) -> CryptoAsset | None:
+        """Find an asset by 1-based index"""
+        if not index.isdigit():
+            logger.warning("The value must be a integer")
+            return None
 
-        q = query.upper()
-        for asset in assets:
-            if asset.asset and asset.asset.upper() == q:
-                return asset
+        idx = int(index) - 1
+        return assets[idx] if 0 <= idx < len(assets) else None
 
-        q_lower = query.lower()
-        for asset in assets:
-            if q_lower in asset.name.lower():
-                return asset
-
-        return None
     
-    def _find_network(self, networks: list[CryptoNetwork], query: int) -> CryptoAsset | None:
+    def _find_network(self, networks: list[CryptoNetwork], index: str) -> CryptoAsset | None:
         """Find an asset by 1-based index."""
-        idx = int(query) - 1
+        if not index.isdigit():
+            logger.warning("The value must be a integer")
+            return None
+
+        idx = int(index) - 1
         return networks[idx] if 0 <= idx < len(networks) else None
 
 

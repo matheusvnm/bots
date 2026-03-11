@@ -8,6 +8,7 @@ from services.kraken.interceptors import (
     AccountBalanceInterceptor,
     AssetListingInterceptor,
     MarketCapInterceptor,
+    NetworkAddressesInterceptor,
     NetworkInterceptor,
 )
 from services.kraken.exceptions import NoOTPAuthenticatorError
@@ -308,6 +309,7 @@ class KrakenAuthenticator:
                 "account_balance_interceptor": AccountBalanceInterceptor(),
                 "market_cap_interceptor": MarketCapInterceptor(),
                 "network_interceptor": NetworkInterceptor(),
+                "network_addresses_interceptor": NetworkAddressesInterceptor()
             }
 
             for interceptor in interceptors.values():

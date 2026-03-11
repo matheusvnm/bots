@@ -49,7 +49,7 @@ class AssetListingInterceptor:
         while not self._captured:
             if time.monotonic() > deadline:
                 raise RuntimeError(
-                    "Timeout waiting for markets/assets response — check logs/network_debug.log"
+                    "Timeout waiting for internal/markets/assets response — check logs/network_debug.log"
                 )
             time.sleep(0.05)
 
@@ -130,7 +130,7 @@ class MarketCapInterceptor:
         while not self._ranks:
             if time.monotonic() > deadline:
                 raise RuntimeError(
-                    "Timeout waiting for account/v2/balance response — check logs/network_debug.log"
+                    "Timeout waiting for markets/market-cap response — check logs/network_debug.log"
                 )
             time.sleep(0.05)
 
@@ -206,10 +206,52 @@ class NetworkInterceptor:
         while not self._networks:
             if time.monotonic() > deadline:
                 raise RuntimeError(
-                    "Timeout waiting for account/v2/balance response — check logs/network_debug.log"
+                    "Timeout waiting for deposits/methods response — check logs/network_debug.log"
                 )
             time.sleep(0.05)
 
         networks = self._networks.get(asset, [])
         networks.sort()
         return networks
+
+
+class NetworkAddressesInterceptor:
+    """Captures the for deposit/withdraw response that has information about addresses."""
+
+    def __init__(self):
+        self._addresses: dict[str, list[CryptoNetworkAddress]] = defaultdict(list)
+
+    def __call__(self, response: Response) -> None:
+        if "deposits/addresses" not in response.url:
+            return
+
+        logger.info("The methods were captured: {}", response.url)
+        try:
+            addresses_info = response.json().get("result", [])
+            for address_info in addresses_info:
+
+                if "asset" not in address_info:
+                    continue
+                
+                asset = address_info["asset"]
+                crypto_address = CryptoNetworkAddress(address=address_info["address"], tag=address_info["tag"])
+                self._addresses[asset].append(crypto_address)
+
+            logger.info("We processed {} network addresses", len(self._addresses))
+        except Exception:
+            logger.exception("The methods response failed to be parsed as JSON")
+            raise
+
+    def get(self, asset: str, timeout: float = 10.0) -> list[CryptoNetwork]:
+        """Return a crypto network addresses."""
+        deadline = time.monotonic() + timeout
+        while not self._addresses:
+            if time.monotonic() > deadline:
+                raise RuntimeError(
+                    "Timeout waiting for deposits/addresses response — check logs/network_debug.log"
+                )
+            time.sleep(0.05)
+
+        addresses = self._addresses.get(asset, [])
+        addresses.sort()
+        return addresses

@@ -3,7 +3,7 @@ from dataclasses import asdict
 from loguru import logger
 from patchright.sync_api import Page
 
-from components.dtos import CryptoAsset
+from components.dtos import CryptoAsset, CryptoNetwork
 from components.trace import PageTracer
 from services.kraken.interceptors import (
     AccountBalanceInterceptor,
@@ -54,6 +54,23 @@ class KrakenDeposit:
         page.wait_for_timeout(2000)
         self.tracer.save(page, "deposit_crypto_tab_loaded")
 
+    def _generate_address(self, asset: CryptoAsset, network: CryptoNetwork, page: Page) -> None:
+        # Instructions
+        # Find the element where the name equals to asset.name (scroll the tab if needed).
+        # Click on it.
+
+
+        if asset.networks > 1:
+            # 1. Select the network wit the same name as network.name (scroll the tab if needed).
+            # 2. Click on it.
+            pass
+        
+        # 3. The modal load confirmation "I understand" as a span appear, just click on it.
+        logger.info("Address generated succesfully — waiting 2s getting information")
+        page.wait_for_timeout(2000)
+        self.tracer.save(page, "address_network_generated")
+
+
     def _fetch_assets(self, page: Page) -> list[CryptoAsset]:
         logger.info("Intercepting deposit assets from browser API...")
         self._open_crypto_modal(page)
@@ -97,6 +114,12 @@ class KrakenDeposit:
                 return asset
 
         return None
+    
+    def _find_network(self, networks: list[CryptoNetwork], query: int) -> CryptoAsset | None:
+        """Find an asset by 1-based index."""
+        idx = int(query) - 1
+        return networks[idx] if 0 <= idx < len(networks) else None
+
 
     def run(self, page: Page, **_) -> None:
         """
@@ -112,18 +135,58 @@ class KrakenDeposit:
         for i, asset in enumerate(assets, 1):
             print(f"  {i:4d}. {asset}")
 
-        choice = input("[?] Enter number or ticker to deposit: ").strip()
-        selected = self._find_asset(assets, choice)
+        asset_choice = input("[?] Enter number or ticker to deposit: ").strip()
+        selected_asset = self._find_asset(assets, asset_choice)
+
+        if not selected_asset:
+            logger.warning("No asset matched '{}' — aborting", asset_choice)
+            return 
+
+        
+        logger.info(f"Selected for deposit: {selected_asset}")
+
+        selected_network = selected_asset.networks[0]
+        if len(selected_asset.networks) > 1:
+            logger.info(f"More than network detected we must choose.")
+            for i, network in enumerate(selected_asset.networks, 1):
+                print(f"  {i:4d}. {network.name}")
+                print(f"        Required Confirmation:  {network.confirmations}")
+                print(f"        Confirmation Time: {network.confirmation_time}")
+
+                if network.minimum_amount is not None:
+                    print(f"        Minimum Transaction: {network.minimum_amount}")
+                
+                if network.maximum_amount is not None:
+                    print(f"        Maximum Transaction: {network.maximum_amount}")
+
+                if network.fee is not None:
+                    fee = network.fee.fee or network.fee.fee_percentage
+                    if network.fee.fee:
+                        print(f"        Fee: {network.fee.fee}")
+                    
+                    if network.fee.fee_percentage:
+                        print(f"        Fee Percentage: {fee}%")
+
+
+            network_choice = input("[?] Enter number or name of the network: ").strip()
+            selected_network = self._find_network(selected_asset.networks, network_choice)
+
+        if not selected_network:
+            logger.warning("No network matched '{}' — aborting", asset_choice)
+            return 
+
+        if not selected_network.addresses:
+            logger.debug("We did not found a valid address.")
+            self._generate_address(selected_asset, selected_network, page)
+
+        address = selected_network.addresses[-1]
+        print("Success! You deposit network and adress is the following: ")
+        print(f"Network: {selected_network.name}")
+        print(f"Address: {address.address}")
+        if address.tag:
+            print(f"Tag: {address.tag}")
         
 
-        if selected:
-            logger.info(
-                "Selected for deposit: {}",
-                selected.as_dict(),
-            )
-            logger.info(
-                "TODO: complete deposit execution for {} — not yet implemented",
-                selected.name,
-            )
-        else:
-            logger.warning("No asset matched '{}' — aborting", choice)
+
+        
+

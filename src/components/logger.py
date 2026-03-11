@@ -41,7 +41,7 @@ def configure_logging() -> None:
     logger.add(
         sys.stdout,
         format=_APP_FMT,
-        level="DEBUG",
+        level="INFO",
         colorize=True,
         filter=lambda r: not r["extra"].get("network_debug", False),
     )

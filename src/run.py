@@ -49,22 +49,26 @@ def run_bot() -> None:
     args = parse_args()
     settings = Settings()
     session_id = uuid.uuid4().hex
-    
-    ctx = TraceContext(bot=args.bot, 
-                       user_id=args.user_identifier, 
-                       session_id=session_id)
+
+    ctx = TraceContext(
+        bot=args.bot, user_id=args.user_identifier, session_id=session_id
+    )
 
     tracer = PageTracer(ctx=ctx)
     bot = BotFactory.create(args.bot, tracer=tracer)
 
-    state_file_path = settings.context_dir / args.bot / "user" / args.user_identifier / "state.json"
+    state_file_path = (
+        settings.context_dir / args.bot / "user" / args.user_identifier / "state.json"
+    )
     credentials = KrakenCredentials(
         email=settings.user_email,
         password=settings.user_password,
-        device_cookie_path=str(state_file_path)
+        device_cookie_path=str(state_file_path),
     )
 
-    with logger.contextualize(bot=ctx.bot, user_id=ctx.user_id, session_id=ctx.session_id):
+    with logger.contextualize(
+        bot=ctx.bot, user_id=ctx.user_id, session_id=ctx.session_id
+    ):
         logger.info("Session started  session_id={}", session_id)
         try:
             bot.run(credentials, action=args.action)

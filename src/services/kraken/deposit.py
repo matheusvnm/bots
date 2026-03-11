@@ -1,25 +1,33 @@
+from dataclasses import asdict
+
 from loguru import logger
 from patchright.sync_api import Page
 
 from components.dtos import CryptoAsset
 from components.trace import PageTracer
-from services.kraken.interceptors import AccountBalanceInterceptor, AssetListingInterceptor, MarketCapInterceptor
+from services.kraken.interceptors import (
+    AccountBalanceInterceptor,
+    AssetListingInterceptor,
+    MarketCapInterceptor,
+    NetworkInterceptor,
+)
 
 
 class KrakenDeposit:
-
     def __init__(
         self,
         tracer: PageTracer,
         asset_listing_interceptor: AssetListingInterceptor,
         account_balance_interceptor: AccountBalanceInterceptor,
         market_cap_interceptor: MarketCapInterceptor,
+        network_interceptor: NetworkInterceptor,
         **_,
     ):
         self.tracer = tracer
         self.asset_listing_interceptor = asset_listing_interceptor
         self.account_balance_interceptor = account_balance_interceptor
         self.market_cap_interceptor = market_cap_interceptor
+        self.network_interceptor = network_interceptor
 
     def _open_crypto_modal(self, page: Page) -> None:
         """Navigate to portfolio and open the deposit crypto selection modal."""
@@ -50,23 +58,24 @@ class KrakenDeposit:
         logger.info("Intercepting deposit assets from browser API...")
         self._open_crypto_modal(page)
 
-        balance_by_ticker = {b["asset"]: b for b in self.account_balance_interceptor.get()}
-
         assets = []
         for item in self.asset_listing_interceptor.get():
+            name = item["name"]
+            asset = item["asset"]
+            balance = self.account_balance_interceptor.get(asset)
+            market_cap_rank = self.market_cap_interceptor.get(asset)
+            networks = self.network_interceptor.get(asset)
+
             cripto = CryptoAsset(
-                name=item["name"],
-                short_name=item["asset"],
-                value=balance_by_ticker.get(item["asset"], {}).get("balance"),
-                usd_value=balance_by_ticker.get(item["asset"], {}).get("quote_balance"),
+                name=name,
+                asset=asset,
+                balance=balance,
+                market_cap_rank=market_cap_rank,
+                networks=networks,
             )
             assets.append(cripto)
 
-        assets.sort(key=lambda a: (
-            0 if float(a.usd_value or 0) > 0 else 1,
-            -float(a.usd_value or 0),
-            self.market_cap_interceptor.rank(a.short_name),
-        ))
+        assets.sort()
 
         logger.info("Intercepted {} enabled crypto assets for deposit", len(assets))
         return assets
@@ -79,7 +88,7 @@ class KrakenDeposit:
 
         q = query.upper()
         for asset in assets:
-            if asset.short_name and asset.short_name.upper() == q:
+            if asset.asset and asset.asset.upper() == q:
                 return asset
 
         q_lower = query.lower()
@@ -101,16 +110,20 @@ class KrakenDeposit:
 
         logger.info("Available assets for deposit ({} total):", len(assets))
         for i, asset in enumerate(assets, 1):
-            print(f"  {i:4d}. {asset.name} ({asset.short_name or '—'})")
+            print(f"  {i:4d}. {asset}")
 
         choice = input("[?] Enter number or ticker to deposit: ").strip()
         selected = self._find_asset(assets, choice)
+        
 
         if selected:
             logger.info(
-                "Selected for deposit: {} ({})",
-                selected.name, selected.short_name or "—",
+                "Selected for deposit: {}",
+                selected.as_dict(),
             )
-            logger.info("TODO: complete deposit execution for {} — not yet implemented", selected.name)
+            logger.info(
+                "TODO: complete deposit execution for {} — not yet implemented",
+                selected.name,
+            )
         else:
             logger.warning("No asset matched '{}' — aborting", choice)

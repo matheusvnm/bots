@@ -2,8 +2,8 @@ from typing import Any
 
 from services.bots import KrakenBot
 
-class BotFactory:
 
+class BotFactory:
     _REGISTRY: dict[str, type] = {
         "kraken": KrakenBot,
     }

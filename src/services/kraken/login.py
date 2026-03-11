@@ -4,7 +4,12 @@ from pathlib import Path
 from typing import Any, Generator
 from urllib.parse import urlparse
 
-from services.kraken.interceptors import AccountBalanceInterceptor, AssetListingInterceptor, MarketCapInterceptor
+from services.kraken.interceptors import (
+    AccountBalanceInterceptor,
+    AssetListingInterceptor,
+    MarketCapInterceptor,
+    NetworkInterceptor,
+)
 from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 from patchright.sync_api import Page, sync_playwright
@@ -18,7 +23,6 @@ from .constants import KrakenPages
 
 
 class KrakenAuthenticator:
-
     def __init__(self, tracer: PageTracer):
         self.tracer = tracer
 
@@ -33,7 +37,10 @@ class KrakenAuthenticator:
         """
         first_login = not state_file_path.exists()
         if first_login:
-            logger.info("No existing state file at {} — starting with fresh context", state_file_path)
+            logger.info(
+                "No existing state file at {} — starting with fresh context",
+                state_file_path,
+            )
             state_file_path.parent.mkdir(parents=True, exist_ok=True)
 
         with sync_playwright() as p:
@@ -60,9 +67,9 @@ class KrakenAuthenticator:
             )
             try:
                 yield context, first_login
+            finally:
                 context.storage_state(path=str(state_file_path))
                 logger.info("Saved storage state → {}", state_file_path)
-            finally:
                 browser.close()
 
     def _attach_page_hooks(self, page: Page) -> None:
@@ -75,27 +82,33 @@ class KrakenAuthenticator:
             logger.debug("[NAV] {}", frame.url)
             try:
                 parsed = urlparse(frame.url)
-                slug = re.sub(r"[^\w]+", "_", f"{parsed.netloc}{parsed.path}").strip("_")[:60]
+                slug = re.sub(r"[^\w]+", "_", f"{parsed.netloc}{parsed.path}").strip(
+                    "_"
+                )[:60]
                 self.tracer.save(page, f"nav_{slug}")
             except Exception:
                 pass
 
         page.on("framenavigated", on_navigated)
 
-
-    def _handle_otp(self, page: Page, expected_urls: list[str], max_retries: int = 3) -> None:
+    def _handle_otp(
+        self, page: Page, expected_urls: list[str], max_retries: int = 3
+    ) -> None:
         """
         Prompt for OTP, submit, and retry if Kraken rejects the code.
 
         Rejection is detected by the tfa input becoming visible again after
         a short processing window. Navigation to any expected URL means accepted.
         """
+
         def already_navigated() -> bool:
             return any(page.url.startswith(u) for u in expected_urls)
 
         for attempt in range(1, max_retries + 1):
             if already_navigated():
-                logger.info("Navigation detected before attempt {} — OTP accepted", attempt)
+                logger.info(
+                    "Navigation detected before attempt {} — OTP accepted", attempt
+                )
                 return
 
             self.tracer.save(page, f"otp_{attempt:02d}_prompt")
@@ -159,11 +172,15 @@ class KrakenAuthenticator:
         )
         if page.locator('input[name="tfa"]').is_visible():
             logger.debug("OTP input already visible — no method selection needed")
-            return 
+            return
 
-        logger.info("Passkey selection screen detected — looking for authenticator app option")
+        logger.info(
+            "Passkey selection screen detected — looking for authenticator app option"
+        )
         self.tracer.save(page, "2fa_method_selection")
-        authenticator_btn = page.locator('[data-testid="TwoFactorAuthentication"] button:has-text("Authenticator app")')
+        authenticator_btn = page.locator(
+            '[data-testid="TwoFactorAuthentication"] button:has-text("Authenticator app")'
+        )
         if not authenticator_btn.is_visible():
             raise NoOTPAuthenticatorError("Authenticator app 2FA method not available")
 
@@ -183,11 +200,12 @@ class KrakenAuthenticator:
         except Exception:
             pass
 
-
     def _first_login(self, page: Page, credentials: KrakenCredentials) -> Page:
         """Normal login — device-approval expected. Returns page on dashboard."""
         logger.info("First login — no state.json found")
-        logger.info("Device approval will be triggered: check your email and click the link")
+        logger.info(
+            "Device approval will be triggered: check your email and click the link"
+        )
 
         page.goto(KrakenPages.LOGIN)
         page.fill('input[name="username"]', credentials.email)
@@ -198,14 +216,24 @@ class KrakenAuthenticator:
         logger.info("Waiting for OTP field...")
         self._wait_for_otp(page)
 
-        expected = [KrakenPages.DASHBOARD, KrakenPages.DEVICE_APPROVAL, KrakenPages.PASSKEY]
+        expected = [
+            KrakenPages.DASHBOARD,
+            KrakenPages.DEVICE_APPROVAL,
+            KrakenPages.PASSKEY,
+        ]
         self._handle_otp(page, expected_urls=expected)
 
         if page.url.startswith(KrakenPages.DEVICE_APPROVAL):
-            logger.info("Device approval page reached — waiting for email confirmation (up to 5 min)...")
-            if not wait_for_url(page, [KrakenPages.DASHBOARD, KrakenPages.PASSKEY], timeout=300000):
+            logger.info(
+                "Device approval page reached — waiting for email confirmation (up to 5 min)..."
+            )
+            if not wait_for_url(
+                page, [KrakenPages.DASHBOARD, KrakenPages.PASSKEY], timeout=300000
+            ):
                 self.tracer.save(page, "fail_device_approval_timeout")
-                raise TimeoutError("Device approval timeout — link not clicked within 5 minutes")
+                raise TimeoutError(
+                    "Device approval timeout — link not clicked within 5 minutes"
+                )
 
         self._dismiss_passkey(page)
 
@@ -217,8 +245,12 @@ class KrakenAuthenticator:
         """Navigate to dashboard and return True if we arrive there (session alive)."""
         logger.info("Checking session validity — navigating to dashboard...")
         try:
-            page.goto(KrakenPages.DASHBOARD, wait_until="domcontentloaded", timeout=30000)
+            page.goto(
+                KrakenPages.DASHBOARD, wait_until="domcontentloaded", timeout=30000
+            )
             self.tracer.save(page, "session_check")
+
+            page.wait_for_timeout(3000)
             is_valid = page.url.startswith(KrakenPages.DASHBOARD)
             if is_valid:
                 logger.info("Session valid — dashboard reached (url={})", page.url)
@@ -226,7 +258,9 @@ class KrakenAuthenticator:
                 logger.warning("Session expired — redirected to {}", page.url)
             return is_valid
         except Exception as e:
-            logger.warning("Session check error ({}): {} — assuming expired", type(e).__name__, e)
+            logger.warning(
+                "Session check error ({}): {} — assuming expired", type(e).__name__, e
+            )
             self.tracer.save(page, "session_check_failed")
             return False
 
@@ -243,21 +277,29 @@ class KrakenAuthenticator:
         logger.info("Waiting for OTP field...")
         self._wait_for_otp(page)
 
-        expected = [KrakenPages.DASHBOARD, KrakenPages.DEVICE_APPROVAL, KrakenPages.PASSKEY]
+        expected = [
+            KrakenPages.DASHBOARD,
+            KrakenPages.DEVICE_APPROVAL,
+            KrakenPages.PASSKEY,
+        ]
         self._handle_otp(page, expected_urls=expected)
 
         if page.url.startswith(KrakenPages.DEVICE_APPROVAL):
             self.tracer.save(page, "fail_device_approval")
-            raise RuntimeError("Device-approval triggered — stored dev cookie is no longer valid.")
+            raise RuntimeError(
+                "Device-approval triggered — stored dev cookie is no longer valid."
+            )
 
         self._dismiss_passkey(page)
 
         logger.info("Login successful — dashboard reached")
         self.tracer.save(page, "pass_dashboard")
         return page
-    
+
     @contextmanager
-    def login(self, state_path: Path, credentials: KrakenCredentials) -> Generator[tuple[Page, dict[str, Any]]]:
+    def login(
+        self, state_path: Path, credentials: KrakenCredentials
+    ) -> Generator[tuple[Page, dict[str, Any]]]:
         with self.with_browser(state_path) as (context, first_login):
             page = context.new_page()
 
@@ -265,11 +307,12 @@ class KrakenAuthenticator:
                 "asset_listing_interceptor": AssetListingInterceptor(),
                 "account_balance_interceptor": AccountBalanceInterceptor(),
                 "market_cap_interceptor": MarketCapInterceptor(),
+                "network_interceptor": NetworkInterceptor(),
             }
 
             for interceptor in interceptors.values():
                 page.on("response", interceptor)
-    
+
             self._attach_page_hooks(page)
 
             if first_login:
@@ -280,5 +323,5 @@ class KrakenAuthenticator:
                 page = self._device_checked_login(page, credentials)
             else:
                 logger.info("Reusing existing session — login skipped")
-        
+
             yield page, interceptors

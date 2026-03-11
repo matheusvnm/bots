@@ -10,4 +10,3 @@ from components.trace import PageTracer
 from .deposit import KrakenDeposit
 from .login import KrakenAuthenticator
 from .withdraw import KrakenWithdraw
-

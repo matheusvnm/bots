@@ -1,6 +1,3 @@
-
-
-
 from pathlib import Path
 from typing import Any
 
@@ -13,7 +10,6 @@ from services.kraken.withdraw import KrakenWithdraw
 
 
 class KrakenBot:
-
     ACTIONS: dict[str, type] = {
         "deposit": KrakenDeposit,
         "withdraw": KrakenWithdraw,
@@ -29,7 +25,10 @@ class KrakenBot:
             raise ValueError(f"Unknown action: {action!r}. Available: {available}")
 
         state_path = Path(credentials.device_cookie_path)
-        with self.authenticator.login(state_path, credentials=credentials) as (page, interceptors):
+        with self.authenticator.login(state_path, credentials=credentials) as (
+            page,
+            interceptors,
+        ):
             logger.info("Starting action: {}", action)
             handler_cls: KrakenDeposit | KrakenWithdraw = self.ACTIONS[action]
             handler = handler_cls(tracer=self.tracer, **interceptors)

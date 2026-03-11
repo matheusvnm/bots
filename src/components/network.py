@@ -32,7 +32,13 @@ def attach_network_logger(page: Page) -> None:
         except Exception:
             data = "<binary or unavailable>"
         try:
-            _nlog.debug("[RES]  {} {}  status={}  data={}", req.method, req.url, response.status, data)
+            _nlog.debug(
+                "[RES]  {} {}  status={}  data={}",
+                req.method,
+                req.url,
+                response.status,
+                data,
+            )
         except Exception:
             pass
 

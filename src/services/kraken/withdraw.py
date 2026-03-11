@@ -7,8 +7,12 @@ from services.kraken.interceptors import AccountBalanceInterceptor
 
 
 class KrakenWithdraw:
-
-    def __init__(self, tracer: PageTracer, account_balance_interceptor: AccountBalanceInterceptor, **_):
+    def __init__(
+        self,
+        tracer: PageTracer,
+        account_balance_interceptor: AccountBalanceInterceptor,
+        **_,
+    ):
         self.tracer = tracer
         self.account_balance_interceptor = account_balance_interceptor
 
@@ -82,12 +86,16 @@ class KrakenWithdraw:
         assets = self._fetch_assets(page)
 
         if not assets:
-            logger.warning("No assets with non-zero balance found — nothing to withdraw")
+            logger.warning(
+                "No assets with non-zero balance found — nothing to withdraw"
+            )
             return
 
         logger.info("Available assets for withdrawal ({} total):", len(assets))
         for i, asset in enumerate(assets, 1):
-            print(f"  {i:4d}. {asset.name} ({asset.short_name or '—'}) — {asset.value or '—'} ({asset.usd_value or '—'})")
+            print(
+                f"  {i:4d}. {asset.name} ({asset.short_name or '—'}) — {asset.value or '—'} ({asset.usd_value or '—'})"
+            )
 
         choice = input("[?] Enter number or ticker to withdraw: ").strip()
         selected = self._find_asset(assets, choice)
@@ -95,9 +103,14 @@ class KrakenWithdraw:
         if selected:
             logger.info(
                 "Selected for withdrawal: {} ({}) — balance: {} ({})",
-                selected.name, selected.short_name or "—",
-                selected.value or "—", selected.usd_value or "—",
+                selected.name,
+                selected.short_name or "—",
+                selected.value or "—",
+                selected.usd_value or "—",
             )
-            logger.info("TODO: complete withdraw execution for {} — not yet implemented", selected.name)
+            logger.info(
+                "TODO: complete withdraw execution for {} — not yet implemented",
+                selected.name,
+            )
         else:
             logger.warning("No asset matched '{}' — aborting", choice)

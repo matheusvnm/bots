@@ -3,18 +3,13 @@ from patchright.sync_api import Page
 
 from components.dtos import CryptoAsset
 from components.trace import PageTracer
-from services.kraken.interceptors import AccountBalanceInterceptor
+from services.kraken.interceptors import KrakenInterceptor
 
 
 class KrakenWithdraw:
-    def __init__(
-        self,
-        tracer: PageTracer,
-        account_balance_interceptor: AccountBalanceInterceptor,
-        **_,
-    ):
+    def __init__(self, tracer: PageTracer, interceptor: KrakenInterceptor, **_):
         self.tracer = tracer
-        self.account_balance_interceptor = account_balance_interceptor
+        self.interceptor = interceptor
 
     def _open_crypto_modal(self, page: Page) -> None:
         """Navigate to portfolio and open the withdraw crypto selection modal."""
@@ -44,16 +39,9 @@ class KrakenWithdraw:
     def _fetch_assets(self, page: Page) -> list[CryptoAsset]:
         logger.info("Intercepting withdraw balances from browser API...")
         self._open_crypto_modal(page)
-        assets = [
-            CryptoAsset(
-                name=item["asset"],
-                short_name=item["asset"],
-                value=item["balance"],
-                usd_value=item["quote_balance"],
-            )
-            for item in self.account_balance_interceptor.get()
-        ]
-        assets.sort(key=lambda a: -float(a.usd_value or 0))
+
+        assets = self.interceptor.withdraw_assets()
+
         logger.info("Intercepted {} non-zero crypto assets for withdraw", len(assets))
         return assets
 
@@ -65,7 +53,7 @@ class KrakenWithdraw:
 
         q = query.upper()
         for asset in assets:
-            if asset.short_name and asset.short_name.upper() == q:
+            if asset.asset.upper() == q:
                 return asset
 
         q_lower = query.lower()
@@ -93,20 +81,22 @@ class KrakenWithdraw:
 
         logger.info("Available assets for withdrawal ({} total):", len(assets))
         for i, asset in enumerate(assets, 1):
+            bal = asset.balance
             print(
-                f"  {i:4d}. {asset.name} ({asset.short_name or '—'}) — {asset.value or '—'} ({asset.usd_value or '—'})"
+                f"  {i:4d}. {asset.name} ({asset.asset}) — {bal.value if bal else '—'} ({bal.usd_value if bal else '—'} USD)"
             )
 
         choice = input("[?] Enter number or ticker to withdraw: ").strip()
         selected = self._find_asset(assets, choice)
 
         if selected:
+            bal = selected.balance
             logger.info(
-                "Selected for withdrawal: {} ({}) — balance: {} ({})",
+                "Selected for withdrawal: {} ({}) — balance: {} ({} USD)",
                 selected.name,
-                selected.short_name or "—",
-                selected.value or "—",
-                selected.usd_value or "—",
+                selected.asset,
+                bal.value if bal else "—",
+                bal.usd_value if bal else "—",
             )
             logger.info(
                 "TODO: complete withdraw execution for {} — not yet implemented",

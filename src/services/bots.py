@@ -27,9 +27,9 @@ class KrakenBot:
         state_path = Path(credentials.device_cookie_path)
         with self.authenticator.login(state_path, credentials=credentials) as (
             page,
-            interceptors,
+            interceptor,
         ):
             logger.info("Starting action: {}", action)
             handler_cls: KrakenDeposit | KrakenWithdraw = self.ACTIONS[action]
-            handler = handler_cls(tracer=self.tracer, **interceptors)
-            handler.run(page, credentials=credentials)
+            handler = handler_cls(page=page, tracer=self.tracer, interceptor=interceptor)
+            handler.run(credentials=credentials)

@@ -1,16 +1,10 @@
 import re
 from contextlib import contextmanager
 from pathlib import Path
-from typing import Any, Generator
+from typing import Generator
 from urllib.parse import urlparse
 
-from services.kraken.interceptors import (
-    AccountBalanceInterceptor,
-    AssetListingInterceptor,
-    MarketCapInterceptor,
-    NetworkAddressesInterceptor,
-    NetworkInterceptor,
-)
+from services.kraken.interceptors import KrakenInterceptor
 from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 from patchright.sync_api import Page, sync_playwright
@@ -300,20 +294,12 @@ class KrakenAuthenticator:
     @contextmanager
     def login(
         self, state_path: Path, credentials: KrakenCredentials
-    ) -> Generator[tuple[Page, dict[str, Any]]]:
+    ) -> Generator[tuple[Page, KrakenInterceptor]]:
         with self.with_browser(state_path) as (context, first_login):
             page = context.new_page()
 
-            interceptors = {
-                "asset_listing_interceptor": AssetListingInterceptor(),
-                "account_balance_interceptor": AccountBalanceInterceptor(),
-                "market_cap_interceptor": MarketCapInterceptor(),
-                "network_interceptor": NetworkInterceptor(),
-                "network_addresses_interceptor": NetworkAddressesInterceptor()
-            }
-
-            for interceptor in interceptors.values():
-                page.on("response", interceptor)
+            interceptor = KrakenInterceptor()
+            page.on("response", interceptor)
 
             self._attach_page_hooks(page)
 
@@ -326,4 +312,4 @@ class KrakenAuthenticator:
             else:
                 logger.info("Reusing existing session — login skipped")
 
-            yield page, interceptors
+            yield page, interceptor

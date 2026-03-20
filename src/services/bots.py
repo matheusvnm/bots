@@ -1,9 +1,11 @@
 from pathlib import Path
 from typing import Any
 
-from components.dtos import KrakenCredentials
+from components.dtos import CoinbaseCredentials, KrakenCredentials
 from loguru import logger
 from components.trace import PageTracer
+from services.coinbase.deposit import CoinbaseDeposit
+from services.coinbase.login import CoinbaseAuthenticator
 from services.kraken.deposit import KrakenDeposit
 from services.kraken.login import KrakenAuthenticator
 from services.kraken.withdraw import KrakenWithdraw
@@ -33,3 +35,25 @@ class KrakenBot:
             handler_cls: KrakenDeposit | KrakenWithdraw = self.ACTIONS[action]
             handler = handler_cls(page=page, tracer=self.tracer, interceptor=interceptor)
             handler.run(credentials=credentials)
+
+
+class CoinbaseBot:
+    ACTIONS: dict[str, type] = {
+        "deposit": CoinbaseDeposit,
+    }
+
+    def __init__(self, tracer: PageTracer, **_: Any):
+        self.tracer = tracer
+        self.authenticator = CoinbaseAuthenticator(tracer)
+
+    def run(self, credentials: CoinbaseCredentials, action: str) -> None:
+        if action not in self.ACTIONS:
+            available = ", ".join(self.ACTIONS)
+            raise ValueError(f"Unknown action: {action!r}. Available: {available}")
+
+        state_path = Path(credentials.state_file_path)
+        with self.authenticator.login(state_path, credentials) as page:
+            logger.info("Starting action: {}", action)
+            handler_cls = self.ACTIONS[action]
+            handler = handler_cls(page=page, tracer=self.tracer)
+            handler.run()

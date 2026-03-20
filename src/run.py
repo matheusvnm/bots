@@ -11,10 +11,9 @@ import sys
 import uuid
 from pathlib import Path
 
-from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 
-from components.dtos import KrakenCredentials
+from components.dtos import CoinbaseCredentials, KrakenCredentials
 from components.logger import configure_logging
 from components.trace import PageTracer, TraceContext
 from services.factory import BotFactory
@@ -60,11 +59,21 @@ def run_bot() -> None:
     state_file_path = (
         settings.context_dir / args.bot / "user" / args.user_identifier / "state.json"
     )
-    credentials = KrakenCredentials(
-        email=settings.user_email,
-        password=settings.user_password,
-        device_cookie_path=str(state_file_path),
-    )
+
+    if args.bot == "kraken":
+        credentials = KrakenCredentials(
+            email=settings.user_email,
+            password=settings.user_password,
+            device_cookie_path=str(state_file_path),
+        )
+    elif args.bot == "coinbase":
+        credentials = CoinbaseCredentials(
+            email=settings.user_email,
+            password=settings.user_password,
+            state_file_path=str(state_file_path),
+        )
+    else:
+        raise ValueError(f"No credentials defined for bot: {args.bot!r}")
 
     with logger.contextualize(
         bot=ctx.bot, user_id=ctx.user_id, session_id=ctx.session_id
@@ -73,11 +82,6 @@ def run_bot() -> None:
         try:
             bot.run(credentials, action=args.action)
             logger.info("Session ended successfully")
-        except NoOTPAuthenticatorError as e:
-            logger.error(
-                "Passkey-only 2FA is not supported. "
-                "Please add an authenticator app to your Kraken account and try again."
-            )
         except Exception as e:
             logger.error("Session failed: {}", e)
             raise

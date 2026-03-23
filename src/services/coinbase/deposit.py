@@ -22,34 +22,6 @@ class CoinbaseDeposit:
         self.page = page
         self.tracer = tracer
 
-    # ── Public entry point ────────────────────────────────────────────────────
-
-    def run(self) -> None:
-        self._open_receive_modal()
-
-        assets = self._list_assets()
-        logger.info("Available assets ({} total):", len(assets))
-        for i, ticker in enumerate(assets, 1):
-            print(f"  {i:4d}. {ticker}")
-
-        choice = input("[?] Enter number or ticker: ").strip()
-        ticker = self._resolve_choice(choice, assets)
-        if not ticker:
-            logger.warning("Invalid selection — aborting")
-            return
-
-        self._select_asset(ticker)
-        network = self._handle_network_selection()
-        self._handle_warning()
-        address = self._get_address()
-
-        print("\n── Deposit info ──────────────────────────")
-        print(f"  Asset:   {ticker}")
-        if network:
-            print(f"  Network: {network}")
-        print(f"  Address: {address}")
-        print("──────────────────────────────────────────")
-
     # ── Steps ─────────────────────────────────────────────────────────────────
 
     def _open_receive_modal(self) -> None:
@@ -165,3 +137,29 @@ class CoinbaseDeposit:
         address = self.page.evaluate("navigator.clipboard.readText()")
         logger.info("Address retrieved: {}", address)
         return address
+
+    def run(self) -> None:
+        self._open_receive_modal()
+
+        assets = self._list_assets()
+        logger.info("Available assets ({} total):", len(assets))
+        for i, ticker in enumerate(assets, 1):
+            print(f"  {i:4d}. {ticker}")
+
+        choice = input("[?] Enter number or ticker: ").strip()
+        ticker = self._resolve_choice(choice, assets)
+        if not ticker:
+            logger.warning("Invalid selection — aborting")
+            return
+
+        self._select_asset(ticker)
+        network = self._handle_network_selection()
+        self._handle_warning()
+        address = self._get_address()
+
+        print("\n── Deposit info ──────────────────────────")
+        print(f"  Asset:   {ticker}")
+        if network:
+            print(f"  Network: {network}")
+        print(f"  Address: {address}")
+        print("──────────────────────────────────────────")

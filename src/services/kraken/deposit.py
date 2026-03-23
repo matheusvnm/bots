@@ -125,7 +125,7 @@ class KrakenDeposit:
 
         return None
 
-    def run(self, **_) -> None:
+    def run(self) -> None:
         """
         Deposit flow:
           1. Open modal and intercept asset list from the browser's API call.

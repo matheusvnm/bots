@@ -1,12 +1,13 @@
 from dataclasses import asdict, dataclass, field
 from decimal import Decimal
+from pathlib import Path
 
 
 @dataclass
-class KrakenCredentials:
+class Credentials:
     email: str
     password: str
-    device_cookie_path: str
+    state_file_path: Path
 
 
 @dataclass
@@ -72,10 +73,3 @@ class CryptoAsset:
 
     def __str__(self):
         return f"{self.name} ({self.asset})"
-
-
-@dataclass
-class CoinbaseCredentials:
-    email: str
-    password: str
-    state_file_path: str

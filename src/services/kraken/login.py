@@ -9,7 +9,7 @@ from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 from patchright.sync_api import Page, sync_playwright
 
-from components.dtos import KrakenCredentials
+from components.dtos import Credentials
 from components.network import attach_network_logger
 from components.trace import PageTracer
 from components.utils import wait_for_url
@@ -37,11 +37,13 @@ class KrakenAuthenticator:
                 state_file_path,
             )
             state_file_path.parent.mkdir(parents=True, exist_ok=True)
+            state_file_path.touch(exist_ok=True)
+            state_file_path.write_text("{}")
 
         with sync_playwright() as p:
             browser = p.chromium.launch(
                 channel="chrome",
-                headless=True,
+                headless=False,
                 args=[
                     "--disable-blink-features=AutomationControlled",
                     "--disable-infobars",
@@ -195,7 +197,7 @@ class KrakenAuthenticator:
         except Exception:
             pass
 
-    def _first_login(self, page: Page, credentials: KrakenCredentials) -> Page:
+    def _first_login(self, page: Page, credentials: Credentials) -> Page:
         """Normal login — device-approval expected. Returns page on dashboard."""
         logger.info("First login — no state.json found")
         logger.info(
@@ -259,7 +261,7 @@ class KrakenAuthenticator:
             self.tracer.save(page, "session_check_failed")
             return False
 
-    def _device_checked_login(self, page: Page, credentials: KrakenCredentials) -> Page:
+    def _device_checked_login(self, page: Page, credentials: Credentials) -> Page:
         """Re-authenticate — device-approval should not trigger (stored state is used)."""
         logger.info("Re-authenticating with dev-cookie bypass")
 
@@ -293,9 +295,9 @@ class KrakenAuthenticator:
 
     @contextmanager
     def login(
-        self, state_path: Path, credentials: KrakenCredentials
+        self, credentials: Credentials
     ) -> Generator[tuple[Page, KrakenInterceptor]]:
-        with self.with_browser(state_path) as (context, first_login):
+        with self.with_browser(credentials.state_file_path) as (context, first_login):
             page = context.new_page()
 
             interceptor = KrakenInterceptor()

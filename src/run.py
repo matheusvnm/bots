@@ -13,9 +13,10 @@ from pathlib import Path
 
 from loguru import logger
 
-from components.dtos import CoinbaseCredentials, KrakenCredentials
+from components.dtos import Credentials, Credentials
 from components.logger import configure_logging
 from components.trace import PageTracer, TraceContext
+from services.bots import AbstractBot
 from services.factory import BotFactory
 from settings import Settings
 
@@ -54,33 +55,24 @@ def run_bot() -> None:
     )
 
     tracer = PageTracer(ctx=ctx)
-    bot = BotFactory.create(args.bot, tracer=tracer)
+    bot = BotFactory.create(bot_name=args.bot, tracer=tracer)
 
     state_file_path = (
         settings.context_dir / args.bot / "user" / args.user_identifier / "state.json"
     )
 
-    if args.bot == "kraken":
-        credentials = KrakenCredentials(
-            email=settings.user_email,
-            password=settings.user_password,
-            device_cookie_path=str(state_file_path),
-        )
-    elif args.bot == "coinbase":
-        credentials = CoinbaseCredentials(
-            email=settings.user_email,
-            password=settings.user_password,
-            state_file_path=str(state_file_path),
-        )
-    else:
-        raise ValueError(f"No credentials defined for bot: {args.bot!r}")
+    credentials = Credentials(
+        email=settings.user_email,
+        password=settings.user_password,
+        state_file_path=state_file_path,
+    )
 
     with logger.contextualize(
         bot=ctx.bot, user_id=ctx.user_id, session_id=ctx.session_id
     ):
-        logger.info("Session started  session_id={}", session_id)
+        logger.info("Session started session")
         try:
-            bot.run(credentials, action=args.action)
+            bot.run(action=args.action, credentials=credentials)
             logger.info("Session ended successfully")
         except Exception as e:
             logger.error("Session failed: {}", e)

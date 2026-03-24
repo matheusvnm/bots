@@ -9,7 +9,7 @@ address for that network or generates a new one.
 import requests
 from loguru import logger
 
-from services.coinbase_api.client import CoinbaseApiClient
+from services.coinbase.api.client import CoinbaseApiClient
 
 
 class CoinbaseApiDeposit:

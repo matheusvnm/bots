@@ -1,17 +1,9 @@
-"""
-Coinbase API credential store.
-
-Loads, saves, and validates CDP API credentials on disk.
-Triggers browser-based key provisioning when credentials are
-missing or invalid.
-"""
-
 import json
 from pathlib import Path
 
 from loguru import logger
 
-from services.coinbase_api.client import CoinbaseApiClient
+from services.coinbase.api.client import CoinbaseApiClient
 
 
 class CoinbaseApiCredentialStore:
@@ -84,11 +76,10 @@ class CoinbaseApiCredentialStore:
         Returns:
             (api_key, api_secret) ready to use.
         """
-        from services.coinbase_api.key_provisioner import (
+        from services.coinbase.api.key_provisioner import (
             CoinbaseApiKeyProvisioner,
         )
 
-        # 1. Try loading from disk
         stored = self.load()
         if stored:
             api_key, api_secret = stored
@@ -97,8 +88,7 @@ class CoinbaseApiCredentialStore:
                 logger.info("Stored API key is valid")
                 return api_key, api_secret
 
-            # Key exists on disk but failed validation —
-            # it may have been disabled on the Coinbase side.
+
             logger.warning("Stored API key is invalid — attempting to re-enable...")
             provisioner = CoinbaseApiKeyProvisioner(tracer=tracer)
             reenabled = provisioner.try_reenable(credentials, api_key)
@@ -110,20 +100,13 @@ class CoinbaseApiCredentialStore:
                 "Re-enable failed or key still invalid — will create a new key"
             )
 
-        # 2. Ask user for permission
-        if stored:
-            prompt = "[?] API key is invalid/expired. Generate a new one? (y/n): "
-        else:
-            prompt = "[?] No API key found. Generate one via browser? (y/n): "
-
+        prompt = "[?] No API valid key found. Generate (or Reactivate) one via browser? (y/n): "
         answer = input(prompt).strip().lower()
         if answer not in ("y", "yes"):
             raise RuntimeError("Cannot proceed without valid API credentials")
 
-        # 3. Provision a new key via browser
         provisioner = CoinbaseApiKeyProvisioner(tracer=tracer)
         api_key, api_secret = provisioner.provision(credentials)
 
-        # 4. Persist and return
         self.save(api_key, api_secret)
         return api_key, api_secret

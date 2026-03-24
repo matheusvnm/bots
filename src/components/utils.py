@@ -1,6 +1,25 @@
+import random
 from urllib.parse import parse_qs, urlparse
 
+from loguru import logger
 from patchright.sync_api import Page
+
+
+def human_delay(
+    page: Page,
+    low: float = 1.0,
+    high: float = 3.0,
+) -> None:
+    """Wait a random duration to mimic human pacing.
+
+    Args:
+        page: Playwright page (used for its wait_for_timeout).
+        low:  Minimum delay in seconds.
+        high: Maximum delay in seconds.
+    """
+    ms = int(random.uniform(low, high) * 1000)
+    logger.debug("Human delay: {}ms", ms)
+    page.wait_for_timeout(ms)
 
 
 def wait_for_url(page: Page, expected_urls: list[str], timeout: int = 60000) -> bool:

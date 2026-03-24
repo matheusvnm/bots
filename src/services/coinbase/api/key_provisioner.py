@@ -1,24 +1,12 @@
-"""
-Browser-based CDP API key provisioner.
-
-Automates key creation through the Coinbase web UI at
-/settings/api, handling the create modal, permission
-selection, TOTP verification, and credential extraction.
-
-Also supports re-enabling a previously disabled key.
-"""
-
-import time
-
 from loguru import logger
 from patchright.sync_api import Page
 
 from components.dtos import Credentials
 from components.trace import PageTracer
+from components.utils import human_delay
 from services.coinbase.constants import CoinbasePages
 from services.coinbase.login import CoinbaseAuthenticator
 
-# Prefix for generated key names.
 _KEY_PREFIX = "ZEROHASH_API_KEY"
 
 
@@ -28,10 +16,6 @@ class CoinbaseApiKeyProvisioner:
     def __init__(self, tracer: PageTracer):
         self.tracer = tracer
         self._auth = CoinbaseAuthenticator(tracer)
-
-    # ----------------------------------------------------------
-    # Public API
-    # ----------------------------------------------------------
 
     def provision(self, credentials: Credentials) -> tuple[str, str]:
         """Log in and create a new API key.
@@ -56,24 +40,19 @@ class CoinbaseApiKeyProvisioner:
         with self._auth.login(credentials) as page:
             return self._reenable_key(page, api_key)
 
-    # ----------------------------------------------------------
-    # Re-enable an existing key
-    # ----------------------------------------------------------
-
     def _reenable_key(self, page: Page, api_key: str) -> bool:
         """Find *api_key* in the table and flip its toggle on."""
         page.goto(
             CoinbasePages.SETTINGS_API,
             wait_until="domcontentloaded",
         )
+        human_delay(page, 2.0, 4.0)
         page.wait_for_selector(
             '[data-testid="api-keys-management-screen"]',
             timeout=30000,
         )
         self.tracer.save(page, "reenable_management_page")
 
-        # Extract the short key-id suffix shown in the table
-        # (e.g. "62b8…0044" from "organizations/…/apiKeys/62b8…")
         short_id = api_key.rsplit("/", 1)[-1][:4]
 
         # Walk every toggle row
@@ -109,10 +88,6 @@ class CoinbaseApiKeyProvisioner:
         logger.warning("Could not find key {} in the table", short_id)
         return False
 
-    # ----------------------------------------------------------
-    # Create a new key
-    # ----------------------------------------------------------
-
     def _create_api_key(self, page: Page) -> tuple[str, str]:
         # 1. Navigate to API key management page
         logger.info("Navigating to API key management page...")
@@ -120,41 +95,39 @@ class CoinbaseApiKeyProvisioner:
             CoinbasePages.SETTINGS_API,
             wait_until="domcontentloaded",
         )
+        human_delay(page, 2.0, 4.0)
         page.wait_for_selector(
             '[data-testid="api-keys-management-screen"]',
             timeout=30000,
         )
         self.tracer.save(page, "api_management_page")
 
-        # 2. Click "Criar chave API" / "Create API Key"
         logger.info("Opening create-key modal...")
+        human_delay(page)
         page.click('[data-testid="cloud-keys-create-cta"]')
         page.wait_for_selector('[data-testid="cloud-create-modal"]', timeout=15000)
         self.tracer.save(page, "create_modal_open")
+        human_delay(page)
 
-        # 3. Fill key name (timestamp suffix avoids duplicates)
-        ts = int(time.time())
-        key_name = f"{_KEY_PREFIX}_{ts}"
-        logger.info("Filling key name: {}", key_name)
-        page.fill('[data-testid="create-step-name-input"]', key_name)
+        logger.info("Filling key name: {}", _KEY_PREFIX)
+        page.fill('[data-testid="create-step-name-input"]', _KEY_PREFIX)
+        human_delay(page, 0.5, 1.5)
 
-        # 4. Select portfolio (custom dropdown — submit button
-        #    stays disabled until a portfolio is chosen).
         modal = page.locator('[data-testid="cloud-create-modal"]')
         logger.info("Selecting portfolio...")
         modal.locator('button[aria-haspopup="listbox"]').click()
-        page.wait_for_timeout(500)
+        human_delay(page, 0.5, 1.0)
         page.locator('[role="option"]').first.click()
         self.tracer.save(page, "portfolio_selected")
+        human_delay(page, 0.5, 1.5)
 
-        # 5. Check "Transfer" permission (View is pre-checked)
         transfer = modal.locator("text=Transfer (initiate transfer of funds)")
         if transfer.is_visible():
             transfer.click()
             logger.info("Transfer permission enabled")
         self.tracer.save(page, "permissions_set")
+        human_delay(page)
 
-        # 6. Wait for submit button to become enabled, click.
         logger.info("Submitting key creation...")
         submit = modal.locator('button[data-variant="primary"]').last
         submit.wait_for(state="attached", timeout=5000)
@@ -171,15 +144,9 @@ class CoinbaseApiKeyProvisioner:
         )
         submit.click()
 
-        # 7. Handle 2FA prompt
         self._handle_2fa(page)
 
-        # 8. Wait for success screen and extract credentials
         return self._extract_credentials(page)
-
-    # ----------------------------------------------------------
-    # 2FA helpers
-    # ----------------------------------------------------------
 
     def _handle_2fa(self, page: Page) -> None:
         """Walk through the two-factor verification screens."""
@@ -191,16 +158,16 @@ class CoinbaseApiKeyProvisioner:
             timeout=30000,
         )
         self.tracer.save(page, "2fa_prompt")
+        human_delay(page)
 
-        # "Concluir autenticacao de dois fatores" button
         if page.locator('[data-testid="step-twoFactorDetails-active"]').is_visible():
             logger.info("Clicking 'Complete 2FA' button...")
+            human_delay(page, 0.5, 1.5)
             page.locator(
                 '[data-testid="step-twoFactorDetails-active"] '
                 "button[data-variant='primary']"
             ).click()
 
-        # Passkey / method selection screen
         page.wait_for_selector(
             '[data-testid="two-factor-button-TOTP"], '
             '[data-testid="code-inputs-container"]',
@@ -210,9 +177,9 @@ class CoinbaseApiKeyProvisioner:
 
         if page.locator('[data-testid="two-factor-button-TOTP"]').is_visible():
             logger.info("Selecting TOTP method")
+            human_delay(page, 0.5, 1.5)
             page.click('[data-testid="two-factor-button-TOTP"]')
 
-        # TOTP 6-digit code input
         page.wait_for_selector(
             '[data-testid="code-inputs-container"]',
             timeout=30000,
@@ -228,10 +195,7 @@ class CoinbaseApiKeyProvisioner:
 
         logger.info("TOTP submitted — waiting for key generation...")
         self.tracer.save(page, "totp_submitted")
-
-    # ----------------------------------------------------------
-    # Credential extraction
-    # ----------------------------------------------------------
+        human_delay(page, 2.0, 4.0)
 
     def _extract_credentials(self, page: Page) -> tuple[str, str]:
         """Read the API key name and PEM from the success modal."""
@@ -252,10 +216,8 @@ class CoinbaseApiKeyProvisioner:
             .inner_text()
             .strip()
         )
-        # The HTML renders literal "\n" — convert to real newlines.
         api_secret = raw_secret.replace("\\n", "\n")
 
-        # Dismiss the modal ("Salvei a minha chave privada")
         success.locator("button[data-variant='primary']").click()
         page.wait_for_timeout(1000)
         self.tracer.save(page, "key_modal_dismissed")

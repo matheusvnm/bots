@@ -2,7 +2,7 @@ from loguru import logger
 from patchright.sync_api import Page
 
 from components.trace import PageTracer
-from services.kraken.interceptors import KrakenInterceptor
+from services.kraken.browser.interceptors import KrakenInterceptor
 
 
 class KrakenWithdraw:

@@ -5,17 +5,17 @@ from typing import Any
 from components.dtos import Credentials, Credentials
 from loguru import logger
 from components.trace import PageTracer
-from services.coinbase.balance import CoinbaseBalance
-from services.coinbase.deposit import CoinbaseDeposit
+from services.coinbase.browser.balance import CoinbaseBalance
+from services.coinbase.browser.deposit import CoinbaseDeposit
 from services.coinbase.login import CoinbaseAuthenticator
-from services.coinbase.withdraw import CoinbaseWithdraw
-from services.coinbase_api.balance import CoinbaseApiBalance
-from services.coinbase_api.client import CoinbaseApiClient
-from services.coinbase_api.deposit import CoinbaseApiDeposit
-from services.coinbase_api.withdraw import CoinbaseApiWithdraw
-from services.kraken.deposit import KrakenDeposit
+from services.coinbase.browser.withdraw import CoinbaseWithdraw
+from services.coinbase.api.balance import CoinbaseApiBalance
+from services.coinbase.api.client import CoinbaseApiClient
+from services.coinbase.api.deposit import CoinbaseApiDeposit
+from services.coinbase.api.withdraw import CoinbaseApiWithdraw
+from services.kraken.browser.deposit import KrakenDeposit
 from services.kraken.login import KrakenAuthenticator
-from services.kraken.withdraw import KrakenWithdraw
+from services.kraken.browser.withdraw import KrakenWithdraw
 
 
 type KrakenAction = KrakenDeposit | KrakenWithdraw
@@ -101,7 +101,7 @@ class CoinbaseApiBot(AbstractBot):
             raise ValueError(f"Unknown action: {action!r}. Available: {available}")
 
         # Resolve API credentials (load from disk or provision via browser)
-        from services.coinbase_api.credentials import CoinbaseApiCredentialStore
+        from services.coinbase.api.credentials import CoinbaseApiCredentialStore
 
         cred_dir = credentials.state_file_path.parent
         store = CoinbaseApiCredentialStore(base_dir=cred_dir)

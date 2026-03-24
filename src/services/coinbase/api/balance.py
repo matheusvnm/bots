@@ -7,7 +7,7 @@ filtering out fiat currencies.
 
 from loguru import logger
 
-from services.coinbase_api.client import CoinbaseApiClient
+from services.coinbase.api.client import CoinbaseApiClient
 
 
 class CoinbaseApiBalance:

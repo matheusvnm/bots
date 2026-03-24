@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Generator
 from urllib.parse import urlparse
 
-from services.kraken.interceptors import KrakenInterceptor
+from services.kraken.browser.interceptors import KrakenInterceptor
 from services.kraken.exceptions import NoOTPAuthenticatorError
 from loguru import logger
 from patchright.sync_api import Page, sync_playwright

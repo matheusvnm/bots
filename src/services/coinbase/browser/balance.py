@@ -4,6 +4,7 @@ from loguru import logger
 from patchright.sync_api import Page
 
 from components.trace import PageTracer
+from components.utils import human_delay
 from services.coinbase.constants import CoinbasePages
 
 _SYMBOL_TO_CODE: dict[str, str] = {
@@ -88,6 +89,7 @@ class CoinbaseBalance:
         """Navigate to /crypto and scrape all held crypto asset rows."""
         logger.info("Navigating to crypto page...")
         self.page.goto(CoinbasePages.CRYPTO, wait_until="domcontentloaded")
+        human_delay(self.page, 2.0, 4.0)
         self.page.locator('[data-testid="crypto-balance-header"]').wait_for(
             timeout=15000
         )
@@ -143,9 +145,11 @@ class CoinbaseBalance:
         """
         logger.info("Navigating to dashboard for cash page access...")
         self.page.goto(CoinbasePages.DASHBOARD, wait_until="domcontentloaded")
+        human_delay(self.page, 2.0, 4.0)
         self.page.locator('[data-testid="balance-breakdown"]').wait_for(timeout=15000)
 
         logger.info("Clicking into cash sub-page...")
+        human_delay(self.page)
         self.page.locator('[data-testid="cash-balance-cell-cell-pressable"]').click()
         self.page.locator('[data-testid="cash-balance-header"]').wait_for(timeout=15000)
         self.tracer.save(self.page, "cash_page")
@@ -209,6 +213,7 @@ class CoinbaseBalance:
         logger.info("Fetching native quantity for {} at {}", ticker, url)
 
         self.page.goto(url, wait_until="domcontentloaded")
+        human_delay(self.page, 1.5, 3.0)
         self.page.locator('[data-testid="adp-total-balance"]').wait_for(timeout=15000)
         self.tracer.save(self.page, f"asset_detail_{slug}")
 

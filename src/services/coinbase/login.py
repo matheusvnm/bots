@@ -11,7 +11,7 @@ from patchright.sync_api import BrowserContext, Page, sync_playwright
 from components.dtos import Credentials
 from components.network import attach_network_logger
 from components.trace import PageTracer
-from components.utils import wait_for_url
+from components.utils import human_delay, wait_for_url
 from services.coinbase.constants import CoinbasePages
 
 
@@ -87,9 +87,11 @@ class CoinbaseAuthenticator:
 
         page.fill('[data-testid="email-input"]', email)
         self.tracer.save(page, "email_filled")
+        human_delay(page)
 
         page.click('[data-testid="email-submit-button"]')
         logger.info("Email submitted")
+        human_delay(page)
 
     def _submit_password(self, page: Page, password: str) -> None:
         logger.info("Waiting for auth method screen...")
@@ -114,6 +116,7 @@ class CoinbaseAuthenticator:
         page.wait_for_selector('[data-testid="password-input"]', timeout=30000)
         page.fill('[data-testid="password-input"]', password)
         self.tracer.save(page, "password_filled")
+        human_delay(page)
 
         page.click('[data-testid="password-submit-button"]')
 
@@ -121,6 +124,7 @@ class CoinbaseAuthenticator:
             '[data-testid="password-input"]', state="hidden", timeout=15000
         )
         logger.info("Password submitted — form transitioned")
+        human_delay(page)
 
     def _select_2fa_method(self, page: Page) -> None:
         """After password, Coinbase shows the passkey screen again as 2FA.
@@ -144,11 +148,13 @@ class CoinbaseAuthenticator:
         self.tracer.save(page, "2fa_method_selection")
         if page.locator('[data-testid="two-factor-button-TOTP"]').is_visible():
             logger.info("Selecting TOTP method")
+            human_delay(page, 0.5, 1.5)
             page.click('[data-testid="two-factor-button-TOTP"]')
             return
 
         if page.locator('[data-testid="two-factor-button-SMS"]').is_visible():
             logger.info("TOTP not available — selecting SMS method")
+            human_delay(page, 0.5, 1.5)
             page.click('[data-testid="two-factor-button-SMS"]')
             return
 
@@ -252,6 +258,7 @@ class CoinbaseAuthenticator:
 
     def _do_login(self, page: Page, credentials: Credentials) -> None:
         page.goto(CoinbasePages.SIGNIN)
+        human_delay(page, 2.0, 4.0)
 
         self._submit_email(page, credentials.email)
         self._submit_password(page, credentials.password)

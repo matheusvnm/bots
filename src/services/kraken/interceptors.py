@@ -133,13 +133,15 @@ class _NetworkInterceptor:
 
         logger.info(f"The methods were captured: {response.url}")
         try:
-            existing_networks = set(existing_network.name for existing_network in self._networks[asset])
+            existing_networks = set(
+                existing_network.name for existing_network in self._networks[asset]
+            )
             methods = response.json().get("result", [])
             for method in methods:
                 network_info = method["deposit_network_info"]
                 name = network_info.get("network")
                 if name in existing_networks:
-                    continue  
+                    continue
 
                 fee = None
                 if method.get("fee") or method.get("fee_percentage"):
@@ -181,7 +183,9 @@ class _NetworkAddressesInterceptor:
     """Captures the for deposit/withdraw response that has information about addresses."""
 
     def __init__(self):
-        self._addresses: dict[str, dict[str, list[CryptoNetworkAddress]]] = defaultdict(lambda: defaultdict(list))
+        self._addresses: dict[str, dict[str, list[CryptoNetworkAddress]]] = defaultdict(
+            lambda: defaultdict(list)
+        )
 
     def __call__(self, response: Response) -> None:
         if "deposits/addresses" not in response.url:
@@ -196,18 +200,28 @@ class _NetworkAddressesInterceptor:
 
         logger.info(f"The methods were captured: {response.url}")
         try:
-            existing_addresses = set((address.address, address.tag,) for address in self._addresses[asset][network])
-
+            existing_addresses = set(
+                (
+                    address.address,
+                    address.tag,
+                )
+                for address in self._addresses[asset][network]
+            )
 
             addresses_info = response.json().get("result", [])
             for address_info in addresses_info:
                 address = address_info.get("address")
                 tag = address_info.get("tag")
 
-                if (address, tag,) in existing_addresses:
+                if (
+                    address,
+                    tag,
+                ) in existing_addresses:
                     continue
 
-                crypto_address = CryptoNetworkAddress(address=address_info.get("address"), tag=address_info.get("tag"))
+                crypto_address = CryptoNetworkAddress(
+                    address=address_info.get("address"), tag=address_info.get("tag")
+                )
                 self._addresses[asset][network].append(crypto_address)
 
             logger.info(f"We processed {len(self._addresses)} network addresses")
@@ -252,7 +266,7 @@ class KrakenInterceptor:
         for item in raw_assets:
             name = item["name"]
             asset = item["asset"]
-            
+
             crypto_asset = CryptoAsset(
                 name=name,
                 asset=asset,

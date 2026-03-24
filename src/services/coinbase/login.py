@@ -1,3 +1,4 @@
+import json
 import re
 from contextlib import contextmanager
 from pathlib import Path
@@ -22,7 +23,13 @@ class CoinbaseAuthenticator:
     def with_browser(self, state_file_path: Path) -> Generator[BrowserContext]:
         state_file_path.parent.mkdir(parents=True, exist_ok=True)
         state_file_path.touch(exist_ok=True)
-        state_file_path.write_text("{}")
+        with open(state_file_path) as fs:
+            try:
+                data = json.load(fs)
+                if not data:
+                    state_file_path.write_text("{}")
+            except:
+                state_file_path.write_text("{}")
 
         with sync_playwright() as p:
             browser = p.chromium.launch(
@@ -46,7 +53,7 @@ class CoinbaseAuthenticator:
                 locale="en-US",
                 timezone_id="America/New_York",
                 permissions=["clipboard-read", "clipboard-write"],
-                storage_state=str(state_file_path)
+                storage_state=str(state_file_path),
             )
 
             try:
@@ -65,7 +72,9 @@ class CoinbaseAuthenticator:
             logger.debug("[NAV] {}", frame.url)
             try:
                 parsed = urlparse(frame.url)
-                slug = re.sub(r"[^\w]+", "_", f"{parsed.netloc}{parsed.path}").strip("_")[:60]
+                slug = re.sub(r"[^\w]+", "_", f"{parsed.netloc}{parsed.path}").strip(
+                    "_"
+                )[:60]
                 self.tracer.save(page, f"nav_{slug}")
             except Exception:
                 pass
@@ -82,7 +91,6 @@ class CoinbaseAuthenticator:
         page.click('[data-testid="email-submit-button"]')
         logger.info("Email submitted")
 
-
     def _submit_password(self, page: Page, password: str) -> None:
         logger.info("Waiting for auth method screen...")
 
@@ -94,7 +102,7 @@ class CoinbaseAuthenticator:
         if page.locator('[data-testid="password-input"]').is_visible():
             logger.debug("Password input already visible — passkey screen skipped")
             return
-        
+
         logger.info("Passkey screen detected — selecting password method")
         self.tracer.save(page, "passkey_screen")
 
@@ -109,7 +117,9 @@ class CoinbaseAuthenticator:
 
         page.click('[data-testid="password-submit-button"]')
 
-        page.wait_for_selector('[data-testid="password-input"]', state="hidden", timeout=15000)
+        page.wait_for_selector(
+            '[data-testid="password-input"]', state="hidden", timeout=15000
+        )
         logger.info("Password submitted — form transitioned")
 
     def _select_2fa_method(self, page: Page) -> None:
@@ -140,7 +150,7 @@ class CoinbaseAuthenticator:
         if page.locator('[data-testid="two-factor-button-SMS"]').is_visible():
             logger.info("TOTP not available — selecting SMS method")
             page.click('[data-testid="two-factor-button-SMS"]')
-            return 
+            return
 
         raise RuntimeError("No supported 2FA method found (expected TOTP or SMS)")
 
@@ -151,7 +161,9 @@ class CoinbaseAuthenticator:
         def past_totp_screen() -> bool:
             return (
                 page.url.startswith(CoinbasePages.DASHBOARD)
-                or page.locator('[data-testid="standard-device-verification-confirmation"]').is_visible()
+                or page.locator(
+                    '[data-testid="standard-device-verification-confirmation"]'
+                ).is_visible()
             )
 
         for attempt in range(1, max_retries + 1):
@@ -206,7 +218,9 @@ class CoinbaseAuthenticator:
 
     def _wait_for_device_verification(self, page: Page) -> None:
         """On first login Coinbase may require device verification via email link."""
-        if not page.locator('[data-testid="standard-device-verification-confirmation"]').is_visible():
+        if not page.locator(
+            '[data-testid="standard-device-verification-confirmation"]'
+        ).is_visible():
             return
 
         logger.info("Device verification required: Please, check your email.")
@@ -215,18 +229,20 @@ class CoinbaseAuthenticator:
         if not wait_for_url(page, [CoinbasePages.DASHBOARD], timeout=300000):
             self.tracer.save(page, "fail_device_verification_timeout")
             raise TimeoutError("Device verification timeout.")
-        
+
         logger.info("Device verification complete")
 
     def _session_valid(self, page: Page) -> bool:
         logger.info("Checking session — navigating to dashboard...")
         try:
-            page.goto(CoinbasePages.DASHBOARD, wait_until="domcontentloaded", timeout=30000)
+            page.goto(
+                CoinbasePages.DASHBOARD, wait_until="domcontentloaded", timeout=30000
+            )
             page.wait_for_timeout(3000)
             self.tracer.save(page, "session_check")
-    
+
             valid = page.url.startswith(CoinbasePages.DASHBOARD)
-            logger.info("Session valid? %s as we are on %s", valid, page.url)
+            logger.info("Session valid? {} as we are on {}", valid, page.url)
             return valid
 
         except Exception as e:
@@ -252,18 +268,15 @@ class CoinbaseAuthenticator:
         logger.info("Login successful — dashboard reached")
 
     def _create_supressed_webauth_page(self, browser_context: BrowserContext) -> Page:
-        """" Creates a page with supressed native WebAuthn OS dialog via CDP """
+        """ " Creates a page with supressed native WebAuthn OS dialog via CDP"""
         page = browser_context.new_page()
         cdp = browser_context.new_cdp_session(page)
         cdp.send("WebAuthn.enable", {"enableUI": False})
         self._attach_page_hooks(page)
         return page
 
-
     @contextmanager
-    def login(
-        self, credentials: Credentials
-    ) -> Generator[Page, None, None]:
+    def login(self, credentials: Credentials) -> Generator[Page, None, None]:
         with self.with_browser(credentials.state_file_path) as context:
             page = self._create_supressed_webauth_page(context)
 

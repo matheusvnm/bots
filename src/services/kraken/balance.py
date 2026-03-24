@@ -5,7 +5,7 @@ from components.trace import PageTracer
 from services.kraken.interceptors import KrakenInterceptor
 
 
-class KrakenWithdraw:
+class KrakenBalance:
     def __init__(
         self, page: Page, tracer: PageTracer, interceptor: KrakenInterceptor, **_
     ):

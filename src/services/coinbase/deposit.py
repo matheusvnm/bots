@@ -22,8 +22,6 @@ class CoinbaseDeposit:
         self.page = page
         self.tracer = tracer
 
-    # ── Steps ─────────────────────────────────────────────────────────────────
-
     def _open_receive_modal(self) -> None:
         logger.info("Opening receive modal...")
         self.page.click('[data-testid="quick-action-receive"]')
@@ -39,7 +37,9 @@ class CoinbaseDeposit:
         tickers = []
         for i in range(cells.count()):
             testid = cells.nth(i).get_attribute("data-testid") or ""
-            ticker = testid.removeprefix("ReceiveAssetSelectorCell-").removesuffix("-cell-pressable")
+            ticker = testid.removeprefix("ReceiveAssetSelectorCell-").removesuffix(
+                "-cell-pressable"
+            )
             if ticker:
                 tickers.append(ticker)
         return tickers
@@ -55,7 +55,9 @@ class CoinbaseDeposit:
         logger.info("Selecting asset {}...", ticker)
         self.page.fill('[data-testid="search-input"]', ticker)
         self.page.wait_for_timeout(500)
-        self.page.click(f'[data-testid="ReceiveAssetSelectorCell-{ticker}-cell-pressable"]')
+        self.page.click(
+            f'[data-testid="ReceiveAssetSelectorCell-{ticker}-cell-pressable"]'
+        )
         self.tracer.save(self.page, f"asset_selected_{ticker}")
         logger.info("Asset {} selected", ticker)
 
@@ -67,22 +69,21 @@ class CoinbaseDeposit:
             '[data-testid="network-warning-step-understand"]',
             timeout=15000,
         )
-        if not self.page.locator('[data-testid="step-networkSelection-active"]').is_visible():
+        if not self.page.locator(
+            '[data-testid="step-networkSelection-active"]'
+        ).is_visible():
             return None  # Single network — auto-selected
 
         logger.info("Network selection required — waiting for list to load...")
 
         # Network items have data-testid="{name}-network" (e.g. "bitcoin-network").
         # Wait until at least one appears (skeleton shows "Loading" spans while loading).
-        self.page.wait_for_selector(
-            '[data-testid$="-network"]', timeout=15000
-        )
+        self.page.wait_for_selector('[data-testid$="-network"]', timeout=15000)
         self.tracer.save(self.page, "network_selection")
 
         items = self.page.locator('[data-testid$="-network"]')
         networks: list[tuple[str, int]] = []
         for i in range(items.count()):
-            # inner_text returns "Bitcoin\nPadrão\ncerca de 27 minutos" — first line is the name
             name = items.nth(i).inner_text().strip().splitlines()[0]
             if name:
                 networks.append((name, i))

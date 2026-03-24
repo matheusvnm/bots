@@ -5,6 +5,7 @@ from typing import Any
 from components.dtos import Credentials, Credentials
 from loguru import logger
 from components.trace import PageTracer
+from services.coinbase.balance import CoinbaseBalance
 from services.coinbase.deposit import CoinbaseDeposit
 from services.coinbase.login import CoinbaseAuthenticator
 from services.coinbase.withdraw import CoinbaseWithdraw
@@ -13,11 +14,11 @@ from services.kraken.login import KrakenAuthenticator
 from services.kraken.withdraw import KrakenWithdraw
 
 
-type KrakenAction = KrakenDeposit | KrakenWithdraw 
-type CoinbaseAction = CoinbaseDeposit
+type KrakenAction = KrakenDeposit | KrakenWithdraw
+type CoinbaseAction = CoinbaseBalance | CoinbaseDeposit | CoinbaseWithdraw
+
 
 class AbstractBot(ABC):
-
     @abstractmethod
     def run(self, action: str, credentials: Credentials):
         pass
@@ -44,14 +45,17 @@ class KrakenBot(AbstractBot):
         ):
             logger.info("Starting action: {}", action)
             handler_cls = self.ACTIONS[action]
-            handler = handler_cls(page=page, tracer=self.tracer, interceptor=interceptor)
+            handler = handler_cls(
+                page=page, tracer=self.tracer, interceptor=interceptor
+            )
             handler.run()
 
 
 class CoinbaseBot(AbstractBot):
     ACTIONS: dict[str, CoinbaseAction] = {
+        "balance": CoinbaseBalance,
         "deposit": CoinbaseDeposit,
-        "withdraw": CoinbaseWithdraw
+        "withdraw": CoinbaseWithdraw,
     }
 
     def __init__(self, tracer: PageTracer, **_: Any):

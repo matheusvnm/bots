@@ -35,6 +35,7 @@ class CryptoNetwork:
     def __post_init__(self):
         self.sort_index = self.sort_weight
 
+
 @dataclass
 class CryptoBalance:
     value: Decimal
@@ -42,6 +43,7 @@ class CryptoBalance:
 
     def __str__(self):
         return f"{self.value}: {self.usd_value} USD"
+
 
 @dataclass(init=False)
 class CryptoAsset:

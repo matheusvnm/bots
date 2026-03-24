@@ -37,7 +37,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--action",
         required=True,
-        choices=["deposit", "withdraw"],
+        choices=["deposit", "withdraw", "balance"],
         help="Action to perform after login",
     )
     return parser.parse_args()

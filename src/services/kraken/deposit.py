@@ -7,7 +7,9 @@ from services.kraken.interceptors import KrakenInterceptor
 
 
 class KrakenDeposit:
-    def __init__(self, page: Page, tracer: PageTracer, interceptor: KrakenInterceptor, **_):
+    def __init__(
+        self, page: Page, tracer: PageTracer, interceptor: KrakenInterceptor, **_
+    ):
         self.page = page
         self.tracer = tracer
         self.interceptor = interceptor
@@ -51,11 +53,11 @@ class KrakenDeposit:
         self.page.wait_for_timeout(2000)
         self.tracer.save(self.page, "deposit_modal_open")
 
-    def select_network(self, asset_name:str, asset: str) -> CryptoNetwork:
+    def select_network(self, asset_name: str, asset: str) -> CryptoNetwork:
         networks_to_choose = self._open_network_modal(asset_name, asset)
         if len(networks_to_choose) == 1:
             return networks_to_choose[0]
-        
+
         for i, network in enumerate(networks_to_choose, 1):
             print(f"  {i:4d}. {network.name}")
             print(f"        Required Confirmation:  {network.confirmations}")
@@ -63,7 +65,7 @@ class KrakenDeposit:
 
             if network.minimum_amount is not None:
                 print(f"        Minimum Transaction: {network.minimum_amount}")
-            
+
             if network.maximum_amount is not None:
                 print(f"        Maximum Transaction: {network.maximum_amount}")
 
@@ -71,7 +73,7 @@ class KrakenDeposit:
                 fee = network.fee.fee or network.fee.fee_percentage
                 if network.fee.fee:
                     print(f"        Fee: {network.fee.fee}")
-                
+
                 if network.fee.fee_percentage:
                     print(f"        Fee Percentage: {fee}%")
 
@@ -87,7 +89,7 @@ class KrakenDeposit:
         logger.info(f"Searching for asset {asset_name} in deposit list")
         self._click_on_crypto(asset_name)
         return self.interceptor.networks(asset)
-    
+
     def _click_on_crypto(self, asset_name: str) -> None:
         """Search for the asset in the deposit modal search box, then click it."""
         logger.info(f"Searching for '{asset_name}' in deposit modal")
@@ -95,17 +97,22 @@ class KrakenDeposit:
         search_input.fill(asset_name)
         self.page.wait_for_timeout(1000)
 
-        el = self.page.locator(".text-ds-primary.text-left").filter(has_text=asset_name).first
+        el = (
+            self.page.locator(".text-ds-primary.text-left")
+            .filter(has_text=asset_name)
+            .first
+        )
         el.click()
         self.tracer.save(self.page, "deposit_crypto_selected")
         logger.info("Waiting 5s for network modal to load.")
         self.page.wait_for_timeout(5000)
 
-
     def generate_address(self, asset: str, network_name: str) -> None:
         existing_networks = self.interceptor.networks(asset)
         if len(existing_networks) > 1:
-            logger.info(f"{len(existing_networks)} networks detected — selecting '{network_name}'")
+            logger.info(
+                f"{len(existing_networks)} networks detected — selecting '{network_name}'"
+            )
             element = self.page.locator(f'[aria-label="{network_name}"]').first
             element.click()
             self.page.wait_for_timeout(1000)
@@ -133,21 +140,24 @@ class KrakenDeposit:
           3. Ask the user which asset to deposit.
           4. Log the intended action (execution TBD).
         """
-        
-        
+
         selected_asset = self.select_asset()
         if not selected_asset:
             logger.warning("No asset matched — aborting")
-            return 
+            return
 
         logger.info(f"Selected for deposit: {selected_asset}")
-        selected_network = self.select_network(selected_asset.name, selected_asset.asset)
+        selected_network = self.select_network(
+            selected_asset.name, selected_asset.asset
+        )
         if not selected_network:
             logger.warning("No network matched — aborting")
-            return 
+            return
 
         logger.info(f"Selected for deposit: {selected_network.name}")
-        selected_address = self.generate_address(selected_asset.asset, selected_network.name)
+        selected_address = self.generate_address(
+            selected_asset.asset, selected_network.name
+        )
 
         print("Success! You deposit network and adress is the following: ")
         print(f"Asset: {selected_asset.name} ({selected_asset.asset})")

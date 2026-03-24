@@ -53,6 +53,22 @@ kraken-withdraw user="1" refresh="":
     just run kraken withdraw {{user}} {{refresh}}
 
 
+[group('run')]
+[doc('Run coinbase-api balance')]
+cb-balance user="1":
+    just run coinbase-api balance {{user}}
+
+[group('run')]
+[doc('Run coinbase-api deposit')]
+cb-deposit user="1":
+    just run coinbase-api deposit {{user}}
+
+[group('run')]
+[doc('Run coinbase-api withdraw')]
+cb-withdraw user="1":
+    just run coinbase-api withdraw {{user}}
+
+
 # ── Logs ───────────────────────────────────────────────────────────────────
 
 [group('logs')]

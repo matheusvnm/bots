@@ -1,14 +1,3 @@
-"""
-Coinbase balance scraping flow.
-
-Navigates through the dashboard, crypto, and cash pages to collect
-all held asset balances. For cash assets missing native quantities,
-visits the individual asset detail page at /price/<slug>.
-
-Usage:
-    just run coinbase balance --user 001
-"""
-
 import re
 
 from loguru import logger

@@ -55,7 +55,10 @@ def run_bot() -> None:
     )
 
     tracer = PageTracer(ctx=ctx)
-    bot = BotFactory.create(bot_name=args.bot, tracer=tracer)
+    bot = BotFactory.create(
+        bot_name=args.bot,
+        tracer=tracer,
+    )
 
     state_file_path = (
         settings.context_dir / args.bot / "user" / args.user_identifier / "state.json"

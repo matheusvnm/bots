@@ -8,6 +8,9 @@ dependencies = [
     "python-dotenv",
     "camoufox[geoip]",
     "loguru",
+    "pyjwt>=2.12.1",
+    "cryptography>=46.0.5",
+    "requests>=2.32.5",
 ]
 
 [dependency-groups]

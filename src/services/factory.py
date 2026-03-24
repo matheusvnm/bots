@@ -1,12 +1,13 @@
 from typing import Any
 
-from services.bots import AbstractBot, CoinbaseBot, KrakenBot
+from services.bots import AbstractBot, CoinbaseApiBot, CoinbaseBot, KrakenBot
 
 
 class BotFactory:
     _REGISTRY: dict[str, AbstractBot] = {
         "kraken": KrakenBot,
         "coinbase": CoinbaseBot,
+        "coinbase-api": CoinbaseApiBot,
     }
 
     @classmethod

@@ -9,6 +9,10 @@ from services.coinbase.balance import CoinbaseBalance
 from services.coinbase.deposit import CoinbaseDeposit
 from services.coinbase.login import CoinbaseAuthenticator
 from services.coinbase.withdraw import CoinbaseWithdraw
+from services.coinbase_api.balance import CoinbaseApiBalance
+from services.coinbase_api.client import CoinbaseApiClient
+from services.coinbase_api.deposit import CoinbaseApiDeposit
+from services.coinbase_api.withdraw import CoinbaseApiWithdraw
 from services.kraken.deposit import KrakenDeposit
 from services.kraken.login import KrakenAuthenticator
 from services.kraken.withdraw import KrakenWithdraw
@@ -16,6 +20,7 @@ from services.kraken.withdraw import KrakenWithdraw
 
 type KrakenAction = KrakenDeposit | KrakenWithdraw
 type CoinbaseAction = CoinbaseBalance | CoinbaseDeposit | CoinbaseWithdraw
+type CoinbaseApiAction = CoinbaseApiBalance | CoinbaseApiDeposit | CoinbaseApiWithdraw
 
 
 class AbstractBot(ABC):
@@ -72,3 +77,39 @@ class CoinbaseBot(AbstractBot):
             handler_cls = self.ACTIONS[action]
             handler = handler_cls(page=page, tracer=self.tracer)
             handler.run()
+
+
+class CoinbaseApiBot(AbstractBot):
+    """API-based Coinbase bot.
+
+    Credentials are loaded from disk (or provisioned via browser)
+    on the first call to ``run()``.
+    """
+
+    ACTIONS: dict[str, CoinbaseApiAction] = {
+        "balance": CoinbaseApiBalance,
+        "deposit": CoinbaseApiDeposit,
+        "withdraw": CoinbaseApiWithdraw,
+    }
+
+    def __init__(self, tracer: PageTracer, **_: Any):
+        self.tracer = tracer
+
+    def run(self, action: str, credentials: Credentials) -> None:
+        if action not in self.ACTIONS:
+            available = ", ".join(self.ACTIONS)
+            raise ValueError(f"Unknown action: {action!r}. Available: {available}")
+
+        # Resolve API credentials (load from disk or provision via browser)
+        from services.coinbase_api.credentials import CoinbaseApiCredentialStore
+
+        cred_dir = credentials.state_file_path.parent
+        store = CoinbaseApiCredentialStore(base_dir=cred_dir)
+        api_key, api_secret = store.get_or_provision(self.tracer, credentials)
+
+        client = CoinbaseApiClient(api_key=api_key, api_secret=api_secret)
+
+        logger.info("Starting action: {}", action)
+        handler_cls = self.ACTIONS[action]
+        handler = handler_cls(client=client)
+        handler.run()

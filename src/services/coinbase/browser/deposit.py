@@ -15,6 +15,7 @@ from loguru import logger
 from patchright.sync_api import Page
 
 from components.trace import PageTracer
+from components.utils import human_delay
 
 
 class CoinbaseDeposit:
@@ -24,6 +25,7 @@ class CoinbaseDeposit:
 
     def _open_receive_modal(self) -> None:
         logger.info("Opening receive modal...")
+        human_delay(self.page)
         self.page.click('[data-testid="quick-action-receive"]')
         self.page.wait_for_selector('[data-testid="search-input"]', timeout=15000)
         self.tracer.save(self.page, "receive_modal_open")

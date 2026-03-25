@@ -197,12 +197,65 @@ class KrakenAuthenticator:
         except Exception:
             pass
 
+    def _handle_device_approval(self, page: Page) -> None:
+        """Handle the device-approval gate.
+
+        Prompts the user to paste the approval URL from their email.
+        The link is opened in the same browser context so the
+        "same internet connection" requirement is satisfied.
+
+        If the user presses Enter without a URL the method falls back
+        to waiting up to 5 minutes for an external email click.
+        """
+        self.tracer.save(page, "device_approval_page")
+        logger.info("Device approval required")
+        logger.info("Check your email for the approval link from Kraken.")
+
+        approval_url = input(
+            "[?] Paste the approval URL from your email "
+            "(or press Enter to wait for email click): "
+        ).strip()
+
+        if approval_url:
+            logger.info("Opening approval URL in browser...")
+            page.goto(approval_url, wait_until="domcontentloaded")
+            self.tracer.save(page, "device_approval_url_opened")
+
+            # After opening the link Kraken redirects back
+            if not wait_for_url(
+                page,
+                [KrakenPages.DASHBOARD, KrakenPages.PASSKEY],
+                timeout=30000,
+            ):
+                # The approval link may have opened a
+                # confirmation that still needs a moment
+                logger.info("Waiting for redirect after approval...")
+                if not wait_for_url(
+                    page,
+                    [KrakenPages.DASHBOARD, KrakenPages.PASSKEY],
+                    timeout=60000,
+                ):
+                    self.tracer.save(page, "fail_device_approval_redirect")
+                    raise TimeoutError(
+                        "Device approval redirect did not reach the dashboard"
+                    )
+        else:
+            logger.info("Waiting for email confirmation (up to 5 min)...")
+            if not wait_for_url(
+                page,
+                [KrakenPages.DASHBOARD, KrakenPages.PASSKEY],
+                timeout=300000,
+            ):
+                self.tracer.save(page, "fail_device_approval_timeout")
+                raise TimeoutError(
+                    "Device approval timeout — link not clicked within 5 minutes"
+                )
+
+        self.tracer.save(page, "device_approval_complete")
+
     def _first_login(self, page: Page, credentials: Credentials) -> Page:
         """Normal login — device-approval expected. Returns page on dashboard."""
         logger.info("First login — no state.json found")
-        logger.info(
-            "Device approval will be triggered: check your email and click the link"
-        )
 
         page.goto(KrakenPages.LOGIN)
         page.fill('input[name="username"]', credentials.email)
@@ -221,16 +274,7 @@ class KrakenAuthenticator:
         self._handle_otp(page, expected_urls=expected)
 
         if page.url.startswith(KrakenPages.DEVICE_APPROVAL):
-            logger.info(
-                "Device approval page reached — waiting for email confirmation (up to 5 min)..."
-            )
-            if not wait_for_url(
-                page, [KrakenPages.DASHBOARD, KrakenPages.PASSKEY], timeout=300000
-            ):
-                self.tracer.save(page, "fail_device_approval_timeout")
-                raise TimeoutError(
-                    "Device approval timeout — link not clicked within 5 minutes"
-                )
+            self._handle_device_approval(page)
 
         self._dismiss_passkey(page)
 
@@ -262,8 +306,8 @@ class KrakenAuthenticator:
             return False
 
     def _device_checked_login(self, page: Page, credentials: Credentials) -> Page:
-        """Re-authenticate — device-approval should not trigger (stored state is used)."""
-        logger.info("Re-authenticating with dev-cookie bypass")
+        """Re-authenticate when the stored session has expired."""
+        logger.info("Re-authenticating (session expired)")
 
         page.goto(KrakenPages.LOGIN)
         page.fill('input[name="username"]', credentials.email)
@@ -282,10 +326,10 @@ class KrakenAuthenticator:
         self._handle_otp(page, expected_urls=expected)
 
         if page.url.startswith(KrakenPages.DEVICE_APPROVAL):
-            self.tracer.save(page, "fail_device_approval")
-            raise RuntimeError(
-                "Device-approval triggered — stored dev cookie is no longer valid."
+            logger.warning(
+                "Device approval triggered — stored device cookie is no longer valid"
             )
+            self._handle_device_approval(page)
 
         self._dismiss_passkey(page)
 

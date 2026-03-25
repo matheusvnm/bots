@@ -44,6 +44,21 @@ kraken-deposit user="1":
 kraken-withdraw user="1":
     just run kraken balance {{user}}
 
+[group('kraken-api')]
+[doc('Run kraken-api balance')]
+kraken-api-balance user="1":
+    just run kraken-api balance {{user}}
+
+[group('kraken-api')]
+[doc('Run kraken-api deposit')]
+kraken-api-deposit user="1":
+    just run kraken-api deposit {{user}}
+
+[group('kraken-api')]
+[doc('Run kraken-api withdraw')]
+kraken-api-withdraw user="1":
+    just run kraken-api withdraw {{user}}
+
 [group('coinbase')]
 [doc('Run coinbase-api balance')]
 cb-api-balance user="1":

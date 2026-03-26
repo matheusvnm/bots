@@ -20,76 +20,21 @@ class CoinbaseApiKeyProvisioner:
     def provision(self, credentials: Credentials) -> tuple[str, str]:
         """Log in and create a new API key.
 
+        If a key named ``ZEROHASH_API_KEY`` already exists it is
+        deleted first so the creation step never collides.
+
         Returns:
             (api_key, api_secret) where api_key is the full
             ``organizations/.../apiKeys/...`` path and
             api_secret is the EC private key in PEM format.
         """
         with self._auth.login(credentials) as page:
+            self._navigate_to_api_page(page)
+            self._delete_existing_key(page)
             return self._create_api_key(page)
 
-    def try_reenable(
-        self,
-        credentials: Credentials,
-        api_key: str,
-    ) -> bool:
-        """Re-enable a disabled key on the management page.
-
-        Returns True if the toggle was flipped back on.
-        """
-        with self._auth.login(credentials) as page:
-            return self._reenable_key(page, api_key)
-
-    def _reenable_key(self, page: Page, api_key: str) -> bool:
-        """Find *api_key* in the table and flip its toggle on."""
-        page.goto(
-            CoinbasePages.SETTINGS_API,
-            wait_until="domcontentloaded",
-        )
-        human_delay(page, 2.0, 4.0)
-        page.wait_for_selector(
-            '[data-testid="api-keys-management-screen"]',
-            timeout=30000,
-        )
-        self.tracer.save(page, "reenable_management_page")
-
-        short_id = api_key.rsplit("/", 1)[-1][:4]
-
-        # Walk every toggle row
-        idx = 0
-        while True:
-            tid = f"cloud-body-cell-toggleActive-{idx}"
-            toggle = page.locator(f'[data-testid="{tid}"]')
-            if not toggle.count():
-                break
-
-            # Check whether this row belongs to our key by
-            # looking at the key-id cell in the same row.
-            row = page.locator(f'[data-testid="cloud-key-row-{idx}"]')
-            row_text = row.inner_text()
-            if short_id in row_text:
-                checked = toggle.get_attribute("aria-checked")
-                if checked == "false":
-                    logger.info(
-                        "Key {} is disabled — re-enabling",
-                        short_id,
-                    )
-                    toggle.click()
-
-                    # Toggling requires 2FA confirmation
-                    self._handle_2fa(page)
-                    page.wait_for_timeout(2000)
-                    self.tracer.save(page, "key_reenabled")
-                    return True
-                logger.info("Key {} is already enabled", short_id)
-                return False
-            idx += 1
-
-        logger.warning("Could not find key {} in the table", short_id)
-        return False
-
-    def _create_api_key(self, page: Page) -> tuple[str, str]:
-        # 1. Navigate to API key management page
+    def _navigate_to_api_page(self, page: Page) -> None:
+        """Navigate to the Coinbase API key management page."""
         logger.info("Navigating to API key management page...")
         page.goto(
             CoinbasePages.SETTINGS_API,
@@ -102,6 +47,85 @@ class CoinbaseApiKeyProvisioner:
         )
         self.tracer.save(page, "api_management_page")
 
+    def _delete_existing_key(self, page: Page) -> None:
+        """Delete the existing API key named ``_KEY_PREFIX`` if present.
+
+        The Coinbase UI flow is:
+        1. Click the "Gerenciar" (Manage) button on the key row
+           (``data-testid="cloud-manage-cell-0"``).
+        2. Click "Excluir chave" (Delete key) in the dropdown.
+        3. A confirmation modal appears showing the API Key ID.
+        4. Copy the displayed ID into the confirmation input.
+        5. Click "Excluir" (Delete) — enabled only after the ID matches.
+        """
+        screen = page.locator('[data-testid="api-keys-management-screen"]')
+        existing = screen.locator(f"text={_KEY_PREFIX}").first
+
+        if not existing.is_visible(timeout=3000):
+            logger.info(
+                "No existing key named '{}' found — skipping deletion", _KEY_PREFIX
+            )
+            return
+
+        logger.info("Found existing key '{}' — deleting...", _KEY_PREFIX)
+
+        # 1. Click the "Gerenciar" (Manage) button using its data-testid
+        manage_btn = page.locator('[data-testid="cloud-manage-cell-0"]')
+        manage_btn.wait_for(state="visible", timeout=5000)
+        manage_btn.click()
+        human_delay(page, 0.5, 1.5)
+        self.tracer.save(page, "manage_dropdown_open")
+
+        # 2. Click "Excluir chave" (Delete key) from the dropdown
+        delete_option = page.get_by_text("Excluir chave").or_(
+            page.get_by_text("Delete key")
+        )
+        delete_option.wait_for(state="visible", timeout=5000)
+        delete_option.click()
+        human_delay(page)
+        self.tracer.save(page, "delete_modal_open")
+
+        # 3. Extract the API Key ID from the confirmation modal
+        #    (data-testid="cloud-delete-modal").
+        #    The UUID is shown in a <p> tag inside the modal.
+        modal = page.locator('[data-testid="cloud-delete-modal"]')
+        modal.wait_for(state="visible", timeout=10000)
+
+        key_id = (
+            modal.locator(
+                "text=/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/"
+            )
+            .first.inner_text()
+            .strip()
+        )
+        logger.info("API Key ID to confirm deletion: {}", key_id)
+
+        # 4. Paste the ID into the confirmation input
+        #    (data-testid="delete-step-api-confirmation")
+        confirm_input = page.locator('[data-testid="delete-step-api-confirmation"]')
+        confirm_input.wait_for(state="visible", timeout=5000)
+        confirm_input.fill(key_id)
+        human_delay(page, 0.5, 1.0)
+        self.tracer.save(page, "delete_id_confirmed")
+
+        # 5. Click "Excluir" (Delete) button — now enabled after ID fill
+        delete_btn = modal.locator(
+            'button:has-text("Excluir"), button:has-text("Delete")'
+        ).last
+        delete_btn.wait_for(state="visible", timeout=5000)
+        delete_btn.click()
+        human_delay(page, 2.0, 4.0)
+        self.tracer.save(page, "key_deleted")
+
+        # Wait for the management screen to reload without the deleted key
+        page.wait_for_selector(
+            '[data-testid="api-keys-management-screen"]',
+            timeout=30000,
+        )
+        human_delay(page, 2.0, 4.0)
+        logger.info("Existing key '{}' deleted successfully", _KEY_PREFIX)
+
+    def _create_api_key(self, page: Page) -> tuple[str, str]:
         logger.info("Opening create-key modal...")
         human_delay(page)
         page.click('[data-testid="cloud-keys-create-cta"]')

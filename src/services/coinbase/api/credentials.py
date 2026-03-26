@@ -23,14 +23,14 @@ class CoinbaseApiCredentialStore:
     def path(self) -> Path:
         return self._path
 
-    def load(self) -> tuple[str, str] | None:
+    def load(self) -> tuple[str, str] | tuple[None, None]:
         """Read credentials from disk.
 
         Returns:
             (api_key, api_secret) or None if missing / malformed.
         """
         if not self._path.exists():
-            return None
+            return (None, None,)
 
         try:
             data = json.loads(self._path.read_text(encoding="utf-8"))
@@ -39,10 +39,10 @@ class CoinbaseApiCredentialStore:
             if key and secret:
                 return key, secret
             logger.warning("Credential file exists but is incomplete")
-            return None
+            return (None, None,)
         except (json.JSONDecodeError, OSError) as exc:
             logger.warning("Failed to read credentials: {}", exc)
-            return None
+            return (None, None,)
 
     def save(self, api_key: str, api_secret: str) -> None:
         """Persist credentials to disk."""
@@ -79,34 +79,22 @@ class CoinbaseApiCredentialStore:
         from services.coinbase.api.key_provisioner import (
             CoinbaseApiKeyProvisioner,
         )
-
-        stored = self.load()
-        if stored:
-            api_key, api_secret = stored
-            logger.info("Found stored API credentials — validating...")
-            if self.validate(api_key, api_secret):
-                logger.info("Stored API key is valid")
-                return api_key, api_secret
-
-
-            logger.warning("Stored API key is invalid — attempting to re-enable...")
-            provisioner = CoinbaseApiKeyProvisioner(tracer=tracer)
-            reenabled = provisioner.try_reenable(credentials, api_key)
-            if reenabled and self.validate(api_key, api_secret):
-                logger.info("Key re-enabled and validated successfully")
-                return api_key, api_secret
-
-            logger.warning(
-                "Re-enable failed or key still invalid — will create a new key"
-            )
-
-        prompt = "[?] No API valid key found. Generate (or Reactivate) one via browser? (y/n): "
-        answer = input(prompt).strip().lower()
-        if answer not in ("y", "yes"):
-            raise RuntimeError("Cannot proceed without valid API credentials")
-
         provisioner = CoinbaseApiKeyProvisioner(tracer=tracer)
-        api_key, api_secret = provisioner.provision(credentials)
 
+        logger.info("Searching for the API Key")
+        api_key, api_secret = self.load()
+        if not (api_key and api_secret):
+            logger.info("The API keys were not found for this user. First login.")
+            api_key, api_secret = provisioner.provision(credentials)
+            self.save(api_key, api_secret)
+            return api_key, api_secret
+
+        logger.info("Found stored API credentials — validating...")
+        if self.validate(api_key, api_secret):
+            logger.info("Stored API key is valid")
+            return api_key, api_secret
+
+        logger.warning("Stored API key is invalid — attempting to re-create...")
+        api_key, api_secret = provisioner.provision(credentials)
         self.save(api_key, api_secret)
         return api_key, api_secret

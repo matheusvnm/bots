@@ -52,6 +52,51 @@ class CoinbaseApiWithdraw:
                     return acct
         return None
 
+    @staticmethod
+    def _select_network(ticker: str) -> str | None:
+        """Fetch networks from INTX and let the user pick one.
+
+        Falls back to a free-text prompt when the asset is not
+        available on the INTX API.
+        """
+        networks = CoinbaseApiClient.get_supported_networks(ticker)
+
+        if not networks:
+            return (
+                input("[?] Network (leave blank for default): ").strip().lower() or None
+            )
+
+        if len(networks) == 1:
+            name = networks[0]["network_name"]
+            display = networks[0]["display_name"]
+            logger.info("Single network for {}: {} — auto-selecting", ticker, display)
+            return name
+
+        default_name = None
+        logger.info("Available networks for {}:", ticker)
+        for i, net in enumerate(networks, 1):
+            display = net.get("display_name", net["network_name"])
+            default_tag = " (default)" if net.get("is_default") else ""
+            confirms = net.get("network_confirms", "?")
+            min_amt = net.get("min_withdrawal_amt", "?")
+            max_amt = net.get("max_withdrawal_amt", "?")
+            print(
+                f"  {i:3d}. {display:<22s}{default_tag:<11s}"
+                f" confirms: {confirms:<5}  min: {min_amt}, max: {max_amt}"
+            )
+            if net.get("is_default"):
+                default_name = net["network_name"]
+
+        choice = input("[?] Enter network number (or blank for default): ").strip()
+        if not choice:
+            return default_name
+
+        if choice.isdigit():
+            idx = int(choice) - 1
+            if 0 <= idx < len(networks):
+                return networks[idx]["network_name"]
+        return default_name
+
     def _collect_travel_rule(self) -> dict:
         """Prompt for travel rule data required by Coinbase."""
         print("\n  Travel rule information required:")
@@ -112,7 +157,7 @@ class CoinbaseApiWithdraw:
             logger.warning("No amount provided — aborting")
             return
 
-        network = input("[?] Network (leave blank for default): ").strip() or None
+        network = self._select_network(ticker)
 
         travel_rule = self._collect_travel_rule()
 

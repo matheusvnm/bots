@@ -101,6 +101,7 @@ class CoinbaseApiBot(AbstractBot):
         self.tracer = tracer
 
     def run(self, action: str, credentials: Credentials) -> None:
+        logger.info("Starting API workflow for Coinbase.")
         if action not in self.ACTIONS:
             available = ", ".join(self.ACTIONS)
             raise ValueError(f"Unknown action: {action!r}. Available: {available}")
@@ -142,7 +143,6 @@ class KrakenApiBot(AbstractBot):
             available = ", ".join(self.ACTIONS)
             raise ValueError(f"Unknown action: {action!r}. Available: {available}")
 
-        # Resolve API credentials (load from disk or provision via browser)
         from services.kraken.api.credentials import KrakenApiCredentialStore
 
         cred_dir = credentials.state_file_path.parent

@@ -15,6 +15,7 @@ from cryptography.hazmat.primitives import serialization
 from loguru import logger
 
 API_BASE = "https://api.coinbase.com"
+INTX_API_BASE = "https://api.international.coinbase.com"
 
 
 class CoinbaseApiClient:
@@ -102,6 +103,68 @@ class CoinbaseApiClient:
     def list_addresses(self, account_id: str) -> list[dict]:
         """GET /v2/accounts/:id/addresses — list existing addresses."""
         return self.get(f"/v2/accounts/{account_id}/addresses").get("data", [])
+
+    @staticmethod
+    def get_deposit_assets() -> list[dict]:
+        """Fetch crypto assets that support on-chain deposits.
+
+        Uses the public (unauthenticated) Coinbase INTX API to list
+        assets with ``supported_networks_enabled == True``.
+
+        Returns:
+            Sorted list of dicts with ``asset_name`` and ``asset_uuid``.
+        """
+        try:
+            resp = requests.get(f"{INTX_API_BASE}/api/v1/assets", timeout=15)
+            resp.raise_for_status()
+        except requests.RequestException as exc:
+            logger.warning("Failed to fetch INTX assets: {}", exc)
+            return []
+
+        assets = [
+            {"asset_name": a["asset_name"], "asset_uuid": a["asset_uuid"]}
+            for a in resp.json()
+            if a.get("supported_networks_enabled") and a.get("status") == "ACTIVE"
+        ]
+        assets.sort(key=lambda a: a["asset_name"])
+        return assets
+
+    @staticmethod
+    def get_supported_networks(asset: str) -> list[dict]:
+        """Fetch supported blockchain networks for a given asset.
+
+        Uses the public (unauthenticated) Coinbase INTX API.
+
+        Args:
+            asset: Ticker symbol, e.g. ``"BTC"``, ``"USDC"``.
+
+        Returns:
+            List of network dicts, each containing ``network_name``,
+            ``display_name``, ``is_default``, ``min_withdrawal_amt``,
+            ``max_withdrawal_amt``, ``network_confirms``, and
+            ``processing_time``.  Empty list when the asset is not
+            found on INTX.
+        """
+        try:
+            resp = requests.get(
+                f"{INTX_API_BASE}/api/v1/assets/{asset}/networks",
+                timeout=15,
+            )
+            resp.raise_for_status()
+        except requests.RequestException as exc:
+            logger.warning(
+                "Failed to fetch networks for {}: {}",
+                asset,
+                exc,
+            )
+            return []
+
+        networks = resp.json()
+        # Put the default network first, keep the rest alphabetical.
+        networks.sort(
+            key=lambda n: (not n.get("is_default", False), n.get("display_name", "")),
+        )
+        return networks
 
     def send_money(
         self,

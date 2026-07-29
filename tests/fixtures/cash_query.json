@@ -1,0 +1,32 @@
+{
+  "data": {
+    "viewer": {
+      "netPerformance": { "summary": { "deposited": { "currency": "BRL" } } },
+      "cashAssets": {
+        "edges": [
+          {
+            "node": {
+              "totalBalanceFiat": { "amount": "45.248180746799999702916" },
+              "totalBalanceCrypto": { "amount": "8.91252" },
+              "asset": {
+                "__typename": "ViewerAsset",
+                "asset": { "name": "USDC", "displaySymbol": "USDC", "platformName": "USDC" }
+              }
+            }
+          },
+          {
+            "node": {
+              "totalBalanceFiat": { "amount": "0" },
+              "totalBalanceCrypto": { "amount": "0" },
+              "asset": {
+                "__typename": "TiersCurrency",
+                "code": "BRL",
+                "name": "Real"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

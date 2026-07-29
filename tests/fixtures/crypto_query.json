@@ -1,0 +1,35 @@
+{
+  "data": {
+    "viewer": {
+      "oneDayCryptoPerformance": {
+        "returns": { "unrealized": { "value": { "currency": "BRL" } } }
+      },
+      "cryptoAssets": {
+        "edges": [
+          {
+            "node": {
+              "totalBalanceFiat": { "amount": "19.7372680171393598704118832" },
+              "totalBalanceCrypto": { "amount": "0.0000608" },
+              "asset": {
+                "__typename": "ViewerAsset",
+                "asset": { "name": "Bitcoin", "displaySymbol": "BTC", "platformName": "BTC" },
+                "staking": null
+              }
+            }
+          },
+          {
+            "node": {
+              "totalBalanceFiat": { "amount": "100.0" },
+              "totalBalanceCrypto": { "amount": "0.5" },
+              "asset": {
+                "__typename": "ViewerAsset",
+                "asset": { "name": "Ethereum", "displaySymbol": "ETH", "platformName": "ETH" },
+                "staking": { "summary": { "totalStakedPercent": "1" } }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

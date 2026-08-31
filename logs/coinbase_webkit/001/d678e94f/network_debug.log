@@ -1,0 +1,10 @@
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserCefiBalancesSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useSimpleCryptoPositionAndBalanceSubscription cancelled
+2026-07-29T19:14:37 | coinbase_webkit:001:d678e94f | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useSimpleCashPositionAndBalanceSubscription cancelled

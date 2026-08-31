@@ -1,0 +1,5289 @@
+{
+  "data": {
+    "countryCodeFromIP": "US",
+    "splitTestGroupsForTestsV2": [
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_futures_margin_ratio_v2_www"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0022_1c385841"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0022_6140e11f"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0011_mov2lec0"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2025_rat_wtcd_discoverability"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0016_0bf80fcd"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "oct_2025_market_selector_preload_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_d5e23bba"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_a1b2c3d4"
+      },
+      {
+        "group": "treatment3",
+        "isTracked": true,
+        "test": "t0013_1a69cce2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_43f5ea68"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2025_improved_transfer_input_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2025_graceful_degradation_expansion"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_9865f830"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "june_2025_waitlist_marketing_route_enabled"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "aug_2025_coinbiz_ach_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_f7a2b3c4"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "aug_2025_coinbiz_wire_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "nov_2025_fcm_close_by_market_limit"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2024_futures_cbfse_hide_perps_tab"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "apr_2025_intx_simplified_onboarding"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "apr_2025_unified_trading_portfolio"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "jun_2025_enable_camera_capture_idv_intl"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jun_2025_intx_open_interest_program"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "jun_2025_perps_multiple_fee_tiers_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "nov_2025_intx_close_by_market_limit"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_529b4030"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2023_cbeth_state_regulatory"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "jul_2025_tink_priming_de"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "feb_2026_equity_perps_fee_reduction"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_036dbf78"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "july_2025_derivatives_positions_blotter_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_hnwi_concierge_chat_pii_masking"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0016_c9e4a2b7"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jun_2025_limit_order_partial_fees"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "nov_2025_staking_nux_screen_v2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jun_2025_rat_reduce_only"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "aug_2025_notification_dot"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "jan_2024_web_no_signout_links"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2024_redesigned_single_to_multi_asset_staking_upsell"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2024_verified_addresses_web"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "mar_2024_staking_dropoff_notifications"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "apr_2024_usdc_crypto_convert_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "aug_2025_rat_portfolio_performance_tab"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2024_web_futures_usd_breakdown"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0032_3f1e7c9a"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "aug_2025_force_cross_device_idv"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "aug_2025_apay_gpay_discoverability"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0032_7ab4d1e6"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_apay_mcc_enabled"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0032_a3d5c9b7"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "sep_2025_bracket_to_tpsl_web"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "oct_2025_speculator_v1_incentive"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2025_warmup_cooldown_deprecation"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2024_web_rav4"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "jan_2025_sepa_direct_debit_buys"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2024_active_sessions"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2024_rat_order_form_margin_preview"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jul_2024_usd_usdc_unification_web_phase_1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2024_usd_usdc_unification_web_phase_3"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jul_2024_it_tax_id_collection"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jul_2024_web_routing_number_info_decomp"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jul_2024_eft_direct_buys"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_unify_help_links"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_gql_product_schema_migration"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_rat_attached_tp_sl"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0031_19979978"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_usdc_as_cash_equivalent_in_uk"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jul_2024_decomp_change_country"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2025_usdt_send_processing_fee"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "dec_2024_passkey_tour"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2024_payment_method_component_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2024_sepa_v2_deposit_instruction_screen_v2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_blik_enabled"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sept_2024_vendor_verification_cds_www"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sept_2024_deposit_route_currency"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_intx_onboarding_incentives"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_update_swift_account_number"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2025_usdc_cbsg_ai_reduced_spread"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "sep_2024_rat_infinite_load_alternative_experience_web"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0002_8a5d3e1c"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0002_8beb27f7"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "dec_2025_idv_persona_facematch_eu_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_w9_fingerprint_enabled"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2025_user_level_balance_summary_cleanup"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "oct_2025_rat_trade_history_blotter_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sept_2024_swift_delete_decomp"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0002_ab6116d4"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2024_web_convert_and_stake"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "oct_2024_rat_extra_wide_disabled"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "oct_2024_inline_quick_action"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_simple_trading_code_yellow_m2_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "jul_2024_usdc_fx_spread_reduction"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_simple_trade_payment_package_migration_web"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "dec_2024_capture_full_ssn_edp_and_prove"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "fev_2025_cdv_ux_improvements_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2024_perf_redesign_futures"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2024_p2p_uk_eu_travel_rules"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2024_visa_deal_ux_changes"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2024_stbl_plat_rat_convert_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2024_futures_autosweep"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "dec_2024_scam_reporting_v2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2024_multi_asset_staking_redesign_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_simple_trade_dex"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "sep_2025_simple_trade_dex_sol"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "jan_2025_rat_earntab_deprecation"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_monsoon_order_book_recent_trades_revamp"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_hide_fiat_wallets_deposit"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jan_2025_ideal_pm_improvement_web"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "july_2025_cad_wire_deposit"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_link_card_redesign"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2025_pending_cdv_verification"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_new_stake_toggle_title_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "oct_2025_rat_smart_order_routing"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "hold_days_removal_deposit_experiment"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "jan_2025_stablecoin_usdt_conversion_rebate"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2025_uk_deposit_instruction_screen_v2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_restricted_user_claims"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2025_new_policy_restriction_source_web"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "feb_2025_staking_opt_in_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_futures_fcm_fees_frontend"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2025_lat_am_onboarding_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_navbar_explore_to_x"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_interac_error_improvement"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "mar_2025_singpass_refresh_auth_config"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "nov_2025_withdraw_pm_fix"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_simple_trade_search_downrank_gating_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_default_payment_dex"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_live_transactions"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_ca_idv_improvement"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_hide_announcement_card_for_nux_users"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_ai_file_upload"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "nov_2025_hnwi_create_convo_on_error"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "apr_2025_org_switcher_www"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "mar_2025_br_withdrawal_ux_migration_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "mar_2025_monitor_ui_staleness"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0003_18pxd5xa"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0018_e4202ae1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0018_c8c11e5c"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0002_0041f39b"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jan_2023_paypal_warning_popup"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "mar_2023_withdrawal_push_payment_instruction_eu"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2023_be_web_usdc_intl_buys_sells"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2023_nudge_bank_transfer_low_balance"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jun_2023_www_simple_trade_eitri_preloading"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jun_2023_web_base_integration_dapp_wallet"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "apr_2025_p2p_india_travel_rules"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2025_deposit_usdc_into_portfolios_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2025_uk_persistent_disclaimer_rn"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "mar_2025_expired_id_flow_cta_edit"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "may_2025_sepa_v2_deposit_redesign_de"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "june_2025_usdc_apy_discrepancy_v2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "may_2025_memo_warning_tray"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_card_unification"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "nov_2025_nux_packs"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_b7f3e2a1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2025_equities_balance_summary"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0005_39cde1d4"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0028_877ea68e"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2025_hold_cash_earn_btc"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0017_d4f2a1b7"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0023_bd8salck"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0000_05bbef5e"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "aug_2024_silent_network_auth"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0000_6c0d77f6"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_f8b1a4"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_c6e9d3"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0009_21cf2f2c"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_e7c4d1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0017_a7f3b2c1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_a2f5b8"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_1c7bfbab"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_12a74400"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_b6e4d1f9"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0018_a7f31243"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_1fb7da43"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0002_e15013a0"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0013_1161306f"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0013_246b138b"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0014_22e0cd53"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0008_4900f40a"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0002_d4deff69"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2024_sna_uk"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "q4_2024_identity_arkose"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2025_futures_unified_selector_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "nov_2024_idv_failure_guidance"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "t0012_d047e9ca"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2026_temp_searchhub_return_lim_exp"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "jan_2025_recovery_menu"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2024_idv_use_onfido_live_capture"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "sep_2025_au_edp_checkbox"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "sep_2025_passkey_upsell_auto_registration"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "jan_2026_trending_1h_resolution"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "jan_2026_prediction_markets_carousel_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0029_d6bfdcb2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0012_ab26c03c"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "dec_2025_personal_info_form_for_non_basic_kyc"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "nov_2025_cds_date_picker"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0029_114e32ee"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_e1d4c8"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_b9a2f6"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "feb_2026_arc_staking_home_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_d5c3e7"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0000_1131a90f"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_2ec6ca9c"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0015_073581e2"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0008_5081cc6d"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0005_4dfc5f83"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0008_a8d764aa"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0010_553a18fa"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0012_48cebaa0"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0000_cce2cd75"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0015_7e2616a2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0008_f688f2c4"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_e40a14c8"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0019_e82a78b9"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0000_abcdefgh"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0002_6107940a"
+      },
+      {
+        "group": "control",
+        "isTracked": false,
+        "test": "t0013_a297b8db"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0019_276c08fd"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0014_88ea980f"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0019_6edad587"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0019_37507b4a"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0013_4ca1badf"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0019_f38522a9"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0012_11bb2297"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0014_b8d3e7a1"
+      },
+      {
+        "group": "control",
+        "isTracked": true,
+        "test": "t0029_91931ac1"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0012_f60f9d4a"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "oct_2025_india_vendor_idv_flow_web"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_c5266a2b"
+      },
+      {
+        "group": "treatment",
+        "isTracked": false,
+        "test": "t0003_a3f7b2"
+      },
+      {
+        "group": "treatment",
+        "isTracked": true,
+        "test": "t0005_8b1d9159"
+      }
+    ],
+    "viewer": {
+      "productEligibilityStatus": {
+        "productsEligibility": {
+          "eligibilityResults": [
+            {
+              "productName": "convert_cash_universal_ui_www",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "defi_borrow_eligible",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "dex_eligible_global",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "dex_eligible_global_web",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "dex_new_launchpads_eligible",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "dex_new_launchpads_intx_eligible",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "hnwi_concierge_chat",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "hnwi_concierge_dp_banners",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "hnwi_concierge_home_screen_v2",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "hnwi_concierge_request_a_call",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "hnwi_loyalty_program",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "PRODUCT_ADVANCED_TRADE",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "PRODUCT_COINBASE_BUSINESS",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "PRODUCT_COINBASE_BUSINESS_ACCOUNTING",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equities_eligible_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equities_onboarded_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equities_acats_eligible_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equities_drip_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equity_options_eligible_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "raise_ipo_access_eligible_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "simple_crypto_options",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "retail_equity_margin_eligible_web",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "dex_sol_eligible_global_web",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "dex_cbrn_eligible_global_web",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "p2p_allowlist",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "p2p_accounts_for_sweeping",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "dex_receive_adp_www",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "PRODUCT_READ_ONLY_HOME",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "PRODUCT_QUICK_ACTIONS",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "futures",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "simple_futures",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "simple_futures_onboarding_permissions",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "simple_perpetuals",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "simple_perpetuals_eu_user",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "simple_spot_margin",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "spot_margin_no_ks",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "spot_margin",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USDC_AUTO_BUY_EQUITIES",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USDC_AUTO_BUY_DEX",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "international-account",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "savings_account_eligible",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "trading-competition-global-eligibility-check",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "amplitude_session_replay_eligible",
+              "eligibility": "INELIGIBLE"
+            }
+          ]
+        }
+      },
+      "id": "Vmlld2VyOjA=",
+      "retailBrokerage": {
+        "userConfiguration": {
+          "hasAdvancedTradeEnabled": true,
+          "observabilityTier": "",
+          "id": "UmV0YWlsQnJva2VyYWdlVXNlckNvbmZpZ3VyYXRpb24="
+        },
+        "userAttributes": [
+          {
+            "attributeName": "seen_reduce_only_coachmark",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "is_advanced_mode_web_enabled",
+            "attributeValue": "false"
+          },
+          {
+            "attributeName": "modular_ui_nux_dismissed_at_web",
+            "attributeValue": "2026-05-19T15:44:02.879Z"
+          },
+          {
+            "attributeName": "seen_modular_ui_nux_modal_web",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "seen_mode_toggle_tray_mobile",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "advanced_color_theme_web",
+            "attributeValue": "dark"
+          },
+          {
+            "attributeName": "seen_advanced_mode_nux_web",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "seen_advanced_switch_spotlight_advanced_mode_web",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "seen_cpa_tooltip",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "seen_modular_ui_nux_spotlight_web",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "seen_default_portfolio_rename_spotlight_mobile",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "rat_customizable_layout_json_web",
+            "attributeValue": "{\"version\":\"v4\",\"lastUpdated\":1781096185493,\"groups\":{\"spot-perps-futures\":{\"layoutsIds\":[\"1779205434490-spot-perps-futures\",\"1781096185492\"],\"layoutsMap\":{\"1779205434490-spot-perps-futures\":{\"id\":\"1779205434490-spot-perps-futures\",\"name\":\"Advanced\",\"model\":{\"global\":{\"splitterSize\":4,\"splitterExtra\":4,\"tabCloseType\":3,\"tabEnableRename\":false,\"tabSetMinWidth\":270,\"tabSetMinHeight\":100},\"borders\":[],\"layout\":{\"type\":\"row\",\"id\":\"#126a127c-fdf3-48ec-ad2e-294441636b6b\",\"children\":[{\"type\":\"row\",\"id\":\"#10030eac-8611-4707-832b-4e9585c6cf5e\",\"weight\":80,\"children\":[{\"type\":\"row\",\"id\":\"#67d28de0-0e83-407b-b264-a337b8474d0d\",\"weight\":60,\"children\":[{\"type\":\"tabset\",\"id\":\"tabset-charts\",\"weight\":70,\"children\":[{\"type\":\"tab\",\"id\":\"tab-priceChart-1779205434490\",\"name\":\"Gráfico de preços\",\"component\":\"priceChart\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-depthChart-1779205434490\",\"name\":\"Gráfico de profundidade\",\"component\":\"depthChart\",\"enableClose\":true}],\"active\":true,\"maximized\":true},{\"type\":\"tabset\",\"id\":\"tabset-market-data\",\"weight\":30,\"children\":[{\"type\":\"tab\",\"id\":\"tab-orderBook-1779205434490\",\"name\":\"Livro de ordens\",\"component\":\"orderBook\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-recentTrades-1779205434490\",\"name\":\"Negociações recentes\",\"component\":\"recentTrades\",\"enableClose\":true}]}]},{\"type\":\"tabset\",\"id\":\"tabset-orders\",\"weight\":40,\"children\":[{\"type\":\"tab\",\"id\":\"tab-openOrders-1779205434490\",\"name\":\"Ordens em aberto\",\"component\":\"openOrders\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-orderHistory-1779205434490\",\"name\":\"Histórico de ordens\",\"component\":\"orderHistory\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-positions-1779205434490\",\"name\":\"Posições\",\"component\":\"positions\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-assets-1779205434490\",\"name\":\"Ativos\",\"component\":\"assets\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-tradeHistory-1779205434490\",\"name\":\"Histórico de negociações\",\"component\":\"tradeHistory\",\"enableClose\":true}]}]},{\"type\":\"row\",\"id\":\"#998de0dc-fa74-42d4-a1fa-01307eaf2a8c\",\"weight\":20,\"children\":[{\"type\":\"tabset\",\"id\":\"tabset-orderform\",\"weight\":75,\"children\":[{\"type\":\"tab\",\"id\":\"tab-orderForm-1779205434490\",\"name\":\"Formulário de ordem\",\"component\":\"orderForm\",\"enableClose\":true}]},{\"type\":\"tabset\",\"id\":\"tabset-balances\",\"weight\":25,\"children\":[{\"type\":\"tab\",\"id\":\"tab-balanceSummary-1779205434490\",\"name\":\"Resumo do saldo\",\"component\":\"balanceSummary\",\"enableClose\":true}]}]}]},\"popouts\":{}}},\"1781096185492\":{\"id\":\"1781096185492\",\"name\":\"Estatísticas\",\"model\":{\"global\":{\"splitterSize\":4,\"splitterExtra\":4,\"tabSetMinWidth\":270,\"tabSetMinHeight\":100,\"tabEnableRename\":false,\"tabCloseType\":3},\"layout\":{\"type\":\"row\",\"weight\":100,\"children\":[{\"type\":\"tabset\",\"weight\":20,\"id\":\"tabset-analytics-order-form\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-orderForm-1781096183700\",\"name\":\"Formulário de ordem\",\"component\":\"orderForm\",\"enableClose\":true}]},{\"type\":\"row\",\"weight\":55,\"children\":[{\"type\":\"tabset\",\"weight\":55,\"id\":\"tabset-analytics-chart\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-priceChart-1781096183700\",\"name\":\"Gráfico de preços\",\"component\":\"priceChart\",\"enableClose\":true}]},{\"type\":\"row\",\"weight\":45,\"children\":[{\"type\":\"tabset\",\"weight\":50,\"id\":\"tabset-analytics-depth\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-depthChart-1781096183700\",\"name\":\"Gráfico de profundidade\",\"component\":\"depthChart\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-marketInfo-1781096183700\",\"name\":\"Informações de mercado\",\"component\":\"marketInfo\",\"enableClose\":true}]},{\"type\":\"tabset\",\"weight\":50,\"id\":\"tabset-analytics-trades\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-recentTrades-1781096183700\",\"name\":\"Negociações recentes\",\"component\":\"recentTrades\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-fundingRateChart-1781096183700\",\"name\":\"Taxa de financiamento\",\"component\":\"fundingRateChart\",\"enableClose\":true}]}]}]},{\"type\":\"tabset\",\"weight\":25,\"id\":\"tabset-analytics-order-book\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-orderBook-1781096183700\",\"name\":\"Livro de ordens\",\"component\":\"orderBook\",\"enableClose\":true}]}]}}}}},\"options\":{\"layoutsIds\":[\"1779205434490-options\"],\"layoutsMap\":{\"1779205434490-options\":{\"id\":\"1779205434490-options\",\"name\":\"Avançado\",\"model\":{\"global\":{\"splitterSize\":4,\"splitterExtra\":4,\"tabSetMinWidth\":270,\"tabSetMinHeight\":100,\"tabEnableRename\":false,\"tabCloseType\":3},\"layout\":{\"type\":\"row\",\"weight\":100,\"children\":[{\"type\":\"row\",\"weight\":80,\"children\":[{\"type\":\"tabset\",\"weight\":75,\"id\":\"tabset-options-chain\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-optionsChain-1779205434490\",\"name\":\"Cadeia de opções\",\"component\":\"optionsChain\",\"enableClose\":true}]},{\"type\":\"tabset\",\"weight\":25,\"id\":\"tabset-options-trades-blotter\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-optionsPositions-1779205434490\",\"name\":\"Posições\",\"component\":\"optionsPositions\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-optionsOpenOrders-1779205434490\",\"name\":\"Ordens em aberto\",\"component\":\"optionsOpenOrders\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-optionsOrderHistory-1779205434490\",\"name\":\"Histórico de ordens\",\"component\":\"optionsOrderHistory\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-optionsAccountSummary-1779205434490\",\"name\":\"Resumo da conta\",\"component\":\"optionsAccountSummary\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-optionsTrades-1779205434490\",\"name\":\"Negociações recentes\",\"component\":\"optionsTrades\",\"enableClose\":true}]}]},{\"type\":\"row\",\"weight\":20,\"children\":[{\"type\":\"tabset\",\"weight\":75,\"id\":\"tabset-options-order-form\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-optionsOrderForm-1779205434490\",\"name\":\"Formulário de pedido\",\"component\":\"optionsOrderForm\",\"enableClose\":true}]},{\"type\":\"tabset\",\"weight\":25,\"id\":\"tabset-options-book-greeks\",\"children\":[{\"type\":\"tab\",\"id\":\"tab-optionsPayoff-1779205434490\",\"name\":\"Liquidação\",\"component\":\"optionsPayoff\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-greeks-1779205434490\",\"name\":\"Gregos\",\"component\":\"greeks\",\"enableClose\":true},{\"type\":\"tab\",\"id\":\"tab-optionsOrderBook-1779205434490\",\"name\":\"Livro de ordens\",\"component\":\"optionsOrderBook\",\"enableClose\":true}]}]}]}}}}}}}"
+          },
+          {
+            "attributeName": "seen_advanced_switch_spotlight_simple_mode_web",
+            "attributeValue": "true"
+          },
+          {
+            "attributeName": "is_advanced_mode_mobile_enabled",
+            "attributeValue": "false"
+          }
+        ]
+      },
+      "retailDerivatives": {
+        "futuresPermissions": {
+          "entity": "UNSPECIFIED"
+        }
+      },
+      "retailIntx": {
+        "twilightEligibility": {
+          "isEligible": false
+        }
+      },
+      "userProperties": {
+        "uuid": "2ede3204-add9-5486-a5fe-07d868805cd9",
+        "locale": "pt",
+        "name": "Matheus Marques",
+        "email": "smatheusvnm@gmail.com",
+        "nativeCurrency": "BRL",
+        "analyticsProcessingEnabled": true,
+        "marketingTrackingEnabled": false,
+        "marketingTrackingEnabledUpdatedAt": "2026-03-19T18:09:59.422Z",
+        "userFlags": [],
+        "featureFlags": [
+          "2025.jul.payments_gateway_traffic_split_v2",
+          "retail_p2p_multichain_asset_network_rollout.xrp.ripple",
+          "2026.mar.coinbiz_enable_auto_transfer_rule_web",
+          "retail_p2p_multichain_network_rollout.hyperliquid",
+          "currency_rollout.krl.holdable",
+          "2023.jan.rat_usdc_phase2",
+          "2025.sep.futures-cbfse-usdc-funding-actions",
+          "2024.dec.frictionless_3ds_payments",
+          "2025.jan.disable_self_send_side_effects",
+          "2025.12.risk.clawback_reward_initiate.shadow",
+          "2025.oct.backfill_idv_status_from_assessments",
+          "2025.nov.customerswire_cbsg_exchange_swift_enabled",
+          "2025.april.nux_sprig_event_upload_rn",
+          "2025.jun.coinbiz_invoicing",
+          "kill_sw_graphql_caching",
+          "2026.jan.organization_management_work",
+          "2025.12.risk.clawback_reward_admin_initiate.shadow",
+          "2019.january.sovos_integration",
+          "2025.q2.credit_card_logged_in_waitlist_route_enabled",
+          "2025.dec.chart_trading_position_add_tp_sl_perps_enabled_web",
+          "2025.oct.coinbiz_plm_payment_links",
+          "2025.nov.coinbiz_sg_enabled",
+          "2026.jul.fix_middle_name_au10tix",
+          "2024.nov.risk_foundations.fluffy.use_user_admin_flag_v2_req",
+          "ubo.onboarding_3_1_0",
+          "feature/memcache_write_disabled",
+          "2022.jul.pro_transfer_on_rat",
+          "2026.apr.vsf_au10tix_rollout",
+          "2026.jan.enable_prime_access_provisioning_checks",
+          "2026.february.enable_hold_cash_earn_btc_cb1_upsell_uk",
+          "tax_center.manual_edits",
+          "acc.statements.reports_v2",
+          "2025.12.risk.clawback_reward_admin_initiate.cutover",
+          "2026.march.assessments.consume_risk_clustering_updates",
+          "ubo.coinbiz_allow_requirement_skip",
+          "aug_2020_fca_migration_entities",
+          "2026.jun.simple_futures_onboarding_enabled",
+          "2018.september.exchange_signin_policies",
+          "2023.aug.cbel_derivatives_onboarding",
+          "2026.jun.idv.populate_device_from_session_record",
+          "2021.may.c2c.onboarding",
+          "2025.oct.refresh_reminder_job_scheduler",
+          "2025.july.coinbiz_payment_links",
+          "2026.jul.shadow_compare_questions_cdd_titles_kyc_refresh_service",
+          "2026.may.ledger_entity_policy_switchover",
+          "sync_hedge.ltc",
+          "2024.june.usm_retail_session_migration",
+          "2024.oct.migrate_format_account_options_to_read_ledger",
+          "currency_rollout.krl.account",
+          "sync_hedge.reject_pair.ltc_eur",
+          "2024_sept_plt_nw_and_ai_trading_web",
+          "retail_p2p_multichain_network_rollout.polkadot",
+          "2024.oct.balance_read_from_ledger.serializer_map_balance",
+          "2018.march.account_statements",
+          "2026.jul.user_location_cache_shadow_networks",
+          "retail_p2p_multichain_asset_network_rollout.morpho.ethereum",
+          "2026.april.restricted_onboarding_low_rev_countries",
+          "retail_p2p_multichain_asset_network_rollout.farm.ethereum",
+          "2026.jun.retail_managed_self_block_shadow",
+          "currency_rollout.suku.holdable",
+          "sync_hedge.bch_gbp",
+          "2025.jan.flag_jumio_profile_decomp",
+          "2023.june.wem_edp",
+          "retail_p2p_multichain_asset_network_rollout.usdc.polkadot",
+          "tax_center.form_8949_non_cb1",
+          "trading_services.rebalance_hedger_crypto_job",
+          "2023.apr.rat_advanced_mode_tooltip",
+          "janus_fido_migration_2021",
+          "2025.12.risk.clawback_representment_submit.cutover",
+          "2024.apr.intx_positions_transfer_enabled_sandbox",
+          "2025.jul.price_chart_cleanup_on_unmount_web",
+          "2022.jun.eu_uk_enabled",
+          "2025.feb.idv.async_submit_session",
+          "2023.oct.non_resident_cbsg_onboarding.existing_users_entity_migration",
+          "2026.jul.spot_margin.custodying_entity",
+          "2025.jul.advanced_portfolio_total_balance_v5_web",
+          "2025.11.list_next_user_issues_request_fallback",
+          "2026.jun.assessments.coinbiz_residential_address_block",
+          "2026.apr.acc.strong_read_active_products",
+          "currency_rollout.jitosol.wrapped",
+          "sep_2020_legal_entity_new_schema",
+          "2025.jan_nationality_decomp",
+          "ubo.onboarding_2_9_0",
+          "tax_center.international",
+          "2024_sept_ptl_nw_and_ai_onboarding_rn",
+          "2026.january.token_sales_cb1_benefit_v2",
+          "2025.sept.intx_spot_cbe_routing_enabled",
+          "2023.apr.rat_advanced_mode",
+          "cadence_consumer_0_enabled",
+          "2026.jan.prediction_markets_live_selector",
+          "2026.mar.primary_address_gateway_migration_ekata",
+          "japan_alerts",
+          "2024_sept_plt_nw_and_ai_trading_rn",
+          "2025.july.coinbiz_ach_enabled",
+          "is_event_subscriptions_ach_noc_enabled",
+          "2026.apr.cbfse_futures_idv_with_facematch_enabled",
+          "2018.october.client_redirect_monitoring",
+          "2026.jun.aib_offer_detail_v2",
+          "2024.feb.rat_cookies_to_user_attributes",
+          "2025.nov.customerswire_cbie_exchange_swift_enabled",
+          "2023.oct.enable_self_verify_idtoken",
+          "2025.jun.intx_bind_clearloop_api_key_enabled",
+          "2026.mar.primary_address_gateway_migration_public_users",
+          "2024.sept.intx_index_perp_enabled_sandbox",
+          "ubo.is_risk_rating_conex_enabled",
+          "2024.september.idv.enable_idv_event_refactor",
+          "2025.aug.assessments.idv_edp_mismatch_proofing_metadata_sqs",
+          "2025.12.risk.clawback_representment_submit.shadow",
+          "2018.september.82260f439e59d9264d79f5470c30d15138ce6c14",
+          "2025.mar.rat_perpetuals_trailing_volume",
+          "2026.jan.intx_transfer_limit_enforced",
+          "trading_services.report_referral_balance_job",
+          "2024.mar.intx_trade_page_enabled",
+          "rewards_checker_per_product_fetch",
+          "tax_center.merge_txns_with_transfer_id",
+          "2025.march.yield.eligibility_v2.shadow",
+          "2025.may.assessments.enable_decisions_events",
+          "2026.apr.tokenized_equities_investing_experience_v2",
+          "2025.05.enable_list_assets_v2_batch",
+          "2026.jan.argentina_wind_down_backend",
+          "2025.12.risk.clawback_cron_grace.shadow",
+          "2025.apr.coinbiz_payment",
+          "2024.oct.rat_fee_schedule_eu_surge",
+          "2024.10.dd_sunset_new_cha",
+          "2018.october.2d10fc962b00e51dee006b542ed709f2a0db3220",
+          "2024.may.advanced_referral_program",
+          "2025.feb.intx_ticker_tape_enabled_sandbox",
+          "2025.jan.account_checklist_incentives_m2_web",
+          "2022.sg_fast.enable_payin",
+          "2026.02.acc.coinbiz_role_access_control",
+          "2026.jun.poi_ruby_validation",
+          "2023.oct.non_resident_cbsg_onboarding.new_users_signups",
+          "2025.nov.transfers_read_enabled",
+          "risk.unban_self_serve.rollout",
+          "2024.apr.intx_positions_transfer_enabled",
+          "retail_p2p_multichain_asset_network_rollout.sign.base",
+          "2019.february.ios10_upgrade_prompt",
+          "2025.apr.assessments.decisions_sqs_processing",
+          "2025.jan.jumio_pending_transfers_traffic_shift",
+          "2026.feb.order_sort_by_last_update_time_web",
+          "2025.mar.intx_boosted_rewards",
+          "2026.jan.p2p_send_flows.blocked_address_escalation.rollout",
+          "trading_services.report_balances_job",
+          "2026.mar.primary_address_gateway_migration_product_eligibility_service",
+          "2023.apr.skip_eth2_manual_optin_check",
+          "sync_hedge.reject_pair.etc_usd",
+          "sync_hedge.zrx_usd",
+          "lhv_satellite_withdrawals",
+          "nba_playoffs_2026_mobile_fsto_enabled",
+          "2026.june.multiple_nationalities_real_mode",
+          "2025.jan.mica_onboarding_phase6",
+          "2025.jan.mica_onboarding_phase3",
+          "2025.oct.cddplus_onboarding_cbpl_enabled",
+          "2026.may.create_send_v2_migration_2",
+          "2026.feb.pending_invite_flow",
+          "2026.may.aib_offer_detail_v2",
+          "tax_center.fcm",
+          "2025.apr.intx_usdc_rewards_automation_enabled",
+          "2025.september_futures_cbfse_enabled_rn",
+          "2026.jun.coinbiz_signin_le_country_gate",
+          "2023.jan.rat_l2_top_level_deps",
+          "2026.jan.teams_tab_access_control",
+          "feb_2022_filter_relevant_asset_data",
+          "currency_rollout.nmr.account",
+          "2026.jan.india_simple_sells_enabled",
+          "2026.may.enable_procx_proofing_metadata",
+          "tokenex_frontend",
+          "2026.apr.assessments.emit_user_proofing_data_updated",
+          "2024.06.screening_phase_3_enabled",
+          "2023.oct.transaction_details_split_fee",
+          "2025.nov.enable_day_of_change_resolution_usdc_gating",
+          "2024.sep.crypto_address_migration",
+          "2025.sep.country_change_validation_removal_from_idv",
+          "2026.mar.add_pan_dob_matching",
+          "2026.apr.coinbiz_dba_setting_web",
+          "2025.apr.intx_usdc_rewards_automation_report_enabled",
+          "2025.aug.rat_fixed_height_trading_layout",
+          "currency_rollout.suku.brokerage",
+          "2025.jun.customerswire_cbinc_prime_swift_enabled",
+          "2026.jan.rat_double_submission_guard_rn",
+          "2025.oct.decoder_resolver_migration",
+          "2026.march.workspace_single_invite_email",
+          "2024.feb.vara_annoucement",
+          "2025.jul.advanced_portfolio_total_balance_v5_rn",
+          "retail_p2p_multichain_asset_network_rollout.usdc.base",
+          "ubo.coinbiz_eligibility_check",
+          "2025.apr.4h_chart_resolution_web",
+          "retail_p2p_multichain_asset_network_rollout.bal.ethereum",
+          "2025.sep.rat_mobile_compression_header",
+          "barclays",
+          "2018.march.mobile.android.new_withdraw_deposit",
+          "2024.feb.advanced_fees_cms",
+          "ubo.intx_rewards_auto_enrollment",
+          "2026.jan.equities_accept_consent_on_account_open",
+          "2022.feb.web_disable_stop_1_percent_validation",
+          "2026.jul.payments_gateway.traffic_splitter_fail_closed",
+          "2025.nov.intx_api_key_flow_v2_enabled",
+          "2025.12.tx.clawback_reversal_initiate.cutover",
+          "2024.dec.intx_margin_override_enabled_sandbox",
+          "2024.sept.p2p_pending_sends_decomp.expiring_claims_rollout",
+          "retail_p2p_multichain_asset_network_rollout.farm.base",
+          "2025.12.risk.clawback_repayment_reversal_initiate.shadow",
+          "2023.november.deprecate_monorail_terms_of_service",
+          "2024.oct.intx_liquidation_alerts_polling_enabled_sandbox",
+          "2025.12.risk.clawback_admin_initiate.cutover",
+          "2026.mar.cbfse_high_risk_futures_block",
+          "2026.02.show_boosted_apy",
+          "2026.june.country_change_nationality_check",
+          "2025.jul.customerswire_cbie_prime_swift_enabled",
+          "2026.q2.uk_intx_launch",
+          "2024.aug.futures_onboarding_required_edp",
+          "2026.mar.primary_address_gateway_migration_control_center_compliance_reports",
+          "trading_services.report_risk_job",
+          "2026.march.cac_restriction_ux_improvements",
+          "retail_p2p_multichain_asset_network_rollout.sushi.base",
+          "2025.aug.1m_chart_resolution_web",
+          "2025.oct.price_chart_manual_cleanup_web",
+          "2024.aug.onboarding_user_token_remove_mobile",
+          "2020.march.japan.pool.enabled",
+          "sync_hedge.reject_pair.ltc_usd",
+          "jun_2024_onboarding_setup_exact_match",
+          "2025.jan.fca_high_risk_callback_decomposition",
+          "ubo.coinbiz_v2_file_upload_component",
+          "retail_p2p_multichain_asset_network_rollout.usdc.hyperliquid",
+          "2022.feb.web_stop_limit_orders",
+          "2025.12.risk.clawback_reversal_initiate.shadow",
+          "2025.08.reward_program_aib_data_enricher",
+          "tns_account_recovery_sms_create_while_logged_in",
+          "feb_2022_filter_product_feature",
+          "acc.statements.require_two_factor",
+          "sync_hedge.btc",
+          "2023.jul.rat_api_migration_incentives",
+          "2025.jul.braintree.pgs.remove_default_fallback",
+          "2020.november.japan.pool.transfer",
+          "retail_p2p_multichain_asset_network_rollout.knc.ethereum",
+          "2025.jul.cbfse_futures_onboarding",
+          "2024.rewards_hub_history_v2",
+          "2024.pm_policies.policy.uk.push_deposits.disable_pm_verified_check",
+          "2025.sep.mica_onboarding_de",
+          "2026.mar.primary_address_gateway_migration_screening",
+          "hnwi_request_a_call_enricher_enabled",
+          "2026.may.acc.entity_picker_coinbiz_domain_scope",
+          "2018.july.nin",
+          "2024.may.mobile_signup_clear_cache",
+          "tax_center.lend_claim_rewards_cost_basis",
+          "2024.feb.advanced_trade_settings",
+          "2025.dec.aib_upcoming_payouts_screen_v2",
+          "trading_services.all_jobs",
+          "2024.aug.futures_good_actor_reonboarding_web",
+          "retail_p2p_multichain_asset_network_rollout.ogn.ethereum",
+          "2024.oct.rat_perpetuals_promo",
+          "acc.statements.portfolio_summary",
+          "2026.july.atb_interac.payin.enabled",
+          "sync_hedge.zrx_eur",
+          "tax_center.filing_wizard",
+          "2024.jun.roti_edp_kyc_refresh_country_specific_fix",
+          "2026.mar.coinbiz_checkouts",
+          "2024.june.advanced_referral_program_referree_benefits",
+          "2025.mar.new_policy_restriction_source",
+          "2018.september.ef8745fd65788bc163b1c44a22946a6e119ca824",
+          "ubo.onboarding_3_0_0",
+          "sync_hedge.reject_pair.eth_usd",
+          "2021.apr.disable_loyalty_entry_card_web",
+          "2018.september.identity.trust_au10tix_barcode",
+          "2023.november.deprecate_monorail_costumer_info_page",
+          "tns_incident_sms_exploit",
+          "2026.mar.primary_address_gateway_migration_rewards_orchestration",
+          "retail_p2p_multichain_network_rollout.dogecoin",
+          "2026.apr.tracer.edit_public_metadata",
+          "2018.october.identity.expose_extra_user_verification_data",
+          "2025.aug.show_position_funding_fee_enabled_rn",
+          "execute_parser_shadow_test",
+          "2024.mar.advanced_order_confirm_setting",
+          "2022.august.consensus_2fa_reset",
+          "2026.jan.prime_signin_yubikey_preferences_requirement",
+          "2021.july.consensus_actions",
+          "2026.jan.prediction_markets_chart_labels",
+          "2026.jan.personal_info_form_for_non_basic_kyc",
+          "2026.jul.equities_surface_uk_finprom",
+          "2019.q3.turkish_translations",
+          "2025.dec.gos_enable_liveness_guidance",
+          "2024.aug.intx_multi_user_session_enabled",
+          "sync_hedge.reject_pair.btc_usd",
+          "5.26.2022.retail_acc_international_launch",
+          "2024.june.intx_indices_enabled",
+          "2026.apr.agentic_chat_streaming_web",
+          "2024.may.guidance_enabled_in_fm_vpa_www",
+          "2023.march.cb1_upsell_rebrand",
+          "2026.mar.checklist_banner_dp_gate",
+          "retail_p2p_multichain_asset_network_rollout.lrds.base",
+          "2026.march.hold_cash_earn_btc_fst_version_b1",
+          "2024.june.intx_rankings_page_enabled",
+          "2025.oct.contentful_locale_mapping_web",
+          "2019.q3.polish_translations",
+          "ubo.sg_coinbiz_1_0_0",
+          "2025.12.tx.clawback_cancellation_initiate.cutover",
+          "2018.october.8bb148b0726016f1b06b3f60bda9c0b389209dcf",
+          "2022.sept.login_domain_2fa_registration",
+          "2023.november.learn_cards",
+          "2025.apr.dynamic_country_code",
+          "jul_2022_feed_language_filtering",
+          "tax_center.w9form",
+          "2023.dec.intx_identity_navbar_enabled",
+          "2025.dec.de_unsupported_vendor_verification",
+          "2026.jul.enable_checkoutv2_cdv",
+          "2025.dec.2fa_bypass_for_w9_on_mobile",
+          "sync_hedge.etc_gbp",
+          "2026.mar.primary_address_gateway_migration_yield_service",
+          "2026.march.hold_cash_earn_btc_fst_version_a3",
+          "2026.jan.intl_tax_kyc_skip_version_check",
+          "2026.mar.primary_address_gateway_migration_subscription_management",
+          "2025.feb.p2p_restricted_create_restricted_claim_job_enabled",
+          "2025.sep.extended_customer_due_diligence_remediation",
+          "2026.06.intx_onboarding_use_policy",
+          "2025.12.include_packs_in_new_user_checker",
+          "2025.apr.uk_reduced_disclaimer_web",
+          "retail_p2p_multichain_asset_network_rollout.knc.base",
+          "2024.oct.intx_margin_loans_enabled",
+          "2026.jun.use_questions_for_kyc_titles_kyc_refresh_service",
+          "2023.sept.intx_multichain_support_base",
+          "retail_p2p_multichain_network_rollout.cardano",
+          "2025.august.fcm_automatic_sweep_onboarding_flow_enabled",
+          "2026.apr.cbfse_futures_hr_state_machine_enabled",
+          "2025.02.presentation_service_api_enabled",
+          "2025.nov.customerswire_cbpl_exchange_swift_enabled",
+          "2026.jul.assessments.cdd_plus_sof_sow_presence_rules",
+          "sync_hedge.eth_gbp",
+          "2025.aug.monsoon_order_form_revamp",
+          "2025.jul.trade_management_tray_resizable",
+          "2026.jan.india_rat_buys_enabled",
+          "2018.september.d6001b6ca67a4c489671cccf33176bc5349043ad",
+          "2025.jan.advanced_trade_redirect",
+          "transfer_settings_eligibility_check_enabled",
+          "2024.feb.disable_staking_controllers",
+          "2026.apr.prediction_markets_baseball_h2h",
+          "2025.jan.admin_jumio_index_decomp",
+          "2025.apr.4h_chart_resolution_intx_rn",
+          "2026.march.duplicate_account_cac_restriction.real_mode",
+          "2026.march.hold_cash_earn_btc_fst_version_b2",
+          "2026.jun.business_legal_entity_data_sources",
+          "retail_p2p_multichain_asset_network_rollout.sol.solana",
+          "ubo.coinbiz_stakeholder_document_validation",
+          "2026.jan.rat_double_submission_guard_web",
+          "2025.jan.new_users_mica_onboarding_phase2",
+          "retail_p2p_multichain_asset_network_rollout.usdc.tempo",
+          "2025.oct.cb1_member_week",
+          "tax_center.form_8949",
+          "2025.may.intx_ubo_api_key_limits_enabled_sandbox",
+          "2024.jul.intx_iop_enabled",
+          "2026.mar.kyc_refresh_idv_liveness_legal_name",
+          "currency_rollout.trac.holdable",
+          "braintree_payin_temporal_enabled",
+          "retail_p2p_multichain_asset_network_rollout.usdt.tempo",
+          "sync_hedge.eth_eur",
+          "currency_rollout.asm.brokerage",
+          "2026.feb.idv_risk_evaluator.jumio_fraud_shadow",
+          "2026.apr.identity_aware_data_sources",
+          "2025.april.new_fee_tiers_resolvers_rn",
+          "2026.jan.prediction_markets_head_to_head_buttons",
+          "2023.oct.intx_spot_trading_enabled",
+          "sync_hedge.reject_pair.bch_eur",
+          "2023.jun.intx_multichain_support_polygon",
+          "retail_p2p_multichain_asset_network_rollout.zrx.base",
+          "2024.nov.enable_sync_resave_transaction",
+          "tax_center.advanced_filters",
+          "2026.mar.smsf_onboarding_pm_enabled",
+          "feature/memcache_fallback_disabled",
+          "2026.jan.coinbiz_auto_liquidation_and_transfer",
+          "2018.oct.prompt.service",
+          "2025.12.risk.clawback_repayment_reversal_initiate.cutover",
+          "tns_block_malicious_names_on_web",
+          "2025.jul.coinbiz_enable_phase2",
+          "2024.sep.disable_ledger_cleanup_failed_job",
+          "2026.jan.order_sort_by_last_update_time_rn",
+          "2026.may.aco_no_active_equity_account_validation",
+          "2025.12.risk.clawback_user_submit.shadow",
+          "retail_p2p_multichain_asset_network_rollout.doge.dogecoin",
+          "2021.jan.fedwire_buy_support",
+          "2025.jan.new_users_mica_onboarding_phase3",
+          "2024.04.use_blueprint_mfa_required",
+          "2026.jan.prediction_markets_live_indicator_web",
+          "2019.october.track_realtime_events_ios",
+          "june_2022_eth2_cbeth_rewards_explainer",
+          "2024.feb.vechain_annoucement",
+          "2025.dec.override_platform_based_on_referrer_api_store",
+          "2026.apr.coinbiz_entity_required",
+          "sync_hedge.bch",
+          "2022.mar.card_ga",
+          "2025.april.aa_questions_post_vasp",
+          "2026.jan.market_info_tab_enabled",
+          "rn_native_earn",
+          "acc.statements.savings_statement",
+          "currency_rollout.trac.assets",
+          "worldpay_card_expired_email.killed",
+          "2023.apr.skip_eth2_eligibility_check",
+          "2025.apr.india_launch",
+          "8.3.2022.email_recovery_launch",
+          "2024_sept_ptl_nw_and_ai_onboarding_web",
+          "2024.jul.intx_new_markets_enabled",
+          "2024.sep.pm_decomp.google_pay.disable_monorail_create_on_fly",
+          "2024.mar.intx_trade_page_enabled_sandbox",
+          "2018.september.386ccaa0032067ab75ad5629bae76e0243f4a3f6",
+          "2025.oct.futures_simple_show_fiat_controls_rn",
+          "2024.june.intx_rankings_page_enabled_sandbox",
+          "mongo_enrich_feature_flag_enabled",
+          "2025.sep.cash_gating_breakdown_tray",
+          "2026.apr.mica_c2c_onboarding_crs_v2_shadow",
+          "2026.feb.accounts_for_sweeping_migration",
+          "2024.jul.max_edp_attempts_name_dob_mismatch_decomp",
+          "ubo.sg_coinbiz_1_1_0",
+          "2024.jan.intx_addressbook_allowlist_enabled",
+          "uicomponent_enricher_enabled",
+          "2024.sep.send_only_flag_removal_logs_enabled",
+          "2025.sep.allow_country_change_cipl",
+          "retail_p2p_multichain_asset_network_rollout.uni.ethereum",
+          "retail_p2p_multichain_network_rollout.megaeth",
+          "2020.feb.ios.disable_duplicate_analytics_tracking",
+          "retail_p2p_multichain_asset_network_rollout.sign.ethereum",
+          "2025.aug.raise",
+          "2024.dec.edd_admin_decomp_create",
+          "trading_services.track_quotes_job",
+          "tax_center.eth2",
+          "rewards-enricher-migration",
+          "2025.apr.default_portfolio_rename_rn",
+          "currency_rollout.lcx.account",
+          "2026.feb.show-intl-tax-kyc-remediation-mobile",
+          "retail_p2p_multichain_asset_network_rollout.sushi.ethereum",
+          "2026.february.enable_hold_cash_earn_btc_cb1_upsell",
+          "2024.12.enable_user_segment_checker",
+          "2025.jan.approve_jumio_profile_service_decomp",
+          "2025.jan.new_users_mica_onboarding_phase4",
+          "2026.apr.spot_trading_view_v29_upgrade_web",
+          "2024.event_subscriptions.dual_write_pms.rtp",
+          "2024.oct.unified_tx_history",
+          "2026.feb.prediction_markets_event_hub_mm_games_tab",
+          "ubo.coinbiz_1_7_0",
+          "2026.feb.simple_intx_unified_selector_rn",
+          "2026.feb.rat_tradfi_classification_enabled_web",
+          "2025.june.scb_swift.policy_service_changes",
+          "2024.may.futures_contract_overview_rn",
+          "2024.feb.intx_cross_collateral_enabled",
+          "2026.jan.india_sells_enabled",
+          "2025.nov.mica_cblu_record_keeping",
+          "2025.10.tracer.unify_bidirectional_edges_amounts",
+          "2024.11.disable_sepa_van",
+          "retail_p2p_multichain_asset_network_rollout.rpl.base",
+          "tns_account_recovery_bound_context",
+          "ubo.coinbiz_1_8_0",
+          "2026.mar.cddplus_attribute_hrr_enabled",
+          "2023.march.block_monorail_invalid_brl_transfers",
+          "retail_p2p_multichain_asset_network_rollout.mega.base",
+          "2025.jun.spot_expandable_blotter_web",
+          "2021.jan.ios_wire_ux_improvements",
+          "2018.september.f23bef182402037cea412626d02dc95942c6b809",
+          "retail_p2p_multichain_asset_network_rollout.ogn.base",
+          "2026.may.assessments.user_update.dual_write_pae",
+          "currency_rollout.asm.assets",
+          "2026.mar.primary_address_gateway_migration_creditcard",
+          "2025.feb.policies.au_name_dob_idv_edp",
+          "2023.sept.create_user_attestations",
+          "2026.may.equities_checks_us_tax_kyc_policy",
+          "sync_hedge.reject_pair.btc_eur",
+          "2026.jul.enriched_user_uuid_to_apex_account_cache",
+          "2026.may.maine_self_hosted_send_limit_rn",
+          "2025.dec.equities_onboarding_launch",
+          "retail_p2p_multichain_asset_network_rollout.lrds.ethereum",
+          "ubo.vendor_vss_grpc",
+          "2025.apr.coinbiz_onboarding_pm_enabled",
+          "2026.jan.tokenized_equities_dynamic_agreements",
+          "2024.oct.rat_futures_promo",
+          "2024.july.deprecate_lend_eligible_transaction_service",
+          "2025.dec.prediction_markets_event_images_visibility",
+          "acc.statements.enabled",
+          "2025.jan.mica_onboarding_phase5",
+          "2024.aug.unified_derivatives_onboarding",
+          "retail_p2p_multichain_asset_network_rollout.ada.cardano",
+          "2026.jan.tracer.show_mcp_announcement",
+          "2023.jun.intx_multi_portfolios_enabled_sandbox",
+          "2026.jan.prediction_markets_explore_live_scores",
+          "2026.mar.primary_address_gateway_migration_workflow_engine",
+          "2026.apr.csv_generation_web",
+          "2026.mar.primary_address_gateway_migration_feed_service",
+          "2022.nov.pms.user_service.use_decomp_endpoint",
+          "2025.jan.admin_jumio_show_decomp",
+          "2025.dec.onboarding_v2.signin.shadow.rollout",
+          "2026.feb.verified_legal_name_signin_shadow",
+          "retail_p2p_multichain_asset_rollout.sol",
+          "2024.dec.intx_margin_override_enabled",
+          "retail_p2p_multichain_asset_network_rollout.comp.ethereum",
+          "2026.mar.use_get_apms_display_info",
+          "braintree_avs_verifypm_test",
+          "2026.mar.primary_address_gateway_migration_earn_center",
+          "2026.mar.primary_address_gateway_migration_tax_center",
+          "2026.jan.prediction_markets_live_selector_web",
+          "2026.mar.cbfse_futures_general_kyc_verification",
+          "2025.jan.futures_roll_new_help_link",
+          "2024.may.guidance_enabled_in_remaining_idv_req",
+          "2023.feb.localized_currency_input",
+          "acc.statements.equities_eligibility",
+          "2026.feb.jpmorgan_kinexys.prime.cctc.usd.push_deposits",
+          "2026.jun.advanced_futures_onboarding_enabled",
+          "2021.april.admin_credits_pulls_manager_review",
+          "2026.mar.primary_address_gateway_migration_brokerage",
+          "2024.july.enable_cbca_merchant",
+          "2025.apr.default_portfolio_rename_web",
+          "2025.august.retail_defi_lend_blended_rate",
+          "2025.nov.idv.enforce_rate_limit_submit_session",
+          "2025.nov.futures_show_increase_position_tab_web",
+          "2025.sep.india_cipl_eligibility_check_disabled",
+          "2024.december.nationality_gql_onboarding",
+          "tax_center.html_reports",
+          "2024.january.futures_upsell_on_tax",
+          "ubo.exchange_product_disabled",
+          "2023.jun.intx_gasless_usdc_sends",
+          "2024.sep.pm_decomp.apple_pay.disable_monorail_create_on_fly",
+          "2024.dec_futures_poa_enabled_web",
+          "2024.jul.onboarding_next_requirement_graphql",
+          "2025.sept.mica_intx_rollout",
+          "retail_p2p_multichain_asset_network_rollout.pepe.base",
+          "2025.proofing_data.primary_address_legacy_ranking",
+          "2026.jan.prediction_markets_market_image_overrides_visibility",
+          "2023.mar.brazil_cbke_policy_enabled",
+          "2024.jul.intx_iop_enabled_sandbox",
+          "ubo.businessapplication",
+          "graphql.seo_service_grpc_client_cache_enabled",
+          "2022.retail_fedwire_push_deposit",
+          "2024.june.disallow_uk_plus_country_change",
+          "2026.mar.primary_address_gateway_migration_p2p_asset_recovery",
+          "2026.jan.prime_access_cta_ordering",
+          "2025.apr.idv.callbacks.notify_sqs",
+          "2026.jan.p2p_send_flows.blocked_address_event_emission.rollout",
+          "acc.coinbiz_show_retail_taxes",
+          "jan_2026_cdd_plus_por_for_eu_sanctions",
+          "2026.apr.country_change_eligibility_shadow",
+          "2025.12.risk.clawback_admin_process.shadow",
+          "2025.oct.add_hrr_validation_enforcement",
+          "mar_2022_acs_cache",
+          "tax_center.pregenerate_reports",
+          "2026.jun.rat_advanced_access_home_gate",
+          "2026.jul.in_pan_name_validation",
+          "2025.nov.india_nux_checklist",
+          "2023.september.rat_l2_finprom_disclaimer",
+          "tax_center.cointracker_integration",
+          "2025.aug.mica_unlock_experiment",
+          "tns.accounts.fido.keys.2021",
+          "2026.feb.p2p_travel_rules_enabled",
+          "2023.november.deprecate_monorail_email_verification_page",
+          "2023.jun.intx_multichain_support_solana",
+          "2025.aug.perp_order_form_suspense_instrumentation",
+          "2026.jan.prime_signin_basic_idv_requirement",
+          "2025.may.uk_persistent_disclaimer_rn",
+          "2025.oct.coinbiz_sprig_survey",
+          "2026.may.enriched_apex_account_cache",
+          "2024.nov.onfido_liveness_api_update",
+          "2026.jul.accounts_for_flow_v2_migration_www",
+          "2020.september.ios.delay_loading_home_components_v2",
+          "2024.dec.change_jumio_status_decomp",
+          "2024.sept.p2p_pending_sends_decomp.completing_claims_rollout",
+          "2019.august.japanese_onboarding",
+          "2025.november.enable_common_lockout_jobs",
+          "sync_hedge.reject_pair.bch_usd",
+          "2025.jan.new_users_mica_onboarding_phase1",
+          "ubo.deprecate_invite_code",
+          "tax_center.tax_guide_2022",
+          "braintree_set_partner_payment_id",
+          "2022.experiment_as_a_service.golang",
+          "tax_notifications.corrected_irs_form",
+          "2026.mar.primary_address_gateway_migration_plugins",
+          "2025.nov.indonesia_idv_liveness",
+          "2025.dec.equities_onboarding_idv_launch",
+          "2025.aug.1w_chart_resolution_web",
+          "2025.aug.show_position_funding_fee_enabled",
+          "2024.dec_futures_poa_enabled_rn",
+          "sync_hedge.btc_eur",
+          "feb_2024_live_price_subscription_rn",
+          "2025.nov.futures_new_close_position_modal_web",
+          "2026.jul.eea_nationality_cutoff_removal",
+          "2025.mar.tracer.searchv2",
+          "sync_hedge.etc_eur",
+          "2025.july.brazil_derivatives_onboarding_unblock",
+          "ubo.coinbiz_v2_owner_component",
+          "2024.aug.learning_rewards_announcement_card",
+          "2024.oct.intx_liquidation_alerts_enabled_sandbox",
+          "2025.sep.cash_rewards_to_native_currency",
+          "sync_hedge.reject_pair.etc_eur",
+          "2023.jun.intx_multichain_support_arbitrum",
+          "2026.may.dex_buy_risk_restrictions_web",
+          "2024.payment_methods.policy_service.skip_store",
+          "2024.apr.referrals_eligibility",
+          "2022.nov.singapore_onboarding",
+          "2026.feb.ipo_access",
+          "2026.mar.primary_address_gateway_migration_bank_frick",
+          "2026.jan.prediction_markets_live_indicator",
+          "2023.february.sherlock_contentful_migration",
+          "2025.apr.4h_chart_resolution_intx_web",
+          "braintree_reverse_temporal_enabled",
+          "2023.jun.intx_multichain_support_avacchain",
+          "tax_center.tax_guide_2023",
+          "2024_sept_plt_nw_and_ai_settings_web",
+          "2025.apr.profile_change_monitor_bjs",
+          "2026.may.transact_intx.derivatives_onboarding_shadow",
+          "use_dust_line",
+          "2026.may.ipo_questionnaire_required",
+          "2026.mar.primary_address_gateway_migration_marketing_tracking_service",
+          "2024.dec.cdd_resubmission_allowed",
+          "2025.dec.equities_onboarding_coinbase_employee_check",
+          "2023.nov.pre_create_idv_profile",
+          "2026.may.equities_dynamic_consent_version_lookup",
+          "2023.may.set_germany_default_remediation_group_19",
+          "2025.nov.chart_trading_brackets_enabled_web",
+          "2024.apr.use_coinbase_url_iah",
+          "ubo.is_review_step_enabled",
+          "jan_2022_ztf_cap",
+          "currency_rollout.trac.brokerage",
+          "2026.apr.agentic_chat_streaming_rn",
+          "2023.identity.prove.kill.legacy.2fa.address.bulk",
+          "tns_account_recovery_sms_phone_information_while_logged_in",
+          "2024.event_subscriptions.skipped.handler.disablebuying",
+          "require_card_cdv",
+          "2025.jan.mica_onboarding_phase4",
+          "retail_p2p_multichain_asset_network_rollout.uni.base",
+          "2026.apr.cbfse_futures_poa_last_poa",
+          "tns_cache_default_second_factor_jul_2022",
+          "2026.feb.prediction_markets_h2h_card_revamp",
+          "2024.april.transaction_details_refactor",
+          "2018.september.52f586bdea6f54ede0194814bdb694f1eb79b415",
+          "2025.sep.intx_perps_amount_slider_web",
+          "2026.mar.primary_address_gateway_migration_networks",
+          "2025.apr.4h_chart_resolution_futures_rn",
+          "2026.02.acc.le_team_page",
+          "2024.may.intx_prelaunch_enabled_sandbox",
+          "2018.october.77fa07483f797816f09e7e72ac8e229dcc046a49",
+          "2026.mar.cblu_mica_restriction",
+          "sync_hedge.ltc_gbp",
+          "2026.jan.equities_residential_address_po_box_check",
+          "temporal-cloud-enabled",
+          "retail_p2p_multichain_network_rollout.ripple",
+          "2025.dec.aib_tracking_screen_v2",
+          "2025.august.migrate_derivatives_settings",
+          "2026.mar.primary_address_gateway_migration_payout_risk_evaluator",
+          "2023.sep.deposit_on_buy",
+          "tax_center.futures_no_merge",
+          "2025.oct.market_selector_desktop_v4_web",
+          "braintree_refund_temporal_enabled",
+          "2026.mar.edp.idology_via_service",
+          "2026.mar.send_risk_restrictions_rn",
+          "sync_hedge.ltc_eur",
+          "2025.04.worldpay.use_new_routing",
+          "2025.jun.uk_cc_v2_web",
+          "2018.march.email_recovery",
+          "2025.dec.equities_block_missing_nationality",
+          "2022.nov.rat_usdc_usd_convert",
+          "2025.march.compliance_flags.exchange_callbacks_decomp",
+          "2026.mar.primary_address_gateway_migration_user_review_service",
+          "retail_p2p_avs_direct_lightning_invoice_decode",
+          "feature/valkey_read_enabled",
+          "acc.statements.identity_account_id",
+          "2025.11.get_user_primary_address",
+          "2025.aug.assessments.idv_proofing_metadata_sqs_rewiring",
+          "sync_hedge.reject_pair.btc_gbp",
+          "2025.feb.intx_ticker_tape_enabled",
+          "2025.sep.new_users_mica_onboarding_de",
+          "2026.february.enable_hold_cash_earn_btc_announcement",
+          "retail_p2p_skip_single_chain_config_lookup",
+          "aug_2024_rat_futures_after_hours_orders",
+          "2025.feb.enable_uis_for_account_management",
+          "currency_rollout.suku.account",
+          "2025.nov.cbpl_remediation_platform_refresh_creation",
+          "2023.june.fiat_withdrawal.risk_check",
+          "2024.feb.intx_fees_page_enabled",
+          "2025.may.enable_proofing_metadata_using_decisions",
+          "tns.client_id.requests",
+          "2025.oct.assessment_admin_flag_retryq",
+          "2018.november.airdrop",
+          "2025.dec.idv_eventing_redesign",
+          "2025.04.rat_harpoon_use_canvas_order_book",
+          "2022.feb.progressive_onboarding_de",
+          "retail_p2p_multichain_asset_network_rollout.doge.base",
+          "2025.may.new_fee_tiers_resolvers",
+          "sep_2023_dp_poll_enricher_get_data",
+          "2025.oct.banking_circle_now.cbinc_rollout",
+          "retail_p2p_multichain_asset_network_rollout.usdc.optimism",
+          "ubo.coinbiz_sof_v2_enabled",
+          "2025.may.advanced_vip_status_match_form_web",
+          "2026.jun.enable_procx_poa_callbacks",
+          "2025.12.risk.clawback_reward_admin_process.shadow",
+          "2026.mar.primary_address_gateway_migration_btcrossriver",
+          "2026.feb.deprecate_coinbiz_product_policies",
+          "2026.mar.prediction_markets_tennis_h2h",
+          "2024.mar.advanced_order_preview_setting",
+          "2022.sg_fast.enable_payout",
+          "2026.march.hold_cash_earn_btc_fst_version_a2",
+          "2026.jun.aco_use_pricing_service_for_currency_prices",
+          "2026.feb.use_edp_service_for_profile_reads",
+          "2019.may.earn_intl_fast_lane",
+          "2025.oct.simple_futures_education_resources_web",
+          "2024.aug.rewards_hub_menu_item",
+          "2026.feb.skip_soft_requirements_enabled_cblu",
+          "2025.dec.prefill_edp_complete_delay_rn",
+          "2025.november.settlement_capability_merging_enabled",
+          "ubo.coinbiz_kycr",
+          "2026.feb.verified_legal_name_signin",
+          "2025.nov.transfers_read_use_v2",
+          "ubo.is_business_manager_enabled",
+          "2026.mar.send_risk_restrictions_web",
+          "2024.feb.intx_cross_collateral_enabled_sandbox",
+          "2026.mar.checklist_banner_pes_gate",
+          "2024.oct.de_te_restriction",
+          "2025.apr.account_checklist_banner_migration",
+          "retail_p2p_multichain_asset_network_rollout.morpho.base",
+          "2026.jan.prime_signin_high_risk_facematch_only",
+          "tax_center.hr_block",
+          "2025.sept.kyc_refresh_country_change",
+          "enable_tax_kyc_self_certification",
+          "2025.dec.crossriver.deprecate_non_cbinc_swift",
+          "sept_2021_retail_social_metrics",
+          "2026.mar.onboarding_cdd_plus_cbsg_enabled",
+          "2023.nov.futures_homecard_web",
+          "2022.jan.card.non_card_dda_eligibility",
+          "2025.jan.new_users_mica_onboarding_phase5",
+          "2026.mar.skip_verified_legal_name_requirement",
+          "2026.mar.p2p_ads_deprecation",
+          "2019.nov.transform_locale",
+          "2023.may.rat_advanced_mode_subdomain",
+          "2025.sep.rat_web_worker_compression_header",
+          "tns_wsst_2021",
+          "2024.aug.futures_new_terms_endpoint_reonboarding_web",
+          "2026.06.derivatives_access_level_use_policy",
+          "ar2.0.security_health_check_rn",
+          "2026.mar.primary_address_gateway_migration_tax_identity",
+          "retail_p2p_multichain_asset_rollout.mega",
+          "2022.jun.rds_requirement_enabled",
+          "2024.oct.ledger_hold_with_currency",
+          "2024_sept_plt_nw_and_ai_settings_rn",
+          "2026.feb.ca_token_sales_consent_required",
+          "2023.jul.account_balance_only_using_ledger",
+          "2026.apr.pass_action_context_to_gos",
+          "2022.june.rat_l2_dark_mode_button",
+          "2024.may.render_onboarding_signedin_stack",
+          "2023.asset_stats_enricher.list_assets",
+          "2020.september.ios.prevent_loading_home",
+          "2024.sept.remove_ledger_cleanup_failed_job",
+          "currency_rollout.suku.assets",
+          "retail_p2p_multichain_asset_network_rollout.ghst.ethereum",
+          "2026.mar.primary_address_gateway_migration_kyc_refresh_service",
+          "2024.sept.intx_index_perp_enabled",
+          "2025.jan.checklist_new_uk_step_web",
+          "2025.dec.simple_derivatives_increase_button_rn",
+          "currency_rollout.lcx.holdable",
+          "2025.jun.prime.bt.swift.deposit_instructions_path",
+          "2025.dec.equities_onboarding_launch_ssn_check",
+          "braintree_dispute_temporal_enabled",
+          "2024.jul.no_user_token_fetch",
+          "2026.feb.enable_uk_equities",
+          "2024.dec.force_trade_stream_reconnect",
+          "2026.feb.eu_stablecoin_send_challenge",
+          "2024.oct.intx_liquidation_alerts_polling_enabled",
+          "retail_p2p_multichain_asset_network_rollout.sol.base",
+          "2025.nov.transfers_write_enabled",
+          "2024.feb.learning_rewards_announcement",
+          "2018.october.identity.attempt_backfill_from_jumio_api",
+          "2022.october.derivs_promo_badge",
+          "2025.nov.orchestrate_pending_country_change_requirement",
+          "2025.feb.overseer_admin_migration",
+          "2018.february.credit_card_blacklist",
+          "2023.sep_enable_prioritized_bermuda_signup",
+          "2025.may.assessments.idv_callbacks_after_decision_processing",
+          "2026.mar.primary_address_gateway_migration_payment_method_service",
+          "2026.may.allow_cn_country_change",
+          "2024.september.password_decomp",
+          "2026.jun.shadow_compare_questions_titles_kyc_refresh_service",
+          "tax_center.ey_retail_kyc_vendor",
+          "idv_risk_evaluator.set_jumio_fraud_dual_write",
+          "2025.jul.price_chart_data_resubscription_web",
+          "2025.apr.4h_chart_resolution_rn",
+          "2025.05.tracer.graph_optimization",
+          "2024.nov.disable_fiat_account_side_effect",
+          "ubo.coinbiz_v2_form_design",
+          "2026.apr.enable_poa_name_validity_rule_in_assessments",
+          "2018.may.deprecate_instant_exchange",
+          "2024.may.intx_prelaunch_enabled",
+          "currency_rollout.krl.brokerage",
+          "2026.february.enable_hold_cash_earn_btc_announcement_uk",
+          "retail_p2p_multichain_asset_network_rollout.pro.ethereum",
+          "braintree_monitorsla_temporal_enabled",
+          "feature/use_defi_borrow_client_v3",
+          "2026.jun.enable_procx_edp_callbacks",
+          "ubo.eks_poller_rev_sync",
+          "2025.oct.rat_full_chart_trading_futures",
+          "tax_center.promo_card",
+          "2025.jan.mica_onboarding_phase2",
+          "2022.aug.nux.publish_to_checklist_kafka",
+          "2024.kyc_refresh_service.policy_service.skip_store",
+          "tax_center.india_daily_tax_note_test",
+          "ubo.coinbiz_1_5_0",
+          "2021.june.bbml_wsst",
+          "2019.march.notifications_preferences",
+          "2025.jan.customerswire_cbie_prime_enabled",
+          "currency_rollout.lcx.brokerage",
+          "2025_septemeber_usdc_gating_prechange",
+          "idv_risk_evaluator.set_jumio_fraud_cutover",
+          "2026.jan.india_simple_buys_enabled",
+          "2025.jun.enable_cb1_basic_gtm_cards",
+          "acc.statements.canada",
+          "2021.august.bpo_pulls_peer_review",
+          "2025.jan.new_users_mica_onboarding_phase6",
+          "2018.october.b60e8c218141a61e8270fe6f6528c6b8b0f710a9",
+          "2024.nov_futures_liquidation_calc_price_rn",
+          "2025.jan.fail_jumio_profile_decomp",
+          "2026.jan.p2p_brazil_travel_rules",
+          "2026.jul.eea_nationality_consent_real_mode",
+          "2026.jun.idv.identity_device_id_as_device_id",
+          "2026.jul.idv.web_identity_device_id_from_cat",
+          "2025.12.risk.clawback_admin_process.cutover",
+          "2026.mar.primary_address_gateway_migration_lhv",
+          "2025.jul.coinbiz_payments_trade_and_send",
+          "retail_p2p_multichain_asset_network_rollout.zrx.ethereum",
+          "2023.nov.simplified_user_journey",
+          "2026.jul.use_questions_for_cdd_titles_kyc_refresh_service",
+          "kill_sw_brokerage_api_caching",
+          "retail_p2p_multichain_asset_network_rollout.pepe.ethereum",
+          "2024.aug.intx_multi_user_session_enabled_sandbox",
+          "2023.november.deprecate_monorail_verifications_page",
+          "2023.sept.regroup_quick_actions",
+          "currency_rollout.krl.assets",
+          "graphql.shared_grpc_client_cache",
+          "2026.feb.enable_name_validity_rule_in_assessments",
+          "retail_dapps_eligible",
+          "2025.jan.mica_onboarding_phase1",
+          "2025.feb.turn_off_notify_exchange_job",
+          "acc.statements.portfolio_summary_use_ledger",
+          "2026.feb.cbsg_non_resident_poa_required",
+          "2026.feb.aib_tracking_screen_v2_web",
+          "tax_center.in_tax_reports",
+          "2025.nov.p2p_pending_sends.expiring_phone_claims_rollout",
+          "2025.mar.incentive_context_rn",
+          "tns_obfuscated_phone_number",
+          "2023.dec.intx_identity_navbar_enabled_sandbox",
+          "2025.12.risk.clawback_admin_initiate.shadow",
+          "retail_p2p_multichain_asset_network_rollout.pro.base",
+          "sync_hedge.eth",
+          "2025.policies_service.hash_store_enabled",
+          "currency_rollout.lcx.assets",
+          "2025.jul.derivatives_fee_display_web",
+          "tax_center.hide_beta",
+          "2026.mar.coinbiz_require_approved_application",
+          "2024.nov_futures_liquidation_calc_price_web",
+          "2026.mar.primary_address_gateway_migration_card",
+          "2026.feb.jpmorgan_kinexys.prime.cctc.usd.withdrawals",
+          "2026.mar.primary_address_gateway_migration_global_onboarding_service",
+          "2019.q2.japan_translations",
+          "keep_alive_service_worker",
+          "2025.06.rewards_orchestration_usdc_new_data_source",
+          "tns_sms_verification_new_phone_number",
+          "ubo.coinbiz_server_side_autofill",
+          "2021.feb.tns.paypal_email_mismatch_2fa",
+          "ar2.0.security_health_check_web",
+          "2024.oct.intx_auto_margin_enabled",
+          "2025.jun.uk_cc_v2_rn",
+          "2026.jan.cbfse_futures_proof_of_address",
+          "2026.jan.advanced_feedback_web",
+          "2024.jul.intx_new_markets_enabled_sandbox",
+          "retail_p2p_multichain_asset_network_rollout.trac.ethereum",
+          "2025.12.risk.clawback_reward_initiate.cutover",
+          "2024.oct.intx_auto_margin_enabled_sandbox",
+          "2026.jul.cb911_paypal_continue_polling",
+          "2020.sep.ios.new_idv",
+          "2025.apr.4h_chart_resolution_futures_web",
+          "2026.july.atb_interac.payout.enabled",
+          "2019.january.web_design_system",
+          "2026.march.hold_cash_earn_btc_fst_br",
+          "2023.aug.packs_v2",
+          "2024.oct.intx_cross_collateral_rn",
+          "2026.feb.onboarding_v2.remove_extra_sources.shadow",
+          "2025.12.risk.clawback_cron_unstake.cutover",
+          "2023.oct.bermuda_disable_primary_address_city_validation",
+          "2024.aug.consent_v2",
+          "ubo.coinbiz_1_9_0",
+          "2025.jan.account_checklist_incentives_m2_rn",
+          "2026.mar.cddplus_attribute_hrr_enable",
+          "currency_rollout.nmr.pro",
+          "2026.feb.cbfse_idv_expiry_check",
+          "2025.12.risk.clawback_reversal_initiate.cutover",
+          "feature/disable_web3_wallet_defi_eligibility_traffic",
+          "2026.mar.tracer.data_freshness_ui",
+          "2025.nov.intx_api_key_flow_v2_enabled_sandbox",
+          "2026.mar.primary_address_gateway_migration_travel_rules_oracle",
+          "2024.04.use_blueprint_mfa_required_rn",
+          "2025.11.enable_get_user_primary_address",
+          "ubo.coinbiz_v2_address_component",
+          "2026.mar.primary_address_gateway_migration_magic_platform",
+          "2023.sept.revoke_user_attestations",
+          "2026.jul.p2p_receive_v2_www",
+          "sep_2020_accepted_user_agreement_new_schema",
+          "2025.jul.price_chart_container_migration",
+          "2023.sept.intx_multichain_support_optimism",
+          "2025.may.intx_ubo_api_key_limits_enabled",
+          "2024_oct_futures_notional_values_web",
+          "2025.jul.assessments.decisions_sqs_rewiring",
+          "ubo.multi_org_view",
+          "2024.nov.de_force_idv_on_bankident_kill_switch",
+          "2018.september.0c7e7f445c740daa8c3f9fb31f1a0ce728a3918f",
+          "2023.oct.intx_spot_trading_enabled_sandbox",
+          "2026.apr.aco_derivatives_policy_switchover_enabled",
+          "2023.oct.intx_ctn_integration_enabled",
+          "2024.02.adv_fee_upgrade_home_card",
+          "2024.dec.jumio_admin_decomp_retry_profile",
+          "enable_ml_feed_service",
+          "2026.apr.workspace_per_le_member_roles",
+          "2025.nov.prediction_markets_about_buttons",
+          "tax_center.enabled",
+          "2025.mar.mobile_riskified_enabled",
+          "2025.jun.intx_bind_clearloop_api_key_enabled_sandbox",
+          "sync_hedge.zrx_sgd",
+          "2025.sep.tax_lots",
+          "2020.october.ios.throttle_reloading_home",
+          "ubo.vendor_integration_enabled",
+          "sep_2020_accepted_usa_user_agreement_new_schema",
+          "feb_2024_live_price_subscription_web",
+          "2025.jul.tracer.email_alerts",
+          "2025.nov.enable_disable_crypto_sends_self_serve",
+          "2024.jun.perps_order_form_v2",
+          "tax_center.cost_basis_settings",
+          "2025.mar.web_riskified_enabled",
+          "2020.december.ios.switch_to_csf_for_portfolio",
+          "2026.apr.business_apps_live_fallback",
+          "2024.aug.futures_new_terms_endpoint_reonboarding_rn",
+          "2026.jun.enable_procx_idv_callbacks",
+          "2026.mar.primary_address_gateway_migration_transfer_notification_service",
+          "2025.12.risk.clawback_cron_unstake.shadow",
+          "currency_rollout.asm.account",
+          "2025.jan.jumio_delayed_transactions_traffic_shift",
+          "retail_p2p_multichain_asset_network_rollout.comp.base",
+          "retail_p2p_multichain_network_rollout.optimism",
+          "2023.aug.rat_order_form_dropdown",
+          "acc.statements.deprecate_reports",
+          "2020.october.ios.limit_refreshing_home",
+          "2026.jan.argentina_wind_down_web",
+          "2026.jun.onfido.repeat_attempts_same_user_skip",
+          "ubo.coinbiz_eligibility_granular_reasons",
+          "2026.mar.primary_address_gateway_migration_offramp_service",
+          "sync_hedge.reject_pair.zrx_usd",
+          "2023.july.manage_coinbase_attestations",
+          "2026.jan.coinbiz_signin_restrictions",
+          "2025.send_au10tix_webhook",
+          "2019.q4.korean_translations",
+          "2026.feb.intl_tax_kyc_remediation",
+          "2023.april.vendor_solaris_create_idv",
+          "2026.jan.india_buys_enabled",
+          "ubo.unlimited_coinbiz_applications",
+          "2019.q4.thai_translations",
+          "test_wallet_ocs_challenge",
+          "2026.mar.deprecate_smsf_product_policies",
+          "retail_p2p_multichain_asset_network_rollout.trac.base",
+          "retail_p2p_multichain_asset_network_rollout.wld.optimism",
+          "2024.sept.migrate_user_serializer_accounts_to_read_ledger",
+          "2026.mar.primary_address_gateway_migration_support_api",
+          "2023.dec.top_5_feed_test",
+          "2025.nov.chart_order_stream_web_worker_migration_web",
+          "2026.apr.predictions_filtering_nav_revamp",
+          "dec_2023_rat_api_key_www",
+          "sync_hedge.reject_pair.eth_eur",
+          "2026.05.disable_outer_api_response_cache",
+          "jan_2026_cdd_plus_por_for_global_sanctions",
+          "2025.jun.coinbiz_onboarding_ffs_disabled",
+          "2026.02.enable_stream_ui_components",
+          "2025.12.risk.clawback_reward_admin_process.cutover",
+          "acc.statements.pro_enabled",
+          "2026.jan.india_rat_sells_enabled",
+          "feature/checker_fail_fast_enabled",
+          "2024.oct.sync_reverse_entries_on_cancel",
+          "2024.feb.derivatives_settings_position_limit_tiers",
+          "2025.jan.checklist_new_uk_step",
+          "2025.nov.enable_pre_resolution_usdc_gating",
+          "2021.june.bpo_credit_pull",
+          "2018.october.239ef794ec83da84373ea7e6d14e215412a9da1d",
+          "2022.umo_notification_opt_in",
+          "2026.02.policy_checker_use_identity_account_id",
+          "2026.jul.cfm_user_details_confirmation_rollout",
+          "2023.nov.tray_quick_action_intl",
+          "2024.july.simple_dust_web",
+          "2026.mar.primary_address_gateway_migration_tax_quote",
+          "2024.feb.intx_fees_page_enabled_sandbox",
+          "2025.12.quick_actions_crypto_to_crypto_eligibility",
+          "retail_p2p_multichain_network_rollout.litecoin",
+          "currency_rollout.trac.account",
+          "2020.december.ios.enable_bank_email_verification_friction",
+          "2024.feb.futures_onboarding_optimize_employment_step",
+          "pms_coinbase_fiat_account_dual_write",
+          "2026.jan.prediction_markets_live_scores",
+          "tns_bind_context_sms_2fa",
+          "tax_center.earn_rebrand",
+          "tax_center.1099_2025_dogfooding_filter",
+          "retail_p2p_multichain_asset_network_rollout.usdc.monad",
+          "retail_p2p_multichain_asset_network_rollout.ltc.litecoin",
+          "2025.apr.uk_reduced_disclaimer",
+          "2026.apr.predictions_sports_grouped_explore",
+          "retail_p2p_multichain_asset_network_rollout.mega.megaeth",
+          "tax_center.authz_context_enrichment.enabled",
+          "braintree_disbursement_temporal_enabled",
+          "2024.feb.p2p_send_flows.fetch_fees_from_retail_networks",
+          "2026.march.hold_cash_earn_btc_fst_version_b3",
+          "2025.oct.futures_simple_show_fiat_controls_web",
+          "2025.12.risk.clawback_cron_grace.cutover",
+          "2025.march.kyc_fields_update",
+          "2024.nov.poa_primary_address_update",
+          "ubo.coinbiz_1_6_0",
+          "2018.sep.simple.public_bundles",
+          "2026.mar.primary_address_gateway_migration_threat_investigation_portal_backend",
+          "2024.oct.intx_liquidation_alerts_enabled",
+          "2026.jul.equities_options_trading_launch",
+          "2026.may.populate_legal_name_from_ar",
+          "2025.dec.chart_trading_pair_position_tp_sl_futures_web",
+          "2025.oct.rat_full_chart_trading_spot",
+          "2024.nov.rat_web_quick_funding",
+          "retail_p2p_multichain_asset_network_rollout.xrp.base",
+          "2025.dec.scb_swift.exchange.prosumer",
+          "ubo.kafka_refinitiv_enabled",
+          "2026.march.hold_cash_earn_btc_fst_version_a1",
+          "acc.refactor_layout",
+          "2022.may.rn_global_appsflyer_tracking_enabled",
+          "sync_hedge.btc_gbp",
+          "2026.jan.assessments.proofing_data.engine.rollout",
+          "2025.oct.nux_card_redesign",
+          "sync_hedge.etc",
+          "2025.nov.transfers_write_use_v2",
+          "2025.08.eui_trading_streaks",
+          "2026.04.enable_user_intent_ranker",
+          "2026.feb.prediction_markets_live_score_card_revamp",
+          "2024.oct.transfer.controller.deprecation",
+          "currency_rollout.sol.wrappable",
+          "2025.dec.proofing_fragments_recalc_by_providers_enabled",
+          "2026.jan.tracer.filter_by_hash",
+          "2024.sept.migrate_user_closure_blockers_to_read_ledger",
+          "2024.june.intx_indices_enabled_sandbox",
+          "2023.oct.packs_v2_temporary",
+          "2026.may.maine_self_hosted_send_limit_web",
+          "2026.may.dex_buy_risk_restrictions_rn",
+          "2023.jun.intx_multi_portfolios_enabled",
+          "nba_playoffs_2026_announcement_card_enabled",
+          "2024.aug.futures_good_actor_reonboarding_rn",
+          "2025.apr.brazil_derivatives_onboarding",
+          "2026.apr.coinbiz_business_statements_redirect",
+          "2019.march.pro_international_c2c_countries",
+          "2023.oct.advanced_fee_upgrade",
+          "2025.sep.unified_refresh_de_cblu",
+          "retail_p2p_multichain_asset_network_rollout.bal.base",
+          "retail_p2p_multichain_asset_network_rollout.rpl.ethereum",
+          "2025.oct.rat_full_chart_trading_perps",
+          "2026.may.join_legal_entity_enabled",
+          "sync_hedge.bch_eur",
+          "2024.jan.rat_be_driven_advanced_mode",
+          "2022.march.earn_ingest_user_crm_data_summaries",
+          "2023.oct.enable_return_to_login_callback",
+          "2024.08.sanctioned_country_decomp_enabled",
+          "2025.oct.inappedd_onboarding_cbpl_enabled",
+          "retail_p2p_multichain_network_rollout.monad",
+          "retail_p2p_multichain_network_rollout.tempo",
+          "retail_p2p_multichain_asset_network_rollout.ghst.base",
+          "2025.nov.quick_trade_modal_amount_currency_selector_web",
+          "2025.aug.optimized_rendering_web"
+        ],
+        "country": {
+          "code": "BR",
+          "name": "Brazil"
+        },
+        "regionFeatures": {
+          "isInEurope": false,
+          "supportsFiatTransfers": true,
+          "supportsCryptoToCryptoTransfers": true
+        },
+        "personalDetails": {
+          "legalName": {
+            "firstName": "Sandro Matheus Vila Nova",
+            "lastName": "Marques"
+          },
+          "address": {
+            "line1": "Rua Joaquim Antônio, 437",
+            "line2": "",
+            "line3": "",
+            "city": "Alegrete",
+            "state": "APT 302",
+            "postalCode": "97542-360",
+            "country": {
+              "code": "BR",
+              "name": "Brazil"
+            }
+          },
+          "primaryAddress": {
+            "line1": "Rua Joaquim Antônio, 437 ",
+            "line2": "",
+            "line3": "",
+            "city": "Alegrete",
+            "state": "APT 302",
+            "postalCode": "97542-360",
+            "country": {
+              "code": "BR",
+              "name": "Brazil"
+            }
+          },
+          "residentialAddress": {
+            "state": "APT 302",
+            "country": {
+              "code": "BR"
+            }
+          },
+          "dateOfBirth": "1999-06-10"
+        },
+        "onboardingCompletionRedirectUrl": "/home",
+        "pendingVerificationDocumentId": "",
+        "pendingVerificationFacematchDocumentId": "",
+        "id": "VXNlclByb3BlcnRpZXM6MA==",
+        "nextRequirement": "",
+        "requirementMetadata": null,
+        "nextRequirementObservabilityTags": null
+      }
+    },
+    "clientConfigBoolean": [
+      {
+        "key": "prediction_markets_is_superbowl_live",
+        "value": false
+      }
+    ],
+    "clientConfigString": [
+      {
+        "key": "fcm_minimum_fee_per_contract",
+        "value": "0.14"
+      },
+      {
+        "key": "fcm_liquidation_fee_percent",
+        "value": "0.001"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_open_time",
+        "value": "6PM"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_close_time",
+        "value": "4PM"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_length",
+        "value": "22"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_open_time",
+        "value": "12AM"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_close_time",
+        "value": "10PM"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_length",
+        "value": "22"
+      },
+      {
+        "key": "sepa_direct_debit_max_poll_attempt",
+        "value": "500"
+      },
+      {
+        "key": "fcm_promo_fee_tier_percent",
+        "value": "0.0002"
+      },
+      {
+        "key": "simple_futures_margin_offset_tolerance_value",
+        "value": "5"
+      },
+      {
+        "key": "accredited_investor_manual_documents_days_count",
+        "value": null
+      },
+      {
+        "key": "simple_chart_settings_defaults",
+        "value": "{\n  \"items\": [\n    {\n      \"string_map\": {\n        \"scope\": \"cex\",\n        \"showClosingLine\": \"true\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"dex\",\n        \"showClosingLine\": \"false\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"marketCap\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"equities\",\n        \"showClosingLine\": \"true\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"derivatives\",\n        \"showClosingLine\": \"false\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    }\n  ]\n}"
+      },
+      {
+        "key": "p2p_claimable_receive_action_needed_delay",
+        "value": "86400000"
+      },
+      {
+        "key": "stripe_fc_publishable_key",
+        "value": "pk_live_51QBKtPIyoPktJf0KZuSdUh3e4mL1t1gbiGTpAJO6ftSDyLq93EyK32iYhlVuppNXhcIUrBkN7gnZfMlHL29jp3pQ00iJsO8BvA"
+      },
+      {
+        "key": "p2p_lightning_processing_fee",
+        "value": "0.2"
+      },
+      {
+        "key": "prediction_event_details_web_live_update_interval_ms",
+        "value": "2500"
+      },
+      {
+        "key": "prediction_explore_web_live_update_interval_ms",
+        "value": "2500"
+      },
+      {
+        "key": "prediction_markets_position_web_live_update_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_cards_position_web_live_update_interval_ms",
+        "value": null
+      },
+      {
+        "key": "prediction_event_live_score_web_polling_interval_ms",
+        "value": "1000"
+      },
+      {
+        "key": "prediction_markets_cards_live_score_web_polling_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_transactions_web_live_update_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_transactions_web_max_poll_count",
+        "value": "2"
+      },
+      {
+        "key": "prediction_markets_superbowl_event_ticker",
+        "value": "KXSB-26"
+      },
+      {
+        "key": "prediction_markets_superbowl_countdown",
+        "value": "86400000"
+      },
+      {
+        "key": "prediction_markets_event_hub_tag_web",
+        "value": "Men's Pro Basketball"
+      },
+      {
+        "key": "prediction_markets_event_hub_tag_web_secondary",
+        "value": "Pro Hockey"
+      },
+      {
+        "key": "prediction_markets_featured_events_count_web",
+        "value": null
+      },
+      {
+        "key": "prediction_trade_web_input_debounce_duration_ms",
+        "value": "250"
+      },
+      {
+        "key": "retail_rn_transfero_countdown_minutes",
+        "value": "2"
+      },
+      {
+        "key": "cad_wire_deposit_minimum_in_cad",
+        "value": "10000"
+      },
+      {
+        "key": "ca_tiered_reward_prosperity_campaign_id",
+        "value": "tvr_ca_20260302_20260329"
+      },
+      {
+        "key": "market_selector_desktop_v4_refresh_interval",
+        "value": null
+      },
+      {
+        "key": "dex_launchpad_filter_tray_section_value_config_v1",
+        "value": "{\n  \"items\": [\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"NEW:SOLANA\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"75000\",\n        \"marketCap.ticks\": \"1,10000,25000,50000,75000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"100\",\n        \"holders.ticks\": \"1,20,40,60,100\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"1000,3000,5000\",\n        \"liquidity\": \"1000,2000,3000\",\n        \"topHolders\": \"25,45,65\",\n        \"insiders\": \"25,45,65\",\n        \"globalFees\": \"100,250,500\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:SOLANA\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"8500\",\n        \"holdersMin\": \"15\",\n        \"volume24hMinUsd\": \"3000\",\n        \"liquidityMinUsd\": \"2000\",\n        \"top10HoldersPctMax\": \"45\",\n        \"insidersPctMax\": \"45\",\n        \"globalFeesMinUsd\": \"500\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:SOLANA\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"5000\",\n        \"holdersMin\": \"10\",\n        \"volume24hMinUsd\": \"1000\",\n        \"liquidityMinUsd\": \"1000\",\n        \"top10HoldersPctMax\": \"65\",\n        \"insidersPctMax\": \"65\",\n        \"globalFeesMinUsd\": \"100\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"NEW:BASE\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"75000\",\n        \"marketCap.ticks\": \"1,10000,25000,50000,75000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"100\",\n        \"holders.ticks\": \"1,20,40,60,100\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"500,1000,2000\",\n        \"liquidity\": \"500,1000,2000\",\n        \"topHolders\": \"25,45,65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:BASE\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"10000\",\n        \"holdersMin\": \"15\",\n        \"volume24hMinUsd\": \"1000\",\n        \"liquidityMinUsd\": \"1000\",\n        \"top10HoldersPctMax\": \"45\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:BASE\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"5000\",\n        \"holdersMin\": \"10\",\n        \"volume24hMinUsd\": \"500\",\n        \"liquidityMinUsd\": \"500\",\n        \"top10HoldersPctMax\": \"65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"1000000\",\n        \"marketCap.ticks\": \"1,250000,500000,750000,1000000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"10000\",\n        \"holders.ticks\": \"1,2500,5000,7500,10000\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"10000,25000,50000\",\n        \"liquidity\": \"5000,25000,50000\",\n        \"topHolders\": \"25,45,65\",\n        \"insiders\": \"25,45,65\",\n        \"globalFees\": \"1000,5000,10000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"100000\",\n        \"holdersMin\": \"250\",\n        \"volume24hMinUsd\": \"25000\",\n        \"liquidityMinUsd\": \"25000\",\n        \"top10HoldersPctMax\": \"45\",\n        \"insidersPctMax\": \"45\",\n        \"globalFeesMinUsd\": \"5000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"50000\",\n        \"holdersMin\": \"100\",\n        \"volume24hMinUsd\": \"10000\",\n        \"liquidityMinUsd\": \"5000\",\n        \"top10HoldersPctMax\": \"65\",\n        \"insidersPctMax\": \"65\",\n        \"globalFeesMinUsd\": \"1000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"1000000\",\n        \"marketCap.ticks\": \"1,250000,500000,750000,1000000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"10000\",\n        \"holders.ticks\": \"1,2500,5000,7500,10000\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"7500,15000,25000\",\n        \"liquidity\": \"5000,10000,25000\",\n        \"topHolders\": \"25,45,65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"60000\",\n        \"holdersMin\": \"50\",\n        \"volume24hMinUsd\": \"15000\",\n        \"liquidityMinUsd\": \"10000\",\n        \"top10HoldersPctMax\": \"45\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"40000\",\n        \"holdersMin\": \"40\",\n        \"volume24hMinUsd\": \"7500\",\n        \"liquidityMinUsd\": \"5000\",\n        \"top10HoldersPctMax\": \"65\"\n      }\n    }\n  ]\n}"
+      },
+      {
+        "key": "credit_card_days_until_allowed_reapply",
+        "value": "45"
+      },
+      {
+        "key": "creditcard_card_details_url_web",
+        "value": "https://embedded.cardless.com/embed/ui/coinbase?next=%2Fp%2Fcoinbase%2Fui%2Fcard%2Fvirtual%2Foverlay%3Fcolor%3Dwhite%26bg%3Durl(https%3A%2F%2Fd1dwhf283nul1c.cloudfront.net%2Fui_components_asset%2F93fef456-2e93-4363-8a54-bcca0d9c558b.webp)%20center%2Fcover%20no-repeat"
+      },
+      {
+        "key": "creditcard_card_details_loading_timeout_ms",
+        "value": "20000"
+      },
+      {
+        "key": "defi_lend_pending_refresh_buffer_ms",
+        "value": "5000"
+      },
+      {
+        "key": "native_currency_equities_quote_match_tolerance",
+        "value": "0.01"
+      },
+      {
+        "key": "usdc_top_up_amount_multiplier",
+        "value": "1.0009"
+      },
+      {
+        "key": "equity_acats_contact_support_url",
+        "value": "https://calendly.com/d/cvdj-38w-x67/trading-specialist-consultation"
+      },
+      {
+        "key": "intl_account_terms_conditions_url",
+        "value": "https://www.coinbase.com/legal"
+      },
+      {
+        "key": "trading_competition_landing_page_base_url",
+        "value": "https://www.coinbase.com/en-in/legal/champions-cup-terms"
+      },
+      {
+        "key": "trading_competition_invite_friends_base_url",
+        "value": "http://coinbase.com/coinbase-champions-cup-india"
+      },
+      {
+        "key": "trading_competition_terms_url",
+        "value": "https://www.coinbase.com/en-in/legal/champions-cup-terms"
+      },
+      {
+        "key": "uk_deposit_takeover_cutoff",
+        "value": "2026-07-06T10:00:00Z"
+      },
+      {
+        "key": "session_replay_mask_level",
+        "value": "medium"
+      },
+      {
+        "key": "trading_competition_dates",
+        "value": "July 8–29, 2026, IST"
+      },
+      {
+        "key": "trading_competition_registration_terms_html",
+        "value": "<p>Coinbase India Trading Competition is offered by Coinbase India Private Limited (“CIPL”) and open only to lawful residents of India who are at least 18 years old, have a valid, active Coinbase account, are onboarded to Coinbase Advanced, and complete at least 100 USDC in eligible perpetual futures trading volume in their designated Competition Account during the Competition Period ({competitionDates}). Normal trading fees, spreads, and funding payments apply. Total Prize Pool between 50,000–350,000 USDC, allocated across PnL Notional, PnL Percent, and Volume leaderboards. Crypto products and NFTs are unregulated in India and can be highly risky, and there may be no regulatory recourse for any loss from such transactions. Participation is subject to the full Coinbase India Trading Competition. <a href=\"https://www.coinbase.com/en-in/legal/champions-cup-terms\">See terms</a>.</p>"
+      }
+    ],
+    "clientConfigStringArray": [
+      {
+        "key": "eea_tiered_referral_eligible_countries",
+        "value": [
+          "DE",
+          "NL",
+          "SE",
+          "NO"
+        ]
+      },
+      {
+        "key": "digital_wallet_discoverability_eligible_countries",
+        "value": [
+          "US",
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "key": "mica_compliant_countries",
+        "value": [
+          "AT",
+          "BE",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FI",
+          "FR",
+          "DE",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SK",
+          "SI",
+          "ES",
+          "SE",
+          "IS",
+          "LI",
+          "NO"
+        ]
+      },
+      {
+        "key": "hnwi_concierge_active_chat_widgets",
+        "value": [
+          "cb1-premium-upsell",
+          "lend-upsell",
+          "security-settings",
+          "onchain-borrow-upsell",
+          "staking-upsell",
+          "usdc-savings-upsell",
+          "cb1-card-upsell"
+        ]
+      },
+      {
+        "key": "idv_supported_doc_flags",
+        "value": [
+          "US",
+          "FR",
+          "IT",
+          "ES",
+          "NL",
+          "DE",
+          "AU",
+          "IN"
+        ]
+      },
+      {
+        "key": "fee_tier_keep_trading_excluded_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "advanced_points_excluded_countries",
+        "value": []
+      },
+      {
+        "key": "intx_incentive_exclude_countries",
+        "value": [
+          "AO",
+          "AR",
+          "AT",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LK",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MD",
+          "MT",
+          "MX",
+          "MZ",
+          "NL",
+          "NO",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SI",
+          "SK",
+          "SV",
+          "TN",
+          "TR",
+          "TW",
+          "UG",
+          "VN"
+        ]
+      },
+      {
+        "key": "intx_incentive_exclude_primary_address_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "top_asset_default_category_eligible_countries",
+        "value": [
+          "AU",
+          "BR",
+          "CA",
+          "DE",
+          "ES",
+          "FR",
+          "IT",
+          "NL",
+          "SG",
+          "UK"
+        ]
+      },
+      {
+        "key": "hnwi_concierge_chat_team_photos",
+        "value": [
+          "https://static-assets.coinbase.com/hnwi/concierge/melana.png",
+          "https://static-assets.coinbase.com/hnwi/concierge/milad.png",
+          "https://static-assets.coinbase.com/hnwi/concierge/syubin.png"
+        ]
+      },
+      {
+        "key": "bank_specific_di_countries",
+        "value": [
+          "SG"
+        ]
+      },
+      {
+        "key": "coinbiz_payments_supported_target_assets",
+        "value": [
+          "USDC"
+        ]
+      },
+      {
+        "key": "coinbiz_payments_supported_source_asset_uuids",
+        "value": [
+          "2b92315d-eab7-5bef-84fa-089a131333f5"
+        ]
+      },
+      {
+        "key": "dex_uuid_overrides",
+        "value": [
+          "95629556-915b-5a8d-9c40-3ad15b9a87c5",
+          "a644b923-04cb-516f-a316-3b1208e0e8dd",
+          "8b13ab57-88aa-5e3f-9b44-a1158ddad906",
+          "433e1bcb-7045-5f68-8407-10fa6dadcb08",
+          "a106eb0c-ca90-5330-b620-b7b6b1b826e3",
+          "03f3290d-cf3b-5b28-a9f1-b9dea7e7bddb",
+          "8d8cc525-f3e8-5af2-abac-52e776c42601",
+          "828b52e1-c923-54c7-8a5d-3f45a14cc667",
+          "97f7548f-a70c-51d7-b833-c335fb1314d0",
+          "97e5a6c9-ecd4-5e1b-a0f0-a7560e1cc2e3",
+          "37c964ce-8f6c-5f29-b15c-86afeabc9d64",
+          "8d3a6590-3375-5e19-8415-cf1266b02d2a",
+          "cebcd8c1-04de-5cc1-ae10-7844d857a174",
+          "3182351d-db9e-5886-93ec-491645c3dec4",
+          "7b4f5dc3-76f1-5338-b7d5-c9b96a610ecf",
+          "f1d69feb-1883-59a9-a94f-c65e617e89ce",
+          "c790812a-970a-5beb-b20c-0c490de88f2d",
+          "14afa5ad-24a4-593b-a555-665f6a7f3ac1",
+          "f052d20b-c9f4-574d-b765-b3246967127d",
+          "c36406f7-4adc-5fa6-8e93-72a4581385a1",
+          "7e7faed7-8c84-5af2-bd58-ffff14d4e500",
+          "79ad4deb-cb6a-5d77-a204-2513db4da3af",
+          "1e3c6198-a16e-566d-a320-577bb33d59fb",
+          "770d6575-ef09-51bd-bb21-1b44e8d09522",
+          "98c99eb6-f60c-55b1-94a2-e7bf7a17d891",
+          "8f77c329-f360-5923-bf95-af6aadf6b1ad",
+          "bc222020-4552-5568-833b-1aae57703f13",
+          "f052d20b-c9f4-574d-b765-b3246967127d",
+          "f8775150-7fbe-55f6-a89f-50d2a03d0839"
+        ]
+      },
+      {
+        "key": "rat_fiat_deposit_picker_currencies",
+        "value": [
+          "CAD"
+        ]
+      },
+      {
+        "key": "saa_required_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "savings_account_eligible_currencies",
+        "value": null
+      },
+      {
+        "key": "market_selector_desktop_v4_pinned_perps_products",
+        "value": [
+          "SPCX-PERP-INTX",
+          "AI10-PERP-INTX",
+          "TECH100-PERP-INTX",
+          "CHINA10-PERP-INTX",
+          "DFND10-PERP-INTX",
+          "OPENAI-PERP-INTX",
+          "ANTHROPIC-PERP-INTX",
+          "MRVL-PERP-INTX",
+          "EWY-PERP-INTX"
+        ]
+      },
+      {
+        "key": "dex_intl_countries",
+        "value": [
+          "AT",
+          "BE",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FI",
+          "FR",
+          "DE",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SK",
+          "SI",
+          "ES",
+          "SE",
+          "IS",
+          "LI",
+          "NO",
+          "AR",
+          "BR",
+          "AU",
+          "AL",
+          "AM",
+          "AO",
+          "AW",
+          "AZ",
+          "BB",
+          "BD",
+          "BF",
+          "BH",
+          "BJ",
+          "BM",
+          "BO",
+          "BS",
+          "BW",
+          "BZ",
+          "CG",
+          "CI",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "DO",
+          "DZ",
+          "EC",
+          "EG",
+          "ET",
+          "FJ",
+          "GA",
+          "GH",
+          "GT",
+          "HN",
+          "ID",
+          "IL",
+          "JM",
+          "JO",
+          "KE",
+          "KG",
+          "KH",
+          "KW",
+          "KY",
+          "LC",
+          "LK",
+          "MA",
+          "MD",
+          "MK",
+          "MN",
+          "MO",
+          "MR",
+          "MU",
+          "MV",
+          "MW",
+          "MX",
+          "MY",
+          "MZ",
+          "NE",
+          "NG",
+          "NP",
+          "OM",
+          "PA",
+          "PE",
+          "PG",
+          "PK",
+          "PY",
+          "RS",
+          "RW",
+          "SA",
+          "SC",
+          "SN",
+          "SR",
+          "SV",
+          "TG",
+          "TH",
+          "TJ",
+          "TN",
+          "TR",
+          "TT",
+          "UA",
+          "UG",
+          "UY",
+          "UZ",
+          "VG",
+          "VN",
+          "ZA",
+          "ZM",
+          "GB",
+          "IN",
+          "SG",
+          "HK",
+          "PH",
+          "NZ",
+          "KR",
+          "TW",
+          "AE",
+          "CA"
+        ]
+      },
+      {
+        "key": "packs_incentive_redemption_order",
+        "value": [
+          "BLUECHIP",
+          "MEMECOIN",
+          "STAKING",
+          "BTC"
+        ]
+      },
+      {
+        "key": "system_alert_cache_eviction_tags",
+        "value": [
+          "central-resolution-hub-medium-severity"
+        ]
+      },
+      {
+        "key": "yield_center_exclude_assets",
+        "value": [
+          "USDC"
+        ]
+      },
+      {
+        "key": "yield_center_extra_countries",
+        "value": [
+          "SG",
+          "CA"
+        ]
+      },
+      {
+        "key": "yield_center_restricted_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "staking_disclaimer_proofing_required_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "yield_center_wrapped_assets_staking",
+        "value": [
+          "CBETH",
+          "JITOSOL"
+        ]
+      },
+      {
+        "key": "staking_summary_hidden_assets",
+        "value": [
+          "ALGO",
+          "USDT",
+          "DAI",
+          "JITOSOL"
+        ]
+      },
+      {
+        "key": "country_change_unsupported_countries",
+        "value": [
+          "AD",
+          "AF",
+          "AG",
+          "AI",
+          "AN",
+          "AQ",
+          "AS",
+          "AT",
+          "AX",
+          "BA",
+          "BE",
+          "BG",
+          "BI",
+          "BL",
+          "BN",
+          "BQ",
+          "BT",
+          "BV",
+          "BY",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CH",
+          "CK",
+          "CN",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "EE",
+          "EH",
+          "ER",
+          "ES",
+          "FI",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GU",
+          "GW",
+          "GY",
+          "HM",
+          "HR",
+          "HT",
+          "HU",
+          "IE",
+          "IM",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JP",
+          "KI",
+          "KM",
+          "KN",
+          "KP",
+          "KZ",
+          "LA",
+          "LB",
+          "LI",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MC",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "ML",
+          "MM",
+          "MP",
+          "MQ",
+          "MS",
+          "MT",
+          "NA",
+          "NC",
+          "NF",
+          "NI",
+          "NL",
+          "NO",
+          "NR",
+          "NU",
+          "PF",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PW",
+          "QA",
+          "RE",
+          "RO",
+          "RU",
+          "SB",
+          "SD",
+          "SE",
+          "SH",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SO",
+          "SS",
+          "ST",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TK",
+          "TL",
+          "TM",
+          "TO",
+          "TV",
+          "TZ",
+          "UM",
+          "VA",
+          "VC",
+          "VE",
+          "VI",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZW"
+        ]
+      },
+      {
+        "key": "intx_perps_hidden_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "perpetuals_options_experiment_countries",
+        "value": [
+          "BM",
+          "BR",
+          "SG",
+          "IN",
+          "GB",
+          "AU"
+        ]
+      },
+      {
+        "key": "insufficient_dp_data_error_overrides_disable_web",
+        "value": []
+      },
+      {
+        "key": "risky_etps_inverse",
+        "value": [
+          "SQQQ",
+          "TBT",
+          "SH",
+          "TBF",
+          "SPXU",
+          "SDS",
+          "PSQ",
+          "TZA",
+          "SDOW",
+          "SVXY",
+          "SPXS",
+          "TMV",
+          "DOG",
+          "RWM",
+          "QID",
+          "SOXS",
+          "TTT",
+          "KOLD",
+          "FAZ",
+          "SRTY",
+          "SPDN",
+          "TBX",
+          "SCO",
+          "DXD",
+          "DRIP",
+          "JDST",
+          "PST",
+          "TWM",
+          "HDGE",
+          "DUST",
+          "TECS",
+          "SJB",
+          "SVOL",
+          "YANG",
+          "LABD",
+          "EUM",
+          "ERY",
+          "TYO",
+          "GLL",
+          "DWSH",
+          "ZSL",
+          "EDZ",
+          "GDXD",
+          "DUG",
+          "HIBS",
+          "FXP",
+          "DRV",
+          "BZQ",
+          "EFZ",
+          "SRS",
+          "SKF",
+          "MYY",
+          "REK",
+          "YXI",
+          "BIS",
+          "EPV",
+          "NRGD",
+          "SEF",
+          "EMTY",
+          "DZZ",
+          "EEV",
+          "SMDD",
+          "WTID",
+          "WEBS",
+          "SBB",
+          "OILD",
+          "EWV",
+          "REW",
+          "DGZ",
+          "BERZ",
+          "SDD",
+          "SSG",
+          "SDP",
+          "RXD",
+          "MZZ",
+          "SMN",
+          "SIJ",
+          "DULL",
+          "EFU",
+          "SCC",
+          "SZK",
+          "FNGD",
+          "BNKD",
+          "SVIX",
+          "BITI",
+          "FLYD",
+          "NVDS",
+          "TSLQ",
+          "AAPD",
+          "TSLI",
+          "TSLS",
+          "AMZD",
+          "GGLS",
+          "MSFD",
+          "JETD",
+          "CARD",
+          "NVDD",
+          "SETH",
+          "SBIT",
+          "ETHD",
+          "SARK",
+          "TSLZ",
+          "NVDQ",
+          "CORD",
+          "CRCD",
+          "SKRE",
+          "DAMD",
+          "BMNZ",
+          "HOOZ",
+          "IONZ",
+          "SMST",
+          "OKLS",
+          "QBTZ",
+          "RGTZ",
+          "SMCZ",
+          "STSM",
+          "AIBD",
+          "AMDD",
+          "AVS",
+          "BOED",
+          "BRKD",
+          "REKT",
+          "CSCS",
+          "FRDD",
+          "ELIS",
+          "LMTS",
+          "QQQD",
+          "METD",
+          "NFXS",
+          "ORCS",
+          "PALD",
+          "QCMD",
+          "TSXD",
+          "SHPD",
+          "TTXD",
+          "TSMZ",
+          "XOMZ",
+          "CONI",
+          "MSDD",
+          "NVD",
+          "QQDN",
+          "CRCD",
+          "NVDQ",
+          "TSLZ",
+          "SMQ",
+          "SKRE",
+          "FLYD",
+          "BNKD",
+          "FNGD",
+          "ETQ",
+          "BERZ",
+          "CORD",
+          "OILD",
+          "DULL",
+          "GDXD",
+          "NRGD",
+          "NVDQ",
+          "TSLZ",
+          "CRCD",
+          "BTCZ",
+          "MSTZ",
+          "SKRE",
+          "CARD",
+          "JETD",
+          "SNK",
+          "SPCQ",
+          "DLUX",
+          "LITZ",
+          "SCUB",
+          "SNDQ",
+          "AAOZ",
+          "ORCZ",
+          "SKHZ",
+          "SKDD"
+        ]
+      },
+      {
+        "key": "risky_etps_leveraged",
+        "value": [
+          "TQQQ",
+          "QLD",
+          "SSO",
+          "SOXL",
+          "FAS",
+          "UPRO",
+          "SPXL",
+          "TECL",
+          "TNA",
+          "FNGU",
+          "UCO",
+          "ROM",
+          "UVXY",
+          "UYG",
+          "UDOW",
+          "GUSH",
+          "NUGT",
+          "LABU",
+          "NRGU",
+          "AGQ",
+          "JNUG",
+          "ERX",
+          "YINN",
+          "PFFA",
+          "DDM",
+          "USD",
+          "DPST",
+          "URTY",
+          "CWEB",
+          "NAIL",
+          "TMF",
+          "UWM",
+          "BULZ",
+          "DFEN",
+          "FNGO",
+          "UGL",
+          "BOIL",
+          "CURE",
+          "BRZU",
+          "BIB",
+          "DIG",
+          "MVV",
+          "EDC",
+          "RXL",
+          "RETL",
+          "DRN",
+          "URE",
+          "BNKU",
+          "HIBL",
+          "CHAU",
+          "DGP",
+          "WEBL",
+          "MIDU",
+          "GDXU",
+          "INDL",
+          "TPOR",
+          "UYM",
+          "DUSL",
+          "SPUU",
+          "UMDD",
+          "EET",
+          "WANT",
+          "UBT",
+          "KORU",
+          "SAA",
+          "MVRL",
+          "SMHB",
+          "UBOT",
+          "EUO",
+          "EURL",
+          "BDCX",
+          "QULL",
+          "UCC",
+          "SCDL",
+          "IWFL",
+          "UTSL",
+          "MLPR",
+          "IWDL",
+          "USML",
+          "CEFD",
+          "YCS",
+          "CEFZ",
+          "UXI",
+          "UJB",
+          "IWML",
+          "MTUL",
+          "TYD",
+          "UPW",
+          "XPP",
+          "UST",
+          "PILL",
+          "PFFL",
+          "UGE",
+          "MEXX",
+          "HDLB",
+          "EFO",
+          "XDSQ",
+          "XBJL",
+          "XTJL",
+          "EZJ",
+          "FNGG",
+          "WTIU",
+          "XTAP",
+          "UBR",
+          "XJUN",
+          "UCYB",
+          "UPV",
+          "XBOC",
+          "SHNY",
+          "OILU",
+          "ULE",
+          "SKYU",
+          "QTOC",
+          "LTL",
+          "YCL",
+          "XTOC",
+          "XDEC",
+          "QTJA",
+          "XBJA",
+          "XTJA",
+          "RSEE",
+          "GDE",
+          "UVIX",
+          "TARK",
+          "FLYU",
+          "AAPB",
+          "AAPU",
+          "CONL",
+          "TSL",
+          "TSLL",
+          "MSOX",
+          "AMZU",
+          "GGLL",
+          "MSFU",
+          "XSEP",
+          "BABX",
+          "FBL",
+          "NVDL",
+          "BITX",
+          "CARU",
+          "NVDU",
+          "AAPX",
+          "AMDL",
+          "AMZZ",
+          "BITU",
+          "SPYU",
+          "ETHU",
+          "ETHT",
+          "MSTX",
+          "SMCX",
+          "AVGX",
+          "RIOX",
+          "IONX",
+          "HIMZ",
+          "HOOX",
+          "MST",
+          "OKLL",
+          "AVGU",
+          "PLT",
+          "TIPD",
+          "BEX",
+          "QPUX",
+          "ANEL",
+          "AVXX",
+          "BU",
+          "BTFL",
+          "CVNX",
+          "DKNX",
+          "IRE",
+          "LMNX",
+          "LUNL",
+          "MPL",
+          "NVOX",
+          "ORCX",
+          "OSCX",
+          "QSU",
+          "RGTX",
+          "RKLX",
+          "RKTL",
+          "SOFX",
+          "SOUX",
+          "VSTL",
+          "AIBU",
+          "AVL",
+          "BOEU",
+          "TBXU",
+          "CONX",
+          "LMBO",
+          "CSCL",
+          "TEXU",
+          "FRDU",
+          "HODU",
+          "LINT",
+          "ELIL",
+          "LMTL",
+          "QQQU",
+          "METU",
+          "MUU",
+          "NFXL",
+          "ORCU",
+          "PALU",
+          "PLTU",
+          "QCMU",
+          "TSXU",
+          "SHPU",
+          "TTXU",
+          "TSMX",
+          "XOMX",
+          "BULX",
+          "CRWL",
+          "DLLL",
+          "ETRL",
+          "GOU",
+          "INTW",
+          "ISUL",
+          "LCDL",
+          "MSTP",
+          "MULL",
+          "NOWL",
+          "PDDL",
+          "PTIR",
+          "QCML",
+          "RVNL",
+          "TSLR",
+          "TSMU",
+          "UBRL",
+          "VRTL",
+          "KBAB",
+          "KBDU",
+          "KJD",
+          "KMLI",
+          "KPDD",
+          "COIO",
+          "MSOO",
+          "NVDO",
+          "PLOO",
+          "TSLO",
+          "AALG",
+          "ABNG",
+          "ADBG",
+          "ALBG",
+          "AMDG",
+          "ARMG",
+          "ASMG",
+          "AVGG",
+          "BOEG",
+          "BAIG",
+          "BEG",
+          "BIDG",
+          "BLSG",
+          "BULG",
+          "CIFG",
+          "CMGG",
+          "CNCG",
+          "COIG",
+          "COTG",
+          "CRCG",
+          "CRMG",
+          "CRWG",
+          "DUOG",
+          "FIGG",
+          "FUTG",
+          "GEMG",
+          "GEVG",
+          "GLGG",
+          "GRAG",
+          "HOOG",
+          "HUTG",
+          "IREG",
+          "KLAG",
+          "LACG",
+          "LULG",
+          "MPG",
+          "NBIG",
+          "NEMG",
+          "NETG",
+          "NIOG",
+          "NUG",
+          "NVDG",
+          "OKTG",
+          "ONDG",
+          "OPEG",
+          "OSCG",
+          "PANG",
+          "PBRG",
+          "PLTG",
+          "PLUL",
+          "PYPG",
+          "RTXG",
+          "SATG",
+          "SBU",
+          "SNAG",
+          "SPOG",
+          "TERG",
+          "TSMG",
+          "UNHG",
+          "UPSG",
+          "UUUG",
+          "VALG",
+          "XYZG",
+          "COIA",
+          "CRCA",
+          "NVDB",
+          "PLTA",
+          "QQXL",
+          "BEGS",
+          "BKNU",
+          "GLXU",
+          "TTDU",
+          "PXIU",
+          "AFRU",
+          "ARMU",
+          "AXUP",
+          "BMNU",
+          "BULU",
+          "CIFU",
+          "CCUP",
+          "DJTU",
+          "DKUP",
+          "GMEU",
+          "ROBN",
+          "KTUP",
+          "MSFX",
+          "MSTU",
+          "NVDX",
+          "RBLU",
+          "SBTU",
+          "SNOU",
+          "TSLT",
+          "APLX",
+          "APPX",
+          "AURU",
+          "BLSX",
+          "CEGX",
+          "CELT",
+          "CSEX",
+          "COZX",
+          "CRMX",
+          "CWVX",
+          "DASX",
+          "DOGD",
+          "ENPX",
+          "FLYT",
+          "GEVX",
+          "GSX",
+          "MQQQ",
+          "QQQP",
+          "IREX",
+          "JOBX",
+          "LRCU",
+          "LYFX",
+          "MDBX",
+          "NEBX",
+          "NNE",
+          "NVTX",
+          "ONDU",
+          "OPEX",
+          "PATX",
+          "PONX",
+          "QBTX",
+          "RGTU",
+          "SMU",
+          "SNPX",
+          "SPYQ",
+          "SRPU",
+          "UNX",
+          "VOYX",
+          "WULX",
+          "BEZ",
+          "KORU",
+          "GDXU",
+          "JNUG",
+          "NUGT",
+          "SPXL",
+          "MUU",
+          "FNGG",
+          "SPUU",
+          "MQQQ",
+          "QQQP",
+          "MULL",
+          "AGQ",
+          "SPYQ",
+          "LABU",
+          "VRTL",
+          "FAS",
+          "NVDU",
+          "UPRO",
+          "FNGO",
+          "BILZ",
+          "BRZU",
+          "CURE",
+          "TECL",
+          "ERX",
+          "DPST",
+          "GGLL",
+          "UPV",
+          "EET",
+          "ROM",
+          "NVDL",
+          "BIB",
+          "DUSL",
+          "UJB",
+          "DFEN",
+          "VGUS",
+          "SQQQ",
+          "UGL",
+          "SDS",
+          "UYG",
+          "MVV",
+          "ETHD",
+          "TTT",
+          "QLD",
+          "EFO",
+          "GOOX",
+          "URE",
+          "HIBL",
+          "MSDD",
+          "DIG",
+          "EDC",
+          "TSMX",
+          "SMST",
+          "INTW",
+          "CONI",
+          "EZJ",
+          "SSO",
+          "SPXU",
+          "SBIT",
+          "FAZ",
+          "YCS",
+          "DDM",
+          "LMTL",
+          "USD",
+          "UDOW",
+          "URTY",
+          "UXI",
+          "SOLT",
+          "MIDU",
+          "UYLD",
+          "EVSB",
+          "UVXY",
+          "TSMU",
+          "DUSB",
+          "UTSL",
+          "PUSH",
+          "PULT",
+          "PLTU",
+          "TUSB",
+          "GUMI",
+          "SOXL",
+          "ZMUN",
+          "VUSI",
+          "HIBS",
+          "QQUP",
+          "RXL",
+          "GEVX",
+          "QQQU",
+          "DUST",
+          "TQQQ",
+          "UWM",
+          "XOMX",
+          "SRS",
+          "INDL",
+          "UCC",
+          "OILU",
+          "TNA",
+          "SMZ",
+          "XRPT",
+          "UST",
+          "UCYB",
+          "AVGX",
+          "SOXS",
+          "AMUU",
+          "URSP",
+          "NAIL",
+          "SRTY",
+          "URAA",
+          "PBRG",
+          "AIBU",
+          "QQXL",
+          "EURL",
+          "UCO",
+          "WANT",
+          "AVL",
+          "TARK",
+          "SPXS",
+          "TEXU",
+          "NRGU",
+          "NEBX",
+          "TMV",
+          "GUSH",
+          "TMF",
+          "SNXX",
+          "TERG",
+          "SMCZ",
+          "HOOZ",
+          "LINT",
+          "TBT",
+          "SDOW",
+          "YINN",
+          "ASMG",
+          "FLYU",
+          "UBR",
+          "BOEU",
+          "TBXU",
+          "TTXD",
+          "JDST",
+          "TWM",
+          "NFLU",
+          "AVGU",
+          "LRCU",
+          "LNOK",
+          "EDZ",
+          "TSXU",
+          "RVNL",
+          "CWEB",
+          "DLLL",
+          "EUO",
+          "MRNX",
+          "QQDN",
+          "NFXL",
+          "CSCL",
+          "FBL",
+          "YANG",
+          "AAPU",
+          "NVTX",
+          "UYM",
+          "METU",
+          "BABX",
+          "SSG",
+          "PLTZ",
+          "TSMG",
+          "AMZU",
+          "AAPB",
+          "MSFU",
+          "WEBS",
+          "MRVU",
+          "RTXG",
+          "TPOR",
+          "FRDU",
+          "LTL",
+          "CPXR",
+          "KTUP",
+          "WDCX",
+          "MEXX",
+          "LCIZ",
+          "ISUL",
+          "TSLI",
+          "JOBX",
+          "AAPX",
+          "AMUN",
+          "NVDB",
+          "UMDD",
+          "UPW",
+          "SNPX",
+          "CGUI",
+          "NUSB",
+          "BU",
+          "BAMU",
+          "SCUS",
+          "AUSM",
+          "KBDU",
+          "AMZZ",
+          "KCSH",
+          "SPTU",
+          "TYD",
+          "SNOU",
+          "CRWL",
+          "LVLN",
+          "UNX",
+          "AVGG",
+          "LITX",
+          "UBOT",
+          "RCAX",
+          "OPEX",
+          "BNKU",
+          "TSLR",
+          "DRV",
+          "SPYU",
+          "IREZ",
+          "XPP",
+          "EWV",
+          "RGTZ",
+          "NEMG",
+          "MDBX",
+          "ETHU",
+          "CRDU",
+          "DAMD",
+          "PST",
+          "PLU",
+          "ASMU",
+          "TSLQ",
+          "ELIL",
+          "EPV",
+          "ENPX",
+          "TEMT",
+          "PDDL",
+          "DXD",
+          "CHAU",
+          "QID",
+          "CWVX",
+          "ONDL",
+          "BULZ",
+          "BMNZ",
+          "HOOG",
+          "ROBN",
+          "MVLL",
+          "CARU",
+          "IONZ",
+          "WULX",
+          "BEGS",
+          "GEVG",
+          "BOIL",
+          "CXRN",
+          "FXP",
+          "SBU",
+          "AMDG",
+          "LLYX",
+          "FNGU",
+          "RGTU",
+          "TSLT",
+          "VALG",
+          "LABD",
+          "WXET",
+          "CUSD",
+          "PLTA",
+          "DUG",
+          "UGE",
+          "KLAG",
+          "WTIU",
+          "APLZ",
+          "NVDO",
+          "TECS",
+          "ZETX",
+          "ZSL",
+          "DOGD",
+          "CEGX",
+          "LABX",
+          "FDRX",
+          "WEBL",
+          "SHNY",
+          "PTIR",
+          "YCL",
+          "CRMX",
+          "MSFL",
+          "KOLD",
+          "PLTG",
+          "TSLO",
+          "NIOG",
+          "GLL",
+          "TTXU",
+          "EEV",
+          "KJD",
+          "ASTN",
+          "SOFA",
+          "BTCL",
+          "SMU",
+          "UPAR",
+          "OKLS",
+          "UBT",
+          "SCC",
+          "UBRL",
+          "BITX",
+          "SHPU",
+          "BABU",
+          "TSXD",
+          "APLX",
+          "NVDX",
+          "NVDG",
+          "ANEL",
+          "QCMU",
+          "COTG",
+          "ETHT",
+          "CMGG",
+          "ABNG",
+          "SATG",
+          "IREG",
+          "BIDG",
+          "RDTL",
+          "IONL",
+          "ARMU",
+          "UPSX",
+          "CIFU",
+          "UPSG",
+          "ORLG",
+          "PALU",
+          "TSLL",
+          "PLOO",
+          "DNNG",
+          "LMNX",
+          "TYO",
+          "XPEG",
+          "NETG",
+          "LULG",
+          "BOEG",
+          "BKNU",
+          "ALBG",
+          "BITU",
+          "PONX",
+          "QBTX",
+          "ULE",
+          "UUUG",
+          "STSM",
+          "CSEX",
+          "QCML",
+          "BTFL",
+          "QBTZ",
+          "SDD",
+          "RBLU",
+          "NBIZ",
+          "NBIL",
+          "LUNL",
+          "ONDU",
+          "REW",
+          "ERY",
+          "SMDD",
+          "SOFX",
+          "AMDL",
+          "OKTG",
+          "PLUL",
+          "VOYX",
+          "GMEU",
+          "BZQ",
+          "ORCU",
+          "KBAB",
+          "XYZG",
+          "RDWU",
+          "VSTL",
+          "CVNX",
+          "SMCX",
+          "FLYT",
+          "CLSX",
+          "SMN",
+          "SZK",
+          "CONX",
+          "UNHG",
+          "DASX",
+          "CNCG",
+          "NUG",
+          "COZX",
+          "SDP",
+          "NVOX",
+          "PILL",
+          "FUTG",
+          "SIJ",
+          "PATX",
+          "RXD",
+          "LACG",
+          "IONX",
+          "TSDD",
+          "DRN",
+          "UECG",
+          "CELT",
+          "QUBX",
+          "BIS",
+          "AIBD",
+          "OKLL",
+          "KMLI",
+          "CONL",
+          "HODU",
+          "KPDD",
+          "COIG",
+          "EFU",
+          "AXUP",
+          "PANG",
+          "SCO",
+          "UVIX",
+          "XRPK",
+          "BLSX",
+          "SPOG",
+          "NBIG",
+          "QXAS",
+          "SRPU",
+          "CRMU",
+          "MPG",
+          "ETRL",
+          "HOOX",
+          "NNEX",
+          "AALG",
+          "MZZ",
+          "MPL",
+          "HUTG",
+          "ONDG",
+          "RETL",
+          "CRMG",
+          "GRAG",
+          "CCUP",
+          "RIOX",
+          "NOWL",
+          "NVD",
+          "MSOO",
+          "QPUX",
+          "TTDU",
+          "RKTL",
+          "TSLG",
+          "GLXU",
+          "OSCX",
+          "TXXD",
+          "CIFG",
+          "ETU",
+          "ARMG",
+          "OPEG",
+          "PYPG",
+          "ADBG",
+          "GLGG",
+          "SLON",
+          "TXXS",
+          "BLSG",
+          "SOUX",
+          "SNAG",
+          "IRE",
+          "RGTX",
+          "AFRU",
+          "DRIP",
+          "WTID",
+          "UGP",
+          "AVXX",
+          "DKNX",
+          "SBTU",
+          "SMCL",
+          "SOLX",
+          "XXRP",
+          "UXRP",
+          "BAIG",
+          "MST",
+          "MRAL",
+          "RKLZ",
+          "DUOG",
+          "BULX",
+          "MSOX",
+          "LCDL",
+          "MSTX",
+          "QSU",
+          "HIMZ",
+          "DJTU",
+          "FIGG",
+          "JETU",
+          "FNGS",
+          "SPCF",
+          "LOFF",
+          "SPCU",
+          "SPAL",
+          "SPCH",
+          "ADBU",
+          "AMA",
+          "AMKL",
+          "AMPU",
+          "AXTU",
+          "CHNU",
+          "CPNX",
+          "CRDX",
+          "GLWG",
+          "MPWX",
+          "PAAU",
+          "PYPU",
+          "SNDU",
+          "SPCL",
+          "STLU",
+          "STXL",
+          "STXX",
+          "TXNU",
+          "TXXH",
+          "UCOP",
+          "UNHU",
+          "UPAL",
+          "UPLT",
+          "XAIL",
+          "XBNB",
+          "XOVL",
+          "SKHL",
+          "HIMC",
+          "VRC",
+          "CRWC",
+          "NVOC",
+          "RIVC",
+          "SKUU",
+          "NBIC",
+          "TDCL",
+          "SKHX",
+          "RGTC",
+          "IREC",
+          "CRD",
+          "MHX",
+          "RDDC",
+          "BTDL",
+          "HYNX",
+          "SK",
+          "NTAL",
+          "NOWX",
+          "MRVX",
+          "OUSL",
+          "SKHU",
+          "BABC",
+          "LITC",
+          "TEMC",
+          "WDCC",
+          "ALA",
+          "UUUC",
+          "INT",
+          "QUA",
+          "SMRX",
+          "GEVC",
+          "BNMC",
+          "JOBC",
+          "HOOC",
+          "UPSC",
+          "SOFC",
+          "TERC",
+          "BBUL",
+          "CIR",
+          "CRWX",
+          "VIAG",
+          "NFX",
+          "AXTC",
+          "BRKL",
+          "NVTC",
+          "COHC",
+          "ONDC",
+          "PUL",
+          "JBLG",
+          "AMKX",
+          "LRCC",
+          "APMI",
+          "OKLC",
+          "MPWC",
+          "UN",
+          "AMZG"
+        ]
+      },
+      {
+        "key": "equity_entry_point_render_supported_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "advanced_trade_enabled_validation_rules",
+        "value": [
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REDUCE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_CLOSE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REVERSE_POSITION"
+        ]
+      },
+      {
+        "key": "advanced_trade_skip_preview_enabled_validations_rules",
+        "value": [
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REDUCE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_CLOSE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REVERSE_POSITION",
+          "CLIENT_INVALID_BASE_SIZE_TOO_SMALL",
+          "CLIENT_INVALID_QUOTE_SIZE_TOO_SMALL",
+          "CLIENT_INVALID_STOP_PRICE_ABOVE_LIMIT_PRICE",
+          "CLIENT_INVALID_STOP_PRICE_BELOW_LIMIT_PRICE",
+          "CLIENT_INSUFFICIENT_FUND",
+          "CLIENT_INVALID_LIMIT_PRICE_POST_ONLY",
+          "CLIENT_INVALID_ATTACHED_TP_OUT_OF_BOUNDS",
+          "CLIENT_INVALID_ATTACHED_TP_OUT_OF_BOUNDS_AGGRESSIVE",
+          "CLIENT_INVALID_ATTACHED_SL_OUT_OF_BOUNDS",
+          "CLIENT_INVALID_ATTACHED_SL_OUT_OF_BOUNDS_AGGRESSIVE",
+          "CLIENT_REDUCE_ONLY_WOULD_INCREASE_POSITION"
+        ]
+      },
+      {
+        "key": "cbp_supported_regions",
+        "value": null
+      },
+      {
+        "key": "travel_rules_disallowed_words",
+        "value": [
+          "N/A",
+          "N/A, N/A",
+          "N/A, N/A, N/A",
+          "stake",
+          "rollbit",
+          "cloudbit",
+          "roobet",
+          "casino",
+          "casinos",
+          "Binance",
+          "OKX",
+          "Coinbase",
+          "ethereum",
+          "eth",
+          "bitcoin",
+          "btc",
+          "solana",
+          "sol",
+          "Iran",
+          "North Korea",
+          "DPRK",
+          "Cuba",
+          "Binance",
+          "BitGet",
+          "Bitvavo",
+          "Bybit",
+          "Crypto.com",
+          "Easy Crypto",
+          "Kraken",
+          "Kucoin",
+          "Mexc",
+          "Nexo",
+          "NiceHash",
+          "OKX",
+          "Revolut",
+          "Uphold"
+        ]
+      },
+      {
+        "key": "creditcard_secured_credit_limit_options",
+        "value": [
+          "200",
+          "250",
+          "300",
+          "400",
+          "500",
+          "1000",
+          "1500",
+          "2000",
+          "2500",
+          "3000",
+          "3500",
+          "4000",
+          "4500",
+          "5000"
+        ]
+      },
+      {
+        "key": "usdc_auto_buy_enabled_funding_currencies",
+        "value": [
+          "GBP",
+          "INR",
+          "CAD"
+        ]
+      },
+      {
+        "key": "unified_analytics_disabled_page_keys_web",
+        "value": []
+      }
+    ],
+    "clientConfigStringMap": [
+      {
+        "key": "hnwi_concierge_chat_widget_deeplink_overrides_web",
+        "value": [
+          {
+            "key": "onchain-borrow-upsell-USDC-for-cbBTC",
+            "value": "https://www.coinbase.com/borrow"
+          },
+          {
+            "key": "lend-upsell",
+            "value": "https://www.coinbase.com/lend/deposit"
+          }
+        ]
+      },
+      {
+        "key": "hnwi_concierge_chat_pii_patterns",
+        "value": [
+          {
+            "key": "D. Credit/debit card number",
+            "value": "(?:^|\\s)(\\d{4}[\\s-]\\d{4}[\\s-]\\d{4}[\\s-]\\d{3,4})(?![\\w-])"
+          },
+          {
+            "key": "C. Bitcoin private key (WIF)",
+            "value": "(?:^|\\s)([5KL][1-9A-HJ-NP-Za-km-z]{50,51})\\b"
+          },
+          {
+            "key": "B. Tax ID Number",
+            "value": "(?:^|\\s)(\\d{2}[\\s-]\\d{7})(?![\\w-])"
+          },
+          {
+            "key": "A. Social Security Number",
+            "value": "(?:^|\\s)(\\d{3}[\\s-]\\d{2}[\\s-]\\d{4})(?![\\w-])"
+          },
+          {
+            "key": "F. UK Sort Code",
+            "value": "(?:^|\\s)(\\d{2}[-\\s]\\d{2}[-\\s]\\d{2})(?![\\w-])"
+          },
+          {
+            "key": "E. Aadhaar Number",
+            "value": "(?:^|\\s)(\\d{4}-\\d{4}-\\d{4})(?![\\w-])"
+          }
+        ]
+      },
+      {
+        "key": "hnwi_concierge_request_a_call_hoop_config",
+        "value": [
+          {
+            "key": "highDemandThresholdMinutes",
+            "value": "120"
+          },
+          {
+            "key": "weekdaysOnly",
+            "value": "1"
+          },
+          {
+            "key": "timezone",
+            "value": "America/New_York"
+          },
+          {
+            "key": "startHour",
+            "value": "9"
+          },
+          {
+            "key": "endHour",
+            "value": "20"
+          }
+        ]
+      },
+      {
+        "key": "sg_fast_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"UOB\",\"bank_id\":\"uovbsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/uob.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"Trust Bank\",\"bank_id\":\"trbusgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/trust.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"Grab\",\"bank_id\":\"grabpay\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Revolut\",\"bank_id\":\"revolut\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true}]"
+          }
+        ]
+      },
+      {
+        "key": "sg_paynow_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"UOB\",\"bank_id\":\"uovbsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/uob.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"Trust Bank\",\"bank_id\":\"trbusgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/trust.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"Grab\",\"bank_id\":\"grabpay\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"LifeSG\",\"bank_id\":\"lifesg\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"GovWallet\",\"bank_id\":\"govwallet\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true}]"
+          }
+        ]
+      },
+      {
+        "key": "sg_swift_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"Citi\",\"bank_id\":\"citisgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/citi.svg\",\"supported\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"description\":\"Wise\",\"list_display\":true},{\"bank_name\":\"Interactive Broker\",\"bank_id\":\"ibkr\",\"iconUrl\":\"\",\"supported\":false,\"description\":\"Interactive Broker (Swift codes IBKRUS33 and IBKRSGSG)\",\"list_display\":true},{\"bank_name\":\"Morgan Stanley Smith Barney LLC\",\"bank_id\":\"morganstanley\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Morgan Stanley Smith Barney LLC\"},{\"bank_name\":\"United Nations FCU\",\"bank_id\":\"unfcu\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"United Nations FCU\"},{\"bank_name\":\"Charles Schwab\",\"bank_id\":\"charlesschwab\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Charles Schwab\"},{\"bank_name\":\"Equals Connect Limited\",\"bank_id\":\"equalsconnect\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Equals Connect Limited\"},{\"bank_name\":\"Lloyds Bank PLC (Birmingham)\",\"bank_id\":\"lloydsbank\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Lloyds Bank PLC (Birmingham)\"}]"
+          }
+        ]
+      },
+      {
+        "key": "card_buy_gb_institution_name_map",
+        "value": [
+          {
+            "key": "NATIONAL WESTMINSTER BANK PLC",
+            "value": "NatWest"
+          },
+          {
+            "key": "SANTANDER",
+            "value": "Santander"
+          },
+          {
+            "key": "MONZO",
+            "value": "Monzo"
+          },
+          {
+            "key": "SANTANDER UK PLC",
+            "value": "Santander"
+          },
+          {
+            "key": "THE ROYAL BANK OF SCOTLAND PLC",
+            "value": "Royal Bank of Scotland"
+          },
+          {
+            "key": "BARCLAYS BANK UK PLC",
+            "value": "Barclays"
+          },
+          {
+            "key": "MONZO BANK LIMITED",
+            "value": "Monzo"
+          },
+          {
+            "key": "NATIONWIDE",
+            "value": "Nationwide"
+          },
+          {
+            "key": "HSBC",
+            "value": "HSBC"
+          },
+          {
+            "key": "HSBC UK BANK PLC",
+            "value": "HSBC"
+          },
+          {
+            "key": "NATIONWIDE BUILDING SOCIETY",
+            "value": "Nationwide"
+          },
+          {
+            "key": "BARCLAYS",
+            "value": "Barclays"
+          },
+          {
+            "key": "NATWEST",
+            "value": "NatWest"
+          },
+          {
+            "key": "ROYAL BANK OF SCOTLAND",
+            "value": "Royal Bank of Scotland"
+          }
+        ]
+      },
+      {
+        "key": "coinbiz_scheduled_maintenance_banner",
+        "value": [
+          {
+            "key": "preMaintenanceStart",
+            "value": "2025-10-22T14:00:00.000Z"
+          },
+          {
+            "key": "preMaintenanceCutoff",
+            "value": "2025-10-25T15:00:00.000Z"
+          },
+          {
+            "key": "maintenanceStart",
+            "value": "2025-10-25T14:00:00.000Z"
+          },
+          {
+            "key": "maintenanceEnd",
+            "value": "2025-10-25T18:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "key": "packs_incentive_campaign_ids",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "6924c8d50640bb0665e432a4"
+          },
+          {
+            "key": "BLUECHIP",
+            "value": "ad78be10-a64a-40fe-bcc1-b72cf2b7da2b"
+          },
+          {
+            "key": "STAKING",
+            "value": "cd99021b-8b0a-4848-840c-59e0de5e4085"
+          },
+          {
+            "key": "MEMECOIN",
+            "value": "bdbc38a0-12e3-487e-96c4-a73b0ae91850"
+          }
+        ]
+      },
+      {
+        "key": "advanced_transfer_country_limits",
+        "value": [
+          {
+            "key": "transferLimitBR",
+            "value": "100000"
+          },
+          {
+            "key": "transferCurrencyBR",
+            "value": "USD"
+          }
+        ]
+      },
+      {
+        "key": "cfm_derivatives_recommended_products",
+        "value": [
+          {
+            "key": "CDESIL",
+            "value": "{\"contractCode\":\"CDESIL\",\"isPerps\":false,\"priority\":2}"
+          },
+          {
+            "key": "CDEGLD",
+            "value": "{\"contractCode\":\"CDEGLD\",\"isPerps\":false,\"priority\":3}"
+          },
+          {
+            "key": "BTC",
+            "value": "{\"contractCode\":\"BTC\",\"isPerps\":true,\"priority\":1}"
+          }
+        ]
+      },
+      {
+        "key": "cfm_cde_contract_code_to_root_unit",
+        "value": [
+          {
+            "key": "ENA",
+            "value": "ENA"
+          },
+          {
+            "key": "CHN",
+            "value": "CDECHN"
+          },
+          {
+            "key": "BIT",
+            "value": "BTC"
+          },
+          {
+            "key": "C50",
+            "value": "COIN50"
+          },
+          {
+            "key": "NGS",
+            "value": "CDENGS"
+          },
+          {
+            "key": "GLD",
+            "value": "CDEGLD"
+          },
+          {
+            "key": "CU",
+            "value": "CDECU"
+          },
+          {
+            "key": "SHB",
+            "value": "SHIB"
+          },
+          {
+            "key": "AVE",
+            "value": "AAVE"
+          },
+          {
+            "key": "SOL",
+            "value": "SOL"
+          },
+          {
+            "key": "ETP",
+            "value": "ETH"
+          },
+          {
+            "key": "DOT",
+            "value": "DOT"
+          },
+          {
+            "key": "DEF",
+            "value": "CDEDEF"
+          },
+          {
+            "key": "ET",
+            "value": "ETH"
+          },
+          {
+            "key": "OND",
+            "value": "ONDO"
+          },
+          {
+            "key": "NER",
+            "value": "NEAR"
+          },
+          {
+            "key": "DOG",
+            "value": "DOGE"
+          },
+          {
+            "key": "PEP",
+            "value": "PEPE"
+          },
+          {
+            "key": "HYF",
+            "value": "HYPE"
+          },
+          {
+            "key": "SLR",
+            "value": "CDESIL"
+          },
+          {
+            "key": "BCH",
+            "value": "BCH"
+          },
+          {
+            "key": "XRP",
+            "value": "XRP"
+          },
+          {
+            "key": "HYP",
+            "value": "HYPE"
+          },
+          {
+            "key": "ZEC",
+            "value": "ZEC"
+          },
+          {
+            "key": "MC",
+            "value": "CDEMC"
+          },
+          {
+            "key": "AVA",
+            "value": "AVAX"
+          },
+          {
+            "key": "AIP",
+            "value": "CDEAI"
+          },
+          {
+            "key": "PAU",
+            "value": "PAXG"
+          },
+          {
+            "key": "BIP",
+            "value": "BTC"
+          },
+          {
+            "key": "XLM",
+            "value": "XLM"
+          },
+          {
+            "key": "PT",
+            "value": "CDEPT"
+          },
+          {
+            "key": "LNK",
+            "value": "LINK"
+          },
+          {
+            "key": "BNF",
+            "value": "BNB"
+          },
+          {
+            "key": "ADA",
+            "value": "ADA"
+          },
+          {
+            "key": "HED",
+            "value": "HBAR"
+          },
+          {
+            "key": "TEK",
+            "value": "CDETEK"
+          },
+          {
+            "key": "LC",
+            "value": "LTC"
+          },
+          {
+            "key": "OIL",
+            "value": "CDEOIL"
+          }
+        ]
+      },
+      {
+        "key": "cfm_derivatives_recommended_products_cbfse",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"contractCode\":\"BTC\",\"isPerps\":false,\"priority\":1}"
+          },
+          {
+            "key": "XRP",
+            "value": "{\"contractCode\":\"XRP\",\"isPerps\":false,\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"contractCode\":\"ETH\",\"isPerps\":false,\"priority\":2}"
+          }
+        ]
+      },
+      {
+        "key": "intx_derivatives_recommended_products",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"asset\":\"BTC-PERP-INTX\",\"priority\":1}"
+          },
+          {
+            "key": "SOL",
+            "value": "{\"asset\":\"SOL-PERP-INTX\",\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"asset\":\"ETH-PERP-INTX\",\"priority\":2}"
+          }
+        ]
+      },
+      {
+        "key": "deribit_perpetuals_recommended_products",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"instrumentName\":\"BTC_USDC-PERPETUAL\",\"priority\":1}"
+          },
+          {
+            "key": "SOL",
+            "value": "{\"instrumentName\":\"SOL_USDC-PERPETUAL\",\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"instrumentName\":\"ETH_USDC-PERPETUAL\",\"priority\":2}"
+          }
+        ]
+      },
+      {
+        "key": "insufficient_dp_data_error_overrides_severity_web",
+        "value": null
+      },
+      {
+        "key": "experiment_groups_amplitude_allowlist",
+        "value": [
+          {
+            "key": "t0014_0211b3a6",
+            "value": "delete after 2026-02-07"
+          },
+          {
+            "key": "jan_2026_prediction_markets_carousel_web",
+            "value": "delete after 2026-02-01"
+          },
+          {
+            "key": "t0000_284cff23",
+            "value": "delete after 2026-03-05"
+          },
+          {
+            "key": "t0012_bc1de626",
+            "value": "delete after 2026-08-04"
+          }
+        ]
+      },
+      {
+        "key": "allowed_experiment_groups_for_amplitude",
+        "value": [
+          {
+            "key": "asset_discovery",
+            "value": ""
+          },
+          {
+            "key": "prediction_markets",
+            "value": "jan_2026_prediction_markets_carousel_web"
+          },
+          {
+            "key": "global",
+            "value": "t0000_284cff23"
+          },
+          {
+            "key": "cb1",
+            "value": "t0014_aa9c71e6,t0014_57be23dc,t0014_ab0febd6"
+          }
+        ]
+      },
+      {
+        "key": "advanced_trade_market_classification",
+        "value": [
+          {
+            "key": "Commodities",
+            "value": "GOL-27MAR26-CDE,GOL-27MAY26-CDE,GOL-29JUL26-CDE,SLR-25FEB26-CDE,SLR-28APR26-CDE,SLR-26JUN26-CDE,SLR-27AUG26-CDE,PT-27MAR26-CDE,PT-26JUN26-CDE,PT-28SEP26-CDE,CU-28APR26-CDE,CU-26JUN26-CDE,CU-27AUG26-CDE,NOL-19JUN26-CDE,NOL-18MAY26-CDE,NOL-20JUL26-CDE,NOL-19AUG26-CDE,NOL-21SEP26-CDE,NOL-19OCT26-CDE,NGS-27APR26-CDE,NGS-26MAY26-CDE,PAXG-USD,PAXG-USDC,PAXG-PERP-INTX,GOLD-PERP-INTX,SILVER-PERP-INTX"
+          },
+          {
+            "key": "Indices",
+            "value": "MC-19MAR26-CDE,MC-18JUN26-CDE,MC-17SEP26-CDE,COIN50-PERP-INTX,C50-20DEC30-CDE,SPY-PERP-INTX,QQQ-PERP-INTX,CHN-19DEC30-CDE,DEF-19DEC30-CDE,AIP-19DEC30-CDE,TEK-19DEC30-CDE,AI10-PERP-INTX,TECH100-PERP-INTX,CHINA10-PERP-INTX,DFND10-PERP-INTX,EWY-PERP-INTX,SOXL-PERP-INTX,DRAM-PERP-INTX"
+          },
+          {
+            "key": "FX",
+            "value": "USDC-EUR,USDC-GBP,USDT-EUR,USDT-GBP,EURC-USDC,XSGD-USDC,AUDD-USDC,EURC-PERP-INTX,TGBP-USDC"
+          }
+        ]
+      },
+      {
+        "key": "retail_dp_upsell_surface_state",
+        "value": [
+          {
+            "key": "ui_component_surface_advanced_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-credit-card-home-screen-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-swc-home-screen-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-home-upsell-modals-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-orders-banner",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-markets-modal-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-modal-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-modal-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-convert-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-token-sales-surface-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-token-sales-surface-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-sidebar-promo-web",
+            "value": "DP"
+          },
+          {
+            "key": "ui_component_surface_home_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-sell-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-home-screen-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "ui_component_surface_credit_card_home_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-hnwi-concierge-home-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-assets-carousel-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-orders-blotter-banner",
+            "value": "DP"
+          },
+          {
+            "key": "retail-hnwi-concierge-home-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-buy-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-credit-card-onboarding-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-card-app",
+            "value": "DP"
+          }
+        ]
+      },
+      {
+        "key": "campaign_redirects",
+        "value": [
+          {
+            "key": "cx_o_m_w_m_m_yah_gro_dis_yf_premium",
+            "value": "https://www.coinbase.com/one?campaign_id=yahoo_finance_premium_partnership&tier=basic"
+          },
+          {
+            "key": "cx_o_m_w_m_m_yah_gro_dis_yf",
+            "value": "https://www.coinbase.com/one?campaign_id=yahoo_finance_partnership&tier=basic"
+          },
+          {
+            "key": "cc_paid_marketing_oct_2021",
+            "value": "https://www.coinbase.com/card"
+          },
+          {
+            "key": "kol_pro_referee",
+            "value": "https://www.coinbase.com/advanced-trade/"
+          }
+        ]
+      },
+      {
+        "key": "simple_intx_multi_chips_country_restrictions",
+        "value": [
+          {
+            "key": "INDICES",
+            "value": "GB,CA,BR,SG,AU,IN"
+          },
+          {
+            "key": "COMMODITIES",
+            "value": "GB,CA,SG,AU,IN"
+          },
+          {
+            "key": "STOCKS",
+            "value": "GB,CA,BR,SG,AU,IN'"
+          }
+        ]
+      },
+      {
+        "key": "session_replay_page_key_sample_rates",
+        "value": [
+          {
+            "key": "onboarding",
+            "value": "0.5"
+          }
+        ]
+      }
+    ]
+  }
+}

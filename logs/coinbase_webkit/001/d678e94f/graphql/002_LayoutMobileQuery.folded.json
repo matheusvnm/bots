@@ -1,0 +1,330 @@
+{
+  "data": {
+    "viewer": {
+      "unreadNotificationsCount": {
+        "unreadCount": 0
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  },
+  "viewer": {
+    "authedSurface": {
+      "edges": [],
+      "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9GT09URVJfRElTQ0xBSU1FUiBjYXRlZ29yaWVzOlVJX0NPTVBPTkVOVF9DQVRFR09SWV9GT09URVJfRElTQ0xBSU1FUiBmaWx0ZXJzOntmb290ZXJfZGlzY2xhaW1lcl9maWx0ZXI6e3BhZ2Vfa2V5OiJob21lIn0gcmVsZXZhbnRfdGFnc19maWx0ZXI6e319IHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0ZPT1RFUl9ESVNDTEFJTUVSIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0ZPT1RFUl9ESVNDTEFJTUVSIg=="
+    },
+    "id": "Vmlld2VyOjA=",
+    "buyPolicyRestrictions": {
+      "pendingRestrictions": []
+    },
+    "checklistBannerEligibility": {
+      "productEligibility": {
+        "eligibilityResult": {
+          "eligibility": "INELIGIBLE"
+        }
+      }
+    },
+    "userProperties": {
+      "createdAt": "2024-11-25T00:23:50Z",
+      "id": "VXNlclByb3BlcnRpZXM6MA=="
+    },
+    "accountChecklist": {
+      "primary": {
+        "actionItems": [
+          {
+            "id": "QWN0aW9uSXRlbTphY2NvdW50LWNyZWF0ZWQ=",
+            "status": "COMPLETED"
+          },
+          {
+            "id": "QWN0aW9uSXRlbTpreWM=",
+            "status": "COMPLETED"
+          },
+          {
+            "id": "QWN0aW9uSXRlbTphZGQtcGF5bWVudC1tZXRob2Q=",
+            "status": "NOT_STARTED"
+          },
+          {
+            "id": "QWN0aW9uSXRlbTpmaXJzdC1idXk=",
+            "status": "COMPLETED"
+          }
+        ]
+      }
+    },
+    "productEligibilityStatus": {
+      "errorsHubEligibility": {
+        "eligibilityResult": {
+          "eligibility": "INELIGIBLE"
+        }
+      }
+    },
+    "packsPresentationData": {
+      "edges": [
+        {
+          "node": {
+            "relevantEntities": [
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "BTC",
+                  "id": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+                  "slug": "bitcoin"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "ETH",
+                  "id": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                  "slug": "ethereum"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "SOL",
+                  "id": "4f039497-3af8-5bb3-951c-6df9afa9be1c",
+                  "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png",
+                  "slug": "solana"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "PEPE",
+                  "id": "dd47f029-47a9-4a1c-b379-fe4d4a8002a1",
+                  "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/593b5b3be72ebc6253819c40e4a64e43d04f97373f2e4e8d7e3c22742e6b6b7d.png",
+                  "slug": "pepe"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "XLM",
+                  "id": "13b83335-5ede-595b-821e-5bcdfa80560f",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/ddaf9d27a2388105c5568c68ebe4078d057efac1cb9b091af6a57f4d187cf06b2701b95f75bd148d3872df32b69ebb678de71a42da317370aaec7d6448bda379/asset_icons/80782fe2d690f299e7f5bb9b89af87e1db75769e59c14fa0257054c962401805.png",
+                  "slug": "stellar"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "DOT",
+                  "id": "ebea861a-c0ae-5323-bbe0-46893a119a39",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/9957ebecd9f4d6a2a4cf877577364e8c9bfb937c7f8385e153fc878e9ed3766a563cdd1a80903f465f50b4edfb5089251e045d362a8fbe5b888b9de18bfcc09a/asset_icons/f786d2f3573f77db841b406bf607ac7ddfe70d533acc6d05f2cb3cb3eab11925.png",
+                  "slug": "polkadot"
+                }
+              },
+              {
+                "entity": {
+                  "__typename": "RelevantAssetsData",
+                  "symbol": "ATOM",
+                  "id": "64c607d2-4663-5649-86e0-3ab06bba0202",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png",
+                  "slug": "cosmos"
+                }
+              }
+            ],
+            "component": {
+              "__typename": "UIComponentElement",
+              "textFields": [
+                {
+                  "key": "rarityCommon",
+                  "text": "Comum"
+                },
+                {
+                  "key": "rarityRare",
+                  "text": "Raro"
+                },
+                {
+                  "key": "raritySuperRare",
+                  "text": "Super Raro"
+                },
+                {
+                  "key": "rarityLegendary",
+                  "text": "Lendário"
+                }
+              ]
+            },
+            "components": [
+              {
+                "id": "VUlDb21wb25lbnQ6Y2NjMjEyOTItNTIzMi00MTIwLWE3YzktNTc2YjcxNzU3YTk0OnBhZ2Vfb3B0aW9uczp7c2l6ZToxfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9QQUNLUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9QQUNLU19SRURFTVBUSU9OX0lURU1TX0NPTlRBSU5FUiI=",
+                "component": {
+                  "__typename": "UIComponentElement",
+                  "pictogramId": "BLUECHIP",
+                  "key": "ad78be10-a64a-40fe-bcc1-b72cf2b7da2b",
+                  "descriptionTextField": {
+                    "text": ""
+                  },
+                  "subtitleTextField": {
+                    "text": "$currentRewardNumber / $totalRewardNumber"
+                  },
+                  "image": {
+                    "url": ""
+                  },
+                  "textFields": [
+                    {
+                      "key": "tempExtraCampaignId",
+                      "text": "c00dc583-6843-4e6b-875a-834da5703af3"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "VUlDb21wb25lbnQ6NWRlZmZhMjMtZDdkOC00YjkzLTgxMDktYWY4OGJmNDZiNjE5OnBhZ2Vfb3B0aW9uczp7c2l6ZToxfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9QQUNLUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9QQUNLU19SRURFTVBUSU9OX0lURU1TX0NPTlRBSU5FUiI=",
+                "component": {
+                  "__typename": "UIComponentElement",
+                  "pictogramId": "MEMECOIN",
+                  "key": "bdbc38a0-12e3-487e-96c4-a73b0ae91850",
+                  "descriptionTextField": {
+                    "text": ""
+                  },
+                  "subtitleTextField": {
+                    "text": "$currentRewardNumber / $totalRewardNumber"
+                  },
+                  "image": {
+                    "url": ""
+                  },
+                  "textFields": [
+                    {
+                      "key": "tempExtraCampaignId",
+                      "text": "7f825c4e-7625-44b5-aad6-e55d6374b209"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "VUlDb21wb25lbnQ6MTQ4NjcyODItMjQ4Zi00NGIyLTg4ODItNDA2ODM5ZmQ4ODA2OnBhZ2Vfb3B0aW9uczp7c2l6ZToxfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9QQUNLUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9QQUNLU19SRURFTVBUSU9OX0lURU1TX0NPTlRBSU5FUiI=",
+                "component": {
+                  "__typename": "UIComponentElement",
+                  "pictogramId": "STAKING",
+                  "key": "cd99021b-8b0a-4848-840c-59e0de5e4085",
+                  "descriptionTextField": {
+                    "text": ""
+                  },
+                  "subtitleTextField": {
+                    "text": "$currentRewardNumber / $totalRewardNumber"
+                  },
+                  "image": {
+                    "url": ""
+                  },
+                  "textFields": [
+                    {
+                      "key": "tempExtraCampaignId",
+                      "text": "aeabf7af-2f99-4f1b-a9ea-6925127f1be9"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "VUlDb21wb25lbnQ6MzllZjFiZGMtZmQ4Ni00OWVkLWJlODAtMzVjNTZkNTUzYWVmOnBhZ2Vfb3B0aW9uczp7c2l6ZToxfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9QQUNLUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9QQUNLU19SRURFTVBUSU9OX0lURU1TX0NPTlRBSU5FUiI=",
+                "component": {
+                  "__typename": "UIComponentElement",
+                  "pictogramId": "BTC",
+                  "key": "6924c8d50640bb0665e432a4",
+                  "descriptionTextField": {
+                    "text": "O BTC é a criptomoeda original, um ativo digital que pode ser enviado com segurança de uma pessoa para outra sem a necessidade de um banco."
+                  },
+                  "subtitleTextField": {
+                    "text": "$currentRewardNumber / $totalRewardNumber"
+                  },
+                  "image": {
+                    "url": "https://d1dwhf283nul1c.cloudfront.net/ui_components_asset/4e7322c0-dc25-47a4-845d-37bf60d53fc5.png"
+                  },
+                  "textFields": [
+                    {
+                      "key": "tempExtraCampaignId",
+                      "text": "69a0a0aa82fe9f2b7521ea2c"
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": "VUlDb21wb25lbnQ6MmNjNjQ1N2ItZWJiYy00MzgxLThiZWYtNDFmMDI3MzJlZTkxOnBhZ2Vfb3B0aW9uczp7c2l6ZToxfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9QQUNLUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9QQUNLU19SRURFTVBUSU9OX0lURU1TX0NPTlRBSU5FUiI="
+          }
+        }
+      ],
+      "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MX0gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfUEFDS1MiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUEFDS1NfUkVERU1QVElPTl9JVEVNU19DT05UQUlORVIi"
+    },
+    "gamificationCampaigns": [
+      {
+        "userCandidateProgram": {
+          "candidateStatus": "EXPIRED",
+          "rewardProgram": {
+            "__typename": "ProbabilisticRewardProgram",
+            "uuid": "66c382aa5c46f209c52bfb0a",
+            "possibleRewards": [
+              {
+                "amount": {
+                  "value": "3"
+                }
+              },
+              {
+                "amount": {
+                  "value": "5"
+                }
+              },
+              {
+                "amount": {
+                  "value": "6"
+                }
+              },
+              {
+                "amount": {
+                  "value": "7"
+                }
+              },
+              {
+                "amount": {
+                  "value": "8"
+                }
+              },
+              {
+                "amount": {
+                  "value": "10"
+                }
+              },
+              {
+                "amount": {
+                  "value": "11"
+                }
+              },
+              {
+                "amount": {
+                  "value": "12"
+                }
+              },
+              {
+                "amount": {
+                  "value": "120"
+                }
+              },
+              {
+                "amount": {
+                  "value": "250"
+                }
+              }
+            ],
+            "id": "UmV3YXJkUHJvZ3JhbTo2NmMzODJhYTVjNDZmMjA5YzUyYmZiMGE="
+          }
+        },
+        "userRewards": []
+      }
+    ],
+    "packsCampaigns": [],
+    "incentiveCampaigns": [
+      {
+        "id": "SW5jZW50aXZlc0NhbXBhaWduOjY2YzM4MmFhNWM0NmYyMDljNTJiZmIwYQ==",
+        "uuid": "66c382aa5c46f209c52bfb0a",
+        "userIncentive": {
+          "id": "VXNlckluY2VudGl2ZTo2NzQzYzM5NjZlNjJiOGNkNmI1NDEwZGI=",
+          "redemptionMetadata": {
+            "isRedeemed": false,
+            "redemptionStatus": "UNREDEEMABLE"
+          },
+          "userIncentiveStatus": "REVOKED"
+        }
+      }
+    ]
+  }
+}

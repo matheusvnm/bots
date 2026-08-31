@@ -1,0 +1,10 @@
+{
+  "data": {
+    "reverseResolveEns": {
+      "__typename": "ReverseResolveEnsSuccess",
+      "address": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+      "avatarUrl": "",
+      "ensName": ""
+    }
+  }
+}

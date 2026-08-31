@@ -1,0 +1,47 @@
+{
+  "data": {
+    "viewer": {
+      "receiveCheckInformation": null,
+      "accountByUuidV3": {
+        "account": {
+          "accountHistoryEntryByUuid": {
+            "status": "COMPLETED",
+            "details": {
+              "__typename": "CryptoSendDetails",
+              "recipientName": null
+            },
+            "id": "QWNjb3VudEhpc3RvcnlFbnRyeTphNmJmNjYzNC0wMGRjLTViZmMtYTIwOC0zZDM3MzQ5ZjVlZTQ="
+          },
+          "id": "QWNjb3VudDpkZTUyMmM4My1hZDNiLTVjOGUtOGNhOS1hZDQ2NmJiM2ViMjM="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  },
+  "errors": [
+    {
+      "message": "An internal error has occurred",
+      "locations": [
+        {
+          "line": 1,
+          "column": 142
+        }
+      ],
+      "path": [
+        "viewer",
+        "receiveCheckInformation"
+      ],
+      "extensions": {
+        "errorMetadata": {
+          "actionable": true,
+          "code": "FAILED",
+          "correlationID": "a22f77e88f03deca-IAD",
+          "operation": "useGetTravelRuleDataQuery__mono__0",
+          "traceID": "8723281542018274235",
+          "userErrorCode": "ANHNGUUH"
+        },
+        "service": "mono"
+      }
+    }
+  ]
+}

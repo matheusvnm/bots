@@ -1,0 +1,35 @@
+{
+  "data": {
+    "commitSend": {
+      "__typename": "SendsCommitSendSuccess",
+      "send": {
+        "uuid": "38b23536-3f55-5228-b8cb-04f8f17279dc",
+        "fromAccountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+        "referenceId": "4e2a96d1-e78b-44cc-a8b1-9ece46877e3a",
+        "description": "menos de um minuto",
+        "note": "",
+        "status": "PENDING",
+        "delayedSendDate": null,
+        "timestamp": "2026-07-29T20:09:41.77158515Z",
+        "amountCrypto": {
+          "value": "1.870856",
+          "currency": "USDC"
+        },
+        "amountFiat": {
+          "value": "9.57",
+          "currency": "BRL"
+        },
+        "recipientDetails": {
+          "imageUrl": "https://images.coinbase.com/avatar?s=128",
+          "displayValue": "7Ye9sLhgsrhDdrNj7sub6fBzazqXR6DJHEpHWfm5u7gE",
+          "recipientType": "ADDRESS"
+        },
+        "claimUrl": null,
+        "claimUrlExpiresAt": null,
+        "isConsensusRequired": false,
+        "riskChallengesSelfServe": null,
+        "showPasskeyNudge": false
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "viewer": {
+      "receiveCheckInformation": null,
+      "accountByUuidV3": {
+        "account": {
+          "accountHistoryEntryByUuid": {
+            "status": "COMPLETED",
+            "details": {
+              "__typename": "BuyDetails"
+            },
+            "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo0NDQ1M2Q5OS1iMWFlLTU3ZmItODk0Yy03M2EzNzgxYzcxMzY="
+          },
+          "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  },
+  "errors": [
+    {
+      "message": "An internal error has occurred",
+      "locations": [
+        {
+          "line": 1,
+          "column": 142
+        }
+      ],
+      "path": [
+        "viewer",
+        "receiveCheckInformation"
+      ],
+      "extensions": {
+        "errorMetadata": {
+          "actionable": true,
+          "code": "FAILED",
+          "correlationID": "a22f6efc4a15deca-IAD",
+          "operation": "useGetTravelRuleDataQuery__mono__0",
+          "traceID": "3414620723884330613",
+          "userErrorCode": "WHNAUVXM"
+        },
+        "service": "mono"
+      }
+    }
+  ]
+}

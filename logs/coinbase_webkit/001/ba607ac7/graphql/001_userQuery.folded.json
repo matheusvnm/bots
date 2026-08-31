@@ -1,0 +1,3257 @@
+{
+  "data": {
+    "countryCodeFromIP": "BR",
+    "splitTestGroupsForTestsV2": null,
+    "viewer": {
+      "productEligibilityStatus": {
+        "productsEligibility": null
+      },
+      "id": "Vmlld2VyOjA=",
+      "retailBrokerage": {
+        "userConfiguration": null,
+        "userAttributes": null
+      },
+      "retailDerivatives": {
+        "futuresPermissions": {
+          "entity": "UNSPECIFIED"
+        }
+      },
+      "retailIntx": {
+        "twilightEligibility": null
+      },
+      "userProperties": {
+        "uuid": "",
+        "locale": null,
+        "name": null,
+        "email": null,
+        "nativeCurrency": null,
+        "analyticsProcessingEnabled": null,
+        "marketingTrackingEnabled": null,
+        "marketingTrackingEnabledUpdatedAt": null,
+        "userFlags": null,
+        "featureFlags": null,
+        "country": null,
+        "regionFeatures": {
+          "isInEurope": null,
+          "supportsFiatTransfers": null,
+          "supportsCryptoToCryptoTransfers": null
+        },
+        "personalDetails": null,
+        "onboardingCompletionRedirectUrl": "/home",
+        "pendingVerificationDocumentId": null,
+        "pendingVerificationFacematchDocumentId": null,
+        "id": "VXNlclByb3BlcnRpZXM6MA==",
+        "nextRequirement": null,
+        "requirementMetadata": null,
+        "nextRequirementObservabilityTags": null
+      }
+    },
+    "clientConfigBoolean": [
+      {
+        "key": "prediction_markets_is_superbowl_live",
+        "value": false
+      }
+    ],
+    "clientConfigString": [
+      {
+        "key": "fcm_minimum_fee_per_contract",
+        "value": "0.14"
+      },
+      {
+        "key": "fcm_liquidation_fee_percent",
+        "value": "0.001"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_open_time",
+        "value": "6PM"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_close_time",
+        "value": "4PM"
+      },
+      {
+        "key": "fcm_intraday_leverage_window_length",
+        "value": "22"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_open_time",
+        "value": "12AM"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_close_time",
+        "value": "10PM"
+      },
+      {
+        "key": "cbfse_intraday_leverage_window_length",
+        "value": "22"
+      },
+      {
+        "key": "sepa_direct_debit_max_poll_attempt",
+        "value": "500"
+      },
+      {
+        "key": "fcm_promo_fee_tier_percent",
+        "value": "0.0002"
+      },
+      {
+        "key": "simple_futures_margin_offset_tolerance_value",
+        "value": "5"
+      },
+      {
+        "key": "accredited_investor_manual_documents_days_count",
+        "value": null
+      },
+      {
+        "key": "simple_chart_settings_defaults",
+        "value": "{\n  \"items\": [\n    {\n      \"string_map\": {\n        \"scope\": \"cex\",\n        \"showClosingLine\": \"true\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"dex\",\n        \"showClosingLine\": \"false\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"marketCap\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"equities\",\n        \"showClosingLine\": \"true\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"scope\": \"derivatives\",\n        \"showClosingLine\": \"false\",\n        \"showVolumeBars\": \"false\",\n        \"showYAxis\": \"true\",\n        \"yAxisMetric\": \"price\"\n      }\n    }\n  ]\n}"
+      },
+      {
+        "key": "p2p_claimable_receive_action_needed_delay",
+        "value": "86400000"
+      },
+      {
+        "key": "stripe_fc_publishable_key",
+        "value": "pk_live_51QBKtPIyoPktJf0KZuSdUh3e4mL1t1gbiGTpAJO6ftSDyLq93EyK32iYhlVuppNXhcIUrBkN7gnZfMlHL29jp3pQ00iJsO8BvA"
+      },
+      {
+        "key": "p2p_lightning_processing_fee",
+        "value": "0.2"
+      },
+      {
+        "key": "prediction_event_details_web_live_update_interval_ms",
+        "value": "2500"
+      },
+      {
+        "key": "prediction_explore_web_live_update_interval_ms",
+        "value": "2500"
+      },
+      {
+        "key": "prediction_markets_position_web_live_update_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_cards_position_web_live_update_interval_ms",
+        "value": null
+      },
+      {
+        "key": "prediction_event_live_score_web_polling_interval_ms",
+        "value": "1000"
+      },
+      {
+        "key": "prediction_markets_cards_live_score_web_polling_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_transactions_web_live_update_interval_ms",
+        "value": "5000"
+      },
+      {
+        "key": "prediction_markets_transactions_web_max_poll_count",
+        "value": "2"
+      },
+      {
+        "key": "prediction_markets_superbowl_event_ticker",
+        "value": "KXSB-26"
+      },
+      {
+        "key": "prediction_markets_superbowl_countdown",
+        "value": "86400000"
+      },
+      {
+        "key": "prediction_markets_event_hub_tag_web",
+        "value": "Men's Pro Basketball"
+      },
+      {
+        "key": "prediction_markets_event_hub_tag_web_secondary",
+        "value": "Pro Hockey"
+      },
+      {
+        "key": "prediction_markets_featured_events_count_web",
+        "value": null
+      },
+      {
+        "key": "prediction_trade_web_input_debounce_duration_ms",
+        "value": "250"
+      },
+      {
+        "key": "retail_rn_transfero_countdown_minutes",
+        "value": "2"
+      },
+      {
+        "key": "cad_wire_deposit_minimum_in_cad",
+        "value": "10000"
+      },
+      {
+        "key": "ca_tiered_reward_prosperity_campaign_id",
+        "value": "tvr_ca_20260302_20260329"
+      },
+      {
+        "key": "market_selector_desktop_v4_refresh_interval",
+        "value": null
+      },
+      {
+        "key": "dex_launchpad_filter_tray_section_value_config_v1",
+        "value": "{\n  \"items\": [\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"NEW:SOLANA\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"75000\",\n        \"marketCap.ticks\": \"1,10000,25000,50000,75000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"100\",\n        \"holders.ticks\": \"1,20,40,60,100\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"1000,3000,5000\",\n        \"liquidity\": \"1000,2000,3000\",\n        \"topHolders\": \"25,45,65\",\n        \"insiders\": \"25,45,65\",\n        \"globalFees\": \"100,250,500\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:SOLANA\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"8500\",\n        \"holdersMin\": \"15\",\n        \"volume24hMinUsd\": \"3000\",\n        \"liquidityMinUsd\": \"2000\",\n        \"top10HoldersPctMax\": \"45\",\n        \"insidersPctMax\": \"45\",\n        \"globalFeesMinUsd\": \"500\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:SOLANA\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"5000\",\n        \"holdersMin\": \"10\",\n        \"volume24hMinUsd\": \"1000\",\n        \"liquidityMinUsd\": \"1000\",\n        \"top10HoldersPctMax\": \"65\",\n        \"insidersPctMax\": \"65\",\n        \"globalFeesMinUsd\": \"100\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"NEW:BASE\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"75000\",\n        \"marketCap.ticks\": \"1,10000,25000,50000,75000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"100\",\n        \"holders.ticks\": \"1,20,40,60,100\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"500,1000,2000\",\n        \"liquidity\": \"500,1000,2000\",\n        \"topHolders\": \"25,45,65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:BASE\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"10000\",\n        \"holdersMin\": \"15\",\n        \"volume24hMinUsd\": \"1000\",\n        \"liquidityMinUsd\": \"1000\",\n        \"top10HoldersPctMax\": \"45\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"NEW:BASE\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"5000\",\n        \"holdersMin\": \"10\",\n        \"volume24hMinUsd\": \"500\",\n        \"liquidityMinUsd\": \"500\",\n        \"top10HoldersPctMax\": \"65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"1000000\",\n        \"marketCap.ticks\": \"1,250000,500000,750000,1000000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"10000\",\n        \"holders.ticks\": \"1,2500,5000,7500,10000\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"10000,25000,50000\",\n        \"liquidity\": \"5000,25000,50000\",\n        \"topHolders\": \"25,45,65\",\n        \"insiders\": \"25,45,65\",\n        \"globalFees\": \"1000,5000,10000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"100000\",\n        \"holdersMin\": \"250\",\n        \"volume24hMinUsd\": \"25000\",\n        \"liquidityMinUsd\": \"25000\",\n        \"top10HoldersPctMax\": \"45\",\n        \"insidersPctMax\": \"45\",\n        \"globalFeesMinUsd\": \"5000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:SOLANA\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"50000\",\n        \"holdersMin\": \"100\",\n        \"volume24hMinUsd\": \"10000\",\n        \"liquidityMinUsd\": \"5000\",\n        \"top10HoldersPctMax\": \"65\",\n        \"insidersPctMax\": \"65\",\n        \"globalFeesMinUsd\": \"1000\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"section_values\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"marketCap.min\": \"1\",\n        \"marketCap.max\": \"1000000\",\n        \"marketCap.ticks\": \"1,250000,500000,750000,1000000\",\n        \"holders.min\": \"1\",\n        \"holders.max\": \"10000\",\n        \"holders.ticks\": \"1,2500,5000,7500,10000\",\n        \"presets\": \"FOCUS,EXPANDED\",\n        \"volume24h\": \"7500,15000,25000\",\n        \"liquidity\": \"5000,10000,25000\",\n        \"topHolders\": \"25,45,65\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"preset\": \"FOCUS\",\n        \"marketCapMinUsd\": \"60000\",\n        \"holdersMin\": \"50\",\n        \"volume24hMinUsd\": \"15000\",\n        \"liquidityMinUsd\": \"10000\",\n        \"top10HoldersPctMax\": \"45\"\n      }\n    },\n    {\n      \"string_map\": {\n        \"kind\": \"preset\",\n        \"variant\": \"GRADUATED:BASE\",\n        \"preset\": \"EXPANDED\",\n        \"marketCapMinUsd\": \"40000\",\n        \"holdersMin\": \"40\",\n        \"volume24hMinUsd\": \"7500\",\n        \"liquidityMinUsd\": \"5000\",\n        \"top10HoldersPctMax\": \"65\"\n      }\n    }\n  ]\n}"
+      },
+      {
+        "key": "credit_card_days_until_allowed_reapply",
+        "value": "45"
+      },
+      {
+        "key": "creditcard_card_details_url_web",
+        "value": "https://embedded.cardless.com/embed/ui/coinbase?next=%2Fp%2Fcoinbase%2Fui%2Fcard%2Fvirtual%2Foverlay%3Fcolor%3Dwhite%26bg%3Durl(https%3A%2F%2Fd1dwhf283nul1c.cloudfront.net%2Fui_components_asset%2F93fef456-2e93-4363-8a54-bcca0d9c558b.webp)%20center%2Fcover%20no-repeat"
+      },
+      {
+        "key": "creditcard_card_details_loading_timeout_ms",
+        "value": "20000"
+      },
+      {
+        "key": "defi_lend_pending_refresh_buffer_ms",
+        "value": "5000"
+      },
+      {
+        "key": "native_currency_equities_quote_match_tolerance",
+        "value": "0.01"
+      },
+      {
+        "key": "usdc_top_up_amount_multiplier",
+        "value": "1.0009"
+      },
+      {
+        "key": "equity_acats_contact_support_url",
+        "value": "https://calendly.com/d/cvdj-38w-x67/trading-specialist-consultation"
+      },
+      {
+        "key": "intl_account_terms_conditions_url",
+        "value": "https://www.coinbase.com/legal"
+      },
+      {
+        "key": "trading_competition_landing_page_base_url",
+        "value": "https://www.coinbase.com/en-in/legal/champions-cup-terms"
+      },
+      {
+        "key": "trading_competition_invite_friends_base_url",
+        "value": "http://coinbase.com/coinbase-champions-cup-india"
+      },
+      {
+        "key": "trading_competition_terms_url",
+        "value": "https://www.coinbase.com/en-in/legal/champions-cup-terms"
+      },
+      {
+        "key": "uk_deposit_takeover_cutoff",
+        "value": "2026-07-06T10:00:00Z"
+      },
+      {
+        "key": "session_replay_mask_level",
+        "value": "medium"
+      },
+      {
+        "key": "trading_competition_dates",
+        "value": "July 8–29, 2026, IST"
+      },
+      {
+        "key": "trading_competition_registration_terms_html",
+        "value": "<p>Coinbase India Trading Competition is offered by Coinbase India Private Limited (“CIPL”) and open only to lawful residents of India who are at least 18 years old, have a valid, active Coinbase account, are onboarded to Coinbase Advanced, and complete at least 100 USDC in eligible perpetual futures trading volume in their designated Competition Account during the Competition Period ({competitionDates}). Normal trading fees, spreads, and funding payments apply. Total Prize Pool between 50,000–350,000 USDC, allocated across PnL Notional, PnL Percent, and Volume leaderboards. Crypto products and NFTs are unregulated in India and can be highly risky, and there may be no regulatory recourse for any loss from such transactions. Participation is subject to the full Coinbase India Trading Competition. <a href=\"https://www.coinbase.com/en-in/legal/champions-cup-terms\">See terms</a>.</p>"
+      }
+    ],
+    "clientConfigStringArray": [
+      {
+        "key": "eea_tiered_referral_eligible_countries",
+        "value": [
+          "DE",
+          "NL",
+          "SE",
+          "NO"
+        ]
+      },
+      {
+        "key": "digital_wallet_discoverability_eligible_countries",
+        "value": [
+          "US",
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "key": "mica_compliant_countries",
+        "value": [
+          "AT",
+          "BE",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FI",
+          "FR",
+          "DE",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SK",
+          "SI",
+          "ES",
+          "SE",
+          "IS",
+          "LI",
+          "NO"
+        ]
+      },
+      {
+        "key": "hnwi_concierge_active_chat_widgets",
+        "value": [
+          "cb1-premium-upsell",
+          "lend-upsell",
+          "security-settings",
+          "onchain-borrow-upsell",
+          "staking-upsell",
+          "usdc-savings-upsell",
+          "cb1-card-upsell"
+        ]
+      },
+      {
+        "key": "idv_supported_doc_flags",
+        "value": [
+          "US",
+          "FR",
+          "IT",
+          "ES",
+          "NL",
+          "DE",
+          "AU",
+          "IN"
+        ]
+      },
+      {
+        "key": "fee_tier_keep_trading_excluded_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "advanced_points_excluded_countries",
+        "value": []
+      },
+      {
+        "key": "intx_incentive_exclude_countries",
+        "value": [
+          "AO",
+          "AR",
+          "AT",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LK",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MD",
+          "MT",
+          "MX",
+          "MZ",
+          "NL",
+          "NO",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SI",
+          "SK",
+          "SV",
+          "TN",
+          "TR",
+          "TW",
+          "UG",
+          "VN"
+        ]
+      },
+      {
+        "key": "intx_incentive_exclude_primary_address_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "top_asset_default_category_eligible_countries",
+        "value": [
+          "AU",
+          "BR",
+          "CA",
+          "DE",
+          "ES",
+          "FR",
+          "IT",
+          "NL",
+          "SG",
+          "UK"
+        ]
+      },
+      {
+        "key": "hnwi_concierge_chat_team_photos",
+        "value": [
+          "https://static-assets.coinbase.com/hnwi/concierge/melana.png",
+          "https://static-assets.coinbase.com/hnwi/concierge/milad.png",
+          "https://static-assets.coinbase.com/hnwi/concierge/syubin.png"
+        ]
+      },
+      {
+        "key": "bank_specific_di_countries",
+        "value": [
+          "SG"
+        ]
+      },
+      {
+        "key": "coinbiz_payments_supported_target_assets",
+        "value": [
+          "USDC"
+        ]
+      },
+      {
+        "key": "coinbiz_payments_supported_source_asset_uuids",
+        "value": [
+          "2b92315d-eab7-5bef-84fa-089a131333f5"
+        ]
+      },
+      {
+        "key": "dex_uuid_overrides",
+        "value": [
+          "95629556-915b-5a8d-9c40-3ad15b9a87c5",
+          "a644b923-04cb-516f-a316-3b1208e0e8dd",
+          "8b13ab57-88aa-5e3f-9b44-a1158ddad906",
+          "433e1bcb-7045-5f68-8407-10fa6dadcb08",
+          "a106eb0c-ca90-5330-b620-b7b6b1b826e3",
+          "03f3290d-cf3b-5b28-a9f1-b9dea7e7bddb",
+          "8d8cc525-f3e8-5af2-abac-52e776c42601",
+          "828b52e1-c923-54c7-8a5d-3f45a14cc667",
+          "97f7548f-a70c-51d7-b833-c335fb1314d0",
+          "97e5a6c9-ecd4-5e1b-a0f0-a7560e1cc2e3",
+          "37c964ce-8f6c-5f29-b15c-86afeabc9d64",
+          "8d3a6590-3375-5e19-8415-cf1266b02d2a",
+          "cebcd8c1-04de-5cc1-ae10-7844d857a174",
+          "3182351d-db9e-5886-93ec-491645c3dec4",
+          "7b4f5dc3-76f1-5338-b7d5-c9b96a610ecf",
+          "f1d69feb-1883-59a9-a94f-c65e617e89ce",
+          "c790812a-970a-5beb-b20c-0c490de88f2d",
+          "14afa5ad-24a4-593b-a555-665f6a7f3ac1",
+          "f052d20b-c9f4-574d-b765-b3246967127d",
+          "c36406f7-4adc-5fa6-8e93-72a4581385a1",
+          "7e7faed7-8c84-5af2-bd58-ffff14d4e500",
+          "79ad4deb-cb6a-5d77-a204-2513db4da3af",
+          "1e3c6198-a16e-566d-a320-577bb33d59fb",
+          "770d6575-ef09-51bd-bb21-1b44e8d09522",
+          "98c99eb6-f60c-55b1-94a2-e7bf7a17d891",
+          "8f77c329-f360-5923-bf95-af6aadf6b1ad",
+          "bc222020-4552-5568-833b-1aae57703f13",
+          "f052d20b-c9f4-574d-b765-b3246967127d",
+          "f8775150-7fbe-55f6-a89f-50d2a03d0839"
+        ]
+      },
+      {
+        "key": "rat_fiat_deposit_picker_currencies",
+        "value": [
+          "CAD"
+        ]
+      },
+      {
+        "key": "saa_required_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "savings_account_eligible_currencies",
+        "value": null
+      },
+      {
+        "key": "market_selector_desktop_v4_pinned_perps_products",
+        "value": [
+          "SPCX-PERP-INTX",
+          "AI10-PERP-INTX",
+          "TECH100-PERP-INTX",
+          "CHINA10-PERP-INTX",
+          "DFND10-PERP-INTX",
+          "OPENAI-PERP-INTX",
+          "ANTHROPIC-PERP-INTX",
+          "MRVL-PERP-INTX",
+          "EWY-PERP-INTX"
+        ]
+      },
+      {
+        "key": "dex_intl_countries",
+        "value": [
+          "AT",
+          "BE",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FI",
+          "FR",
+          "DE",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SK",
+          "SI",
+          "ES",
+          "SE",
+          "IS",
+          "LI",
+          "NO",
+          "AR",
+          "BR",
+          "AU",
+          "AL",
+          "AM",
+          "AO",
+          "AW",
+          "AZ",
+          "BB",
+          "BD",
+          "BF",
+          "BH",
+          "BJ",
+          "BM",
+          "BO",
+          "BS",
+          "BW",
+          "BZ",
+          "CG",
+          "CI",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "DO",
+          "DZ",
+          "EC",
+          "EG",
+          "ET",
+          "FJ",
+          "GA",
+          "GH",
+          "GT",
+          "HN",
+          "ID",
+          "IL",
+          "JM",
+          "JO",
+          "KE",
+          "KG",
+          "KH",
+          "KW",
+          "KY",
+          "LC",
+          "LK",
+          "MA",
+          "MD",
+          "MK",
+          "MN",
+          "MO",
+          "MR",
+          "MU",
+          "MV",
+          "MW",
+          "MX",
+          "MY",
+          "MZ",
+          "NE",
+          "NG",
+          "NP",
+          "OM",
+          "PA",
+          "PE",
+          "PG",
+          "PK",
+          "PY",
+          "RS",
+          "RW",
+          "SA",
+          "SC",
+          "SN",
+          "SR",
+          "SV",
+          "TG",
+          "TH",
+          "TJ",
+          "TN",
+          "TR",
+          "TT",
+          "UA",
+          "UG",
+          "UY",
+          "UZ",
+          "VG",
+          "VN",
+          "ZA",
+          "ZM",
+          "GB",
+          "IN",
+          "SG",
+          "HK",
+          "PH",
+          "NZ",
+          "KR",
+          "TW",
+          "AE",
+          "CA"
+        ]
+      },
+      {
+        "key": "packs_incentive_redemption_order",
+        "value": [
+          "BLUECHIP",
+          "MEMECOIN",
+          "STAKING",
+          "BTC"
+        ]
+      },
+      {
+        "key": "system_alert_cache_eviction_tags",
+        "value": [
+          "central-resolution-hub-medium-severity"
+        ]
+      },
+      {
+        "key": "yield_center_exclude_assets",
+        "value": [
+          "USDC"
+        ]
+      },
+      {
+        "key": "yield_center_extra_countries",
+        "value": [
+          "SG",
+          "CA"
+        ]
+      },
+      {
+        "key": "yield_center_restricted_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "staking_disclaimer_proofing_required_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "yield_center_wrapped_assets_staking",
+        "value": [
+          "CBETH",
+          "JITOSOL"
+        ]
+      },
+      {
+        "key": "staking_summary_hidden_assets",
+        "value": [
+          "ALGO",
+          "USDT",
+          "DAI",
+          "JITOSOL"
+        ]
+      },
+      {
+        "key": "country_change_unsupported_countries",
+        "value": [
+          "AD",
+          "AF",
+          "AG",
+          "AI",
+          "AN",
+          "AQ",
+          "AS",
+          "AT",
+          "AX",
+          "BA",
+          "BE",
+          "BG",
+          "BI",
+          "BL",
+          "BN",
+          "BQ",
+          "BT",
+          "BV",
+          "BY",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CH",
+          "CK",
+          "CN",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "EE",
+          "EH",
+          "ER",
+          "ES",
+          "FI",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GU",
+          "GW",
+          "GY",
+          "HM",
+          "HR",
+          "HT",
+          "HU",
+          "IE",
+          "IM",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JP",
+          "KI",
+          "KM",
+          "KN",
+          "KP",
+          "KZ",
+          "LA",
+          "LB",
+          "LI",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MC",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "ML",
+          "MM",
+          "MP",
+          "MQ",
+          "MS",
+          "MT",
+          "NA",
+          "NC",
+          "NF",
+          "NI",
+          "NL",
+          "NO",
+          "NR",
+          "NU",
+          "PF",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PW",
+          "QA",
+          "RE",
+          "RO",
+          "RU",
+          "SB",
+          "SD",
+          "SE",
+          "SH",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SO",
+          "SS",
+          "ST",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TK",
+          "TL",
+          "TM",
+          "TO",
+          "TV",
+          "TZ",
+          "UM",
+          "VA",
+          "VC",
+          "VE",
+          "VI",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZW"
+        ]
+      },
+      {
+        "key": "intx_perps_hidden_countries",
+        "value": [
+          "CA"
+        ]
+      },
+      {
+        "key": "perpetuals_options_experiment_countries",
+        "value": [
+          "BM",
+          "BR",
+          "SG",
+          "IN",
+          "GB",
+          "AU"
+        ]
+      },
+      {
+        "key": "insufficient_dp_data_error_overrides_disable_web",
+        "value": []
+      },
+      {
+        "key": "risky_etps_inverse",
+        "value": [
+          "SQQQ",
+          "TBT",
+          "SH",
+          "TBF",
+          "SPXU",
+          "SDS",
+          "PSQ",
+          "TZA",
+          "SDOW",
+          "SVXY",
+          "SPXS",
+          "TMV",
+          "DOG",
+          "RWM",
+          "QID",
+          "SOXS",
+          "TTT",
+          "KOLD",
+          "FAZ",
+          "SRTY",
+          "SPDN",
+          "TBX",
+          "SCO",
+          "DXD",
+          "DRIP",
+          "JDST",
+          "PST",
+          "TWM",
+          "HDGE",
+          "DUST",
+          "TECS",
+          "SJB",
+          "SVOL",
+          "YANG",
+          "LABD",
+          "EUM",
+          "ERY",
+          "TYO",
+          "GLL",
+          "DWSH",
+          "ZSL",
+          "EDZ",
+          "GDXD",
+          "DUG",
+          "HIBS",
+          "FXP",
+          "DRV",
+          "BZQ",
+          "EFZ",
+          "SRS",
+          "SKF",
+          "MYY",
+          "REK",
+          "YXI",
+          "BIS",
+          "EPV",
+          "NRGD",
+          "SEF",
+          "EMTY",
+          "DZZ",
+          "EEV",
+          "SMDD",
+          "WTID",
+          "WEBS",
+          "SBB",
+          "OILD",
+          "EWV",
+          "REW",
+          "DGZ",
+          "BERZ",
+          "SDD",
+          "SSG",
+          "SDP",
+          "RXD",
+          "MZZ",
+          "SMN",
+          "SIJ",
+          "DULL",
+          "EFU",
+          "SCC",
+          "SZK",
+          "FNGD",
+          "BNKD",
+          "SVIX",
+          "BITI",
+          "FLYD",
+          "NVDS",
+          "TSLQ",
+          "AAPD",
+          "TSLI",
+          "TSLS",
+          "AMZD",
+          "GGLS",
+          "MSFD",
+          "JETD",
+          "CARD",
+          "NVDD",
+          "SETH",
+          "SBIT",
+          "ETHD",
+          "SARK",
+          "TSLZ",
+          "NVDQ",
+          "CORD",
+          "CRCD",
+          "SKRE",
+          "DAMD",
+          "BMNZ",
+          "HOOZ",
+          "IONZ",
+          "SMST",
+          "OKLS",
+          "QBTZ",
+          "RGTZ",
+          "SMCZ",
+          "STSM",
+          "AIBD",
+          "AMDD",
+          "AVS",
+          "BOED",
+          "BRKD",
+          "REKT",
+          "CSCS",
+          "FRDD",
+          "ELIS",
+          "LMTS",
+          "QQQD",
+          "METD",
+          "NFXS",
+          "ORCS",
+          "PALD",
+          "QCMD",
+          "TSXD",
+          "SHPD",
+          "TTXD",
+          "TSMZ",
+          "XOMZ",
+          "CONI",
+          "MSDD",
+          "NVD",
+          "QQDN",
+          "CRCD",
+          "NVDQ",
+          "TSLZ",
+          "SMQ",
+          "SKRE",
+          "FLYD",
+          "BNKD",
+          "FNGD",
+          "ETQ",
+          "BERZ",
+          "CORD",
+          "OILD",
+          "DULL",
+          "GDXD",
+          "NRGD",
+          "NVDQ",
+          "TSLZ",
+          "CRCD",
+          "BTCZ",
+          "MSTZ",
+          "SKRE",
+          "CARD",
+          "JETD",
+          "SNK",
+          "SPCQ",
+          "DLUX",
+          "LITZ",
+          "SCUB",
+          "SNDQ",
+          "AAOZ",
+          "ORCZ",
+          "SKHZ",
+          "SKDD"
+        ]
+      },
+      {
+        "key": "risky_etps_leveraged",
+        "value": [
+          "TQQQ",
+          "QLD",
+          "SSO",
+          "SOXL",
+          "FAS",
+          "UPRO",
+          "SPXL",
+          "TECL",
+          "TNA",
+          "FNGU",
+          "UCO",
+          "ROM",
+          "UVXY",
+          "UYG",
+          "UDOW",
+          "GUSH",
+          "NUGT",
+          "LABU",
+          "NRGU",
+          "AGQ",
+          "JNUG",
+          "ERX",
+          "YINN",
+          "PFFA",
+          "DDM",
+          "USD",
+          "DPST",
+          "URTY",
+          "CWEB",
+          "NAIL",
+          "TMF",
+          "UWM",
+          "BULZ",
+          "DFEN",
+          "FNGO",
+          "UGL",
+          "BOIL",
+          "CURE",
+          "BRZU",
+          "BIB",
+          "DIG",
+          "MVV",
+          "EDC",
+          "RXL",
+          "RETL",
+          "DRN",
+          "URE",
+          "BNKU",
+          "HIBL",
+          "CHAU",
+          "DGP",
+          "WEBL",
+          "MIDU",
+          "GDXU",
+          "INDL",
+          "TPOR",
+          "UYM",
+          "DUSL",
+          "SPUU",
+          "UMDD",
+          "EET",
+          "WANT",
+          "UBT",
+          "KORU",
+          "SAA",
+          "MVRL",
+          "SMHB",
+          "UBOT",
+          "EUO",
+          "EURL",
+          "BDCX",
+          "QULL",
+          "UCC",
+          "SCDL",
+          "IWFL",
+          "UTSL",
+          "MLPR",
+          "IWDL",
+          "USML",
+          "CEFD",
+          "YCS",
+          "CEFZ",
+          "UXI",
+          "UJB",
+          "IWML",
+          "MTUL",
+          "TYD",
+          "UPW",
+          "XPP",
+          "UST",
+          "PILL",
+          "PFFL",
+          "UGE",
+          "MEXX",
+          "HDLB",
+          "EFO",
+          "XDSQ",
+          "XBJL",
+          "XTJL",
+          "EZJ",
+          "FNGG",
+          "WTIU",
+          "XTAP",
+          "UBR",
+          "XJUN",
+          "UCYB",
+          "UPV",
+          "XBOC",
+          "SHNY",
+          "OILU",
+          "ULE",
+          "SKYU",
+          "QTOC",
+          "LTL",
+          "YCL",
+          "XTOC",
+          "XDEC",
+          "QTJA",
+          "XBJA",
+          "XTJA",
+          "RSEE",
+          "GDE",
+          "UVIX",
+          "TARK",
+          "FLYU",
+          "AAPB",
+          "AAPU",
+          "CONL",
+          "TSL",
+          "TSLL",
+          "MSOX",
+          "AMZU",
+          "GGLL",
+          "MSFU",
+          "XSEP",
+          "BABX",
+          "FBL",
+          "NVDL",
+          "BITX",
+          "CARU",
+          "NVDU",
+          "AAPX",
+          "AMDL",
+          "AMZZ",
+          "BITU",
+          "SPYU",
+          "ETHU",
+          "ETHT",
+          "MSTX",
+          "SMCX",
+          "AVGX",
+          "RIOX",
+          "IONX",
+          "HIMZ",
+          "HOOX",
+          "MST",
+          "OKLL",
+          "AVGU",
+          "PLT",
+          "TIPD",
+          "BEX",
+          "QPUX",
+          "ANEL",
+          "AVXX",
+          "BU",
+          "BTFL",
+          "CVNX",
+          "DKNX",
+          "IRE",
+          "LMNX",
+          "LUNL",
+          "MPL",
+          "NVOX",
+          "ORCX",
+          "OSCX",
+          "QSU",
+          "RGTX",
+          "RKLX",
+          "RKTL",
+          "SOFX",
+          "SOUX",
+          "VSTL",
+          "AIBU",
+          "AVL",
+          "BOEU",
+          "TBXU",
+          "CONX",
+          "LMBO",
+          "CSCL",
+          "TEXU",
+          "FRDU",
+          "HODU",
+          "LINT",
+          "ELIL",
+          "LMTL",
+          "QQQU",
+          "METU",
+          "MUU",
+          "NFXL",
+          "ORCU",
+          "PALU",
+          "PLTU",
+          "QCMU",
+          "TSXU",
+          "SHPU",
+          "TTXU",
+          "TSMX",
+          "XOMX",
+          "BULX",
+          "CRWL",
+          "DLLL",
+          "ETRL",
+          "GOU",
+          "INTW",
+          "ISUL",
+          "LCDL",
+          "MSTP",
+          "MULL",
+          "NOWL",
+          "PDDL",
+          "PTIR",
+          "QCML",
+          "RVNL",
+          "TSLR",
+          "TSMU",
+          "UBRL",
+          "VRTL",
+          "KBAB",
+          "KBDU",
+          "KJD",
+          "KMLI",
+          "KPDD",
+          "COIO",
+          "MSOO",
+          "NVDO",
+          "PLOO",
+          "TSLO",
+          "AALG",
+          "ABNG",
+          "ADBG",
+          "ALBG",
+          "AMDG",
+          "ARMG",
+          "ASMG",
+          "AVGG",
+          "BOEG",
+          "BAIG",
+          "BEG",
+          "BIDG",
+          "BLSG",
+          "BULG",
+          "CIFG",
+          "CMGG",
+          "CNCG",
+          "COIG",
+          "COTG",
+          "CRCG",
+          "CRMG",
+          "CRWG",
+          "DUOG",
+          "FIGG",
+          "FUTG",
+          "GEMG",
+          "GEVG",
+          "GLGG",
+          "GRAG",
+          "HOOG",
+          "HUTG",
+          "IREG",
+          "KLAG",
+          "LACG",
+          "LULG",
+          "MPG",
+          "NBIG",
+          "NEMG",
+          "NETG",
+          "NIOG",
+          "NUG",
+          "NVDG",
+          "OKTG",
+          "ONDG",
+          "OPEG",
+          "OSCG",
+          "PANG",
+          "PBRG",
+          "PLTG",
+          "PLUL",
+          "PYPG",
+          "RTXG",
+          "SATG",
+          "SBU",
+          "SNAG",
+          "SPOG",
+          "TERG",
+          "TSMG",
+          "UNHG",
+          "UPSG",
+          "UUUG",
+          "VALG",
+          "XYZG",
+          "COIA",
+          "CRCA",
+          "NVDB",
+          "PLTA",
+          "QQXL",
+          "BEGS",
+          "BKNU",
+          "GLXU",
+          "TTDU",
+          "PXIU",
+          "AFRU",
+          "ARMU",
+          "AXUP",
+          "BMNU",
+          "BULU",
+          "CIFU",
+          "CCUP",
+          "DJTU",
+          "DKUP",
+          "GMEU",
+          "ROBN",
+          "KTUP",
+          "MSFX",
+          "MSTU",
+          "NVDX",
+          "RBLU",
+          "SBTU",
+          "SNOU",
+          "TSLT",
+          "APLX",
+          "APPX",
+          "AURU",
+          "BLSX",
+          "CEGX",
+          "CELT",
+          "CSEX",
+          "COZX",
+          "CRMX",
+          "CWVX",
+          "DASX",
+          "DOGD",
+          "ENPX",
+          "FLYT",
+          "GEVX",
+          "GSX",
+          "MQQQ",
+          "QQQP",
+          "IREX",
+          "JOBX",
+          "LRCU",
+          "LYFX",
+          "MDBX",
+          "NEBX",
+          "NNE",
+          "NVTX",
+          "ONDU",
+          "OPEX",
+          "PATX",
+          "PONX",
+          "QBTX",
+          "RGTU",
+          "SMU",
+          "SNPX",
+          "SPYQ",
+          "SRPU",
+          "UNX",
+          "VOYX",
+          "WULX",
+          "BEZ",
+          "KORU",
+          "GDXU",
+          "JNUG",
+          "NUGT",
+          "SPXL",
+          "MUU",
+          "FNGG",
+          "SPUU",
+          "MQQQ",
+          "QQQP",
+          "MULL",
+          "AGQ",
+          "SPYQ",
+          "LABU",
+          "VRTL",
+          "FAS",
+          "NVDU",
+          "UPRO",
+          "FNGO",
+          "BILZ",
+          "BRZU",
+          "CURE",
+          "TECL",
+          "ERX",
+          "DPST",
+          "GGLL",
+          "UPV",
+          "EET",
+          "ROM",
+          "NVDL",
+          "BIB",
+          "DUSL",
+          "UJB",
+          "DFEN",
+          "VGUS",
+          "SQQQ",
+          "UGL",
+          "SDS",
+          "UYG",
+          "MVV",
+          "ETHD",
+          "TTT",
+          "QLD",
+          "EFO",
+          "GOOX",
+          "URE",
+          "HIBL",
+          "MSDD",
+          "DIG",
+          "EDC",
+          "TSMX",
+          "SMST",
+          "INTW",
+          "CONI",
+          "EZJ",
+          "SSO",
+          "SPXU",
+          "SBIT",
+          "FAZ",
+          "YCS",
+          "DDM",
+          "LMTL",
+          "USD",
+          "UDOW",
+          "URTY",
+          "UXI",
+          "SOLT",
+          "MIDU",
+          "UYLD",
+          "EVSB",
+          "UVXY",
+          "TSMU",
+          "DUSB",
+          "UTSL",
+          "PUSH",
+          "PULT",
+          "PLTU",
+          "TUSB",
+          "GUMI",
+          "SOXL",
+          "ZMUN",
+          "VUSI",
+          "HIBS",
+          "QQUP",
+          "RXL",
+          "GEVX",
+          "QQQU",
+          "DUST",
+          "TQQQ",
+          "UWM",
+          "XOMX",
+          "SRS",
+          "INDL",
+          "UCC",
+          "OILU",
+          "TNA",
+          "SMZ",
+          "XRPT",
+          "UST",
+          "UCYB",
+          "AVGX",
+          "SOXS",
+          "AMUU",
+          "URSP",
+          "NAIL",
+          "SRTY",
+          "URAA",
+          "PBRG",
+          "AIBU",
+          "QQXL",
+          "EURL",
+          "UCO",
+          "WANT",
+          "AVL",
+          "TARK",
+          "SPXS",
+          "TEXU",
+          "NRGU",
+          "NEBX",
+          "TMV",
+          "GUSH",
+          "TMF",
+          "SNXX",
+          "TERG",
+          "SMCZ",
+          "HOOZ",
+          "LINT",
+          "TBT",
+          "SDOW",
+          "YINN",
+          "ASMG",
+          "FLYU",
+          "UBR",
+          "BOEU",
+          "TBXU",
+          "TTXD",
+          "JDST",
+          "TWM",
+          "NFLU",
+          "AVGU",
+          "LRCU",
+          "LNOK",
+          "EDZ",
+          "TSXU",
+          "RVNL",
+          "CWEB",
+          "DLLL",
+          "EUO",
+          "MRNX",
+          "QQDN",
+          "NFXL",
+          "CSCL",
+          "FBL",
+          "YANG",
+          "AAPU",
+          "NVTX",
+          "UYM",
+          "METU",
+          "BABX",
+          "SSG",
+          "PLTZ",
+          "TSMG",
+          "AMZU",
+          "AAPB",
+          "MSFU",
+          "WEBS",
+          "MRVU",
+          "RTXG",
+          "TPOR",
+          "FRDU",
+          "LTL",
+          "CPXR",
+          "KTUP",
+          "WDCX",
+          "MEXX",
+          "LCIZ",
+          "ISUL",
+          "TSLI",
+          "JOBX",
+          "AAPX",
+          "AMUN",
+          "NVDB",
+          "UMDD",
+          "UPW",
+          "SNPX",
+          "CGUI",
+          "NUSB",
+          "BU",
+          "BAMU",
+          "SCUS",
+          "AUSM",
+          "KBDU",
+          "AMZZ",
+          "KCSH",
+          "SPTU",
+          "TYD",
+          "SNOU",
+          "CRWL",
+          "LVLN",
+          "UNX",
+          "AVGG",
+          "LITX",
+          "UBOT",
+          "RCAX",
+          "OPEX",
+          "BNKU",
+          "TSLR",
+          "DRV",
+          "SPYU",
+          "IREZ",
+          "XPP",
+          "EWV",
+          "RGTZ",
+          "NEMG",
+          "MDBX",
+          "ETHU",
+          "CRDU",
+          "DAMD",
+          "PST",
+          "PLU",
+          "ASMU",
+          "TSLQ",
+          "ELIL",
+          "EPV",
+          "ENPX",
+          "TEMT",
+          "PDDL",
+          "DXD",
+          "CHAU",
+          "QID",
+          "CWVX",
+          "ONDL",
+          "BULZ",
+          "BMNZ",
+          "HOOG",
+          "ROBN",
+          "MVLL",
+          "CARU",
+          "IONZ",
+          "WULX",
+          "BEGS",
+          "GEVG",
+          "BOIL",
+          "CXRN",
+          "FXP",
+          "SBU",
+          "AMDG",
+          "LLYX",
+          "FNGU",
+          "RGTU",
+          "TSLT",
+          "VALG",
+          "LABD",
+          "WXET",
+          "CUSD",
+          "PLTA",
+          "DUG",
+          "UGE",
+          "KLAG",
+          "WTIU",
+          "APLZ",
+          "NVDO",
+          "TECS",
+          "ZETX",
+          "ZSL",
+          "DOGD",
+          "CEGX",
+          "LABX",
+          "FDRX",
+          "WEBL",
+          "SHNY",
+          "PTIR",
+          "YCL",
+          "CRMX",
+          "MSFL",
+          "KOLD",
+          "PLTG",
+          "TSLO",
+          "NIOG",
+          "GLL",
+          "TTXU",
+          "EEV",
+          "KJD",
+          "ASTN",
+          "SOFA",
+          "BTCL",
+          "SMU",
+          "UPAR",
+          "OKLS",
+          "UBT",
+          "SCC",
+          "UBRL",
+          "BITX",
+          "SHPU",
+          "BABU",
+          "TSXD",
+          "APLX",
+          "NVDX",
+          "NVDG",
+          "ANEL",
+          "QCMU",
+          "COTG",
+          "ETHT",
+          "CMGG",
+          "ABNG",
+          "SATG",
+          "IREG",
+          "BIDG",
+          "RDTL",
+          "IONL",
+          "ARMU",
+          "UPSX",
+          "CIFU",
+          "UPSG",
+          "ORLG",
+          "PALU",
+          "TSLL",
+          "PLOO",
+          "DNNG",
+          "LMNX",
+          "TYO",
+          "XPEG",
+          "NETG",
+          "LULG",
+          "BOEG",
+          "BKNU",
+          "ALBG",
+          "BITU",
+          "PONX",
+          "QBTX",
+          "ULE",
+          "UUUG",
+          "STSM",
+          "CSEX",
+          "QCML",
+          "BTFL",
+          "QBTZ",
+          "SDD",
+          "RBLU",
+          "NBIZ",
+          "NBIL",
+          "LUNL",
+          "ONDU",
+          "REW",
+          "ERY",
+          "SMDD",
+          "SOFX",
+          "AMDL",
+          "OKTG",
+          "PLUL",
+          "VOYX",
+          "GMEU",
+          "BZQ",
+          "ORCU",
+          "KBAB",
+          "XYZG",
+          "RDWU",
+          "VSTL",
+          "CVNX",
+          "SMCX",
+          "FLYT",
+          "CLSX",
+          "SMN",
+          "SZK",
+          "CONX",
+          "UNHG",
+          "DASX",
+          "CNCG",
+          "NUG",
+          "COZX",
+          "SDP",
+          "NVOX",
+          "PILL",
+          "FUTG",
+          "SIJ",
+          "PATX",
+          "RXD",
+          "LACG",
+          "IONX",
+          "TSDD",
+          "DRN",
+          "UECG",
+          "CELT",
+          "QUBX",
+          "BIS",
+          "AIBD",
+          "OKLL",
+          "KMLI",
+          "CONL",
+          "HODU",
+          "KPDD",
+          "COIG",
+          "EFU",
+          "AXUP",
+          "PANG",
+          "SCO",
+          "UVIX",
+          "XRPK",
+          "BLSX",
+          "SPOG",
+          "NBIG",
+          "QXAS",
+          "SRPU",
+          "CRMU",
+          "MPG",
+          "ETRL",
+          "HOOX",
+          "NNEX",
+          "AALG",
+          "MZZ",
+          "MPL",
+          "HUTG",
+          "ONDG",
+          "RETL",
+          "CRMG",
+          "GRAG",
+          "CCUP",
+          "RIOX",
+          "NOWL",
+          "NVD",
+          "MSOO",
+          "QPUX",
+          "TTDU",
+          "RKTL",
+          "TSLG",
+          "GLXU",
+          "OSCX",
+          "TXXD",
+          "CIFG",
+          "ETU",
+          "ARMG",
+          "OPEG",
+          "PYPG",
+          "ADBG",
+          "GLGG",
+          "SLON",
+          "TXXS",
+          "BLSG",
+          "SOUX",
+          "SNAG",
+          "IRE",
+          "RGTX",
+          "AFRU",
+          "DRIP",
+          "WTID",
+          "UGP",
+          "AVXX",
+          "DKNX",
+          "SBTU",
+          "SMCL",
+          "SOLX",
+          "XXRP",
+          "UXRP",
+          "BAIG",
+          "MST",
+          "MRAL",
+          "RKLZ",
+          "DUOG",
+          "BULX",
+          "MSOX",
+          "LCDL",
+          "MSTX",
+          "QSU",
+          "HIMZ",
+          "DJTU",
+          "FIGG",
+          "JETU",
+          "FNGS",
+          "SPCF",
+          "LOFF",
+          "SPCU",
+          "SPAL",
+          "SPCH",
+          "ADBU",
+          "AMA",
+          "AMKL",
+          "AMPU",
+          "AXTU",
+          "CHNU",
+          "CPNX",
+          "CRDX",
+          "GLWG",
+          "MPWX",
+          "PAAU",
+          "PYPU",
+          "SNDU",
+          "SPCL",
+          "STLU",
+          "STXL",
+          "STXX",
+          "TXNU",
+          "TXXH",
+          "UCOP",
+          "UNHU",
+          "UPAL",
+          "UPLT",
+          "XAIL",
+          "XBNB",
+          "XOVL",
+          "SKHL",
+          "HIMC",
+          "VRC",
+          "CRWC",
+          "NVOC",
+          "RIVC",
+          "SKUU",
+          "NBIC",
+          "TDCL",
+          "SKHX",
+          "RGTC",
+          "IREC",
+          "CRD",
+          "MHX",
+          "RDDC",
+          "BTDL",
+          "HYNX",
+          "SK",
+          "NTAL",
+          "NOWX",
+          "MRVX",
+          "OUSL",
+          "SKHU",
+          "BABC",
+          "LITC",
+          "TEMC",
+          "WDCC",
+          "ALA",
+          "UUUC",
+          "INT",
+          "QUA",
+          "SMRX",
+          "GEVC",
+          "BNMC",
+          "JOBC",
+          "HOOC",
+          "UPSC",
+          "SOFC",
+          "TERC",
+          "BBUL",
+          "CIR",
+          "CRWX",
+          "VIAG",
+          "NFX",
+          "AXTC",
+          "BRKL",
+          "NVTC",
+          "COHC",
+          "ONDC",
+          "PUL",
+          "JBLG",
+          "AMKX",
+          "LRCC",
+          "APMI",
+          "OKLC",
+          "MPWC",
+          "UN",
+          "AMZG"
+        ]
+      },
+      {
+        "key": "equity_entry_point_render_supported_countries",
+        "value": [
+          "GB"
+        ]
+      },
+      {
+        "key": "advanced_trade_enabled_validation_rules",
+        "value": [
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REDUCE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_CLOSE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REVERSE_POSITION"
+        ]
+      },
+      {
+        "key": "advanced_trade_skip_preview_enabled_validations_rules",
+        "value": [
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REDUCE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_CLOSE_POSITION",
+          "CLIENT_BLOCKING_TPSL_ORDER_WOULD_REVERSE_POSITION",
+          "CLIENT_INVALID_BASE_SIZE_TOO_SMALL",
+          "CLIENT_INVALID_QUOTE_SIZE_TOO_SMALL",
+          "CLIENT_INVALID_STOP_PRICE_ABOVE_LIMIT_PRICE",
+          "CLIENT_INVALID_STOP_PRICE_BELOW_LIMIT_PRICE",
+          "CLIENT_INSUFFICIENT_FUND",
+          "CLIENT_INVALID_LIMIT_PRICE_POST_ONLY",
+          "CLIENT_INVALID_ATTACHED_TP_OUT_OF_BOUNDS",
+          "CLIENT_INVALID_ATTACHED_TP_OUT_OF_BOUNDS_AGGRESSIVE",
+          "CLIENT_INVALID_ATTACHED_SL_OUT_OF_BOUNDS",
+          "CLIENT_INVALID_ATTACHED_SL_OUT_OF_BOUNDS_AGGRESSIVE",
+          "CLIENT_REDUCE_ONLY_WOULD_INCREASE_POSITION"
+        ]
+      },
+      {
+        "key": "cbp_supported_regions",
+        "value": null
+      },
+      {
+        "key": "travel_rules_disallowed_words",
+        "value": [
+          "N/A",
+          "N/A, N/A",
+          "N/A, N/A, N/A",
+          "stake",
+          "rollbit",
+          "cloudbit",
+          "roobet",
+          "casino",
+          "casinos",
+          "Binance",
+          "OKX",
+          "Coinbase",
+          "ethereum",
+          "eth",
+          "bitcoin",
+          "btc",
+          "solana",
+          "sol",
+          "Iran",
+          "North Korea",
+          "DPRK",
+          "Cuba",
+          "Binance",
+          "BitGet",
+          "Bitvavo",
+          "Bybit",
+          "Crypto.com",
+          "Easy Crypto",
+          "Kraken",
+          "Kucoin",
+          "Mexc",
+          "Nexo",
+          "NiceHash",
+          "OKX",
+          "Revolut",
+          "Uphold"
+        ]
+      },
+      {
+        "key": "creditcard_secured_credit_limit_options",
+        "value": [
+          "200",
+          "250",
+          "300",
+          "400",
+          "500",
+          "1000",
+          "1500",
+          "2000",
+          "2500",
+          "3000",
+          "3500",
+          "4000",
+          "4500",
+          "5000"
+        ]
+      },
+      {
+        "key": "usdc_auto_buy_enabled_funding_currencies",
+        "value": [
+          "GBP",
+          "INR",
+          "CAD"
+        ]
+      },
+      {
+        "key": "unified_analytics_disabled_page_keys_web",
+        "value": []
+      }
+    ],
+    "clientConfigStringMap": [
+      {
+        "key": "hnwi_concierge_chat_widget_deeplink_overrides_web",
+        "value": [
+          {
+            "key": "lend-upsell",
+            "value": "https://www.coinbase.com/lend/deposit"
+          },
+          {
+            "key": "onchain-borrow-upsell-USDC-for-cbBTC",
+            "value": "https://www.coinbase.com/borrow"
+          }
+        ]
+      },
+      {
+        "key": "hnwi_concierge_chat_pii_patterns",
+        "value": [
+          {
+            "key": "E. Aadhaar Number",
+            "value": "(?:^|\\s)(\\d{4}-\\d{4}-\\d{4})(?![\\w-])"
+          },
+          {
+            "key": "D. Credit/debit card number",
+            "value": "(?:^|\\s)(\\d{4}[\\s-]\\d{4}[\\s-]\\d{4}[\\s-]\\d{3,4})(?![\\w-])"
+          },
+          {
+            "key": "C. Bitcoin private key (WIF)",
+            "value": "(?:^|\\s)([5KL][1-9A-HJ-NP-Za-km-z]{50,51})\\b"
+          },
+          {
+            "key": "B. Tax ID Number",
+            "value": "(?:^|\\s)(\\d{2}[\\s-]\\d{7})(?![\\w-])"
+          },
+          {
+            "key": "A. Social Security Number",
+            "value": "(?:^|\\s)(\\d{3}[\\s-]\\d{2}[\\s-]\\d{4})(?![\\w-])"
+          },
+          {
+            "key": "F. UK Sort Code",
+            "value": "(?:^|\\s)(\\d{2}[-\\s]\\d{2}[-\\s]\\d{2})(?![\\w-])"
+          }
+        ]
+      },
+      {
+        "key": "hnwi_concierge_request_a_call_hoop_config",
+        "value": [
+          {
+            "key": "timezone",
+            "value": "America/New_York"
+          },
+          {
+            "key": "startHour",
+            "value": "9"
+          },
+          {
+            "key": "endHour",
+            "value": "20"
+          },
+          {
+            "key": "highDemandThresholdMinutes",
+            "value": "120"
+          },
+          {
+            "key": "weekdaysOnly",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "key": "sg_fast_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"UOB\",\"bank_id\":\"uovbsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/uob.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"Trust Bank\",\"bank_id\":\"trbusgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/trust.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"Grab\",\"bank_id\":\"grabpay\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Revolut\",\"bank_id\":\"revolut\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true}]"
+          }
+        ]
+      },
+      {
+        "key": "sg_paynow_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"UOB\",\"bank_id\":\"uovbsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/uob.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"Trust Bank\",\"bank_id\":\"trbusgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/trust.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"Grab\",\"bank_id\":\"grabpay\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"LifeSG\",\"bank_id\":\"lifesg\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true},{\"bank_name\":\"GovWallet\",\"bank_id\":\"govwallet\",\"iconUrl\":\"\",\"supported\":false,\"list_display\":true}]"
+          }
+        ]
+      },
+      {
+        "key": "sg_swift_bank_selector_data",
+        "value": [
+          {
+            "key": "sg",
+            "value": "[{\"bank_name\":\"DBS\",\"bank_id\":\"dbsssgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/dbs.svg\",\"supported\":true},{\"bank_name\":\"SCB\",\"bank_id\":\"scblsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/scb.svg\",\"supported\":true},{\"bank_name\":\"HSBC\",\"bank_id\":\"hsbcsgs2\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/hsbc.svg\",\"supported\":true},{\"bank_name\":\"OCBC\",\"bank_id\":\"ocbcsgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/ocbc.svg\",\"supported\":true},{\"bank_name\":\"Citi\",\"bank_id\":\"citisgsg\",\"icon_url\":\"https://static-assets.coinbase.com/international/banks/citi.svg\",\"supported\":true},{\"bank_name\":\"Wise\",\"bank_id\":\"wise\",\"iconUrl\":\"\",\"supported\":false,\"description\":\"Wise\",\"list_display\":true},{\"bank_name\":\"Interactive Broker\",\"bank_id\":\"ibkr\",\"iconUrl\":\"\",\"supported\":false,\"description\":\"Interactive Broker (Swift codes IBKRUS33 and IBKRSGSG)\",\"list_display\":true},{\"bank_name\":\"Morgan Stanley Smith Barney LLC\",\"bank_id\":\"morganstanley\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Morgan Stanley Smith Barney LLC\"},{\"bank_name\":\"United Nations FCU\",\"bank_id\":\"unfcu\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"United Nations FCU\"},{\"bank_name\":\"Charles Schwab\",\"bank_id\":\"charlesschwab\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Charles Schwab\"},{\"bank_name\":\"Equals Connect Limited\",\"bank_id\":\"equalsconnect\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Equals Connect Limited\"},{\"bank_name\":\"Lloyds Bank PLC (Birmingham)\",\"bank_id\":\"lloydsbank\",\"iconUrl\":\"\",\"supported\":false, \"description\":\"Lloyds Bank PLC (Birmingham)\"}]"
+          }
+        ]
+      },
+      {
+        "key": "card_buy_gb_institution_name_map",
+        "value": [
+          {
+            "key": "BARCLAYS BANK UK PLC",
+            "value": "Barclays"
+          },
+          {
+            "key": "MONZO BANK LIMITED",
+            "value": "Monzo"
+          },
+          {
+            "key": "BARCLAYS",
+            "value": "Barclays"
+          },
+          {
+            "key": "ROYAL BANK OF SCOTLAND",
+            "value": "Royal Bank of Scotland"
+          },
+          {
+            "key": "MONZO",
+            "value": "Monzo"
+          },
+          {
+            "key": "SANTANDER UK PLC",
+            "value": "Santander"
+          },
+          {
+            "key": "HSBC UK BANK PLC",
+            "value": "HSBC"
+          },
+          {
+            "key": "THE ROYAL BANK OF SCOTLAND PLC",
+            "value": "Royal Bank of Scotland"
+          },
+          {
+            "key": "SANTANDER",
+            "value": "Santander"
+          },
+          {
+            "key": "NATIONAL WESTMINSTER BANK PLC",
+            "value": "NatWest"
+          },
+          {
+            "key": "NATIONWIDE BUILDING SOCIETY",
+            "value": "Nationwide"
+          },
+          {
+            "key": "NATIONWIDE",
+            "value": "Nationwide"
+          },
+          {
+            "key": "NATWEST",
+            "value": "NatWest"
+          },
+          {
+            "key": "HSBC",
+            "value": "HSBC"
+          }
+        ]
+      },
+      {
+        "key": "coinbiz_scheduled_maintenance_banner",
+        "value": [
+          {
+            "key": "preMaintenanceStart",
+            "value": "2025-10-22T14:00:00.000Z"
+          },
+          {
+            "key": "preMaintenanceCutoff",
+            "value": "2025-10-25T15:00:00.000Z"
+          },
+          {
+            "key": "maintenanceStart",
+            "value": "2025-10-25T14:00:00.000Z"
+          },
+          {
+            "key": "maintenanceEnd",
+            "value": "2025-10-25T18:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "key": "packs_incentive_campaign_ids",
+        "value": [
+          {
+            "key": "MEMECOIN",
+            "value": "bdbc38a0-12e3-487e-96c4-a73b0ae91850"
+          },
+          {
+            "key": "BTC",
+            "value": "6924c8d50640bb0665e432a4"
+          },
+          {
+            "key": "BLUECHIP",
+            "value": "ad78be10-a64a-40fe-bcc1-b72cf2b7da2b"
+          },
+          {
+            "key": "STAKING",
+            "value": "cd99021b-8b0a-4848-840c-59e0de5e4085"
+          }
+        ]
+      },
+      {
+        "key": "advanced_transfer_country_limits",
+        "value": [
+          {
+            "key": "transferLimitBR",
+            "value": "100000"
+          },
+          {
+            "key": "transferCurrencyBR",
+            "value": "USD"
+          }
+        ]
+      },
+      {
+        "key": "cfm_derivatives_recommended_products",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"contractCode\":\"BTC\",\"isPerps\":true,\"priority\":1}"
+          },
+          {
+            "key": "CDESIL",
+            "value": "{\"contractCode\":\"CDESIL\",\"isPerps\":false,\"priority\":2}"
+          },
+          {
+            "key": "CDEGLD",
+            "value": "{\"contractCode\":\"CDEGLD\",\"isPerps\":false,\"priority\":3}"
+          }
+        ]
+      },
+      {
+        "key": "cfm_cde_contract_code_to_root_unit",
+        "value": [
+          {
+            "key": "AIP",
+            "value": "CDEAI"
+          },
+          {
+            "key": "OND",
+            "value": "ONDO"
+          },
+          {
+            "key": "ADA",
+            "value": "ADA"
+          },
+          {
+            "key": "LC",
+            "value": "LTC"
+          },
+          {
+            "key": "HYP",
+            "value": "HYPE"
+          },
+          {
+            "key": "BCH",
+            "value": "BCH"
+          },
+          {
+            "key": "SHB",
+            "value": "SHIB"
+          },
+          {
+            "key": "TEK",
+            "value": "CDETEK"
+          },
+          {
+            "key": "PEP",
+            "value": "PEPE"
+          },
+          {
+            "key": "AVE",
+            "value": "AAVE"
+          },
+          {
+            "key": "BIP",
+            "value": "BTC"
+          },
+          {
+            "key": "NER",
+            "value": "NEAR"
+          },
+          {
+            "key": "ET",
+            "value": "ETH"
+          },
+          {
+            "key": "C50",
+            "value": "COIN50"
+          },
+          {
+            "key": "XRP",
+            "value": "XRP"
+          },
+          {
+            "key": "AVA",
+            "value": "AVAX"
+          },
+          {
+            "key": "CHN",
+            "value": "CDECHN"
+          },
+          {
+            "key": "XLM",
+            "value": "XLM"
+          },
+          {
+            "key": "HYF",
+            "value": "HYPE"
+          },
+          {
+            "key": "LNK",
+            "value": "LINK"
+          },
+          {
+            "key": "DOG",
+            "value": "DOGE"
+          },
+          {
+            "key": "DOT",
+            "value": "DOT"
+          },
+          {
+            "key": "DEF",
+            "value": "CDEDEF"
+          },
+          {
+            "key": "MC",
+            "value": "CDEMC"
+          },
+          {
+            "key": "PT",
+            "value": "CDEPT"
+          },
+          {
+            "key": "SOL",
+            "value": "SOL"
+          },
+          {
+            "key": "GLD",
+            "value": "CDEGLD"
+          },
+          {
+            "key": "NGS",
+            "value": "CDENGS"
+          },
+          {
+            "key": "OIL",
+            "value": "CDEOIL"
+          },
+          {
+            "key": "PAU",
+            "value": "PAXG"
+          },
+          {
+            "key": "ENA",
+            "value": "ENA"
+          },
+          {
+            "key": "BIT",
+            "value": "BTC"
+          },
+          {
+            "key": "HED",
+            "value": "HBAR"
+          },
+          {
+            "key": "ZEC",
+            "value": "ZEC"
+          },
+          {
+            "key": "SLR",
+            "value": "CDESIL"
+          },
+          {
+            "key": "BNF",
+            "value": "BNB"
+          },
+          {
+            "key": "CU",
+            "value": "CDECU"
+          },
+          {
+            "key": "ETP",
+            "value": "ETH"
+          }
+        ]
+      },
+      {
+        "key": "cfm_derivatives_recommended_products_cbfse",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"contractCode\":\"BTC\",\"isPerps\":false,\"priority\":1}"
+          },
+          {
+            "key": "XRP",
+            "value": "{\"contractCode\":\"XRP\",\"isPerps\":false,\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"contractCode\":\"ETH\",\"isPerps\":false,\"priority\":2}"
+          }
+        ]
+      },
+      {
+        "key": "intx_derivatives_recommended_products",
+        "value": [
+          {
+            "key": "BTC",
+            "value": "{\"asset\":\"BTC-PERP-INTX\",\"priority\":1}"
+          },
+          {
+            "key": "SOL",
+            "value": "{\"asset\":\"SOL-PERP-INTX\",\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"asset\":\"ETH-PERP-INTX\",\"priority\":2}"
+          }
+        ]
+      },
+      {
+        "key": "deribit_perpetuals_recommended_products",
+        "value": [
+          {
+            "key": "SOL",
+            "value": "{\"instrumentName\":\"SOL_USDC-PERPETUAL\",\"priority\":3}"
+          },
+          {
+            "key": "ETH",
+            "value": "{\"instrumentName\":\"ETH_USDC-PERPETUAL\",\"priority\":2}"
+          },
+          {
+            "key": "BTC",
+            "value": "{\"instrumentName\":\"BTC_USDC-PERPETUAL\",\"priority\":1}"
+          }
+        ]
+      },
+      {
+        "key": "insufficient_dp_data_error_overrides_severity_web",
+        "value": null
+      },
+      {
+        "key": "experiment_groups_amplitude_allowlist",
+        "value": [
+          {
+            "key": "t0014_0211b3a6",
+            "value": "delete after 2026-02-07"
+          },
+          {
+            "key": "jan_2026_prediction_markets_carousel_web",
+            "value": "delete after 2026-02-01"
+          },
+          {
+            "key": "t0000_284cff23",
+            "value": "delete after 2026-03-05"
+          },
+          {
+            "key": "t0012_bc1de626",
+            "value": "delete after 2026-08-04"
+          }
+        ]
+      },
+      {
+        "key": "allowed_experiment_groups_for_amplitude",
+        "value": [
+          {
+            "key": "prediction_markets",
+            "value": "jan_2026_prediction_markets_carousel_web"
+          },
+          {
+            "key": "global",
+            "value": "t0000_284cff23"
+          },
+          {
+            "key": "cb1",
+            "value": "t0014_aa9c71e6,t0014_57be23dc,t0014_ab0febd6"
+          },
+          {
+            "key": "asset_discovery",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "key": "advanced_trade_market_classification",
+        "value": [
+          {
+            "key": "Indices",
+            "value": "MC-19MAR26-CDE,MC-18JUN26-CDE,MC-17SEP26-CDE,COIN50-PERP-INTX,C50-20DEC30-CDE,SPY-PERP-INTX,QQQ-PERP-INTX,CHN-19DEC30-CDE,DEF-19DEC30-CDE,AIP-19DEC30-CDE,TEK-19DEC30-CDE,AI10-PERP-INTX,TECH100-PERP-INTX,CHINA10-PERP-INTX,DFND10-PERP-INTX,EWY-PERP-INTX,SOXL-PERP-INTX,DRAM-PERP-INTX"
+          },
+          {
+            "key": "FX",
+            "value": "USDC-EUR,USDC-GBP,USDT-EUR,USDT-GBP,EURC-USDC,XSGD-USDC,AUDD-USDC,EURC-PERP-INTX,TGBP-USDC"
+          },
+          {
+            "key": "Commodities",
+            "value": "GOL-27MAR26-CDE,GOL-27MAY26-CDE,GOL-29JUL26-CDE,SLR-25FEB26-CDE,SLR-28APR26-CDE,SLR-26JUN26-CDE,SLR-27AUG26-CDE,PT-27MAR26-CDE,PT-26JUN26-CDE,PT-28SEP26-CDE,CU-28APR26-CDE,CU-26JUN26-CDE,CU-27AUG26-CDE,NOL-19JUN26-CDE,NOL-18MAY26-CDE,NOL-20JUL26-CDE,NOL-19AUG26-CDE,NOL-21SEP26-CDE,NOL-19OCT26-CDE,NGS-27APR26-CDE,NGS-26MAY26-CDE,PAXG-USD,PAXG-USDC,PAXG-PERP-INTX,GOLD-PERP-INTX,SILVER-PERP-INTX"
+          }
+        ]
+      },
+      {
+        "key": "retail_dp_upsell_surface_state",
+        "value": [
+          {
+            "key": "ui_component_surface_home_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-swc-home-screen-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-convert-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-home-upsell-modals-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-modal-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-card-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-sidebar-promo-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-credit-card-onboarding-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-token-sales-surface-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-buy-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "ui_component_surface_credit_card_home_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "ui_component_surface_advanced_screen_takeover_rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-orders-banner",
+            "value": "DP"
+          },
+          {
+            "key": "retail-yield-center-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-markets-modal-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-token-sales-surface-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-home-screen-takeover-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-modal-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-sell-simple-post-trade-app",
+            "value": "DP"
+          },
+          {
+            "key": "retail-advanced-trade-orders-blotter-banner",
+            "value": "DP"
+          },
+          {
+            "key": "retail-assets-carousel-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-hnwi-concierge-home-rn",
+            "value": "DP"
+          },
+          {
+            "key": "retail-hnwi-concierge-home-web",
+            "value": "DP"
+          },
+          {
+            "key": "retail-credit-card-home-screen-takeover-app",
+            "value": "DP"
+          }
+        ]
+      },
+      {
+        "key": "campaign_redirects",
+        "value": [
+          {
+            "key": "cx_o_m_w_m_m_yah_gro_dis_yf_premium",
+            "value": "https://www.coinbase.com/one?campaign_id=yahoo_finance_premium_partnership&tier=basic"
+          },
+          {
+            "key": "cx_o_m_w_m_m_yah_gro_dis_yf",
+            "value": "https://www.coinbase.com/one?campaign_id=yahoo_finance_partnership&tier=basic"
+          },
+          {
+            "key": "cc_paid_marketing_oct_2021",
+            "value": "https://www.coinbase.com/card"
+          },
+          {
+            "key": "kol_pro_referee",
+            "value": "https://www.coinbase.com/advanced-trade/"
+          }
+        ]
+      },
+      {
+        "key": "simple_intx_multi_chips_country_restrictions",
+        "value": [
+          {
+            "key": "INDICES",
+            "value": "GB,CA,BR,SG,AU,IN"
+          },
+          {
+            "key": "COMMODITIES",
+            "value": "GB,CA,SG,AU,IN"
+          },
+          {
+            "key": "STOCKS",
+            "value": "GB,CA,BR,SG,AU,IN'"
+          }
+        ]
+      },
+      {
+        "key": "session_replay_page_key_sample_rates",
+        "value": [
+          {
+            "key": "onboarding",
+            "value": "0.5"
+          }
+        ]
+      }
+    ]
+  },
+  "errors": [
+    {
+      "message": "HTTP fetch failed from 'retail-engagement': 401: Unauthorized",
+      "path": [],
+      "extensions": {
+        "code": "SUBREQUEST_HTTP_ERROR",
+        "http": {
+          "status": 401
+        },
+        "reason": "401: Unauthorized",
+        "service": "retail-engagement"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 77
+        }
+      ],
+      "path": [
+        "viewer",
+        "productEligibilityStatus",
+        "productsEligibility"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "retail-engagement"
+      }
+    },
+    {
+      "message": "HTTP fetch failed from 'mono': 401: Unauthorized",
+      "path": [],
+      "extensions": {
+        "code": "SUBREQUEST_HTTP_ERROR",
+        "http": {
+          "status": 401
+        },
+        "reason": "401: Unauthorized",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 411
+        }
+      ],
+      "path": [
+        "splitTestGroupsForTestsV2"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 1900
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "nextRequirementObservabilityTags"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 789
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "analyticsProcessingEnabled"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 999
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "personalDetails"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 1183
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "pendingVerificationDocumentId"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 875
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "userFlags"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 1213
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "pendingVerificationFacematchDocumentId"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 1271
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "requirementMetadata"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 697
+        }
+      ],
+      "path": [
+        "viewer",
+        "retailIntx",
+        "twilightEligibility"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 1255
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "nextRequirement"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 932
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "regionFeatures",
+        "isInEurope"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 965
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "regionFeatures",
+        "supportsCryptoToCryptoTransfers"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 943
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "regionFeatures",
+        "supportsFiatTransfers"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 885
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "featureFlags"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "An internal error has occurred",
+      "locations": [
+        {
+          "line": 1,
+          "column": 582
+        }
+      ],
+      "path": [
+        "viewer",
+        "retailBrokerage",
+        "userAttributes"
+      ],
+      "extensions": {
+        "errorMetadata": {
+          "actionable": true,
+          "code": "UNAUTHORIZED",
+          "correlationID": "a22e9c176b96a19a-IAD",
+          "operation": "userQuery__mono__0",
+          "traceID": "9164699308520414881",
+          "userErrorCode": "BYDSCKHF"
+        },
+        "service": "mono"
+      }
+    },
+    {
+      "message": "An internal error has occurred",
+      "locations": [
+        {
+          "line": 1,
+          "column": 515
+        }
+      ],
+      "path": [
+        "viewer",
+        "retailBrokerage",
+        "userConfiguration"
+      ],
+      "extensions": {
+        "errorMetadata": {
+          "actionable": true,
+          "code": "UNAUTHORIZED",
+          "correlationID": "a22e9c176b96a19a-IAD",
+          "operation": "userQuery__mono__0",
+          "traceID": "9164699308520414881",
+          "userErrorCode": "BYDSCKHF"
+        },
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 841
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "marketingTrackingEnabledUpdatedAt"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 816
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "marketingTrackingEnabled"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 898
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "country"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 768
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "email"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 774
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "nativeCurrency"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 763
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "name"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    },
+    {
+      "message": "Unauthenticated request",
+      "locations": [
+        {
+          "line": 1,
+          "column": 756
+        }
+      ],
+      "path": [
+        "viewer",
+        "userProperties",
+        "locale"
+      ],
+      "extensions": {
+        "code": "UNAUTHENTICATED",
+        "service": "mono"
+      }
+    }
+  ]
+}

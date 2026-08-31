@@ -1,0 +1,10 @@
+2026-07-01T12:10:26 | INFO     | coinbase_webkit:001:49fcd415 | engine=WebKit device='iPhone 14 Pro' viewport={'width': 393, 'height': 660} headless=False
+2026-07-01T12:10:26 | INFO     | coinbase_webkit:001:49fcd415 | no state file at .context/coinbase_webkit/user/001/state.json - fresh session (log in manually)
+2026-07-01T12:10:27 | WARNING  | coinbase_webkit:001:49fcd415 | device-fingerprint BLOCK active for hosts=['fp.coinbase.com', 'cb-device-intelligence.com'] (set CB_BLOCK_FP=0 to disable)
+2026-07-01T12:10:29 | INFO     | coinbase_webkit:001:49fcd415 | navigating to https://www.coinbase.com/home
+2026-07-01T12:10:30 | WARNING  | coinbase_webkit:001:49fcd415 | FIRST RUN: log in manually in the browser window (solve any captcha/2FA). Probing continues meanwhile; Ctrl-C to stop and persist session.
+2026-07-01T12:10:31 | WARNING  | coinbase_webkit:001:49fcd415 | GraphQL captured op=userQuery status=401
+2026-07-01T12:10:32 | ERROR    | coinbase_webkit:001:49fcd415 | html failed logs/coinbase_webkit/001/49fcd415/html/0077_nav_www_coinbase_com_home.html: Page.content: Unable to retrieve content because the page is navigating and changing the content.
+2026-07-01T12:10:34 | INFO     | coinbase_webkit:001:49fcd415 | stopping on Ctrl-C
+2026-07-01T12:10:34 | INFO     | coinbase_webkit:001:49fcd415 | device-fingerprint requests blocked: 1
+2026-07-01T12:10:34 | INFO     | coinbase_webkit:001:49fcd415 | wrote manifest -> logs/coinbase_webkit/001/49fcd415/manifest.json

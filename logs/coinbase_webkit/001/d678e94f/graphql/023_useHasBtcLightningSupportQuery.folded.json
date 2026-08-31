@@ -1,0 +1,38 @@
+{
+  "data": {
+    "viewer": {
+      "assetBySymbol": {
+        "supportedNetworks": {
+          "supportedNetworks": [
+            {
+              "networkSlug": "bitcoin",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "lightning",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "base",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "solana",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "arbitrum",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "ethereum",
+              "isEnabled": true
+            }
+          ]
+        },
+        "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

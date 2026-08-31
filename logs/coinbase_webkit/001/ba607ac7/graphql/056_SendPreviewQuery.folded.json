@@ -1,0 +1,36 @@
+{
+  "data": {
+    "viewer": {
+      "accountByUuidV3": {
+        "account": {
+          "assetOrFiatCurrency": {
+            "__typename": "ViewerAsset",
+            "asset": {
+              "latestPrice": {
+                "price": "5.1146866666666638",
+                "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmFzc2V0OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="
+              },
+              "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+            },
+            "__isNode": "ViewerAsset",
+            "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+          },
+          "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+        }
+      },
+      "eligibleForScamProtection": {
+        "selfServeEligibility": [
+          {
+            "selfServeType": "SELF_SERVE_TYPE_SCAM_PROTECTION",
+            "isUserEligible": false
+          },
+          {
+            "selfServeType": "SELF_SERVE_TYPE_SCAM_PROTECTION_SAFETY_LABEL",
+            "isUserEligible": false
+          }
+        ]
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

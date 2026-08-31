@@ -1,0 +1,7 @@
+{
+  "data": {
+    "reverseResolveEns": {
+      "__typename": "BadRequestError"
+    }
+  }
+}

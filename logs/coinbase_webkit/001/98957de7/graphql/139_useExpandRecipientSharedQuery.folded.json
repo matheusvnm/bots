@@ -1,0 +1,35 @@
+{
+  "data": {
+    "viewer": {
+      "__typename": "Viewer",
+      "p2pRecipients": {
+        "__typename": "P2PRecipients",
+        "expandRecipientV2": {
+          "__typename": "Recipient",
+          "identifier": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+          "identifierType": "RECIPIENT_TYPE_BLOCKCHAIN_ADDRESS",
+          "nameServiceDetails": null,
+          "profile": {
+            "avatarUrl": "https://images.coinbase.com/avatar?s=128",
+            "displayName": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+            "email": "",
+            "profileType": "PROFILE_TYPE_EXTERNAL"
+          },
+          "blockchainDetails": {
+            "address": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+            "type": null,
+            "destinationTag": null,
+            "validNetworks": null
+          },
+          "compatibilityDetails": [
+            {
+              "asset": "USDC",
+              "isCompatible": true
+            }
+          ]
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

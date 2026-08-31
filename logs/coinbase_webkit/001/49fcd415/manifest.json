@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "engine": "webkit",
+    "device": "iPhone 14 Pro",
+    "viewport": {
+      "width": 393,
+      "height": 660
+    },
+    "headless": false,
+    "start_url": "https://www.coinbase.com/home"
+  },
+  "started_at": "2026-07-01T15:10:29.249881+00:00",
+  "ended_at": "2026-07-01T15:10:34.492350+00:00",
+  "index": [
+    {
+      "seq": 77,
+      "ts": "2026-07-01T15:10:32.159362+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 92,
+      "ts": "2026-07-01T15:10:32.657737+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=aa910372-62a4-490b-8a94-cb6fec3c7e34",
+      "label": "login_coinbase_com_signin"
+    }
+  ]
+}

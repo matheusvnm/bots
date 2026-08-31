@@ -1,0 +1,10 @@
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_BnyceMPc2.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_BBYfaRGZ.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_CdEO_whe.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_4tXG44n_.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_DdRxaVe-2.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_JHlnIKgQ.js cancelled
+2026-07-01T12:10:45 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_qN87zuvV.js cancelled
+2026-07-01T12:10:46 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a14656deec1d3cb5/YOKZtjf8e8ZNY2chVqYIBMipdqP91PyTRXTQ8zBiErw-1782918645-1.2.1.1-FNjTLCsJ5J_ZT1j5WpOovPZr6yPQT6W7wCdCwC.UWrZHt3iOchPQHT1Z_Wnk4hwc A server with the specified hostname could not be found.
+2026-07-01T12:10:55 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a1465715fc6d3cb5/94DKsCgAjxSkqR6bYJydYkt.r_h5Cj27xPWwaFutRz4-1782918654-1.2.1.1-FhS0rvX2OTBxXE0XfDPiE2SKJjQGuqwctzFm8NxYujLySAXI6C2n1R9Y8DL2AroM A server with the specified hostname could not be found.
+2026-07-01T12:11:09 | coinbase_webkit:001:1e766864 | [REQ_ERR] GET https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LcTV7IcAAAAAI1CwwRBm58wKn1n6vwyV1QFaoxr&co=aHR0cHM6Ly9sb2dpbi5jb2luYmFzZS5jb206NDQz&hl=en&type=image&v=TnA7HacJFoBWt9hnlunBlYfK&theme=light&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=at34kpkbk43j cancelled

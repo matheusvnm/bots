@@ -1,0 +1,112 @@
+{
+  "data": {
+    "viewer": {
+      "preTradeUpsellCell": {
+        "eligibilityStatus": {
+          "ineligibleReasons": null
+        },
+        "error": null,
+        "edges": [
+          {
+            "node": {
+              "componentId": "DuH6cEusBPC3M7dcmD9Tp",
+              "relevantTags": [
+                "SIGNUP",
+                "CELL",
+                "BASIC_FREE_TRIAL",
+                "cb1_tier_lite",
+                "cb1_plan_billing_frequency_1_month",
+                "cb1_subscription_tier_1"
+              ],
+              "component": {
+                "__typename": "UIComponentElement",
+                "title": "Economize {amount} nessa operação",
+                "description": "Grátis por 7 dias",
+                "pictogramId": "coinbaseOneProductIcon",
+                "richTextTitle": {
+                  "htmlString": ""
+                },
+                "richTextDescription": {
+                  "htmlString": ""
+                }
+              },
+              "components": null,
+              "id": "VUlDb21wb25lbnQ6RHVINmNFdXNCUEMzTTdkY21EOVRwOnBhZ2Vfb3B0aW9uczp7c2l6ZToxMDB9IGZpbHRlcnM6e3JlbGV2YW50X3RhZ3NfZmlsdGVyOntyZWxldmFudF90YWdzOiJCQVNJQ19GUkVFX1RSSUFMIn0gdmFyaWFibGVzX2ZpbHRlcjp7dGV4dF92YXJpYWJsZXM6e2tleToiY3J5cHRvQ3VycmVuY3kiIHZhbHVlOiJVU0RDIn0gdGV4dF92YXJpYWJsZXM6e2tleToiY3J5cHRvVmFsdWUiIHZhbHVlOiI1LjY4ODkwMSJ9IHRleHRfdmFyaWFibGVzOntrZXk6ImZlZUN1cnJlbmN5IiB2YWx1ZToiQlJMIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmVlVmFsdWUiIHZhbHVlOiIwLjczIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmlhdEN1cnJlbmN5IiB2YWx1ZToiQlJMIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmlhdFZhbHVlIiB2YWx1ZToiMzAifX19IHNraXBfY2FjaGU6dHJ1ZSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9DQjFfUFJFVFJBREVfVVBTRUxMIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0NCMV9QUkVUUkFERV9VUFNFTExfQ0VMTCI="
+            }
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MTAwfSBmaWx0ZXJzOntyZWxldmFudF90YWdzX2ZpbHRlcjp7cmVsZXZhbnRfdGFnczoiQkFTSUNfRlJFRV9UUklBTCJ9IHZhcmlhYmxlc19maWx0ZXI6e3RleHRfdmFyaWFibGVzOntrZXk6ImNyeXB0b0N1cnJlbmN5IiB2YWx1ZToiVVNEQyJ9IHRleHRfdmFyaWFibGVzOntrZXk6ImNyeXB0b1ZhbHVlIiB2YWx1ZToiNS42ODg5MDEifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmZWVDdXJyZW5jeSIgdmFsdWU6IkJSTCJ9IHRleHRfdmFyaWFibGVzOntrZXk6ImZlZVZhbHVlIiB2YWx1ZToiMC43MyJ9IHRleHRfdmFyaWFibGVzOntrZXk6ImZpYXRDdXJyZW5jeSIgdmFsdWU6IkJSTCJ9IHRleHRfdmFyaWFibGVzOntrZXk6ImZpYXRWYWx1ZSIgdmFsdWU6IjMwIn19fSBza2lwX2NhY2hlOnRydWUgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfQ0IxX1BSRVRSQURFX1VQU0VMTCIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9DQjFfUFJFVFJBREVfVVBTRUxMX0NFTEwi"
+      },
+      "id": "Vmlld2VyOjA=",
+      "preTradeUpsellContextualText": {
+        "edges": [
+          {
+            "node": {
+              "componentId": "3oHnU74dHwzBghv8jIkf3E",
+              "relevantTags": [
+                "UPGRADE",
+                "CONTEXTUAL_TEXT",
+                "STANDARD",
+                "FREE_TRIAL",
+                "DISCOUNT",
+                "PREMIUM",
+                "BASIC_FREE_TRIAL",
+                "BASIC_MONTHLY",
+                "BASIC_ANNUAL",
+                "USDC_REWARD",
+                "USDC_REWARD_FREE_TRAIL"
+              ],
+              "component": {
+                "__typename": "UIComponentElement",
+                "titleTextField": {
+                  "text": "Economize {savings} nessa operação"
+                },
+                "primaryIconName": "coinbaseOne",
+                "image": null,
+                "richTextTitle": {
+                  "htmlString": ""
+                }
+              },
+              "id": "VUlDb21wb25lbnQ6M29IblU3NGRId3pCZ2h2OGpJa2YzRTpwYWdlX29wdGlvbnM6e3NpemU6N30gZmlsdGVyczp7cmVsZXZhbnRfdGFnc19maWx0ZXI6e3JlbGV2YW50X3RhZ3M6IkJBU0lDX0ZSRUVfVFJJQUwifSB2YXJpYWJsZXNfZmlsdGVyOnt0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9DdXJyZW5jeSIgdmFsdWU6IlVTREMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9WYWx1ZSIgdmFsdWU6IjUuNjg4OTAxIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmVlQ3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmZWVWYWx1ZSIgdmFsdWU6IjAuNzMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0Q3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0VmFsdWUiIHZhbHVlOiIzMCJ9fX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0NCMV9QUkVUUkFERV9VUFNFTEwiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfQ0IxX1NVQlNDUklQVElPTl9TSUdOVVBfVFJBWV9DT05URVhUVUFMX0ZPT1RFUiI="
+            }
+          },
+          {
+            "node": {
+              "componentId": "4wsjt8CNFYyh4fLOEhsRZT",
+              "relevantTags": [
+                "SIGNUP",
+                "CONTEXTUAL_TEXT",
+                "DISCOUNT",
+                "STANDARD",
+                "FREE_TRIAL",
+                "PREMIUM",
+                "BASIC_FREE_TRIAL",
+                "BASIC_MONTHLY",
+                "BASIC_ANNUAL",
+                "USDC_REWARD",
+                "USDC_REWARD_FREE_TRAIL"
+              ],
+              "component": {
+                "__typename": "UIComponentElement",
+                "titleTextField": {
+                  "text": "Economize {savings} nessa operação"
+                },
+                "primaryIconName": "coinbaseOne",
+                "image": null,
+                "richTextTitle": {
+                  "htmlString": ""
+                }
+              },
+              "id": "VUlDb21wb25lbnQ6NHdzanQ4Q05GWXloNGZMT0Voc1JaVDpwYWdlX29wdGlvbnM6e3NpemU6N30gZmlsdGVyczp7cmVsZXZhbnRfdGFnc19maWx0ZXI6e3JlbGV2YW50X3RhZ3M6IkJBU0lDX0ZSRUVfVFJJQUwifSB2YXJpYWJsZXNfZmlsdGVyOnt0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9DdXJyZW5jeSIgdmFsdWU6IlVTREMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9WYWx1ZSIgdmFsdWU6IjUuNjg4OTAxIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmVlQ3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmZWVWYWx1ZSIgdmFsdWU6IjAuNzMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0Q3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0VmFsdWUiIHZhbHVlOiIzMCJ9fX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0NCMV9QUkVUUkFERV9VUFNFTEwiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfQ0IxX1NVQlNDUklQVElPTl9TSUdOVVBfVFJBWV9DT05URVhUVUFMX0ZPT1RFUiI="
+            }
+          }
+        ],
+        "eligibilityStatus": {
+          "ineligibleReasons": null
+        },
+        "error": null,
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gZmlsdGVyczp7cmVsZXZhbnRfdGFnc19maWx0ZXI6e3JlbGV2YW50X3RhZ3M6IkJBU0lDX0ZSRUVfVFJJQUwifSB2YXJpYWJsZXNfZmlsdGVyOnt0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9DdXJyZW5jeSIgdmFsdWU6IlVTREMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJjcnlwdG9WYWx1ZSIgdmFsdWU6IjUuNjg4OTAxIn0gdGV4dF92YXJpYWJsZXM6e2tleToiZmVlQ3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmZWVWYWx1ZSIgdmFsdWU6IjAuNzMifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0Q3VycmVuY3kiIHZhbHVlOiJCUkwifSB0ZXh0X3ZhcmlhYmxlczp7a2V5OiJmaWF0VmFsdWUiIHZhbHVlOiIzMCJ9fX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0NCMV9QUkVUUkFERV9VUFNFTEwiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfQ0IxX1NVQlNDUklQVElPTl9TSUdOVVBfVFJBWV9DT05URVhUVUFMX0ZPT1RFUiI="
+      }
+    }
+  }
+}

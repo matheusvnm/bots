@@ -1,0 +1,646 @@
+
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00013660790362572024805260841375815","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00013660790362572024805260841375815","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00013661898209592959747404920484905","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00013660889572753004053811057415435","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448829938169766452942662428768","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448829938169766452942662428768","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448758011538548628143287054962","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448758011538548628143287054962","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448777026624962535848869050336","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0002448685258164443242139321159618","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.0004343481772555273018743189140075","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043434230748813656238168795717875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043435619651520197413889923530875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043435619651520197413889923530875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043435619651520197413889923530875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043435570047852106657614168966125","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043434363025261898254904141223875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043434363025261898254904141223875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043434462232598079767455650353375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00043434462232598079767455650353375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0003777529909215216873431143655375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037775075858189046951070541012375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037775075858189046951070541012375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037775075858189046951070541012375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037775075858189046951070541012375","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037773571095919114930705985881625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037773240378936712288867622116625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037773240378936712288867622116625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037773240378936712288867622116625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00037773240378936712288867622116625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.000377738935449769575064983905525","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006889458276779208607561786234625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006889458276779208607561786234625","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006889144109158715343815340657875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006889144109158715343815340657875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006889144109158715343815340657875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006890086612020195135054677388125","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006890086612020195135054677388125","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"-0.00006888755533417578938655263234","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124397705133235553041344736766","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124397705133235553041344736766","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439821567969201251728708253585","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439821567969201251728708253585","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124398223948306220519332933872485","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124398223948306220519332933872485","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124398223948306220519332933872485","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439851334980350059093773065471","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439851334980350059093773065471","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00124398604304559788613442095357695","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439876482147355943296887455582","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0012439876482147355943296887455582","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726238348814699344296887455582","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726238348814699344296887455582","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726231733268167403460163283278","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726231733268167403460163283278","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726231733268167403460163283278","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726231733268167403460163283278","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726244964361231285133611627886","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0022726244964361231285133611627886","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00227262060980253561327178571156","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00227262060980253561327178571156","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00227262060980253561327178571156","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00227262221131078502575926511114955","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777273231586053325926511114955","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777273231586053325926511114955","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777273231586053325926511114955","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777223617828628780926834387425","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777223617828628780926834387425","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777223617828628780926834387425","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777223617828628780926834387425","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777107852394638175927588689855","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00167777107852394638175927588689855","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420338185741506195927588689855","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420254429341259787128023692815","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0023341965075714105515512409054443","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.0023341965075714105515512409054443","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233419477098014968891122959090785","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233419477098014968891122959090785","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420055961768589771126730602935","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420055961768589771126730602935","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420055961768589771126730602935","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00233420055961768589771126730602935","currency":"BRL"},"percent":0.009999999776482582}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161008718823446103691978505284345","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161008718823446103691978505284345","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161009016504051016141926135144205","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161009016504051016141926135144205","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161009016504051016141926135144205","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161009016504051016141926135144205","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00161008702285634719666981414736575","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163038746010501022429510509258875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163038746010501022429510509258875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163038746010501022429510509258875","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163038779086188444973504690354415","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163037968731846592645647253513685","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"userPerformanceUpdated":[{"error":null,"performance":{"id":"VXNlclBlcmZvcm1hbmNlOk9ORV9EQVk6UFJPRFVDVF9UWVBFX0NPTVBPU0lURV9DUllQVE8=","eligibility":{"isEnabled":true,"pausedProductTypes":null},"returns":{"status":"AVAILABLE","unrealized":{"status":"AVAILABLE","value":{"value":"0.00163038183723814839181609430634695","currency":"BRL"},"percent":0}}}}]}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql--

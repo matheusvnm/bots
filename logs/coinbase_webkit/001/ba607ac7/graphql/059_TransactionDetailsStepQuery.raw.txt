@@ -1,0 +1,1 @@
+{"data":{"viewer":{"id":"Vmlld2VyOjA=","accountHistory":{"transactionByReferenceId":{"transaction":{"accountHistoryEntries":{"preferredAccountHistoryEntry":{"category":"CRYPTO_SEND","referenceId":"4993835f-5789-49fc-823e-2092690b37db","id":"QWNjb3VudEhpc3RvcnlFbnRyeTozMzJjY2FiYS1lMmVmLTUwZjItYjdmYy05N2NmZmE3Yzg4ODg="}}}}}}}}

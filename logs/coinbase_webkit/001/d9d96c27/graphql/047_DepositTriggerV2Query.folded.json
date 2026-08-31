@@ -1,0 +1,35 @@
+{
+  "data": {
+    "viewer": {
+      "depositsBlockingExperiences": {
+        "experiences": []
+      },
+      "id": "Vmlld2VyOjA=",
+      "authedSurface": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9GT09URVJfRElTQ0xBSU1FUiBjYXRlZ29yaWVzOlVJX0NPTVBPTkVOVF9DQVRFR09SWV9GT09URVJfRElTQ0xBSU1FUiBmaWx0ZXJzOntmb290ZXJfZGlzY2xhaW1lcl9maWx0ZXI6e3BhZ2Vfa2V5OiJhZGRfcGF5bWVudF9tZXRob2QifSByZWxldmFudF90YWdzX2ZpbHRlcjp7fX0gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfRk9PVEVSX0RJU0NMQUlNRVIiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfRk9PVEVSX0RJU0NMQUlNRVIi"
+      },
+      "availablePaymentMethodsV2": [
+        {
+          "type": "PIX",
+          "routingInformation": [],
+          "id": "QXZhaWxhYmxlUGF5bWVudE1ldGhvZFYyOlBJWA=="
+        }
+      ],
+      "fiatAccounts": [
+        {
+          "uuid": "010753b1-1c0a-5c84-9e50-c7eb8c016850",
+          "name": "Carteira de BRL",
+          "type": "FIAT",
+          "primary": false,
+          "platform": "ASSET_PLATFORM_CONSUMER",
+          "allowDeposits": true,
+          "availableBalance": {
+            "currency": "BRL"
+          },
+          "id": "QWNjb3VudDowMTA3NTNiMS0xYzBhLTVjODQtOWU1MC1jN2ViOGMwMTY4NTA="
+        }
+      ]
+    }
+  }
+}

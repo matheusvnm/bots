@@ -1,0 +1,78 @@
+{
+  "data": {
+    "createSendV2": {
+      "__typename": "SendsTravelRulesError",
+      "errorId": "collect_travel_rules_info",
+      "text": "",
+      "isAssetSupportedByCoinbaseWallet": false,
+      "additionalInformation": {
+        "title": null,
+        "description": null,
+        "prompt": null,
+        "limitAmount": null,
+        "limitCurrency": null,
+        "link": null,
+        "purposeOptions": [
+          {
+            "label": "International travel",
+            "value": "TRANSFER_PURPOSE_INTERNATIONAL_TRAVEL",
+            "group": null
+          },
+          {
+            "label": "Gift or donation",
+            "value": "TRANSFER_PURPOSE_GIFT_OR_DONATION",
+            "group": null
+          },
+          {
+            "label": "Transfer to my own account",
+            "value": "TRANSFER_PURPOSE_TRANSFER_TO_MY_OWN_ACCOUNT",
+            "group": null
+          },
+          {
+            "label": "Purchase or sale of goods",
+            "value": "TRANSFER_PURPOSE_PURCHASE_OR_SALE_OF_GOODS",
+            "group": null
+          },
+          {
+            "label": "Payment for business services",
+            "value": "TRANSFER_PURPOSE_BUSINESS_SERVICES",
+            "group": null
+          },
+          {
+            "label": "Payment for various services",
+            "value": "TRANSFER_PURPOSE_OTHER_SERVICES",
+            "group": null
+          },
+          {
+            "label": "Loan - Principal",
+            "value": "TRANSFER_PURPOSE_LOAN_PRINCIPAL_72980",
+            "group": null
+          },
+          {
+            "label": "Loan - Interest",
+            "value": "TRANSFER_PURPOSE_LOAN_INTEREST_72997",
+            "group": null
+          },
+          {
+            "label": "Other",
+            "value": "TRANSFER_PURPOSE_OTHER_91992",
+            "group": null
+          },
+          {
+            "label": "Payment for technology services",
+            "value": "TRANSFER_PURPOSE_TECHNOLOGY_SERVICES",
+            "group": null
+          }
+        ],
+        "relationshipOptions": null
+      },
+      "fields": [
+        {
+          "options": [
+            "TRAVEL_RULES_FIELD_TRANSFER_PURPOSE"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "viewer": {
+      "id": "Vmlld2VyOjA=",
+      "accountHistory": {
+        "transactionByReferenceId": {
+          "transaction": {
+            "accountHistoryEntries": {
+              "preferredAccountHistoryEntry": {
+                "category": "CRYPTO_SEND",
+                "referenceId": "4e2a96d1-e78b-44cc-a8b1-9ece46877e3a",
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozOGIyMzUzNi0zZjU1LTUyMjgtYjhjYi0wNGY4ZjE3Mjc5ZGM="
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

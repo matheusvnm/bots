@@ -1,0 +1,59 @@
+{
+  "data": {
+    "viewer": {
+      "uiComponentsForSystemAlerts": {
+        "edges": [
+          {
+            "node": {
+              "id": "VUlDb21wb25lbnQ6MjBkMjFkYmQtNjI3Mi00MWY0LWIwODMtOTM5Mzg1OWE3YmNiOnBhZ2Vfb3B0aW9uczp7c2l6ZTo3fSBzdXJmYWNlOlVJX0NPTVBPTkVOVF9TVVJGQUNFX1NZU1RFTV9BTEVSVCBmaWx0ZXJzOntzeXN0ZW1fYWxlcnRzX2ZpbHRlcjp7dmlldzoiSE9NRSJ9fSBza2lwX2NhY2hlOnRydWUgc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9TWVNURU1fQUxFUlQi",
+              "componentId": "20d21dbd-6272-41f4-b083-9393859a7bcb",
+              "surface": "UI_COMPONENT_SURFACE_SYSTEM_ALERT",
+              "category": "UI_COMPONENT_CATEGORY_SYSTEM_ALERT",
+              "type": "UI_COMPONENT_TYPE_SYSTEM_ALERT",
+              "language": "en",
+              "publishedAt": "2025-09-10T07:41:56.909Z",
+              "contentId": "",
+              "relevantTags": [
+                "central-resolution-hub-low-severity"
+              ],
+              "component": {
+                "__typename": "UIComponentSystemAlert",
+                "title": {
+                  "text": "Seu USDC foi enviado"
+                },
+                "description": {
+                  "text": "A análise da sua transferência foi concluída, e seus fundos foram enviados."
+                },
+                "primaryCta": {
+                  "isExternalLink": false,
+                  "url": "https://www.coinbase.com/accounts/d68bc1f6-fd15-569d-997f-c0d1d9d8aa97/transactions/1eb9d07e-e5e9-5f92-83c3-518c66d8ce78",
+                  "text": "Ver detalhes"
+                },
+                "secondaryCta": {
+                  "isExternalLink": true,
+                  "url": "",
+                  "text": ""
+                },
+                "alertLevel": "SYSTEM_ALERT_LEVEL_INFO",
+                "displayType": "SYSTEM_ALERT_DISPLAY_TYPE_BANNER",
+                "isDismissible": true
+              }
+            }
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9TWVNURU1fQUxFUlQgZmlsdGVyczp7c3lzdGVtX2FsZXJ0c19maWx0ZXI6e3ZpZXc6IkhPTUUifX0gc2tpcF9jYWNoZTp0cnVlIHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfU1lTVEVNX0FMRVJUIg=="
+      },
+      "id": "Vmlld2VyOjA=",
+      "productEligibilityStatus": {
+        "coinbaseBusinessEligibility": {
+          "eligibilityResult": {
+            "eligibility": "INELIGIBLE"
+          }
+        }
+      },
+      "businessUserProperties": {
+        "applicationsByTypes": []
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "translations",
+    "version": 1,
+    "stores": [
+      "etags",
+      "messages"
+    ]
+  },
+  {
+    "name": "cb-sw-keyval",
+    "version": 2,
+    "stores": [
+      "cb-keyval",
+      "cb-sw-keyval-rat-products"
+    ]
+  },
+  {
+    "name": "sprigReplay",
+    "version": 1,
+    "stores": [
+      "chunkUploads",
+      "events",
+      "pendingCaptures"
+    ]
+  },
+  {
+    "name": "keyval-store",
+    "version": 1,
+    "stores": [
+      "keyval"
+    ]
+  },
+  {
+    "name": "cb-client-storage",
+    "version": 1,
+    "stores": [
+      "client-storage-keyval"
+    ]
+  }
+]

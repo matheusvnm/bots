@@ -1,0 +1,11 @@
+{
+  "data": null,
+  "errors": [
+    {
+      "message": "PersistedQueryNotFound",
+      "extensions": {
+        "code": "PERSISTED_QUERY_NOT_FOUND"
+      }
+    }
+  ]
+}

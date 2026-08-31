@@ -1,0 +1,1978 @@
+
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:09.115158912Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:09.115240083Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:09.115291182Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:11.956747212Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:11.956813972Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:11.993234232Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:11.993293889Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:14.957197634Z","totalPortfolioBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118643004134109692958100193175","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:14.957277352Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:14.993509871Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:14.993580713Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:17.956915029Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:17.956980952Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:17.993268508Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:17.993329115Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:20.956885182Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:20.956951742Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:20.993253491Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:20.993318046Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:23.957023229Z","totalPortfolioBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892861642030030145900512645","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:23.957087513Z","totalPortfolioBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:23.993355316Z","totalPortfolioBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:23.993418482Z","totalPortfolioBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:26.95636808Z","totalPortfolioBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312691594403486756362262761104","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:26.956435196Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:26.993296663Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:26.993372253Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:29.957029581Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:29.957097976Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:29.99335922Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:29.993418835Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:32.956742649Z","totalPortfolioBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123054921143061247647788984955","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:32.956807464Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:32.993321092Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:32.993386713Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:35.95658973Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:35.956658371Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:35.993344101Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:35.993414961Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:38.957025585Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:38.957094248Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:38.993324508Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:38.993382359Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:41.957177886Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:41.957243159Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:41.993230305Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:41.993289272Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:44.9568572Z","totalPortfolioBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312355925175633787564450238151","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:44.956923035Z","totalPortfolioBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:44.993316839Z","totalPortfolioBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:44.993390968Z","totalPortfolioBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:47.956958414Z","totalPortfolioBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312484901529193056363609729729","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:47.957033674Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:47.993289618Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:47.993355532Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:50.956883443Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:50.95695039Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:50.993374965Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:50.993440044Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:53.956825523Z","totalPortfolioBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312357578718628137164439462402","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:53.956889587Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:53.99328565Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:53.993347756Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:56.957183352Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:56.95725866Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:56.993267095Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:56.993346409Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:59.956992885Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:59.957061635Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:59.993264535Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:48:59.993333833Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:02.956932537Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:02.957002178Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:02.993301854Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:02.993383853Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:05.956956305Z","totalPortfolioBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312312368424696725535463555857","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:05.957021039Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:05.993262721Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:05.993332836Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:08.956759576Z","totalPortfolioBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124041311498774927860616099265","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:08.956823728Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:08.993278614Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:08.993342054Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:11.956830479Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:11.956901849Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:11.993263348Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:11.993331336Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:14.9569618Z","totalPortfolioBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119874787760837387833461211785","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:14.957030224Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:14.993281206Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:14.993348126Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:17.956947097Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:17.957017044Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:17.99326764Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:17.993344374Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:20.957431704Z","totalPortfolioBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121081756938890722841327508555","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:20.957516882Z","totalPortfolioBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:20.993291163Z","totalPortfolioBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:20.993351629Z","totalPortfolioBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:23.956970527Z","totalPortfolioBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122652470252795747851564470105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:23.957031918Z","totalPortfolioBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:23.993335805Z","totalPortfolioBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:23.993440494Z","totalPortfolioBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:26.958447473Z","totalPortfolioBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003123654678729170014679226699705","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:26.958585585Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:27.196212481Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:27.196347233Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:29.956988717Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:29.957056642Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:29.993688776Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:29.993754828Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:32.95685638Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:32.956926847Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:32.993234309Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:32.993298068Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:35.956870052Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:35.956937737Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:35.993356628Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:35.993432932Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:38.961077493Z","totalPortfolioBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003124382169371538174873621211665","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:38.961203325Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:38.993470501Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:38.99359723Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:41.95682857Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:41.956895464Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:41.993375331Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:41.993431599Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:44.95700989Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:44.957085892Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:44.993311156Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:44.993375253Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:47.956840805Z","totalPortfolioBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121670613340893214149059848905","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:47.956905788Z","totalPortfolioBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:47.993353072Z","totalPortfolioBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:47.993414639Z","totalPortfolioBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:50.956870053Z","totalPortfolioBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312133166883706259405848967856","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:50.956946779Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:50.993279467Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:50.993340167Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:53.957075411Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:53.957140854Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:53.993314326Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:53.993378156Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:56.956939661Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:56.957008655Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:56.993282849Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:56.993344587Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:59.956974418Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:59.957045662Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:59.993456115Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:49:59.993523067Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:02.956361969Z","totalPortfolioBalance":{"value":"0.000031209666283193387505","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031209666283193387505","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:02.956436582Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:02.993264177Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:02.99332887Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:05.957050556Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:05.957116578Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:05.99329908Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:05.993361597Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:08.956885281Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:08.956945748Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:08.993248663Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:08.993306598Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:11.956475839Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:11.956554322Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:11.993388175Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:11.993448134Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:14.957049073Z","totalPortfolioBalance":{"value":"0.00003122892635572202277","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122892635572202277","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:14.957116845Z","totalPortfolioBalance":{"value":"0.00003119867233621352274","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119867233621352274","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:14.993552458Z","totalPortfolioBalance":{"value":"0.00003119867233621352274","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119867233621352274","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:14.993612616Z","totalPortfolioBalance":{"value":"0.00003119867233621352274","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119867233621352274","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:17.957056787Z","totalPortfolioBalance":{"value":"0.00003119867233621352274","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119867233621352274","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:17.957121109Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:17.993251297Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:17.993311611Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:20.956840412Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:20.956905996Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:20.993443434Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:20.993507135Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:23.957012355Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:23.957084154Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:23.993681192Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:23.993745049Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:26.956855047Z","totalPortfolioBalance":{"value":"0.00003120578120418546537","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003120578120418546537","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:26.956929461Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:26.993271146Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:26.993337328Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:29.956843884Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:29.956987021Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:29.99334833Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:29.993416625Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:32.956848654Z","totalPortfolioBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003122959185369592499028978389595","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:32.956915153Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:32.993290989Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:32.993375064Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:35.957004988Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:35.957073972Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:35.9932704Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:35.993330552Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:38.956701369Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:38.956770275Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:38.993321067Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:38.993383712Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:41.957211054Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:41.957280072Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:41.993275996Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:41.993339075Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:44.957148347Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:44.957296035Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:45.108924029Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:45.109052726Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:47.95668945Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:47.956767309Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:47.993291806Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:47.993354506Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:50.956996603Z","totalPortfolioBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312131416955947481718195063945","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:50.957068828Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:50.9935208Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:50.993586284Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:53.956713228Z","totalPortfolioBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003118429192083439284696459761055","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:53.956782196Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:53.993299627Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:53.993359164Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:56.956609524Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:56.956712246Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:56.993306894Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:56.993369021Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:59.95694133Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:59.957054108Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:59.993306388Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:50:59.993373584Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:02.957642479Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:02.95770852Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:02.993246107Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:02.993308193Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:05.956838577Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:05.956904185Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:05.993249936Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:05.993313796Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:08.956772532Z","totalPortfolioBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003121087859337144875964873175845","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:08.956832872Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:08.993258569Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:08.993321948Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:11.956779041Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:11.956845288Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:11.993268703Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:11.993334702Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:14.958841245Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:14.958968616Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:15.11684497Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:15.116963844Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:17.956814099Z","totalPortfolioBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312190628524300990538625884049","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:17.956881449Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:17.993607371Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:17.993669233Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:20.958326057Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:20.958391127Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:20.993432824Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:20.993495628Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:23.957376601Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:23.957444171Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:23.993318522Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:23.993381531Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:26.956360625Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:26.956436992Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:26.993372966Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:26.993433187Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:29.960268372Z","totalPortfolioBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003119533676808835527164666055105","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:29.960334499Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:29.993329999Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:29.993393961Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:32.957279976Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:32.957359349Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:32.993292409Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:32.993355985Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:35.956760632Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:35.956828499Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:35.993246806Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:35.993310102Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:38.957028339Z","totalPortfolioBalance":{"value":"0.0000311609591233519007415","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311609591233519007415","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:38.957095421Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:38.993287469Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:38.993351976Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:41.956793471Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:41.956866837Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:41.99349876Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:41.993565902Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:44.958189667Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:44.958357325Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:44.993300549Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:44.993366159Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:47.957711854Z","totalPortfolioBalance":{"value":"0.0000311440931507776209195","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311440931507776209195","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:47.957778838Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:47.993279889Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:47.99334113Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:50.956980179Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:50.95704836Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:50.99324154Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:50.993305642Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:53.956903753Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:53.956972062Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:53.993332365Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:53.993420154Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:56.956954805Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:56.957024436Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:56.993425704Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:56.993486103Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:59.956882555Z","totalPortfolioBalance":{"value":"0.000031154262340123877871","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031154262340123877871","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:59.956946993Z","totalPortfolioBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:59.993294696Z","totalPortfolioBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:51:59.993355231Z","totalPortfolioBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:02.957540727Z","totalPortfolioBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311796689233355316471832829322","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:02.957603602Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:02.993238869Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:02.993302733Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:05.956848452Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:05.956913895Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:05.993265564Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:05.993325946Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:08.956403453Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:08.956470513Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:08.993899809Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:08.993977714Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:11.956931925Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:11.957004228Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:11.993490694Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:11.993555784Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:14.957063699Z","totalPortfolioBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312127429922405758480453428522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:14.957133589Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:14.993396052Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:14.99345755Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:17.956939794Z","totalPortfolioBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000312013324384683355987479321798","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:17.95700557Z","totalPortfolioBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:17.993410616Z","totalPortfolioBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:17.993477341Z","totalPortfolioBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:20.95735591Z","totalPortfolioBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311876893850450048658923324628","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:20.95742309Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:20.993300472Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:20.993361604Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:23.956776976Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:23.956887504Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:23.993288056Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:23.99335241Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:26.957019135Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:26.957089498Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:26.99329215Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:26.99335978Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:29.956380167Z","totalPortfolioBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311601700714589220926252978358","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:29.956455095Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:29.993306647Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:29.993373342Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:32.957532943Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:32.95760443Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:32.993273167Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:32.993331154Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:35.957026394Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:35.957102656Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:35.993273759Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:35.993349783Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:38.957539165Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:38.957608941Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:38.993331324Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:38.993414136Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:41.956813921Z","totalPortfolioBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.000031155953550837192189213637992","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:41.956891994Z","totalPortfolioBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:41.993343264Z","totalPortfolioBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:41.993415195Z","totalPortfolioBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:44.956843437Z","totalPortfolioBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311413197439735413479614067694","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:44.956915319Z","totalPortfolioBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:44.993299782Z","totalPortfolioBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:44.993366577Z","totalPortfolioBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:47.956922776Z","totalPortfolioBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311583511802103327225261504522","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:47.957003031Z","totalPortfolioBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:47.993316738Z","totalPortfolioBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:47.993389031Z","totalPortfolioBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:50.957152166Z","totalPortfolioBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311476031864686682628493704582","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:50.957217534Z","totalPortfolioBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:50.993265459Z","totalPortfolioBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:50.993324244Z","totalPortfolioBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"0","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:51.276342099Z","totalPortfolioBalance":{"value":"10.38451205366323203154153196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3844809009223281901524","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:53.957632398Z","totalPortfolioBalance":{"value":"10.38451205366323203154153196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3844809009223281901524","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:53.957697873Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:53.993290055Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:53.993353985Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:56.957851926Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:56.957915408Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:56.99328945Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:56.993351903Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:59.956976676Z","totalPortfolioBalance":{"value":"10.38429549867656529720143196306097715","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003115274090384138913196306097715","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:59.957050968Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:59.993283825Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:52:59.993349739Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:02.956878336Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:02.956958176Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:02.993273057Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:02.993338224Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:05.957243905Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:05.957314097Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:05.993332027Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:05.993402841Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:08.957025149Z","totalPortfolioBalance":{"value":"10.3842955166170730242822114604614751","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.0000311706814115684699114604614751","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:08.95710605Z","totalPortfolioBalance":{"value":"10.38429552529796385996645960436494185","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003117936230240415415960436494185","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:08.993286457Z","totalPortfolioBalance":{"value":"10.38429552529796385996645960436494185","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003117936230240415415960436494185","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"totalPortfolioBalance":{"totalPortfolioBalance":{"id":"VG90YWxQb3J0Zm9saW9CYWxhbmNl","updatedAt":"2026-07-29T19:53:08.993349449Z","totalPortfolioBalance":{"value":"10.38429552529796385996645960436494185","currency":"BRL"},"cashEquivalentBalance":{"value":"10.3842643459356614558123","currency":"BRL"},"nonCashEquivalentBalance":{"value":"0.00003117936230240415415960436494185","currency":"BRL"}}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql--

@@ -1,0 +1,119 @@
+<!DOCTYPE html><html><head>
+    <title>Cruise API - Step Up</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        #stepUpView {
+            width: 100%;
+            height: 100%
+        }
+
+        #stepUpView iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        #loadingImage {
+            height: 30px;
+            width: 30px;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            transform: -webkit-translate(-50%, -50%);
+            transform: -moz-translate(-50%, -50%);
+            transform: -ms-translate(-50%, -50%);
+        }
+
+        .outOfview{
+            position: absolute;
+            left: -2000px;
+            top: -2000px;
+        }
+    </style>
+<meta name="viewport" content="width=device-width, initial-scale=1"></head>
+
+<body>
+
+<div id="stepUpView"><div id="cardinal-stepUpWrapper-1785355820827"><iframe id="cardinal-stepUpIframe-1785355820827" src="about:blank" frameborder="0" name="cardinal-stepUpIframe-1785355820827"></iframe><form action="https://acs-challenge.apata.io/v1/BrowserCReq" method="POST" target="cardinal-stepUpIframe-1785355820827"><input name="creq" type="hidden" value="eyJtZXNzYWdlVHlwZSI6IkNSZXEiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMi4wIiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiJiOTA1NDAyMy0xNWFkLTRmOTAtOGY0Mi00OGUyN2E5YTI0YTAiLCJhY3NUcmFuc0lEIjoiMDQxYjYxMWMtNjcwMi00NmM3LWE0MDktMDZjOTlkNTQ5N2QxIiwiY2hhbGxlbmdlV2luZG93U2l6ZSI6IjAyIn0" style=""><input name="threeDSSessionData" type="hidden" value="MF8yYTMwM2Q0Ni05N2M2LTQwYzktODA5My02ZGJhMTdhZTczODk" style=""><button type="submit" id="" class="hide outOfView"></button></form></div></div>
+
+<div class="hide">
+    <input id="acsUrl" name="acsUrl" value="https://acs-challenge.apata.io/v1/BrowserCReq" type="hidden" style="">
+    <input id="payload" name="payload" value="eyJtZXNzYWdlVHlwZSI6IkNSZXEiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMi4wIiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiJiOTA1NDAyMy0xNWFkLTRmOTAtOGY0Mi00OGUyN2E5YTI0YTAiLCJhY3NUcmFuc0lEIjoiMDQxYjYxMWMtNjcwMi00NmM3LWE0MDktMDZjOTlkNTQ5N2QxIiwiY2hhbGxlbmdlV2luZG93U2l6ZSI6IjAyIn0" type="hidden" style="">
+    <input id="mcsId" name="mcsId" value="MF8yYTMwM2Q0Ni05N2M2LTQwYzktODA5My02ZGJhMTdhZTczODk" type="hidden" style="">
+    <input id="termUrl" name="termUrl" value="https://centinelapi.cardinalcommerce.com/V1/TermURL/Overlay/CCA" type="hidden" style="">
+    <input id="threeDSVersion" name="threeDSVersion" value="2" type="hidden" style="">
+    <input id="baseUrl" name="baseUrl" value="https://centinelapi.cardinalcommerce.com" type="hidden" style="">
+    <input id="orgUnitId" name="orgUnitId" value="604f4f2deba39e6e47f92929" type="hidden" style="">
+    <input id="transactionId" name="transactionId" value="o76WXCY6c5slN46H1er0" type="hidden" style="">
+    <input id="isPostMessageEventsEnabled" name="isPostMessageEventsEnabled" value="false" type="hidden" style="">
+    <input id="merchantData" name="merchantData" value="RTL-XLX5T29E" type="hidden" style="">
+    <input id="usePostMessageCompletion" name="usePostMessageCompletion" value="false" type="hidden" style="">
+    <input id="useMetaTag" name="useMetaTag" value="true" type="hidden" style="">
+    <input id="iframeSandboxEnabled" name="iframeSandboxEnabled" value="false" type="hidden" style="">
+    <input id="iframeAllowEnabled" name="iframeAllowEnabled" value="false" type="hidden" style="">
+
+</div>
+
+<div class="hide">
+    <form id="redirect" method="POST" action="https://centinelapi.cardinalcommerce.com/V1/Cruise/TermRedirection">
+        <input type="hidden" name="McsId" id="redirect-mcsId" value="0_2a303d46-97c6-40c9-8093-6dba17ae7389" style="">
+        <input type="hidden" name="CardinalJWT" id="CardinalJWT" style="">
+        <input type="hidden" name="Error" id="Error" style="">
+    </form>
+</div>
+
+  <script src="https://util.cardinalcommerce.com/centinelapi/3.3.0/javascript/vendors.c4f649d7a79ce6f16b02.js"></script>
+  <script src="https://util.cardinalcommerce.com/centinelapi/3.3.0/javascript/stepUp.b1d76193b5e20656526a.js"></script>
+<script>
+    window.onload = function () {
+        try {
+            if (window.CruiseAPI !== undefined) {
+                var configuration = {
+                    acsUrl: document.getElementById('acsUrl').value,
+                    baseUrl: document.getElementById('baseUrl').value,
+                    encodedMcsId: document.getElementById('mcsId').value,
+                    mcsId: document.getElementById('redirect-mcsId').value,
+                    orgUnitId: document.getElementById('orgUnitId').value,
+                    payload: document.getElementById('payload').value,                    
+                    termUrl: document.getElementById('termUrl').value,
+                    threeDSVersion: document.getElementById('threeDSVersion').value,
+                    transactionId: document.getElementById('transactionId').value,
+                    isPostMessageEventsEnabled: document.getElementById('isPostMessageEventsEnabled').value,
+                    merchantData: document.getElementById('merchantData').value,
+                    usePostMessageCompletion: document.getElementById('usePostMessageCompletion').value,
+                    useMetaTag: document.getElementById('useMetaTag').value,
+                    iframeSandboxEnabled: document.getElementById('iframeSandboxEnabled').value,
+                    iframeAllowEnabled: document.getElementById('iframeAllowEnabled').value
+
+                };
+
+                CruiseAPI.stepUp.run(configuration)
+            } else {
+                console.error('Global not found, unable to complete step up');
+                document.getElementById("Error").value = "JS Global not found";
+                document.getElementById("redirect").submit();
+            }
+        }catch(error) {            
+            if(window.CruiseAPI !== undefined){
+                CruiseAPI.stepUp.handleError(error.message);
+            } else {
+                console.error(error);
+            }
+        }
+    }
+</script>
+
+
+</body></html>

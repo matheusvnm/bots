@@ -1,0 +1,17 @@
+{
+  "data": {
+    "viewer": {
+      "accountByUuidV2": {
+        "buyByUuid": {
+          "status": "CREATED",
+          "requiresCompletionStep": false,
+          "cardStatus": null,
+          "checkoutUrl": "",
+          "id": "VHJhbnNmZXJCdXk6YjcxM2JiMGQtMDY2Ni00ZDQ1LWIwMTQtNjljMWVjZmRmM2ZkOmQ2OGJjMWY2LWZkMTUtNTY5ZC05OTdmLWMwZDFkOWQ4YWE5Nw=="
+        },
+        "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

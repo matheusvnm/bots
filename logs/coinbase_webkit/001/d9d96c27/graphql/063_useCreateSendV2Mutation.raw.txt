@@ -1,0 +1,1 @@
+{"data":{"createSendV2":{"__typename":"SendsTravelRulesError","errorId":"collect_travel_rules_info","text":"","isAssetSupportedByCoinbaseWallet":false,"additionalInformation":null,"fields":[{"options":["TRAVEL_RULES_FIELD_BENEFICIARY_NAME"]},{"options":["TRAVEL_RULES_FIELD_BENEFICIARY_COUNTRY"]}]}}}

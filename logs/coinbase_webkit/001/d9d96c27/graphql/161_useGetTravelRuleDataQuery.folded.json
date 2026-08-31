@@ -1,0 +1,26 @@
+{
+  "data": {
+    "viewer": {
+      "receiveCheckInformation": {
+        "isInformationComplete": true
+      },
+      "accountByUuidV3": {
+        "account": {
+          "accountHistoryEntryByUuid": {
+            "status": "COMPLETED",
+            "details": {
+              "__typename": "CryptoReceiveDetails",
+              "senderName": null,
+              "travelRuleStatus": null,
+              "hasTravelRuleHold": null,
+              "isWaitingForInfo": false
+            },
+            "id": "QWNjb3VudEhpc3RvcnlFbnRyeToyYjE1NTQ0MS00NGNjLTVjY2ItYjllNS05N2ZiMGEzZTMxMzk="
+          },
+          "id": "QWNjb3VudDpkZTUyMmM4My1hZDNiLTVjOGUtOGNhOS1hZDQ2NmJiM2ViMjM="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

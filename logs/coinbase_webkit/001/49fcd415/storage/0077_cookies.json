@@ -1,0 +1,82 @@
+[
+  {
+    "name": "login-session",
+    "value": "MTc4MjkxODYzMXxxTmVjazBjVkpteFFFVWswbTBLTjNEc0o4bF9yeDd5Wmx0UW91TlFOZWVyNU9WZk9TbWd6UndMcVg4b3JNOHk2bjZSR1RTVFlKRHZVYTZDajB1S3BPZUtXVEt4eURROXNWN09XVy1VQXpVU2t4YjdyeWRRUTlwUDRxSjNmNHE4NUZPRmF2QzlxNURmb21CMXRoMDZ2TzNmVGdXWDhCV3A3dHZkdl9yV3hfczJrM0lFZV90TmhIMm9GYktDZ2R6dTd4M2JfYzVPSGdSZlNOREhBSXhQQmpvb2RqTE9zYTQ5R3dUc2hpQU80Y3pZYzRzR2VjS3Q2VTZlYXpZdENaSmF5NzNXZ291MTJST1dGOXVtQWNhTlhMTjVHdkFGaHZQM0ZGYnoyOHBBVjVncGUwY1lyT0xULUxycTcwZGdhQV9SazhnTFZVQlFrVUFvN1Z6RW1HQnhicDhiSWNrbkxIMG9hLUJYOUZkS21FLWdiX0RyN2JERWhMTEhKYW9fOXVWVGdKY3RORVFiMkJkaS1kSXNIYjA1SFFTUXNuSkdYcXdTaUtQTDVyWW5lOXV1VHNjN0R0d21GUUVNaFRLUy14ME1MU3doYUF1ZVo2Zjg9fKsA-Wt9kYIk6i_TU7Vk7EftWEf1UGeHMmCzYQ1KBsHd",
+    "domain": "login.coinbase.com",
+    "path": "/",
+    "expires": 1782922231,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cb_dm",
+    "value": "63d299d4-3ea3-4f57-a590-fcff7f4c5b16",
+    "domain": ".coinbase.com",
+    "path": "/",
+    "expires": 1817478629,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "coinbase_device_id",
+    "value": "3b36afeb-fc81-4a13-801b-cba236718ee3",
+    "domain": ".coinbase.com",
+    "path": "/",
+    "expires": 1817478629,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "yTaYl4XoQV8jTK9jUnAkcai.q1XkQunef_9zZpCokeM-1782918631.30564-1.0.1.1-UxVCFRCekeiNZxBSb0ylmqZbt4Us2TuCmirwJfhT_HM9w_XKepQbGP_iLFjm2CkxpcObeyXfzHkrv_uu0eLybZN6GwbBgXjmXSvt3wN_Mnmy9XgE2rUKjMktV5eU1lGc",
+    "domain": ".coinbase.com",
+    "path": "/",
+    "expires": 1782920431,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cb_high_contrast",
+    "value": "false",
+    "domain": ".coinbase.com",
+    "path": "/",
+    "expires": 1814454631,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "cb_spectrum",
+    "value": "system",
+    "domain": ".coinbase.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_dd_s",
+    "value": "aid=623f4f4e-4ab7-4875-8e6a-c9ea78abb308&rum=0&expire=1782919531116",
+    "domain": "www.coinbase.com",
+    "path": "/",
+    "expires": 1814454631,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "unified-oauth-state-cookie",
+    "value": "YLXZ7ZO4DN3WVQMECHPWQB2MSEMPKZXI2YXDDDKULWTIG5EGOO7A====",
+    "domain": "www.coinbase.com",
+    "path": "/",
+    "expires": 1782922231,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Strict"
+  }
+]

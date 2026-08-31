@@ -1,0 +1,370 @@
+2026-07-29T19:06:08 | INFO     | coinbase_webkit:001:d9d96c27 | engine=WebKit device='iPhone 14 Pro' viewport={'width': 393, 'height': 660} headless=False
+2026-07-29T19:06:10 | INFO     | coinbase_webkit:001:d9d96c27 | navigating to https://www.coinbase.com/home
+2026-07-29T19:06:12 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=userQuery status=401
+2026-07-29T19:06:17 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:19 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:21 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:23 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:25 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:27 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:29 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:31 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:33 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068", "path": "/signin", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:39 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=userQuery status=200
+2026-07-29T19:06:40 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutBannersQuery status=200
+2026-07-29T19:06:40 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutMobileQuery status=200
+2026-07-29T19:06:40 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useRecordSardineSessionIdMutation status=200
+2026-07-29T19:06:41 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutBannersQuery status=200
+2026-07-29T19:06:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:42 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=HomeQuery status=200
+2026-07-29T19:06:42 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCurrencyConverterQuery status=200
+2026-07-29T19:06:42 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCurrencyConverterQuery status=200
+2026-07-29T19:06:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 1, "firstCryptoSpans": null}
+2026-07-29T19:06:45 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=usePaymentMethodsQuery status=200
+2026-07-29T19:06:46 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 1, "firstCryptoSpans": null}
+2026-07-29T19:06:48 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 1, "firstCryptoSpans": null}
+2026-07-29T19:06:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 1, "firstCryptoSpans": null}
+2026-07-29T19:06:50 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=MobileMenuContainerQuery status=200
+2026-07-29T19:06:51 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SubscriptionQuery status=200
+2026-07-29T19:06:52 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SubscriptionSignupQuery status=200
+2026-07-29T19:06:52 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=usePaymentMethodsQuery status=200
+2026-07-29T19:06:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/home", "path": "/home", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 1, "firstCryptoSpans": null}
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useUserCefiBalancesSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useSimpleCryptoPositionAndBalanceSubscription (status=200)
+2026-07-29T19:06:53 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useSimpleCashPositionAndBalanceSubscription (status=200)
+2026-07-29T19:06:54 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutBannersQuery status=200
+2026-07-29T19:06:54 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutMobileQuery status=200
+2026-07-29T19:06:54 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useEffectiveSkipOpenOrdersQuery status=200
+2026-07-29T19:06:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactRAV4Query status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useOpenOrdersFragmentQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:06:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useAssetHistoryQuery status=200
+2026-07-29T19:06:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:56 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=DepositInputQuery status=200
+2026-07-29T19:06:57 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=DepositTriggerV2Query status=200
+2026-07-29T19:06:57 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=DepositInputQuery status=200
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendPreloadableQuery status=200
+2026-07-29T19:06:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRecipientCellMutation status=200
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRecipientCellMutation status=200
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRecipientCellMutation status=200
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useHasBtcLightningSupportQuery status=200
+2026-07-29T19:06:58 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendFlowSystemAlertWithWaterfallQuery status=200
+2026-07-29T19:06:59 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRecipientCellMutation status=200
+2026-07-29T19:06:59 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useWarmSardineRiskEvaluationMutation status=200
+2026-07-29T19:07:00 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:02 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useExpandRecipientSharedQuery status=200
+2026-07-29T19:07:03 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:03 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRefetchableQuery status=200
+2026-07-29T19:07:04 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendRefetchableQuery status=200
+2026-07-29T19:07:05 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCurrencyConverterQuery status=200
+2026-07-29T19:07:05 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TravelRulePrefillQuery status=200
+2026-07-29T19:07:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:05 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SystemAlertWithWaterfallQuery status=200
+2026-07-29T19:07:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:09 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCreateSendV2Mutation status=200
+2026-07-29T19:07:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:15 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:17 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCreateSendV2Mutation status=200
+2026-07-29T19:07:18 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCreateSendV2Mutation status=200
+2026-07-29T19:07:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendAIBUpsellQuery status=200
+2026-07-29T19:07:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=SendPreviewQuery status=200
+2026-07-29T19:07:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:28 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useCommitSendMutation status=200
+2026-07-29T19:07:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:29 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:07:30 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:30 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransferDetailsV2AssetIconQuery status=200
+2026-07-29T19:07:32 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:45 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:47 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:49 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:07:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:00 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:02 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:15 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:17 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:30 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:32 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:45 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:47 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:08:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:00 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:03 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:15 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:18 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:30 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:33 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:34 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useAccountHistoryEventsSubscription (status=200)
+2026-07-29T19:09:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:45 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:48 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:09:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:01 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:03 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:16 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:18 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:31 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:33 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:46 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:48 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:10:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:01 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:03 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:16 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:18 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:31 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:33 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:43 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:46 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:48 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:54 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:56 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:11:58 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:01 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:03 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:05 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:07 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:09 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransferDetailsV2StepNetworkIconQuery status=200
+2026-07-29T19:12:09 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:09 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransferDetailsV2StepNetworkIconQuery status=200
+2026-07-29T19:12:11 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:13 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:15 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:18 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:20 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:22 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=UseFetchTransactionsFragmentQuery status=200
+2026-07-29T19:12:24 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:24 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:25 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:26 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:28 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:31 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:32 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useAccountHistoryEventsSubscription status=200
+2026-07-29T19:12:33 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:35 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:37 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:39 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:40 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=AssetSearchResultsQuery status=200
+2026-07-29T19:12:41 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:43 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useOpenOrdersSubscription (status=200)
+2026-07-29T19:12:43 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useAccountHistoryEventsSubscription (status=200)
+2026-07-29T19:12:44 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": false, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:44 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=userQuery status=200
+2026-07-29T19:12:45 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutMobileQuery status=200
+2026-07-29T19:12:45 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=LayoutBannersQuery status=200
+2026-07-29T19:12:45 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useRecordSardineSessionIdMutation status=200
+2026-07-29T19:12:45 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useEffectiveSkipOpenOrdersQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactRAV4Query status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useAssetHistoryQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:46 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:12:47 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useOpenOrdersFragmentQuery status=200
+2026-07-29T19:12:48 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:49 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=OnchainSendDetailsQuery status=200
+2026-07-29T19:12:50 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTransactionDetailsQuery status=200
+2026-07-29T19:12:50 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=usePaymentMethodsQuery status=200
+2026-07-29T19:12:50 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:52 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:55 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:55 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=usePaymentMethodsQuery status=200
+2026-07-29T19:12:57 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:12:59 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=UseFetchTransactionsFragmentQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=TransactionHistoryRowMediaQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:00 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL captured op=useGetTravelRuleDataQuery status=200
+2026-07-29T19:13:01 | INFO     | coinbase_webkit:001:d9d96c27 | iOS-DOM probe: {"url": "https://www.coinbase.com/transactions", "path": "/transactions", "readyGate": true, "captchaVisible": false, "cryptoRows": 0, "cashRows": 0, "firstCryptoSpans": null}
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useAccountHistoryEventsSubscription (status=200)
+2026-07-29T19:13:01 | WARNING  | coinbase_webkit:001:d9d96c27 | GraphQL response body unavailable for https://www.coinbase.com/graphql/query?&operationName=useOpenOrdersSubscription (status=200)
+2026-07-29T19:13:01 | INFO     | coinbase_webkit:001:d9d96c27 | wrote manifest -> logs/coinbase_webkit/001/d9d96c27/manifest.json
+2026-07-29T19:13:02 | INFO     | coinbase_webkit:001:d9d96c27 | saved storage state -> .context/coinbase_webkit/user/001/state.json

@@ -1,0 +1,1 @@
+{"data":{"viewer":{"productEligibilityStatus":{"productEligibility":{"eligibilityResult":{"eligibility":"INELIGIBLE"}}},"id":"Vmlld2VyOjA="}}}

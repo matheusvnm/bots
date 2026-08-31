@@ -1,0 +1,506 @@
+
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"cG9ydGZvbGlvX2NyeXB0b19iYWxhbmNlOg==","amount":"10.3844809009223281901524"}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"cG9ydGZvbGlvX2Nhc2hfZXFfYmFsYW5jZTo=","amount":"10.3844809009223281901524"}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"VU5LTk9XTl9QT1JURk9MSU9fQkFMQU5DRTo=","amount":"10.3844809009223281901524"}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"VU5LTk9XTl9QT1JURk9MSU9fQkFMQU5DRTo=","amount":"10.3842643459356614558123"}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"cG9ydGZvbGlvX2NyeXB0b19iYWxhbmNlOg==","amount":"10.3842643459356614558123"}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"cryptoPositionsAndBalanceEvents":{"__typename":"PortfolioBalanceUpdatedEvent","balance":{"id":"cG9ydGZvbGlvX2Nhc2hfZXFfYmFsYW5jZTo=","amount":"10.3842643459356614558123"}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql--

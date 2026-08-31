@@ -1,0 +1,21 @@
+{
+  "data": {
+    "viewer": {
+      "uiComponentsForSystemAlerts": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9TWVNURU1fQUxFUlQgZmlsdGVyczp7c3lzdGVtX2FsZXJ0c19maWx0ZXI6e3ZpZXc6IlBSSUNFIiBjdXJyZW5jaWVzOiJ1c2RjIn19IHNraXBfY2FjaGU6dHJ1ZSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX1NZU1RFTV9BTEVSVCI="
+      },
+      "id": "Vmlld2VyOjA=",
+      "productEligibilityStatus": {
+        "coinbaseBusinessEligibility": {
+          "eligibilityResult": {
+            "eligibility": "INELIGIBLE"
+          }
+        }
+      },
+      "businessUserProperties": {
+        "applicationsByTypes": []
+      }
+    }
+  }
+}

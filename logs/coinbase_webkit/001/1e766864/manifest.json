@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "engine": "webkit",
+    "device": "iPhone 14 Pro",
+    "viewport": {
+      "width": 393,
+      "height": 660
+    },
+    "headless": false,
+    "start_url": "https://www.coinbase.com/home"
+  },
+  "started_at": "2026-07-01T15:10:43.754049+00:00",
+  "ended_at": "2026-07-01T15:11:39.160134+00:00",
+  "index": [
+    {
+      "seq": 88,
+      "ts": "2026-07-01T15:10:46.182294+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 94,
+      "ts": "2026-07-01T15:10:46.683403+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 98,
+      "ts": "2026-07-01T15:10:46.944044+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 103,
+      "ts": "2026-07-01T15:10:48.832695+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 104,
+      "ts": "2026-07-01T15:10:50.863024+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 109,
+      "ts": "2026-07-01T15:10:52.909436+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 129,
+      "ts": "2026-07-01T15:10:54.937371+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 142,
+      "ts": "2026-07-01T15:10:55.723141+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 144,
+      "ts": "2026-07-01T15:10:56.998148+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 148,
+      "ts": "2026-07-01T15:10:59.026537+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 149,
+      "ts": "2026-07-01T15:11:01.086565+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/signin?return_to=%2Fhome",
+      "label": "www_coinbase_com_signin"
+    },
+    {
+      "seq": 209,
+      "ts": "2026-07-01T15:11:03.147824+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 260,
+      "ts": "2026-07-01T15:11:04.039903+00:00",
+      "kind": "nav",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 267,
+      "ts": "2026-07-01T15:11:05.208470+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 276,
+      "ts": "2026-07-01T15:11:07.268751+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 278,
+      "ts": "2026-07-01T15:11:09.331150+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 344,
+      "ts": "2026-07-01T15:11:11.374616+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 363,
+      "ts": "2026-07-01T15:11:13.432305+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 380,
+      "ts": "2026-07-01T15:11:15.483018+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 393,
+      "ts": "2026-07-01T15:11:17.542934+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 478,
+      "ts": "2026-07-01T15:11:19.580928+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 481,
+      "ts": "2026-07-01T15:11:21.643567+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 482,
+      "ts": "2026-07-01T15:11:23.706366+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 485,
+      "ts": "2026-07-01T15:11:25.770943+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 486,
+      "ts": "2026-07-01T15:11:27.846002+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 487,
+      "ts": "2026-07-01T15:11:29.918939+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 488,
+      "ts": "2026-07-01T15:11:31.972225+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 491,
+      "ts": "2026-07-01T15:11:34.029686+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 492,
+      "ts": "2026-07-01T15:11:36.088644+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 493,
+      "ts": "2026-07-01T15:11:38.162179+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=4e3dfb58-4416-40c7-bdea-33568b65c523",
+      "label": "login_coinbase_com_signin"
+    }
+  ]
+}

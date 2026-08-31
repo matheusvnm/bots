@@ -1,0 +1,1374 @@
+{
+  "meta": {
+    "engine": "webkit",
+    "device": "iPhone 14 Pro",
+    "viewport": {
+      "width": 393,
+      "height": 660
+    },
+    "headless": false,
+    "start_url": "https://www.coinbase.com/home"
+  },
+  "started_at": "2026-07-29T22:06:10.730040+00:00",
+  "ended_at": "2026-07-29T22:13:01.934434+00:00",
+  "index": [
+    {
+      "seq": 93,
+      "ts": "2026-07-29T22:06:13.252896+00:00",
+      "kind": "nav",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 98,
+      "ts": "2026-07-29T22:06:13.752890+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 247,
+      "ts": "2026-07-29T22:06:18.512375+00:00",
+      "kind": "nav",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 254,
+      "ts": "2026-07-29T22:06:19.063708+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 273,
+      "ts": "2026-07-29T22:06:21.104824+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 275,
+      "ts": "2026-07-29T22:06:23.162875+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 276,
+      "ts": "2026-07-29T22:06:25.219082+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 277,
+      "ts": "2026-07-29T22:06:27.290111+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 290,
+      "ts": "2026-07-29T22:06:29.333706+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 292,
+      "ts": "2026-07-29T22:06:31.396485+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 323,
+      "ts": "2026-07-29T22:06:33.456853+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 393,
+      "ts": "2026-07-29T22:06:35.509224+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 449,
+      "ts": "2026-07-29T22:06:37.555170+00:00",
+      "kind": "tick",
+      "url": "https://login.coinbase.com/signin?client_id=258660e1-9cfe-4202-9eda-d3beedb3e118&oauth_challenge=1de5ee78-795e-414d-a943-c1cbfb26a068",
+      "label": "login_coinbase_com_signin"
+    },
+    {
+      "seq": 531,
+      "ts": "2026-07-29T22:06:39.618307+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 1481,
+      "ts": "2026-07-29T22:06:40.759581+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 2121,
+      "ts": "2026-07-29T22:06:41.670192+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 2202,
+      "ts": "2026-07-29T22:06:43.713348+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 2684,
+      "ts": "2026-07-29T22:06:45.835085+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 3040,
+      "ts": "2026-07-29T22:06:48.086684+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 3059,
+      "ts": "2026-07-29T22:06:50.243919+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 3074,
+      "ts": "2026-07-29T22:06:52.371819+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 3115,
+      "ts": "2026-07-29T22:06:54.510466+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3199,
+      "ts": "2026-07-29T22:06:56.583287+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3296,
+      "ts": "2026-07-29T22:06:58.716613+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3323,
+      "ts": "2026-07-29T22:07:00.830833+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3331,
+      "ts": "2026-07-29T22:07:02.959719+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3342,
+      "ts": "2026-07-29T22:07:05.082125+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3350,
+      "ts": "2026-07-29T22:07:07.244155+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3353,
+      "ts": "2026-07-29T22:07:09.363052+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3400,
+      "ts": "2026-07-29T22:07:11.504769+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3401,
+      "ts": "2026-07-29T22:07:13.624793+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3404,
+      "ts": "2026-07-29T22:07:15.770230+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3412,
+      "ts": "2026-07-29T22:07:17.894557+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3420,
+      "ts": "2026-07-29T22:07:20.013705+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3421,
+      "ts": "2026-07-29T22:07:22.123919+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3424,
+      "ts": "2026-07-29T22:07:24.253686+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3436,
+      "ts": "2026-07-29T22:07:26.377227+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3559,
+      "ts": "2026-07-29T22:07:28.503291+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3575,
+      "ts": "2026-07-29T22:07:30.622882+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3582,
+      "ts": "2026-07-29T22:07:32.750583+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3583,
+      "ts": "2026-07-29T22:07:34.881214+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3584,
+      "ts": "2026-07-29T22:07:37.006294+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3585,
+      "ts": "2026-07-29T22:07:39.135741+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3590,
+      "ts": "2026-07-29T22:07:41.242353+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3591,
+      "ts": "2026-07-29T22:07:43.388481+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3592,
+      "ts": "2026-07-29T22:07:45.532435+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3593,
+      "ts": "2026-07-29T22:07:47.674553+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3594,
+      "ts": "2026-07-29T22:07:49.823878+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3595,
+      "ts": "2026-07-29T22:07:51.968495+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3596,
+      "ts": "2026-07-29T22:07:54.116503+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3597,
+      "ts": "2026-07-29T22:07:56.279625+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3598,
+      "ts": "2026-07-29T22:07:58.424403+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3599,
+      "ts": "2026-07-29T22:08:00.565166+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3600,
+      "ts": "2026-07-29T22:08:02.728572+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3601,
+      "ts": "2026-07-29T22:08:04.874248+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3602,
+      "ts": "2026-07-29T22:08:07.013873+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3603,
+      "ts": "2026-07-29T22:08:09.156937+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3606,
+      "ts": "2026-07-29T22:08:11.302932+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3607,
+      "ts": "2026-07-29T22:08:13.445017+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3608,
+      "ts": "2026-07-29T22:08:15.608934+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3609,
+      "ts": "2026-07-29T22:08:17.753776+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3610,
+      "ts": "2026-07-29T22:08:19.904506+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3611,
+      "ts": "2026-07-29T22:08:22.038357+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3612,
+      "ts": "2026-07-29T22:08:24.192645+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3613,
+      "ts": "2026-07-29T22:08:26.337087+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3614,
+      "ts": "2026-07-29T22:08:28.494390+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3615,
+      "ts": "2026-07-29T22:08:30.640696+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3616,
+      "ts": "2026-07-29T22:08:32.771888+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3617,
+      "ts": "2026-07-29T22:08:34.920892+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3618,
+      "ts": "2026-07-29T22:08:37.072560+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3619,
+      "ts": "2026-07-29T22:08:39.203729+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3622,
+      "ts": "2026-07-29T22:08:41.359925+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3623,
+      "ts": "2026-07-29T22:08:43.504481+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3624,
+      "ts": "2026-07-29T22:08:45.648157+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3625,
+      "ts": "2026-07-29T22:08:47.807382+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3627,
+      "ts": "2026-07-29T22:08:49.954138+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3629,
+      "ts": "2026-07-29T22:08:52.111109+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3630,
+      "ts": "2026-07-29T22:08:54.292792+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3631,
+      "ts": "2026-07-29T22:08:56.442311+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3632,
+      "ts": "2026-07-29T22:08:58.586741+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3633,
+      "ts": "2026-07-29T22:09:00.730474+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3634,
+      "ts": "2026-07-29T22:09:02.873730+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3635,
+      "ts": "2026-07-29T22:09:05.019921+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3636,
+      "ts": "2026-07-29T22:09:07.161655+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3637,
+      "ts": "2026-07-29T22:09:09.336124+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3640,
+      "ts": "2026-07-29T22:09:11.492080+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3641,
+      "ts": "2026-07-29T22:09:13.632532+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3642,
+      "ts": "2026-07-29T22:09:15.775026+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3643,
+      "ts": "2026-07-29T22:09:17.911043+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3644,
+      "ts": "2026-07-29T22:09:20.056096+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3645,
+      "ts": "2026-07-29T22:09:22.203082+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3646,
+      "ts": "2026-07-29T22:09:24.352854+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3647,
+      "ts": "2026-07-29T22:09:26.494680+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3648,
+      "ts": "2026-07-29T22:09:28.643861+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3649,
+      "ts": "2026-07-29T22:09:30.783045+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3650,
+      "ts": "2026-07-29T22:09:32.932128+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3655,
+      "ts": "2026-07-29T22:09:35.081822+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3658,
+      "ts": "2026-07-29T22:09:37.222967+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3659,
+      "ts": "2026-07-29T22:09:39.372756+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3662,
+      "ts": "2026-07-29T22:09:41.514233+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3663,
+      "ts": "2026-07-29T22:09:43.664203+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3664,
+      "ts": "2026-07-29T22:09:45.803041+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3665,
+      "ts": "2026-07-29T22:09:47.952809+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3668,
+      "ts": "2026-07-29T22:09:50.109113+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3669,
+      "ts": "2026-07-29T22:09:52.258841+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3670,
+      "ts": "2026-07-29T22:09:54.409933+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3671,
+      "ts": "2026-07-29T22:09:56.553179+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3672,
+      "ts": "2026-07-29T22:09:58.684474+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3673,
+      "ts": "2026-07-29T22:10:00.840811+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3674,
+      "ts": "2026-07-29T22:10:03.019231+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3675,
+      "ts": "2026-07-29T22:10:05.170381+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3676,
+      "ts": "2026-07-29T22:10:07.318993+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3677,
+      "ts": "2026-07-29T22:10:09.459744+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3680,
+      "ts": "2026-07-29T22:10:11.605785+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3681,
+      "ts": "2026-07-29T22:10:13.746554+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3682,
+      "ts": "2026-07-29T22:10:15.898221+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3683,
+      "ts": "2026-07-29T22:10:18.046300+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3684,
+      "ts": "2026-07-29T22:10:20.194357+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3685,
+      "ts": "2026-07-29T22:10:22.342245+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3686,
+      "ts": "2026-07-29T22:10:24.494426+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3687,
+      "ts": "2026-07-29T22:10:26.636514+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3688,
+      "ts": "2026-07-29T22:10:28.779519+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3689,
+      "ts": "2026-07-29T22:10:30.933465+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3690,
+      "ts": "2026-07-29T22:10:33.085189+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3691,
+      "ts": "2026-07-29T22:10:35.233061+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3692,
+      "ts": "2026-07-29T22:10:37.378528+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3693,
+      "ts": "2026-07-29T22:10:39.509249+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3696,
+      "ts": "2026-07-29T22:10:41.651880+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3697,
+      "ts": "2026-07-29T22:10:43.793933+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3698,
+      "ts": "2026-07-29T22:10:45.956097+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3699,
+      "ts": "2026-07-29T22:10:48.097787+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3700,
+      "ts": "2026-07-29T22:10:50.237145+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3701,
+      "ts": "2026-07-29T22:10:52.385867+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3702,
+      "ts": "2026-07-29T22:10:54.526680+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3703,
+      "ts": "2026-07-29T22:10:56.670679+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3704,
+      "ts": "2026-07-29T22:10:58.811767+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3705,
+      "ts": "2026-07-29T22:11:00.958431+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3706,
+      "ts": "2026-07-29T22:11:03.105312+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3707,
+      "ts": "2026-07-29T22:11:05.246424+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3708,
+      "ts": "2026-07-29T22:11:07.387675+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3710,
+      "ts": "2026-07-29T22:11:09.536935+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3712,
+      "ts": "2026-07-29T22:11:11.679111+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3713,
+      "ts": "2026-07-29T22:11:13.822721+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3714,
+      "ts": "2026-07-29T22:11:15.979858+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3715,
+      "ts": "2026-07-29T22:11:18.118186+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3716,
+      "ts": "2026-07-29T22:11:20.246801+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3717,
+      "ts": "2026-07-29T22:11:22.388378+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3718,
+      "ts": "2026-07-29T22:11:24.531338+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3719,
+      "ts": "2026-07-29T22:11:26.674943+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3720,
+      "ts": "2026-07-29T22:11:28.822340+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3721,
+      "ts": "2026-07-29T22:11:30.971176+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3722,
+      "ts": "2026-07-29T22:11:33.115017+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3723,
+      "ts": "2026-07-29T22:11:35.255010+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3724,
+      "ts": "2026-07-29T22:11:37.404622+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3726,
+      "ts": "2026-07-29T22:11:39.549154+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3730,
+      "ts": "2026-07-29T22:11:41.692745+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3731,
+      "ts": "2026-07-29T22:11:43.841918+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3732,
+      "ts": "2026-07-29T22:11:45.983271+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3733,
+      "ts": "2026-07-29T22:11:48.133209+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3734,
+      "ts": "2026-07-29T22:11:50.275847+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3735,
+      "ts": "2026-07-29T22:11:52.414026+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3736,
+      "ts": "2026-07-29T22:11:54.556911+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3737,
+      "ts": "2026-07-29T22:11:56.695556+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3738,
+      "ts": "2026-07-29T22:11:58.835415+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3739,
+      "ts": "2026-07-29T22:12:00.971149+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3740,
+      "ts": "2026-07-29T22:12:03.117144+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3741,
+      "ts": "2026-07-29T22:12:05.255360+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3742,
+      "ts": "2026-07-29T22:12:07.380149+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3749,
+      "ts": "2026-07-29T22:12:09.517166+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3756,
+      "ts": "2026-07-29T22:12:11.627872+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3761,
+      "ts": "2026-07-29T22:12:13.755762+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3764,
+      "ts": "2026-07-29T22:12:15.867643+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3765,
+      "ts": "2026-07-29T22:12:17.998496+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3798,
+      "ts": "2026-07-29T22:12:20.131721+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3799,
+      "ts": "2026-07-29T22:12:22.254889+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3805,
+      "ts": "2026-07-29T22:12:24.376530+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3869,
+      "ts": "2026-07-29T22:12:26.571151+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3871,
+      "ts": "2026-07-29T22:12:28.754230+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3873,
+      "ts": "2026-07-29T22:12:30.940948+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3878,
+      "ts": "2026-07-29T22:12:33.122421+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3883,
+      "ts": "2026-07-29T22:12:35.302053+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3884,
+      "ts": "2026-07-29T22:12:37.484629+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3890,
+      "ts": "2026-07-29T22:12:39.640009+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3911,
+      "ts": "2026-07-29T22:12:41.790041+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 3925,
+      "ts": "2026-07-29T22:12:43.963915+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 5253,
+      "ts": "2026-07-29T22:12:45.907277+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 5307,
+      "ts": "2026-07-29T22:12:46.418008+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6422,
+      "ts": "2026-07-29T22:12:48.584314+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6481,
+      "ts": "2026-07-29T22:12:50.686700+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6493,
+      "ts": "2026-07-29T22:12:52.828103+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6495,
+      "ts": "2026-07-29T22:12:54.976213+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6504,
+      "ts": "2026-07-29T22:12:57.119515+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6505,
+      "ts": "2026-07-29T22:12:59.249148+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    },
+    {
+      "seq": 6563,
+      "ts": "2026-07-29T22:13:01.375034+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/transactions",
+      "label": "www_coinbase_com_transactions"
+    }
+  ]
+}

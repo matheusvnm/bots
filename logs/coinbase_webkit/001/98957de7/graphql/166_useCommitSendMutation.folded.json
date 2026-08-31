@@ -1,0 +1,48 @@
+{
+  "data": {
+    "commitSend": {
+      "__typename": "SendsCommitSendSuccess",
+      "send": {
+        "uuid": "60470223-0925-575b-8dd0-bb70d3ab2cfe",
+        "fromAccountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+        "referenceId": "659bcf89-4f26-474e-8171-a7c2483d4f4c",
+        "description": "menos de um minuto",
+        "note": "",
+        "status": "PENDING",
+        "delayedSendDate": "2026-08-01T20:12:23.171094954Z",
+        "timestamp": "2026-07-29T20:12:23.171094954Z",
+        "amountCrypto": {
+          "value": "1",
+          "currency": "USDC"
+        },
+        "amountFiat": {
+          "value": "5.12",
+          "currency": "BRL"
+        },
+        "recipientDetails": {
+          "imageUrl": "https://images.coinbase.com/avatar?s=128",
+          "displayValue": "5ccL4u9E4m27YU19n5aAKgEDxNokB2qnCtwReRLm7Cqr",
+          "recipientType": "ADDRESS"
+        },
+        "claimUrl": null,
+        "claimUrlExpiresAt": null,
+        "isConsensusRequired": false,
+        "riskChallengesSelfServe": {
+          "action": "DELAY",
+          "challenges": [
+            {
+              "name": "IDV_CHALLENGE_REQUIRED",
+              "status": "NOT_STARTED"
+            },
+            {
+              "name": "WAIVER_CHALLENGE_REQUIRED",
+              "status": "NOT_STARTED"
+            }
+          ],
+          "accountRestrictions": null
+        },
+        "showPasskeyNudge": false
+      }
+    }
+  }
+}

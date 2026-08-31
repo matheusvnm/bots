@@ -1,0 +1,9 @@
+{
+  "data": {
+    "generatePaymentMethodClientToken": {
+      "__typename": "GeneratePaymentMethodClientTokenSuccess",
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJPcmdVbml0SWQiOiI2MDRmNGYyZGViYTM5ZTZlNDdmOTI5MjkiLCJpYXQiOjE3ODUzNTU3OTYsImlzcyI6IjYwNGY0ZjJlNzdiNWFkNDZlYTY0MDhiNiIsImp0aSI6ImVkODA5OTVhZjIwMmM5OWUwYzZkMTQ2NjE1OTU2MDU3In0.xFVn1-0pOAK0ZhkWgFhlnrSvoBNroowgXQ8yN3gGeY4",
+      "url": "https://centinelapi.cardinalcommerce.com/V1/Cruise/Collect"
+    }
+  }
+}

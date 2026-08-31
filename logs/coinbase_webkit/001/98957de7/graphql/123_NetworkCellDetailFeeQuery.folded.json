@@ -1,0 +1,27 @@
+{
+  "data": {
+    "viewer": {
+      "sends": {
+        "sendFeeEstimate": {
+          "exchangedTo": [
+            {
+              "value": "0.000942",
+              "currency": "USDC"
+            },
+            {
+              "value": "0.004822192193386266984",
+              "currency": "BRL"
+            }
+          ],
+          "userFee": {
+            "value": "0.000942"
+          },
+          "userFeeBeforeSubsidy": {
+            "value": "0.000942"
+          }
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

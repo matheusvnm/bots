@@ -1,0 +1,18 @@
+{
+  "data": {
+    "viewer": {
+      "uiComponentsBySurface": {
+        "edges": [
+          {
+            "node": {
+              "components": null,
+              "id": "VUlDb21wb25lbnQ6MDIzNzEyYWQtOWEwMy00NmM0LWI2OWMtYzU4Y2EzNDRjYmNiOnBhZ2Vfb3B0aW9uczp7c2l6ZTo3fSBza2lwX2NhY2hlOnRydWUgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfSU5DRU5USVZFU19DT05UQUlORVIiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfSU5DRU5USVZFU19DT05UQUlORVIi"
+            }
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0lOQ0VOVElWRVNfQ09OVEFJTkVSIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0lOQ0VOVElWRVNfQ09OVEFJTkVSIg=="
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

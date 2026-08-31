@@ -1,0 +1,1 @@
+{"data":{"createSendV2":{"__typename":"SendsTravelRulesError","errorId":"select_recipient_type","text":"","isAssetSupportedByCoinbaseWallet":true,"additionalInformation":null,"fields":[{"options":["TRAVEL_RULES_FIELD_BENEFICIARY_WALLET_TYPE"]},{"options":["TRAVEL_RULES_FIELD_BENEFICIARY_FINANCIAL_INSTITUTION"]},{"options":["TRAVEL_RULES_FIELD_IS_SELF"]}]}}}

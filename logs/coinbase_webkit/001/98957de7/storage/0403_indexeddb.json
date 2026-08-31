@@ -1,0 +1,25 @@
+[
+  {
+    "name": "translations",
+    "version": 1,
+    "stores": [
+      "etags",
+      "messages"
+    ]
+  },
+  {
+    "name": "cb-sw-keyval",
+    "version": 2,
+    "stores": [
+      "cb-keyval",
+      "cb-sw-keyval-rat-products"
+    ]
+  },
+  {
+    "name": "keyval-store",
+    "version": 1,
+    "stores": [
+      "keyval"
+    ]
+  }
+]

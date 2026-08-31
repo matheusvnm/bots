@@ -1,0 +1,8 @@
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_BnyceMPc2.js cancelled
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_CdEO_whe.js cancelled
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_qN87zuvV.js cancelled
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_4tXG44n_.js cancelled
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-01T12:10:31 | coinbase_webkit:001:49fcd415 | [REQ_ERR] POST https://as.coinbase.com/traces cancelled
+2026-07-01T12:10:32 | coinbase_webkit:001:49fcd415 | [FP_BLOCK] GET https://fp.coinbase.com/web/v3/QdZg09cwtZapmMeSKXKw
+2026-07-01T12:10:32 | coinbase_webkit:001:49fcd415 | [REQ_ERR] GET https://fp.coinbase.com/web/v3/QdZg09cwtZapmMeSKXKw Blocked by Web Inspector

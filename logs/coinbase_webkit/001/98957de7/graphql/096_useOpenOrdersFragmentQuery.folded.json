@@ -1,0 +1,14 @@
+{
+  "data": {
+    "viewer": {
+      "openOrders": {
+        "edges": [],
+        "pageInfo": {
+          "endCursor": "",
+          "hasNextPage": false
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

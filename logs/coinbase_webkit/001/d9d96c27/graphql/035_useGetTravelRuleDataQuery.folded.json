@@ -1,0 +1,47 @@
+{
+  "data": {
+    "viewer": {
+      "receiveCheckInformation": null,
+      "accountByUuidV3": {
+        "account": {
+          "accountHistoryEntryByUuid": {
+            "status": "COMPLETED",
+            "details": {
+              "__typename": "CryptoSendDetails",
+              "recipientName": null
+            },
+            "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo2MjhlOGQ0Ni1iYmNkLTUzODktYmYxOC05NjUxZDQ1NmU0Njk="
+          },
+          "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  },
+  "errors": [
+    {
+      "message": "An internal error has occurred",
+      "locations": [
+        {
+          "line": 1,
+          "column": 142
+        }
+      ],
+      "path": [
+        "viewer",
+        "receiveCheckInformation"
+      ],
+      "extensions": {
+        "errorMetadata": {
+          "actionable": true,
+          "code": "FAILED",
+          "correlationID": "a22f6efc4a21deca-IAD",
+          "operation": "useGetTravelRuleDataQuery__mono__0",
+          "traceID": "3780087374301255160",
+          "userErrorCode": "IMTPYBPI"
+        },
+        "service": "mono"
+      }
+    }
+  ]
+}

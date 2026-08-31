@@ -1,0 +1,1 @@
+{"data":{"exchangeRatesV4":[{"quoteCurrency":"USD","price":"0.1950576693783305"}]}}

@@ -1,0 +1,30 @@
+2026-07-29T16:42:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_CWqXXalj.js cancelled
+2026-07-29T16:42:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] GET https://www.coinbase.com/assets/sw-cache/c_DdeZYncR2.js cancelled
+2026-07-29T16:43:24 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] GET https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LcTV7IcAAAAAI1CwwRBm58wKn1n6vwyV1QFaoxr&co=aHR0cHM6Ly9sb2dpbi5jb2luYmFzZS5jb206NDQz&hl=en&type=image&v=w_Yb7dGGXaKesJ7BMiqFJqBG&theme=light&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=ifap34wm7dt6 cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/amp cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub6a0b2d02f8543389bceb988aad66d172&dd-evp-origin-version=6.27.1&dd-evp-origin=browser&dd-request-id=b902d29c-bfe3-4d39-9866-579c55e49558&batch_time=1785354218446&_dd.api=beacon cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/amp cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/metrics cancelled
+2026-07-29T16:43:38 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://as.coinbase.com/amp cancelled
+2026-07-29T16:45:54 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserCefiBalancesSubscription The network connection was lost.
+2026-07-29T16:47:11 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription The network connection was lost.
+2026-07-29T16:47:14 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] GET https://www.coinbase.com/api/v3/brokerage/stream/orders_v2?statuses=FILLED&statuses=CANCELLED&statuses=EXPIRED&statuses=FAILED&statuses=PENDING&limit=-1 The network connection was lost.
+2026-07-29T16:47:14 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useSimpleCryptoPositionAndBalanceSubscription The network connection was lost.
+2026-07-29T16:47:14 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription The network connection was lost.
+2026-07-29T16:47:15 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription The network connection was lost.
+2026-07-29T16:47:15 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription The network connection was lost.
+2026-07-29T16:47:55 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useSimpleCashPositionAndBalanceSubscription cancelled
+2026-07-29T16:47:55 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserCefiBalancesSubscription cancelled
+2026-07-29T16:47:55 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useSimpleCryptoPositionAndBalanceSubscription cancelled
+2026-07-29T16:47:56 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription cancelled
+2026-07-29T16:47:56 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useUserPerformanceSubscription cancelled
+2026-07-29T16:47:56 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T16:47:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T16:47:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T16:47:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled
+2026-07-29T16:47:57 | coinbase_webkit:001:ba607ac7 | [REQ_ERR] POST https://www.coinbase.com/graphql/query?&operationName=useLiveResourcePriceSubscription cancelled

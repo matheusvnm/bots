@@ -1,0 +1,2364 @@
+{
+  "data": {
+    "viewer": {
+      "id": "Vmlld2VyOjA=",
+      "pageContainerData": {
+        "layouts": [
+          {
+            "deviceType": "DEVICE_TYPE_MOBILE",
+            "columns": 1,
+            "maxWidth": "",
+            "layoutType": "LAYOUT_TYPE_1_0",
+            "align": "ALIGN_LEFT",
+            "stickyColumn": "STICKY_COLUMN_LEFT"
+          },
+          {
+            "deviceType": "DEVICE_TYPE_TABLET",
+            "columns": 1,
+            "maxWidth": "",
+            "layoutType": "LAYOUT_TYPE_1_0",
+            "align": "ALIGN_LEFT",
+            "stickyColumn": "STICKY_COLUMN_LEFT"
+          },
+          {
+            "deviceType": "DEVICE_TYPE_DESKTOP",
+            "columns": 2,
+            "maxWidth": "100%",
+            "layoutType": "LAYOUT_TYPE_2_1",
+            "align": "ALIGN_LEFT",
+            "stickyColumn": "STICKY_COLUMN_RIGHT"
+          }
+        ],
+        "eligibilityStatus": {
+          "ineligibleReasons": [
+            "component 22Kzw8gYVvTUP977WEyj7C not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 5PYeoBW0tbMj2eDbMvUrUy not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"PRODUCT_COINBASE_BUSINESS\",\"reasons\":[{\"key\":\"policy_checker\",\"reason\":\"Inversed policy\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 5ktXKYZTGKJlpbzrF4g5Ub not eligible. country_checker: [{\"key\":\"country_checker\",\"reason\":\"country not allowed: BR:APT 302\"}] (generated_at: 2026-07-29T22:06:54Z)"
+          ]
+        },
+        "error": null,
+        "edges": [
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_ORDER_MANAGEMENT_SECTION",
+              "layouts": [
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_MOBILE",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                },
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_TABLET",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                },
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_DESKTOP",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                }
+              ],
+              "id": "VUlDb21wb25lbnQ6MmQyU2lNRHY5ZXBoa1dkejZtVFJzbTpwYWdlX29wdGlvbnM6e3NpemU6MTAwfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIi"
+            }
+          },
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+              "layouts": [
+                {
+                  "column": 2,
+                  "deviceType": "DEVICE_TYPE_DESKTOP",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                }
+              ],
+              "id": "VUlDb21wb25lbnQ6NzVnZTI2Vkg5UGd4Zm90NktFQ3h2UzpwYWdlX29wdGlvbnM6e3NpemU6MTAwfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIi"
+            }
+          },
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_ACTIVITY_SECTION",
+              "layouts": [
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_MOBILE",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                },
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_TABLET",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                },
+                {
+                  "column": 1,
+                  "deviceType": "DEVICE_TYPE_DESKTOP",
+                  "border": null,
+                  "position": "POSITION_UNSPECIFIED",
+                  "top": 0,
+                  "bottom": 0,
+                  "left": 0,
+                  "right": 0
+                }
+              ],
+              "id": "VUlDb21wb25lbnQ6Mm1XZzJERW1CdEpPMk1CMU9wTnJrNTpwYWdlX29wdGlvbnM6e3NpemU6MTAwfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIi"
+            }
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MTAwfSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIi"
+      },
+      "uiComponentsBySurface": {
+        "edges": [
+          {
+            "node": {
+              "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_ORDER_MANAGEMENT_SECTION",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "components": [
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_RECURRING_BUYS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "recurring_buys",
+                      "title": "Compras programadas",
+                      "pictogramId": "recurring",
+                      "informationUrl": "/transactions/recurring-buys"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NmZxMjBJaWViVFE4UVlrZVh2RnVjcQ=="
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6MmQyU2lNRHY5ZXBoa1dkejZtVFJzbTpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfVFJBTlNBQ1RfV0VCIg=="
+            }
+          },
+          {
+            "node": {
+              "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "components": [
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "simple_trade",
+                      "title": "Simple trade",
+                      "pictogramId": "add",
+                      "informationUrl": "https://www.coinbase.com/buy"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NWJiendjZXoxR2VkNUpyZExWUDVHbg=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "send",
+                      "title": "Enviar criptomoeda",
+                      "pictogramId": "arrowUp",
+                      "informationUrl": "https://www.coinbase.com/send"
+                    },
+                    "id": "VUlDb21wb25lbnQ6ckhRYUZpNUM3Y0hGUzNyZ0tzN1RV"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "receive",
+                      "title": "Receber criptomoedas",
+                      "pictogramId": "arrowDown",
+                      "informationUrl": "https://www.coinbase.com/receive"
+                    },
+                    "id": "VUlDb21wb25lbnQ6YVNORkx3WUdLYlhDb2IxTVkyVThB"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "deposit",
+                      "title": "Depositar dinheiro",
+                      "pictogramId": "bank",
+                      "informationUrl": "https://www.coinbase.com/deposit?type=usdc"
+                    },
+                    "id": "VUlDb21wb25lbnQ6Nk1IclBjRmhWbDJmZE9QOE1pZ25oZw=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "withdraw",
+                      "title": "Sacar dinheiro",
+                      "pictogramId": "cash",
+                      "informationUrl": "https://www.coinbase.com/withdraw"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MnJwTWdPdmJHUmdKZ0pBaURVTEFqag=="
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6NzVnZTI2Vkg5UGd4Zm90NktFQ3h2UzpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfVFJBTlNBQ1RfV0VCIg=="
+            }
+          },
+          {
+            "node": {
+              "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_ACTIVITY_SECTION",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "components": [
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_UNSPECIFIED",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "product",
+                      "title": "Produto",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MTcxZTRlZDUtMWRmZi00NGZiLWI3NTUtOGRhNTRhMzg5OWE5"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER_SUMMARY",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "summary",
+                      "title": "Resumo",
+                      "pictogramId": "filter",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MUcwTE1BN1RTTG5kMFltVUt2MHFPUw=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER_TYPE",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "type",
+                      "title": "Tipo",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NzN1MnUzRUJxQ1BjTFZ4MGJiUU1ybA=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER_STATUS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "status",
+                      "title": "Status",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6VVFmWVBTemM2bXQxSDYyUjVBUFBw"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER_ASSET",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "asset",
+                      "title": "Ativo",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MTBQN3hrTDljWlVXUjBXVm9ZM1hDbQ=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER_DATE_RANGE",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "date_range",
+                      "title": "Data",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NXRhQVRYVlFUYTFncVJJeXpocmJIMw=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_TRANSACT_WEB_FILTER",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "filter",
+                      "title": "Filtrar",
+                      "pictogramId": "undefined",
+                      "informationUrl": "https://coinbase.com/transact"
+                    },
+                    "id": "VUlDb21wb25lbnQ6SmRkQnlrbHV6TzVNNlFvVWlDSUx4"
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6Mm1XZzJERW1CdEpPMk1CMU9wTnJrNTpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfVFJBTlNBQ1RfV0VCIg=="
+            }
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIgdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfVFJBTlNBQ1RfV0VCIg=="
+      },
+      "accountHistory": {
+        "transactions": {
+          "edges": [
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo2MDQ3MDIyMy0wOTI1LTU3NWItOGRkMC1iYjcwZDNhYjJjZmU=",
+                "uuid": "60470223-0925-575b-8dd0-bb70d3ab2cfe",
+                "referenceId": "659bcf89-4f26-474e-8171-a7c2483d4f4c",
+                "createdAt": "2026-07-29T20:12:23.15Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-1.159298"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "CANCELED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "",
+                  "transactionHash": null,
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "5ccL4u9E4m27YU19n5aAKgEDxNokB2qnCtwReRLm7Cqr",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.12",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "fee": {
+                    "value": "0.159298",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.159298",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-5.94",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "60470223-0925-575b-8dd0-bb70d3ab2cfe"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo0NDQ1M2Q5OS1iMWFlLTU3ZmItODk0Yy03M2EzNzgxYzcxMzY=",
+                "uuid": "44453d99-b1ae-57fb-894c-73a3781c7136",
+                "referenceId": "b713bb0d-0666-4d45-b014-69c1ecfdf3fd",
+                "createdAt": "2026-07-29T20:10:55.343Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "5.688901"
+                },
+                "category": "STABLE_DEPOSIT",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "BuyDetails",
+                  "sourceAssetSymbol": null,
+                  "targetAssetSymbol": null,
+                  "fees": [
+                    {
+                      "label": "Comissão da Coinbase",
+                      "amount": {
+                        "value": "0.00",
+                        "currency": "BRL"
+                      },
+                      "waivedDetails": null
+                    },
+                    {
+                      "label": "Taxa de processamento",
+                      "amount": {
+                        "value": "0.73",
+                        "currency": "BRL"
+                      },
+                      "waivedDetails": null
+                    }
+                  ],
+                  "priceImprovement": null,
+                  "taxDetails": null,
+                  "buyFee": {
+                    "value": "0.73",
+                    "currency": "BRL"
+                  },
+                  "total": {
+                    "value": "30.00",
+                    "currency": "BRL"
+                  },
+                  "subtotal": {
+                    "value": "29.27",
+                    "currency": "BRL"
+                  },
+                  "buySellPricePerCoin": {
+                    "value": "5.15",
+                    "currency": "BRL"
+                  },
+                  "referenceCode": "L2YE4YK9NY",
+                  "paymentMethod": "5162********3967",
+                  "fee": {
+                    "value": "0.73",
+                    "currency": "BRL"
+                  },
+                  "networkFee": null,
+                  "__isAccountHistoryEntryDetails": "BuyDetails"
+                },
+                "title": "Depositou fundos",
+                "subtitle": "Usando 5162********3967",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "30.00",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "44453d99-b1ae-57fb-894c-73a3781c7136"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozOGIyMzUzNi0zZjU1LTUyMjgtYjhjYi0wNGY4ZjE3Mjc5ZGM=",
+                "uuid": "38b23536-3f55-5228-b8cb-04f8f17279dc",
+                "referenceId": "4e2a96d1-e78b-44cc-a8b1-9ece46877e3a",
+                "createdAt": "2026-07-29T20:09:41.752Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-2.030203"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "https://orb.helius.dev/tx/2iVxiE3qLwf9CcCheeEGSYGBWauEymg1F1M7bY2vxCg9NvsTC7oGoaYKGgGNR7He1Jm6f6GczPmBtywsHJWXQnuS",
+                  "transactionHash": "2iVxiE3qLwf9CcCheeEGSYGBWauEymg1F1M7bY2vxCg9NvsTC7oGoaYKGgGNR7He1Jm6f6GczPmBtywsHJWXQnuS",
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "7Ye9sLhgsrhDdrNj7sub6fBzazqXR6DJHEpHWfm5u7gE",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.12",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "fee": {
+                    "value": "0.159347",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.159347",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-10.39",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "38b23536-3f55-5228-b8cb-04f8f17279dc"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo5MGU3MWU0Ny03MjZjLTU3NTAtYWU4Ny01NTEzMmMxYjA2ZDk=",
+                "uuid": "90e71e47-726c-5750-ae87-55132c1b06d9",
+                "referenceId": "019faf6a-4d27-7e5e-ac92-107927c038b1",
+                "createdAt": "2026-07-29T19:46:48.028Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "2.030203"
+                },
+                "category": "CRYPTO_RECEIVE",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoReceiveDetails",
+                  "p2pClaimDetails": null,
+                  "__isAccountHistoryEntryDetails": "CryptoReceiveDetails",
+                  "transactionUrl": "https://orb.helius.dev/tx/5xTKna2yU6WNsbYJBV4UzKrHp8X7TupfCwQwjfTiyjrWaGzQxJz1sgqfABcyxgrzrdJQgNGNRwtVXoZQ67JTzC6r",
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "toAddress": "9G2j49zARUDCCQi1Me7KsahAzNydKSA17niMZt4rvMTi",
+                  "transactionHash": "5xTKna2yU6WNsbYJBV4UzKrHp8X7TupfCwQwjfTiyjrWaGzQxJz1sgqfABcyxgrzrdJQgNGNRwtVXoZQ67JTzC6r",
+                  "sendReceivePricePerCoin": {
+                    "value": "5.11",
+                    "currency": "BRL"
+                  },
+                  "nullableSubtotal": null,
+                  "nullableTotal": null,
+                  "nullableFee": null
+                },
+                "title": "Recebeu USDC",
+                "subtitle": "Do endereço de USDC",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "10.38",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "90e71e47-726c-5750-ae87-55132c1b06d9"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozMzJjY2FiYS1lMmVmLTUwZjItYjdmYy05N2NmZmE3Yzg4ODg=",
+                "uuid": "332ccaba-e2ef-50f2-b7fc-97cffa7c8888",
+                "referenceId": "4993835f-5789-49fc-823e-2092690b37db",
+                "createdAt": "2026-07-29T19:44:59.307Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-2.693369"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "https://basescan.org/tx/0x0311f376e50fb514f037c12d8020d8c27b0abd5e1d80b635faba156aa2f1cfe6",
+                  "transactionHash": "0x0311f376e50fb514f037c12d8020d8c27b0abd5e1d80b635faba156aa2f1cfe6",
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.12",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Base",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  "fee": {
+                    "value": "0.00286",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.00286",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-13.78",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "332ccaba-e2ef-50f2-b7fc-97cffa7c8888"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTpkZWNiYmEwZi1iNGY4LTVkYzAtYmNlNS04ZmYzZDBjNWQwZGQ=",
+                "uuid": "decbba0f-b4f8-5dc0-bce5-8ff3d0c5d0dd",
+                "referenceId": "019faf5f-6da7-739a-92e8-e1b481d6ab64",
+                "createdAt": "2026-07-29T19:34:55.344Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "1.818346"
+                },
+                "category": "CRYPTO_RECEIVE",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoReceiveDetails",
+                  "p2pClaimDetails": null,
+                  "__isAccountHistoryEntryDetails": "CryptoReceiveDetails",
+                  "transactionUrl": "https://orb.helius.dev/tx/5trEW5u3gqwXLPK9bTt7EBZe21hMdDCbzDmMK5sU2YNbDydPFe7r7hWrYEDS2DxesQM7gKerUxpfPpsS4qWd2QD5",
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "toAddress": "9G2j49zARUDCCQi1Me7KsahAzNydKSA17niMZt4rvMTi",
+                  "transactionHash": "5trEW5u3gqwXLPK9bTt7EBZe21hMdDCbzDmMK5sU2YNbDydPFe7r7hWrYEDS2DxesQM7gKerUxpfPpsS4qWd2QD5",
+                  "sendReceivePricePerCoin": {
+                    "value": "5.11",
+                    "currency": "BRL"
+                  },
+                  "nullableSubtotal": null,
+                  "nullableTotal": null,
+                  "nullableFee": null
+                },
+                "title": "Recebeu USDC",
+                "subtitle": "Do endereço de USDC",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "9.30",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "decbba0f-b4f8-5dc0-bce5-8ff3d0c5d0dd"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozMjkyNzk5ZC0xMjQxLTU4NTctYTE1YS0yZjdjNDdkMDExZTQ=",
+                "uuid": "3292799d-1241-5857-a15a-2f7c47d011e4",
+                "referenceId": "6a476ae9-031f-424a-8171-b400cdd0ab30",
+                "createdAt": "2026-07-29T19:33:15.555Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-1.161372"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "https://orb.helius.dev/tx/2zVYPf1TUvAtycG1HJqSawVYbHjvvHviwGzm1JwToxyzxfJND5vBqa3fDSd8AirvzemopRbW9JA6shsdQgo94Wc7",
+                  "transactionHash": "2zVYPf1TUvAtycG1HJqSawVYbHjvvHviwGzm1JwToxyzxfJND5vBqa3fDSd8AirvzemopRbW9JA6shsdQgo94Wc7",
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "3yjtb8BtYCh21vgtud5SzVHVZTW5PR8PkJptPUAKoasB",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.11",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "fee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-5.93",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "3292799d-1241-5857-a15a-2f7c47d011e4"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTpmZjU0ZmQ3ZS0yYmUyLTU5MTktOWUyNS1hOGY2YzU0ZDUwOWE=",
+                "uuid": "ff54fd7e-2be2-5919-9e25-a8f6c54d509a",
+                "referenceId": "42fbb063-4256-486d-b4e1-d99424d665e3",
+                "createdAt": "2026-07-29T19:32:51.082Z",
+                "amount": {
+                  "currency": "ATOM",
+                  "value": "-0.512664"
+                },
+                "category": "CONVERT",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "ConvertDetails",
+                  "hideNativeAmount": false,
+                  "fees": [
+                    {
+                      "label": "Comissão da Coinbase",
+                      "amount": {
+                        "value": "1.68",
+                        "currency": "BRL"
+                      },
+                      "waivedDetails": null
+                    }
+                  ],
+                  "priceImprovement": null,
+                  "taxDetails": null,
+                  "convertFee": {
+                    "value": "1.68",
+                    "currency": "BRL"
+                  },
+                  "nullableFees": [
+                    {
+                      "amount": {
+                        "value": "1.68",
+                        "currency": "BRL"
+                      },
+                      "label": "Comissão da Coinbase",
+                      "metadata": null
+                    }
+                  ],
+                  "__isAccountHistoryEntryDetails": "ConvertDetails",
+                  "nullableTotal": {
+                    "value": "1.67",
+                    "currency": "BRL"
+                  },
+                  "nullableSubtotal": {
+                    "value": "3.35",
+                    "currency": "BRL"
+                  },
+                  "convertPricePerCoin": {
+                    "value": "6.53",
+                    "currency": "BRL"
+                  },
+                  "referenceCode": "FZ2UPC9L8V",
+                  "paymentMethod": "Carteira de ATOM",
+                  "nullableFee": {
+                    "value": "1.68",
+                    "currency": "BRL"
+                  }
+                },
+                "title": "Vendeu ATOM",
+                "subtitle": "Usando Carteira de ATOM",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6",
+                  "asset": {
+                    "uuid": "64c607d2-4663-5649-86e0-3ab06bba0202",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png",
+                    "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                  }
+                },
+                "accountUuid": "de522c83-ad3b-5c8e-8ca9-ad466bb3eb23",
+                "nativeAmountV2": {
+                  "value": "-3.35",
+                  "currency": "BRL"
+                },
+                "accountId": "69dd3ac670154954173db0c8",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Cosmos",
+                    "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6",
+                    "platformName": "ATOM",
+                    "latestPrice": {
+                      "price": "6.5531611400000016627",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "64c607d2-4663-5649-86e0-3ab06bba0202",
+                    "displaySymbol": "ATOM"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "ff54fd7e-2be2-5919-9e25-a8f6c54d509a"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo3YjQyY2Q2Ni05ZTgxLTUwN2MtOGYwOC0yODJmY2ExMTYwZWM=",
+                "uuid": "7b42cd66-9e81-507c-8f08-282fca1160ec",
+                "referenceId": "ad4e9723-2b0a-4953-8ac8-05b74c41dcf2",
+                "createdAt": "2026-07-29T19:32:15.778Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "-0.00082674"
+                },
+                "category": "CONVERT",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "ConvertDetails",
+                  "hideNativeAmount": false,
+                  "fees": [
+                    {
+                      "label": "Comissão da Coinbase",
+                      "amount": {
+                        "value": "4.02",
+                        "currency": "BRL"
+                      },
+                      "waivedDetails": null
+                    }
+                  ],
+                  "priceImprovement": null,
+                  "taxDetails": null,
+                  "convertFee": {
+                    "value": "4.02",
+                    "currency": "BRL"
+                  },
+                  "nullableFees": [
+                    {
+                      "amount": {
+                        "value": "4.02",
+                        "currency": "BRL"
+                      },
+                      "label": "Comissão da Coinbase",
+                      "metadata": null
+                    }
+                  ],
+                  "__isAccountHistoryEntryDetails": "ConvertDetails",
+                  "nullableTotal": {
+                    "value": "4.01",
+                    "currency": "BRL"
+                  },
+                  "nullableSubtotal": {
+                    "value": "8.03",
+                    "currency": "BRL"
+                  },
+                  "convertPricePerCoin": {
+                    "value": "9712.85",
+                    "currency": "BRL"
+                  },
+                  "referenceCode": "54TLTEDKD9",
+                  "paymentMethod": "Carteira de ETH",
+                  "nullableFee": {
+                    "value": "4.02",
+                    "currency": "BRL"
+                  }
+                },
+                "title": "Vendeu ETH",
+                "subtitle": "Usando Carteira de ETH",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "fd3e7954-0d7c-5a31-9bdb-15028c09fada",
+                "nativeAmountV2": {
+                  "value": "-8.03",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd63387ae356324ecca384",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "7b42cd66-9e81-507c-8f08-282fca1160ec"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTphYjQ4YjNiNC1jZmJlLTVmZTMtYjYxMC0zMDM5ZjVhMzFmMjU=",
+                "uuid": "ab48b3b4-cfbe-5fe3-b610-3039f5a31f25",
+                "referenceId": "ff1661ec-a345-44f1-9d52-64047b34e234",
+                "createdAt": "2026-07-29T19:31:59.415Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.00082673998902"
+                },
+                "category": "INSTANT_UNSTAKING",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "UnstakingTransferDetails",
+                  "unstakeCompletionDate": "2026-07-29T19:31:59.415Z",
+                  "coolDownCompletionDate": null,
+                  "unstakingDescription": null,
+                  "__isAccountHistoryEntryDetails": "UnstakingTransferDetails",
+                  "unstakeFee": {
+                    "value": "0.08",
+                    "currency": "BRL"
+                  }
+                },
+                "title": "Staking de ETH encerrado",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "fd3e7954-0d7c-5a31-9bdb-15028c09fada",
+                "nativeAmountV2": {
+                  "value": "8.04",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd63387ae356324ecca384",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "ab48b3b4-cfbe-5fe3-b610-3039f5a31f25"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo2MjhlOGQ0Ni1iYmNkLTUzODktYmYxOC05NjUxZDQ1NmU0Njk=",
+                "uuid": "628e8d46-bbcd-5389-bf18-9651d456e469",
+                "referenceId": "93055e60-d1c2-4e8b-9f98-56837d114488",
+                "createdAt": "2026-07-29T19:31:35.912Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-1.161372"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "https://orb.helius.dev/tx/66oPCaEafRH6XJAwcXVMANnNWjFKxDvJMi5Gdd2bLioUiuSsdJarfiMVpzxGSMx8Cvt4YpSTZRJ95zysSEKXYpWY",
+                  "transactionHash": "66oPCaEafRH6XJAwcXVMANnNWjFKxDvJMi5Gdd2bLioUiuSsdJarfiMVpzxGSMx8Cvt4YpSTZRJ95zysSEKXYpWY",
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "3yjtb8BtYCh21vgtud5SzVHVZTW5PR8PkJptPUAKoasB",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.11",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "fee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-5.93",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "628e8d46-bbcd-5389-bf18-9651d456e469"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTpkMDI4NmZmNy01OWY2LTU5Y2QtODU2Mi1lNzQwMDA0ZjkwZTQ=",
+                "uuid": "d0286ff7-59f6-59cd-8562-e740004f90e4",
+                "referenceId": "700c63c0-7c6f-46bc-aca3-a22b9ded36f0",
+                "createdAt": "2026-07-29T19:31:10.865Z",
+                "amount": {
+                  "currency": "USDC",
+                  "value": "-1.161372"
+                },
+                "category": "CRYPTO_SEND",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "delayedSendDate": null,
+                  "__isAccountHistoryEntryDetails": "CryptoSendDetails",
+                  "transferSettingsStatus": null,
+                  "note": "",
+                  "undelayRequirement": null,
+                  "transactionUrl": "https://orb.helius.dev/tx/3jN5y5VFPaGaAJtSvFpZUYvTRyW7eQs5BvuYKqfFgNkrUxY2pkBvPVMLbC2LK8A6s4sPsMfL1KACary7QnWGzdFT",
+                  "transactionHash": "3jN5y5VFPaGaAJtSvFpZUYvTRyW7eQs5BvuYKqfFgNkrUxY2pkBvPVMLbC2LK8A6s4sPsMfL1KACary7QnWGzdFT",
+                  "isCancelable": false,
+                  "cryptoSendSenderName": null,
+                  "cryptoSendRecipientName": null,
+                  "cryptoSendRecipient": {
+                    "address": "3yjtb8BtYCh21vgtud5SzVHVZTW5PR8PkJptPUAKoasB",
+                    "destinationTag": ""
+                  },
+                  "sendReceivePricePerCoin": {
+                    "value": "5.11",
+                    "currency": "BRL"
+                  },
+                  "networkInfo": {
+                    "networkName": "Solana",
+                    "networkIconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  "fee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "coinbaseFee": null,
+                  "networkFee": {
+                    "value": "0.161372",
+                    "currency": "USDC"
+                  },
+                  "isScamReportedTransaction": false
+                },
+                "title": "Enviou USDC",
+                "subtitle": "",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                  "asset": {
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                  }
+                },
+                "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                "nativeAmountV2": {
+                  "value": "-5.93",
+                  "currency": "BRL"
+                },
+                "accountId": "69bd6762d371eaff54b989f5",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "USDC",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+                    "platformName": "USDC",
+                    "latestPrice": {
+                      "price": "5.1236600000000013",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJM"
+                    },
+                    "exponent": 6,
+                    "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+                    "displaySymbol": "USDC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "d0286ff7-59f6-59cd-8562-e740004f90e4"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo0MTU3OTYyNy1lZTc4LTUzMjgtOWI1ZS01NGVhNGI2YzllZjI=",
+                "uuid": "41579627-ee78-5328-9b5e-54ea4b6c9ef2",
+                "referenceId": "171767c3-40cd-4da5-97df-f7111b21cf36",
+                "createdAt": "2026-07-29T19:27:10.168Z",
+                "amount": {
+                  "currency": "BTC",
+                  "value": "-0.00005229"
+                },
+                "category": "CONVERT",
+                "status": "COMPLETED",
+                "details": {
+                  "__typename": "ConvertDetails",
+                  "hideNativeAmount": false,
+                  "fees": [
+                    {
+                      "label": "Comissão da Coinbase",
+                      "amount": {
+                        "value": "0.17",
+                        "currency": "BRL"
+                      },
+                      "waivedDetails": null
+                    }
+                  ],
+                  "priceImprovement": null,
+                  "taxDetails": null,
+                  "convertFee": {
+                    "value": "0.17",
+                    "currency": "BRL"
+                  },
+                  "nullableFees": [
+                    {
+                      "amount": {
+                        "value": "0.17",
+                        "currency": "BRL"
+                      },
+                      "label": "Comissão da Coinbase",
+                      "metadata": null
+                    }
+                  ],
+                  "__isAccountHistoryEntryDetails": "ConvertDetails",
+                  "nullableTotal": {
+                    "value": "16.56",
+                    "currency": "BRL"
+                  },
+                  "nullableSubtotal": {
+                    "value": "16.73",
+                    "currency": "BRL"
+                  },
+                  "convertPricePerCoin": {
+                    "value": "319946.45",
+                    "currency": "BRL"
+                  },
+                  "referenceCode": "KDWSGL847R",
+                  "paymentMethod": "BTC Wallet",
+                  "nullableFee": {
+                    "value": "0.17",
+                    "currency": "BRL"
+                  }
+                },
+                "title": "Vendeu BTC",
+                "subtitle": "Usando BTC Wallet",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6",
+                  "asset": {
+                    "uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                  }
+                },
+                "accountUuid": "919c6de5-aaa8-5ede-8b4a-232aef4107b4",
+                "nativeAmountV2": {
+                  "value": "-16.73",
+                  "currency": "BRL"
+                },
+                "accountId": "6743c3f6a23f0040f4fe3b0e",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Bitcoin",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6",
+                    "platformName": "BTC",
+                    "latestPrice": {
+                      "price": "327915.3928235000832002925",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+                    "displaySymbol": "BTC"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "41579627-ee78-5328-9b5e-54ea4b6c9ef2"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeToyODA1OGQzMy03ODgzLTUxM2ItYTBhYi1lMTYzNDFhMzFlNjM=",
+                "uuid": "28058d33-7883-513b-a0ab-e16341a31e63",
+                "referenceId": "02073007-52ee-5213-880f-db189def6f9c",
+                "createdAt": "2026-07-27T14:52:44.647Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000150751000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.001485769924928186569784024",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "28058d33-7883-513b-a0ab-e16341a31e63"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo1NTU3ZTc2Yi0yMDVkLTUzZmMtYjYxMS0yMTE2MjU5YmNiMDE=",
+                "uuid": "5557e76b-205d-53fc-b611-2116259bcb01",
+                "referenceId": "c96ab10a-8d57-5e80-90a5-13d06c90e8d6",
+                "createdAt": "2026-07-24T18:20:44.462Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000035831000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0003387538514503025",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "5557e76b-205d-53fc-b611-2116259bcb01"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTphOGFiZmI0Ny02NWRhLTUzMGYtOGU5Zi1hYWUyYjBmM2FhMjc=",
+                "uuid": "a8abfb47-65da-530f-8e9f-aae2b0f3aa27",
+                "referenceId": "bba6680c-8a87-5374-ae8b-ccee569a681d",
+                "createdAt": "2026-07-21T19:36:19.322Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000156864000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0015318053968287998994449472",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "a8abfb47-65da-530f-8e9f-aae2b0f3aa27"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo1NWM5M2U4OS1jNGJkLTVhNTAtOGU3Ny1kNDg0NmE4YjYyM2I=",
+                "uuid": "55c93e89-c4bd-5a50-8e77-d4846a8b623b",
+                "referenceId": "789f3447-1e4d-5890-be72-37969941dc96",
+                "createdAt": "2026-07-18T17:16:12.236Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000096099000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0009085726659114",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "55c93e89-c4bd-5a50-8e77-d4846a8b623b"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo5ZjJmOGJiNi03Y2Q3LTU5ZTQtYjFiMi0xMWZkOWNhZGVlNTg=",
+                "uuid": "9f2f8bb6-7cd7-59e4-b1b2-11fd9cadee58",
+                "referenceId": "9c76187c-6a4b-5ddc-9823-baf4a53a0353",
+                "createdAt": "2026-07-15T20:47:43.063Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000105300000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0010302550138296",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "9f2f8bb6-7cd7-59e4-b1b2-11fd9cadee58"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTpkZjVjMzUwZC00NmJiLTVkNjktYTAzOC00NzcxYTA0YTU1MGY=",
+                "uuid": "df5c350d-46bb-5d69-a038-4771a04a550f",
+                "referenceId": "01866163-16da-5fa8-96bc-c02e39e5393b",
+                "createdAt": "2026-07-12T17:00:22.019Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000150396000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0014023854663209328",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "df5c350d-46bb-5d69-a038-4771a04a550f"
+            },
+            {
+              "node": {
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTo0MzI2OTRjMy1jMzViLTU5NGUtYjYxNS1iMDY3MDBlMTQwN2Q=",
+                "uuid": "432694c3-c35b-594e-b615-b06700e1407d",
+                "referenceId": "891c5240-94dd-53b2-92f6-c03780f91fee",
+                "createdAt": "2026-07-09T18:29:41.774Z",
+                "amount": {
+                  "currency": "ETH",
+                  "value": "0.000000042355000000"
+                },
+                "category": "STAKING_REWARD",
+                "status": "COMPLETED",
+                "details": null,
+                "title": "Recompensa em ETH",
+                "subtitle": "Da Coinbase",
+                "viewerResource": {
+                  "__typename": "ViewerAsset",
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  }
+                },
+                "accountUuid": "d06d516e-a9a1-5d2b-8598-c672ab420242",
+                "nativeAmountV2": {
+                  "value": "0.0003806230130397240247446381",
+                  "currency": "BRL"
+                },
+                "accountId": "6a2b2bfcf3445720cb03ed96",
+                "viewerAsset": {
+                  "asset": {
+                    "name": "Ethereum",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                    "platformName": "ETH",
+                    "latestPrice": {
+                      "price": "9769.3081403000024787165",
+                      "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM"
+                    },
+                    "exponent": 8,
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "displaySymbol": "ETH"
+                  },
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "__typename": "AccountHistoryEntry"
+              },
+              "cursor": "432694c3-c35b-594e-b615-b06700e1407d"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": true,
+            "endCursor": "eyJ1YyI6IiIsInVvIjoyMH0="
+          },
+          "status": "SUCCESS"
+        }
+      },
+      "openOrders": {
+        "edges": [],
+        "pageInfo": {
+          "endCursor": "",
+          "hasNextPage": false
+        }
+      },
+      "coinbaseBusinessCustomer": {
+        "productEligibility": {
+          "eligibilityResult": {
+            "eligibility": "INELIGIBLE"
+          }
+        }
+      },
+      "retailIntx": {
+        "intxPermissions": {
+          "entity": "COINBASE_BERMUDA",
+          "accessLevel": "ACCESS_LEVEL_DENIED",
+          "isOnboarded": false,
+          "geoMaxLeverage": null,
+          "permissions": {
+            "marketPermissions": {
+              "marketView": {
+                "allowed": false
+              }
+            },
+            "transferPermissions": {
+              "transferView": {
+                "allowed": false
+              },
+              "transferEnabled": {
+                "allowed": false
+              },
+              "transferDepositEnabled": {
+                "allowed": false
+              },
+              "transferWithdrawEnabled": {
+                "allowed": false
+              }
+            },
+            "portfolioPermissions": {
+              "portfolioView": {
+                "allowed": false
+              },
+              "positionsView": {
+                "allowed": false
+              },
+              "positionsClose": {
+                "allowed": false
+              }
+            },
+            "tradingPermissions": {
+              "orderFormView": {
+                "allowed": false
+              },
+              "orderFormEnabled": {
+                "allowed": false
+              },
+              "ordersView": {
+                "allowed": false
+              },
+              "ordersCancel": {
+                "allowed": false
+              }
+            }
+          }
+        },
+        "deribitAssets": {
+          "edges": [
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "XRP",
+                  "displaySymbol": "XRP",
+                  "exponent": 6,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/e81509d2307f706f3a6f8999968874b50b628634abf5154fc91a7e5f7685d496a33acb4cde02265ed6f54b0a08fa54912208516e956bc5f0ffd1c9c2634099ae/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "USDC",
+                  "displaySymbol": "USDC",
+                  "exponent": 6,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:2b92315d-eab7-5bef-84fa-089a131333f5:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "SOL",
+                  "displaySymbol": "SOL",
+                  "exponent": 9,
+                  "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:4f039497-3af8-5bb3-951c-6df9afa9be1c:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "LINK",
+                  "displaySymbol": "LINK",
+                  "exponent": 8,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/37ef8491789cea02a81cf80394ed3a4b5d9c408a969fd6bea76b403e04e7fd9cef623384d16a60f3c39e052006bc79522d902108764ce584466674a4da6cb316/asset_icons/c551d7b5ffe48f1d72e726ab8932ad98758ab414062e5e07479096089c547220.png",
+                  "primaryCbrn": "v1:asset:coinbase:uuid:ea3107c6-416b-5b02-b99f-ded31a0cbdfe:",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYTMxMDdjNi00MTZiLTViMDItYjk5Zi1kZWQzMWEwY2JkZmU6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "ETH",
+                  "displaySymbol": "ETH",
+                  "exponent": 8,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:d85dce9b-5b73-5c3c-8978-522ce1d1c1b4:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "BTC",
+                  "displaySymbol": "BTC",
+                  "exponent": 8,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "BCH",
+                  "displaySymbol": "BCH",
+                  "exponent": 8,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/93a4303d1b0410b79bb1feac01020e4e7bdf8e6ece68282d0af2c7d0b481c5f5c44c0cec1d7071ae8f84674dbd139e290d50a038a6a4c1bbc856ec0871b5f3e2/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png",
+                  "primaryCbrn": "v1:asset:coinbase:uuid:45f99e13-b522-57d7-8058-c57bf92fe7a3:",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo0NWY5OWUxMy1iNTIyLTU3ZDctODA1OC1jNTdiZjkyZmU3YTM6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "AVAX",
+                  "displaySymbol": "AVAX",
+                  "exponent": 8,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/35f69b8c1f2c2771170e72bdb61a986b17f7d8d20c5e10bc4fc347fe301e6137960c01c31ebbac976b9fd933bf95344d751e052a27eee0dc868f8c036bb2632a/asset_icons/d8a464a40be5c1eba32428ed1d815c878d4933231193edfa483957bd3cbfe750.png",
+                  "primaryCbrn": "v1:asset:coinbase:uuid:9d06e463-b3ba-5abf-9082-8761846b28ab:",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo5ZDA2ZTQ2My1iM2JhLTVhYmYtOTA4Mi04NzYxODQ2YjI4YWI6"
+                },
+                "id": ""
+              }
+            },
+            {
+              "node": {
+                "status": "ACTIVE",
+                "asset": {
+                  "platformName": "ADA",
+                  "displaySymbol": "ADA",
+                  "exponent": 6,
+                  "imageUrl": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:63062039-7afb-56ff-8e19-5e3215dc404a:",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6"
+                },
+                "id": ""
+              }
+            }
+          ]
+        }
+      },
+      "quickActionsData": {
+        "edges": [
+          {
+            "node": {
+              "componentId": "75ge26VH9Pgxfot6KECxvS",
+              "contentId": "",
+              "surface": "UI_COMPONENT_SURFACE_TRANSACT_WEB",
+              "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+              "type": "UI_COMPONENT_TYPE_CONTAINER_COMPONENT",
+              "language": "en",
+              "publishedAt": "2024-06-03T14:48:14.766Z",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "components": [
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "simple_trade",
+                      "title": "Simple trade",
+                      "pictogramId": "add"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NWJiendjZXoxR2VkNUpyZExWUDVHbg=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "send",
+                      "title": "Enviar criptomoeda",
+                      "pictogramId": "arrowUp"
+                    },
+                    "id": "VUlDb21wb25lbnQ6ckhRYUZpNUM3Y0hGUzNyZ0tzN1RV"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "receive",
+                      "title": "Receber criptomoedas",
+                      "pictogramId": "arrowDown"
+                    },
+                    "id": "VUlDb21wb25lbnQ6YVNORkx3WUdLYlhDb2IxTVkyVThB"
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "deposit",
+                      "title": "Depositar dinheiro",
+                      "pictogramId": "bank"
+                    },
+                    "id": "VUlDb21wb25lbnQ6Nk1IclBjRmhWbDJmZE9QOE1pZ25oZw=="
+                  },
+                  {
+                    "category": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS",
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "withdraw",
+                      "title": "Sacar dinheiro",
+                      "pictogramId": "cash"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MnJwTWdPdmJHUmdKZ0pBaURVTEFqag=="
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6NzVnZTI2Vkg5UGd4Zm90NktFQ3h2UzpwYWdlX29wdGlvbnM6e3NpemU6N30gY2F0ZWdvcmllczpVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OUyB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OUyI="
+            },
+            "cursor": "49eff38f-1a6b-4124-80e9-a6f8376f5d23"
+          }
+        ],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gY2F0ZWdvcmllczpVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OUyB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9UUkFOU0FDVF9XRUIiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OUyI="
+      },
+      "cashEquivalentAssets": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "ViewerAsset",
+              "accounts": [
+                {
+                  "uuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                  "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+                }
+              ],
+              "asset": {
+                "platformName": "USDC",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+            }
+          },
+          {
+            "node": {
+              "__typename": "ViewerAsset",
+              "accounts": [
+                {
+                  "uuid": "76a4571c-4265-5e73-812c-20f8b1010743",
+                  "id": "QWNjb3VudDo3NmE0NTcxYy00MjY1LTVlNzMtODEyYy0yMGY4YjEwMTA3NDM="
+                }
+              ],
+              "asset": {
+                "platformName": "EURC",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2NzRjNjM0My00MWE4LTRiNzktODkxNC0yMTc2Mjg3N2U5MDc6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2NzRjNjM0My00MWE4LTRiNzktODkxNC0yMTc2Mjg3N2U5MDc6"
+            }
+          },
+          {
+            "node": {
+              "__typename": "ViewerAsset",
+              "accounts": [
+                {
+                  "uuid": "TGBP",
+                  "id": "QWNjb3VudDpUR0JQ"
+                }
+              ],
+              "asset": {
+                "platformName": "TGBP",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkY2FiOTJiYy1jMGNjLTQ0YmUtYmU3Yy0yNDYwMDk1NGVhMGE6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkY2FiOTJiYy1jMGNjLTQ0YmUtYmU3Yy0yNDYwMDk1NGVhMGE6"
+            }
+          },
+          {
+            "node": {
+              "__typename": "ViewerAsset",
+              "accounts": [
+                {
+                  "uuid": "XSGD",
+                  "id": "QWNjb3VudDpYU0dE"
+                }
+              ],
+              "asset": {
+                "platformName": "XSGD",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpmZDk4MDg1My1mZWFmLTUzNjMtYjViOS01ODY1NDUzNzE1NGI6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpmZDk4MDg1My1mZWFmLTUzNjMtYjViOS01ODY1NDUzNzE1NGI6"
+            }
+          },
+          {
+            "node": {
+              "__typename": "ViewerAsset",
+              "accounts": [
+                {
+                  "uuid": "AUDD",
+                  "id": "QWNjb3VudDpBVURE"
+                }
+              ],
+              "asset": {
+                "platformName": "AUDD",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1ZmNlZTUyNy0xM2QxLTQxMDMtYjNkZi1iZjk1YjBlNzczMWU6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1ZmNlZTUyNy0xM2QxLTQxMDMtYjNkZi1iZjk1YjBlNzczMWU6"
+            }
+          }
+        ]
+      },
+      "fiatAccounts": [
+        {
+          "uuid": "010753b1-1c0a-5c84-9e50-c7eb8c016850",
+          "type": "FIAT",
+          "allowWithdrawals": true,
+          "assetOrFiatCurrency": {
+            "__typename": "TiersCurrency",
+            "code": "BRL",
+            "id": "VGllcnNDdXJyZW5jeTpCUkw="
+          },
+          "id": "QWNjb3VudDowMTA3NTNiMS0xYzBhLTVjODQtOWU1MC1jN2ViOGMwMTY4NTA="
+        }
+      ],
+      "sendsBlockingExperiences": {
+        "experiences": []
+      },
+      "receivesBlockingExperiences": {
+        "experiences": []
+      },
+      "globalActions": {
+        "edges": [
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS_TRADE_TRAY",
+              "contentId": "",
+              "componentId": "66BTGDcSTkuBpJyjhx9wg0",
+              "surfaceName": "UI_COMPONENT_SURFACE_QUICK_ACTIONS",
+              "typeName": "UI_COMPONENT_TYPE_CONTAINER_COMPONENT",
+              "language": "en",
+              "publishedAt": "2024-08-26T15:14:31.716Z",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "title": "",
+                "primaryCta": {
+                  "text": "Compra/venda",
+                  "url": ""
+                },
+                "secondaryCta": {
+                  "text": "",
+                  "url": ""
+                },
+                "components": [
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "buy",
+                      "title": "Comprar",
+                      "subtitle": "",
+                      "description": "Compre criptomoedas com dinheiro",
+                      "informationUrl": "https://www.coinbase.com/buy",
+                      "pictogramId": "add"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NTRkZjQ4ZWItY2E1My00MTU1LWE0NzctMDM2MWU3M2UxMTBk"
+                  },
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "sell",
+                      "title": "Vender",
+                      "subtitle": "",
+                      "description": "Venda seus ativos por dinheiro",
+                      "informationUrl": "https://www.coinbase.com/sell",
+                      "pictogramId": "minus"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NUU5aExiWGJweGpKMFdRcmlObDE5TQ=="
+                  },
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "convert",
+                      "title": "Converter",
+                      "subtitle": "",
+                      "description": "Converta uma criptomoeda em outra",
+                      "informationUrl": "https://www.coinbase.com/convert",
+                      "pictogramId": "wireTransfer"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NDNCSWtCMWxqYklBcUY3STFrZ09OYw=="
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6NjZCVEdEY1NUa3VCcEp5amh4OXdnMDpwYWdlX29wdGlvbnM6e3NpemU6N30gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfUVVJQ0tfQUNUSU9OUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9RVUlDS19BQ1RJT05TX1RSQURFX1RSQVkiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OU19UUkFOU0ZFUl9UUkFZIg=="
+            }
+          },
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS_TRADE_TRAY",
+              "contentId": "",
+              "componentId": "197a8c91-231e-4778-96ec-9331d5012249",
+              "surfaceName": "UI_COMPONENT_SURFACE_QUICK_ACTIONS",
+              "typeName": "UI_COMPONENT_TYPE_ELEMENT_COMPONENT",
+              "language": "en",
+              "publishedAt": "2025-12-11T18:55:45.669Z",
+              "component": {
+                "__typename": "UIComponentElement"
+              },
+              "id": "VUlDb21wb25lbnQ6MTk3YThjOTEtMjMxZS00Nzc4LTk2ZWMtOTMzMWQ1MDEyMjQ5OnBhZ2Vfb3B0aW9uczp7c2l6ZTo3fSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9RVUlDS19BQ1RJT05TIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX1FVSUNLX0FDVElPTlNfVFJBREVfVFJBWSIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9RVUlDS19BQ1RJT05TX1RSQU5TRkVSX1RSQVki"
+            }
+          },
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS_TRANSFER_TRAY",
+              "contentId": "",
+              "componentId": "1EYy8OnTVXOUyNQK9Njues",
+              "surfaceName": "UI_COMPONENT_SURFACE_QUICK_ACTIONS",
+              "typeName": "UI_COMPONENT_TYPE_CONTAINER_COMPONENT",
+              "language": "en",
+              "publishedAt": "2024-08-26T15:31:15.203Z",
+              "component": {
+                "__typename": "UIComponentContainer",
+                "title": "",
+                "primaryCta": {
+                  "text": "",
+                  "url": ""
+                },
+                "secondaryCta": {
+                  "text": "Transferir",
+                  "url": ""
+                },
+                "components": [
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "send",
+                      "title": "Enviar criptomoeda",
+                      "subtitle": "",
+                      "description": "Para um endereço de criptomoedas, e-mail ou número de telefone",
+                      "informationUrl": "https://www.coinbase.com/send",
+                      "pictogramId": "arrowUp"
+                    },
+                    "id": "VUlDb21wb25lbnQ6NGVuY2gyQXo5QW1JbzZQV2NFNWIwRw=="
+                  },
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "receive",
+                      "title": "Receber criptomoedas",
+                      "subtitle": "",
+                      "description": "De outra carteira de criptomoedas",
+                      "informationUrl": "https://www.coinbase.com/receive",
+                      "pictogramId": "arrowDown"
+                    },
+                    "id": "VUlDb21wb25lbnQ6N3cyOHBiQlk1dTJHTFQzMVliTDNGcQ=="
+                  },
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "cash_in",
+                      "title": "Depositar dinheiro",
+                      "subtitle": "",
+                      "description": "Transferir fundos de seu banco",
+                      "informationUrl": "https://www.coinbase.com/deposit",
+                      "pictogramId": "bank"
+                    },
+                    "id": "VUlDb21wb25lbnQ6MDFoYjhlcjBHUEdOd3NBRVYyemRBNg=="
+                  },
+                  {
+                    "component": {
+                      "__typename": "UIComponentElement",
+                      "key": "cash_out",
+                      "title": "Sacar dinheiro",
+                      "subtitle": "",
+                      "description": "Transferir fundos para seu banco",
+                      "informationUrl": "https://www.coinbase.com/withdraw",
+                      "pictogramId": "cash"
+                    },
+                    "id": "VUlDb21wb25lbnQ6Mm5EWHVzeFQzeGJiNlgxaXRITUlpZQ=="
+                  }
+                ]
+              },
+              "id": "VUlDb21wb25lbnQ6MUVZeThPblRWWE9VeU5RSzlOanVlczpwYWdlX29wdGlvbnM6e3NpemU6N30gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfUVVJQ0tfQUNUSU9OUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9RVUlDS19BQ1RJT05TX1RSQURFX1RSQVkiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OU19UUkFOU0ZFUl9UUkFZIg=="
+            }
+          },
+          {
+            "node": {
+              "categoryName": "UI_COMPONENT_CATEGORY_QUICK_ACTIONS_TRADE_TRAY",
+              "contentId": "",
+              "componentId": "a26a43ad-7819-4e10-a290-bdb87c24ae60",
+              "surfaceName": "UI_COMPONENT_SURFACE_QUICK_ACTIONS",
+              "typeName": "UI_COMPONENT_TYPE_ELEMENT_COMPONENT",
+              "language": "en",
+              "publishedAt": "2025-12-11T20:36:16.617Z",
+              "component": {
+                "__typename": "UIComponentElement"
+              },
+              "id": "VUlDb21wb25lbnQ6YTI2YTQzYWQtNzgxOS00ZTEwLWEyOTAtYmRiODdjMjRhZTYwOnBhZ2Vfb3B0aW9uczp7c2l6ZTo3fSB1c2VyX2luZm86e30gc3VyZmFjZV9uYW1lOiJVSV9DT01QT05FTlRfU1VSRkFDRV9RVUlDS19BQ1RJT05TIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX1FVSUNLX0FDVElPTlNfVFJBREVfVFJBWSIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9RVUlDS19BQ1RJT05TX1RSQU5TRkVSX1RSQVki"
+            }
+          }
+        ],
+        "eligibilityStatus": {
+          "ineligibleReasons": [
+            "component 1IaJuoNQEzahn41SjspBzE not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 33lZkYFOiPEDuCuwPEFmeK not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 6ul8aVTkRzJkBek5rY8gyc not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 6SwlVnZq2FITXSgJ7ycBCW not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 4QLXJk3zxWVrjcLCI5Kxz7 not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component d0f171aa-f365-4599-b5b9-717149b3756b not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 7b3ca54a-072d-42d4-8b5a-59055ece8f4c not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 61292f8c-ab16-4244-9d8b-1dc6fb949728 not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 2a93d6e2-fc15-487d-b317-888ecc07b5ae not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 4VUQEJTSI6TiuLmms7GsKO not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component ec55f95b-b425-40c8-8d37-41dbd9cc3e66 not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 15ad1968-c3c2-4090-b77d-461b18e87e88 not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 1tUKlwZCc3D4F2TL3dSaaF not eligible. platform_checker: [{\"key\":\"platform_checker\",\"reason\":\"Platform WEB_PLATFORM  not eligible\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 66e00ea1-1be9-4967-a66c-14e054ef41ba not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"cbsl_countries_eligibility\",\"reasons\":[{\"key\":\"country_checker\",\"reason\":\"cbsl_countries_eligibility is not eligible for country BR state APT 302\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component e3b9d081-91e1-40c2-9ca8-21b834a50be5 not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"argentina_tray_actions\",\"reasons\":[{\"key\":\"feature_flag_checker\",\"reason\":\"feature flag disabled: 2025.november.argentina_tray_actions\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 3e63ab99-3121-4ff2-b6be-c7693bf1f1c4 not eligible. country_checker: [{\"key\":\"country_checker\",\"reason\":\"country not allowed: BR:APT 302\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 2v78JOoPTyXaieXNWvGGb0 not eligible. country_checker: [{\"key\":\"country_checker\",\"reason\":\"country not allowed: BR:APT 302\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component dc9a8252-d4d1-4cf4-b772-aa0a8093bde5 not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"argentina_tray_actions\",\"reasons\":[{\"key\":\"feature_flag_checker\",\"reason\":\"feature flag disabled: 2025.november.argentina_tray_actions\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 813f5bf0-5d3a-438b-9982-1835faac12b8 not eligible. country_checker: [{\"key\":\"country_checker\",\"reason\":\"country not allowed: BR:APT 302\"}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component cff590c7-c935-451c-a45c-d9a0b5b177e7 not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"argentina_tray_actions\",\"reasons\":[{\"key\":\"feature_flag_checker\",\"reason\":\"feature flag disabled: 2025.november.argentina_tray_actions\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 623165bc-6aaf-4619-887d-f9452e135f54 not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"argentina_tray_actions\",\"reasons\":[{\"key\":\"feature_flag_checker\",\"reason\":\"feature flag disabled: 2025.november.argentina_tray_actions\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component 64bc3b8e-4458-4d95-a7c6-a78a35e6ca6d not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"retail_equities_acats_eligible_web\",\"reasons\":[{\"key\":\"expression_checker\",\"reason\":\"expression evaluated to false: retail_equities_eligible_us_web [sub-rule results: retail_equities_eligible_us_web=INELIGIBLE]\"}]}]}] (generated_at: 2026-07-29T22:06:54Z)",
+            "component b6e69320-046f-403c-a035-05680a7617be not eligible. eligibility_service_product_types_checker: [{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"aug_2025_cash_inflows_experiment|show_deposit_text_in_tray_nux\",\"reasons\":[{\"key\":\"aug_2025_cash_inflows_experiment\",\"reasons\":[{\"key\":\"any_experiment_checker\",\"reason\":\"Assigned groups: [aug_2025_cash_inflows_v2: N/A (expected one of: [treatment]) (rpc error: code = InvalidArgument desc = no matched platform)]\"},{\"key\":\"country_checker\",\"reason\":\"aug_2025_cash_inflows_experiment is not eligible for country BR state APT 302\"}]},{\"key\":\"show_deposit_text_in_tray_nux\",\"reasons\":[{\"key\":\"any_experiment_checker\",\"reason\":\"Assigned groups: [sep_2025_deposit_upleveling_high_confidence_rn: N/A (expected one of: [treatment]) (rpc error: code = InvalidArgument desc = no matched platform)]\"},{\"key\":\"country_checker\",\"reason\":\"show_deposit_text_in_tray_nux is not eligible for country BR state APT 302\"}]}]}]}] (generated_at: 2026-07-29T22:06:54Z)"
+          ]
+        },
+        "error": null,
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfUVVJQ0tfQUNUSU9OUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9RVUlDS19BQ1RJT05TX1RSQURFX1RSQVkiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUVVJQ0tfQUNUSU9OU19UUkFOU0ZFUl9UUkFZIg=="
+      },
+      "depositWithdrawAccounts": [
+        {
+          "uuid": "010753b1-1c0a-5c84-9e50-c7eb8c016850",
+          "type": "FIAT",
+          "allowDeposits": true,
+          "assetOrFiatCurrency": {
+            "__typename": "TiersCurrency",
+            "code": "BRL",
+            "id": "VGllcnNDdXJyZW5jeTpCUkw="
+          },
+          "allowWithdrawals": true,
+          "availableBalance": {
+            "value": "0"
+          },
+          "id": "QWNjb3VudDowMTA3NTNiMS0xYzBhLTVjODQtOWU1MC1jN2ViOGMwMTY4NTA="
+        }
+      ]
+    }
+  }
+}

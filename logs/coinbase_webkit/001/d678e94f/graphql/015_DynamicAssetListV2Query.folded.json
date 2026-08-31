@@ -1,0 +1,1461 @@
+{
+  "data": {
+    "viewer": {
+      "earn": {
+        "assets": {
+          "current": [
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "ADA",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6"
+                },
+                "rewardApy": {
+                  "formattedValue": "1,40%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6"
+              },
+              "id": "ade40aea-e852-4a62-8d48-c0b63737f89f"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "ATOM",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                },
+                "rewardApy": {
+                  "formattedValue": "13,22%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+              },
+              "id": "d568fbc5-2900-48a6-a47d-2563a1d4383d"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "SOL",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+                },
+                "rewardApy": {
+                  "formattedValue": "3,42%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+              },
+              "id": "3692bab0-e386-11ec-8fea-0242ac120002"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "XTZ",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2OWU1NTllYy01NDdhLTUyMGEtYWViMy0wMWNhYzIzZjE4MjY6"
+                },
+                "rewardApy": {
+                  "formattedValue": "3,00%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2OWU1NTllYy01NDdhLTUyMGEtYWViMy0wMWNhYzIzZjE4MjY6"
+              },
+              "id": "30674aad-0005-47f6-8ac6-24fc6c0e34e9"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "DOT",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYmVhODYxYS1jMGFlLTUzMjMtYmJlMC00Njg5M2ExMTlhMzk6"
+                },
+                "rewardApy": {
+                  "formattedValue": "2,07%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYmVhODYxYS1jMGFlLTUzMjMtYmJlMC00Njg5M2ExMTlhMzk6"
+              },
+              "id": "5b0364f3-c657-4c66-8b3f-069a45ef7022"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "ETH",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "rewardApy": {
+                  "formattedValue": "1,62%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+              },
+              "id": "5b99f5f2-e941-4494-bd0a-a4cbf4f805f5"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "CBETH",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoxNjFmNWQwYS0xNjU3LTQzMDAtYjA3Mi0zZjljYjRkNmJkYWQ6"
+                },
+                "rewardApy": {
+                  "formattedValue": "2,38%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoxNjFmNWQwYS0xNjU3LTQzMDAtYjA3Mi0zZjljYjRkNmJkYWQ6"
+              },
+              "id": "30cdf84c-ed5b-31c8-8138-740a3f7583e8"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "JITOSOL",
+                  "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDphNzM5NTI0OC03ZTU1LTRmZDQtYTdkYy0yZmRmYzM2MDkzZTY6"
+                },
+                "rewardApy": {
+                  "formattedValue": "5,14%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDphNzM5NTI0OC03ZTU1LTRmZDQtYTdkYy0yZmRmYzM2MDkzZTY6"
+              },
+              "id": "6b7d13b9-7dbe-3dc9-a3c6-1e7b0bb1705e"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "AVAX",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo5ZDA2ZTQ2My1iM2JhLTVhYmYtOTA4Mi04NzYxODQ2YjI4YWI6"
+                },
+                "rewardApy": {
+                  "formattedValue": "3,46%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo5ZDA2ZTQ2My1iM2JhLTVhYmYtOTA4Mi04NzYxODQ2YjI4YWI6"
+              },
+              "id": "130b8daa-98ef-41a6-bd2d-1aa20a4b05a6"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "SUI",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyNjQxN2ZiYy1mNTQyLTQxN2EtOTU5Ni01YTYwNjViNzZiNzg6"
+                },
+                "rewardApy": {
+                  "formattedValue": "1,15%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyNjQxN2ZiYy1mNTQyLTQxN2EtOTU5Ni01YTYwNjViNzZiNzg6"
+              },
+              "id": "70789d95-fb0d-3a3f-b85d-140b3235af24"
+            },
+            {
+              "asset": {
+                "asset": {
+                  "platformName": "POL",
+                  "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDozMmQwZWQ4MS1mZDE4LTRkOWUtOTU1Ny03NGNjZjE1M2Y3Njc6"
+                },
+                "rewardApy": {
+                  "formattedValue": "1,71%",
+                  "statsLabel": "a.a."
+                },
+                "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDozMmQwZWQ4MS1mZDE4LTRkOWUtOTU1Ny03NGNjZjE1M2Y3Njc6"
+              },
+              "id": "9e37f96c-642f-3d98-aa01-555c72536bbb"
+            }
+          ]
+        }
+      },
+      "id": "Vmlld2VyOjA=",
+      "retailRewardRate": {
+        "platform": "RETAIL",
+        "baseRate": "3.35%",
+        "currentRate": "7.00%",
+        "boostedRate": "7.00%",
+        "isEligible": true,
+        "ineligibleReasons": []
+      },
+      "rewardsOrchestrationProgramEnrollment": {
+        "isEnrolled": false
+      },
+      "primaryWatchlist": {
+        "id": "V2F0Y2hsaXN0OjY3NDNjN2NkODQ5ZTJlZDc4OTRiZGUyZQ==",
+        "uuid": "6743c7cd849e2ed7894bde2e",
+        "items": {
+          "edges": [
+            {
+              "node": {
+                "uuid": "6743c7cd849e2ed7894bde2f",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:",
+                  "asset": {
+                    "uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2NzQzYzdjZDg0OWUyZWQ3ODk0YmRlMmY=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "6743ed0d44809006f8b0daf6",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:d85dce9b-5b73-5c3c-8978-522ce1d1c1b4:",
+                  "asset": {
+                    "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2NzQzZWQwZDQ0ODA5MDA2ZjhiMGRhZjY=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "67449697288cb3a268847beb",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:4f039497-3af8-5bb3-951c-6df9afa9be1c:",
+                  "asset": {
+                    "uuid": "4f039497-3af8-5bb3-951c-6df9afa9be1c",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2NzQ0OTY5NzI4OGNiM2EyNjg4NDdiZWI=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "6744969c4bc7a5c9c750c90d",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4:",
+                  "asset": {
+                    "uuid": "e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2NzQ0OTY5YzRiYzdhNWM5Yzc1MGM5MGQ=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "674496a080c1a3363f1e6995",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:asset:coinbase:uuid:eb8ab5cb-d2a5-5068-88af-21c3ed92757a:",
+                  "asset": {
+                    "uuid": "eb8ab5cb-d2a5-5068-88af-21c3ed92757a",
+                    "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYjhhYjVjYi1kMmE1LTUwNjgtODhhZi0yMWMzZWQ5Mjc1N2E6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYjhhYjVjYi1kMmE1LTUwNjgtODhhZi0yMWMzZWQ5Mjc1N2E6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2NzQ0OTZhMDgwYzFhMzM2M2YxZTY5OTU=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "6a2c4a8d4936e50b8a6492a6",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:fungibility:coinbase:uuid:674c6343-41a8-4b79-8914-21762877e907:",
+                  "asset": {
+                    "uuid": "674c6343-41a8-4b79-8914-21762877e907",
+                    "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2NzRjNjM0My00MWE4LTRiNzktODkxNC0yMTc2Mjg3N2U5MDc6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2NzRjNjM0My00MWE4LTRiNzktODkxNC0yMTc2Mjg3N2U5MDc6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2YTJjNGE4ZDQ5MzZlNTBiOGE2NDkyYTY=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            },
+            {
+              "node": {
+                "uuid": "6a3d3148ef4bf98d0ee63a84",
+                "itemMetadata": {
+                  "__typename": "ViewerAsset",
+                  "primaryCbrn": "v1:asset:coinbase:uuid:64c607d2-4663-5649-86e0-3ab06bba0202:",
+                  "asset": {
+                    "uuid": "64c607d2-4663-5649-86e0-3ab06bba0202",
+                    "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                  },
+                  "__isNode": "ViewerAsset",
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                },
+                "id": "V2F0Y2hsaXN0SXRlbTo2YTNkMzE0OGVmNGJmOThkMGVlNjNhODQ=",
+                "__typename": "WatchlistItem"
+              },
+              "cursor": null
+            }
+          ],
+          "pageInfo": null
+        }
+      },
+      "dynamicAssetList": {
+        "edges": [
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0078764647070838,
+                    "day": 0.0004923243474102,
+                    "week": -0.0316669913231547,
+                    "month": 0.0590042922193186,
+                    "year": -0.4572463184187714
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "327630.2518172333226753775"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6",
+                "networks": [
+                  {
+                    "chainId": 42161,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+                  },
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 42161,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+                    "displayName": "Arbitrum",
+                    "iconUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/arbitrum.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+                    "displayName": "Solana",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+                    "displayName": "Ethereum",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "Lightning",
+                    "iconUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/lightning.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "Bitcoin",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+                "isPreferredAssetToken": true,
+                "uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+                "name": "Bitcoin",
+                "platformName": "BTC",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.7270232072263985",
+                "uniqueBuyers24h": 35494,
+                "searchStats": {
+                  "day": 4449
+                },
+                "buyCount5m": 103,
+                "buyCount1h": 1127,
+                "buyCount24h": 24754,
+                "sellCount5m": 117,
+                "sellCount1h": 1056,
+                "sellCount24h": 24972,
+                "color": "#F7931A",
+                "marketCapV2": "6566348727461.058897256505221608577358998",
+                "volume24hV2": "146010103184.533050464347642197128304",
+                "displaySymbol": "BTC",
+                "slug": "bitcoin"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0117225261592394,
+                    "day": -0.0102134403782948,
+                    "week": -0.0172428915637786,
+                    "month": 0.1774884014205748,
+                    "year": -0.5000964497313186
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "9757.22059226666634926"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+                "networks": [
+                  {
+                    "chainId": 2741,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 57073,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 4326,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 480,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 130,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 324,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 81457,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 42161,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+                  },
+                  {
+                    "chainId": 8453,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 10,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 137,
+                    "contractAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15"
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
+                  },
+                  {
+                    "chainId": 7777777,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x34d21b1e550d73cee41151c77f3c73359527a396"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "aurora"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x0200070000000000000000000000000000000000000000000000000000000000"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x85219708c49aa701871ad330a94ea0f41dff24ca"
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 2741,
+                    "contractAddress": null,
+                    "displayName": "Abstract",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 57073,
+                    "contractAddress": null,
+                    "displayName": "Ink",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 4326,
+                    "contractAddress": null,
+                    "displayName": "MegaETH",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/eae2d25c5da33863c0bf48e8c849b37e2d8a49aeeb399c2eb3d9fcdb42cc6082.png"
+                  },
+                  {
+                    "chainId": 480,
+                    "contractAddress": null,
+                    "displayName": "Worldchain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/9e29438684a83b198719c1c408faea92f45c7c22fcadc1148b8bd99b2510a3ac.png"
+                  },
+                  {
+                    "chainId": 130,
+                    "contractAddress": null,
+                    "displayName": "Unichain",
+                    "iconUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/unichain.png"
+                  },
+                  {
+                    "chainId": 324,
+                    "contractAddress": null,
+                    "displayName": "ZKsync",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 81457,
+                    "contractAddress": null,
+                    "displayName": "Blast",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": null,
+                    "displayName": "Ethereum",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 42161,
+                    "contractAddress": null,
+                    "displayName": "Arbitrum",
+                    "iconUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/arbitrum.png"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+                    "displayName": "Avalanche C-Chain",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/35f69b8c1f2c2771170e72bdb61a986b17f7d8d20c5e10bc4fc347fe301e6137960c01c31ebbac976b9fd933bf95344d751e052a27eee0dc868f8c036bb2632a/asset_icons/d8a464a40be5c1eba32428ed1d815c878d4933231193edfa483957bd3cbfe750.png"
+                  },
+                  {
+                    "chainId": 8453,
+                    "contractAddress": null,
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": 10,
+                    "contractAddress": null,
+                    "displayName": "Optimism",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/935803cc0d94b712dc08b9c7799f2d764b46c5c0c340a1d13554f6cfb68b57d1e997cadc8884292ad7f8206ed16462d2e94176990791fb157ab05aefef137e33/asset_icons/5fad6c775f5213b9926b244c2764ec961b1be3b96c84e6c413efdb3155c1c2d0.png"
+                  },
+                  {
+                    "chainId": 137,
+                    "contractAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                    "displayName": "Polygon",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/d0f91824568fe7ed63f2fe8a21e68ae8aaa4133840fdba541471d470d9aaa16d.png"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+                    "displayName": "Avalanche C-Chain",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/35f69b8c1f2c2771170e72bdb61a986b17f7d8d20c5e10bc4fc347fe301e6137960c01c31ebbac976b9fd933bf95344d751e052a27eee0dc868f8c036bb2632a/asset_icons/d8a464a40be5c1eba32428ed1d815c878d4933231193edfa483957bd3cbfe750.png"
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+                    "displayName": "BNB Smart Chain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+                    "displayName": "Solana",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  {
+                    "chainId": 7777777,
+                    "contractAddress": null,
+                    "displayName": "Zora",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+                    "displayName": "Klaytn",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/9ef485710ec3ec2ecca362c631ab205e9b65e54ce8f6e7f91942c4394b0dd453.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+                    "displayName": "Huobi ECO Chain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/2ab4b200d2321fbe82083aca37893691aac129cb717afb80ae455fd5cb706282.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
+                    "displayName": "RSK",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/f898f3dd171e66992151409be1deb24785e3395fee2b65cc47940293bfef2b51c2bbb6b11cd0c78bd49d4836f880657f4e9045fce85597aeb7b1d848d13067ac/asset_icons/377527a1146418ceeacf15ae7b592d40b5dac493290c2fcdd692948e32ca5455.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "aurora",
+                    "displayName": "Near",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/5ea79a9a3931318ea33126c7a8a0ff557dcfee5162010e148c271484810b3f512ca99f04d0f0d33c4dd857efb036edd1b7f6f5f3d8f9a977f513a8b3a3a3af64/asset_icons/59d6d2f03f37990397656133cf91c9397017f69652e0232f3f3b8850d18367cb.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x0200070000000000000000000000000000000000000000000000000000000000",
+                    "displayName": "Sora",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/b5c8cf58f73b1af921f5b53579c079d4b140b0d5d8d80b5ea38c89d1b02015fc4d150644873e54bc3f5a5468444e19c41d09a33898e3203bf9445fedc983c2b1/asset_icons/aba58918e5727057892a036e2aa851686ef019e38ae705b9569f717c1dd5d3f1.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
+                    "displayName": "Tezos",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/196aae0d1ec13906a21975544fac79eb2752e379a149a1e5c6b7ffe6159986f474c67f929afe61541df773d97d883e638911f125753fd8974d91eca8c1657aff/asset_icons/e294b1cf6ec96713bf6a15e72b13313e446489d7709cda328f825679370b46b9.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
+                    "displayName": "Osmosis",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/5809bc9e538e9b9b2b2c2f75b38246d167de2c1548fae4a7fb5dbfdd55d3ec8f00bb7ea5b2943d0bf68573687bbf41f8b35aeda17775a76e9d320692ec150bd0/asset_icons/90884408f5b819053da3ae04fa04fe29f7b1c95b17d29b748b3b7681bbe4c759.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "0x85219708c49aa701871ad330a94ea0f41dff24ca",
+                    "displayName": "Velas",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/32cdb194f06387943f2f0917af77aab9cf885831cdc43fff63b1701629b9484c.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                "isPreferredAssetToken": true,
+                "uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+                "name": "Ethereum",
+                "platformName": "ETH",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.4920250670690812",
+                "uniqueBuyers24h": 46951,
+                "searchStats": {
+                  "day": 2490
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 0,
+                "sellCount24h": 0,
+                "color": "#627EEA",
+                "marketCapV2": "1175421336950.034134004873942118204721643877174798",
+                "volume24hV2": "60890896061.24832040240273866654841",
+                "displaySymbol": "ETH",
+                "slug": "ethereum"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:d85dce9b-5b73-5c3c-8978-522ce1d1c1b4:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0125361620057859,
+                    "day": -0.0084985835694051,
+                    "week": -0.0576923076923077,
+                    "month": -0.0252635766858962,
+                    "year": -0.5865095215324463
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "376.5960070333333210825"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "Solana",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  }
+                ],
+                "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png",
+                "isPreferredAssetToken": true,
+                "uuid": "4f039497-3af8-5bb3-951c-6df9afa9be1c",
+                "name": "Solana",
+                "platformName": "SOL",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.659391491302365",
+                "uniqueBuyers24h": 10121,
+                "searchStats": {
+                  "day": 3985
+                },
+                "buyCount5m": 42,
+                "buyCount1h": 349,
+                "buyCount24h": 7035,
+                "sellCount5m": 42,
+                "sellCount1h": 276,
+                "sellCount24h": 7633,
+                "color": "#9945FF",
+                "marketCapV2": "217489437619.32495161186616485214267420617127227154",
+                "volume24hV2": "9880836023.794586051123649034937596",
+                "displaySymbol": "SOL",
+                "slug": "solana"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:4f039497-3af8-5bb3-951c-6df9afa9be1c:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "4f039497-3af8-5bb3-951c-6df9afa9be1c"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0114116652578191,
+                    "day": 0.0073433115060804,
+                    "week": -0.0572141481351777,
+                    "month": 0.0127909710792382,
+                    "year": -0.6522420112706075
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "5.507405996333333154175"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcb585250f852C6c6bf90434AB21A00f02833a4af"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "XRPL",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/e81509d2307f706f3a6f8999968874b50b628634abf5154fc91a7e5f7685d496a33acb4cde02265ed6f54b0a08fa54912208516e956bc5f0ffd1c9c2634099ae/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png"
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+                    "displayName": "BNB Smart Chain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/e81509d2307f706f3a6f8999968874b50b628634abf5154fc91a7e5f7685d496a33acb4cde02265ed6f54b0a08fa54912208516e956bc5f0ffd1c9c2634099ae/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png",
+                "isPreferredAssetToken": true,
+                "uuid": "e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4",
+                "name": "XRP",
+                "platformName": "XRP",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.6938670918512613",
+                "uniqueBuyers24h": 12185,
+                "searchStats": {
+                  "day": 6603
+                },
+                "buyCount5m": 1,
+                "buyCount1h": 42,
+                "buyCount24h": 1339,
+                "sellCount5m": 8,
+                "sellCount1h": 129,
+                "sellCount24h": 1817,
+                "color": "#222222",
+                "marketCapV2": "344142446697.3008617482693439804839272483604",
+                "volume24hV2": "8114697203.292906336327588723265166",
+                "displaySymbol": "XRP",
+                "slug": "xrp"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDplMTdhNDRjOC02ZWExLTU2NGYtYTAyYy0yYTljYTFkOGVlYzQ6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0059376764539808,
+                    "day": -0.0019782393669634,
+                    "week": -0.0015674804721707,
+                    "month": 0.0172006173665569,
+                    "year": -0.2812163148028197
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTplYjhhYjVjYi1kMmE1LTUwNjgtODhhZi0yMWMzZWQ5Mjc1N2E6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "2923.569546199999904895"
+                },
+                "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYjhhYjVjYi1kMmE1LTUwNjgtODhhZi0yMWMzZWQ5Mjc1N2E6",
+                "networks": [
+                  {
+                    "chainId": 56,
+                    "contractAddress": null
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 56,
+                    "contractAddress": null,
+                    "displayName": "BNB Smart Chain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png"
+                  },
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+                    "displayName": "Ethereum",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  }
+                ],
+                "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png",
+                "isPreferredAssetToken": true,
+                "uuid": "eb8ab5cb-d2a5-5068-88af-21c3ed92757a",
+                "name": "BNB",
+                "platformName": "BNB",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.7140522875816993",
+                "uniqueBuyers24h": 437,
+                "searchStats": {
+                  "day": 423
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 0,
+                "sellCount24h": 0,
+                "color": "#F0B90B",
+                "marketCapV2": "388266369008.35494325264990606618375418203",
+                "volume24hV2": "4792710913.097690129327464202204704",
+                "displaySymbol": "BNB",
+                "slug": "bnb"
+              },
+              "primaryCbrn": "v1:asset:coinbase:uuid:eb8ab5cb-d2a5-5068-88af-21c3ed92757a:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDplYjhhYjVjYi1kMmE1LTUwNjgtODhhZi0yMWMzZWQ5Mjc1N2E6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "eb8ab5cb-d2a5-5068-88af-21c3ed92757a"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0118531367447239,
+                    "day": -0.0142233488241093,
+                    "week": -0.0406359213321455,
+                    "month": -0.0520043336944745,
+                    "year": -0.6817458513298477
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTpkOWEzZWRmYS0xYmU3LTU4OWMtYmQyMC1jMDM0ZjM4MzBiNjA6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "0.35874093479999998833"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkOWEzZWRmYS0xYmU3LTU4OWMtYmQyMC1jMDM0ZjM4MzBiNjA6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbD06E5A2B0C65597161de254AA074E489dEb510"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "Dogecoin",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/3803f30367bb3972e192cd3fdd2230cd37e6d468eab12575a859229b20f12ff9c994d2c86ccd7bf9bc258e9bd5e46c5254283182f70caf4bd02cc4f8e3890d82/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/3803f30367bb3972e192cd3fdd2230cd37e6d468eab12575a859229b20f12ff9c994d2c86ccd7bf9bc258e9bd5e46c5254283182f70caf4bd02cc4f8e3890d82/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png",
+                "isPreferredAssetToken": true,
+                "uuid": "d9a3edfa-1be7-589c-bd20-c034f3830b60",
+                "name": "Dogecoin",
+                "platformName": "DOGE",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.5432811211871393",
+                "uniqueBuyers24h": 1318,
+                "searchStats": {
+                  "day": 1437
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 1,
+                "sellCount24h": 7,
+                "color": "#BA9F33",
+                "marketCapV2": "55710012643.7977365750965033238238124555663988474",
+                "volume24hV2": "3096023019.201100159791619411487564",
+                "displaySymbol": "DOGE",
+                "slug": "dogecoin"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:d9a3edfa-1be7-589c-bd20-c034f3830b60:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkOWEzZWRmYS0xYmU3LTU4OWMtYmQyMC1jMDM0ZjM4MzBiNjA6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "d9a3edfa-1be7-589c-bd20-c034f3830b60"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0142768466790813,
+                    "day": 0.0158532794529064,
+                    "week": -0.0665524135961154,
+                    "month": 0.111186671200272,
+                    "year": -0.7858313126679337
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "0.834859116333333306175"
+                },
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "ADA",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
+                "isPreferredAssetToken": true,
+                "uuid": "63062039-7afb-56ff-8e19-5e3215dc404a",
+                "name": "Cardano",
+                "platformName": "ADA",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.7064846416382253",
+                "uniqueBuyers24h": 2277,
+                "searchStats": {
+                  "day": 1531
+                },
+                "buyCount5m": 3,
+                "buyCount1h": 17,
+                "buyCount24h": 249,
+                "sellCount5m": 0,
+                "sellCount1h": 14,
+                "sellCount24h": 225,
+                "color": "#0033AD",
+                "marketCapV2": "30454550888.527512777856112923825163801530757567052",
+                "volume24hV2": "1915053477.771435471911420829891338",
+                "displaySymbol": "ADA",
+                "slug": "cardano"
+              },
+              "primaryCbrn": "v1:fungibility:coinbase:uuid:63062039-7afb-56ff-8e19-5e3215dc404a:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "63062039-7afb-56ff-8e19-5e3215dc404a"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0082965763495064,
+                    "day": -0.0470471464019851,
+                    "week": -0.0202561355171182,
+                    "month": 0.0442112132252977,
+                    "year": -0.6503386991040861
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTpiMTY0Njg2MC02YjIzLTVmN2QtYTUwNi1jYmEwOTAyZjBjYTk6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "491.74457186666665067"
+                },
+                "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDpiMTY0Njg2MC02YjIzLTVmN2QtYTUwNi1jYmEwOTAyZjBjYTk6",
+                "networks": [
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9"
+                  },
+                  {
+                    "chainId": 137,
+                    "contractAddress": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg"
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0xfb6115445Bff7b52FeB98650C87f44907E58f802"
+                  },
+                  {
+                    "chainId": 250,
+                    "contractAddress": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
+                  },
+                  {
+                    "chainId": 10,
+                    "contractAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9"
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 1,
+                    "contractAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+                    "displayName": "Ethereum",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
+                    "displayName": "Avalanche C-Chain",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/35f69b8c1f2c2771170e72bdb61a986b17f7d8d20c5e10bc4fc347fe301e6137960c01c31ebbac976b9fd933bf95344d751e052a27eee0dc868f8c036bb2632a/asset_icons/d8a464a40be5c1eba32428ed1d815c878d4933231193edfa483957bd3cbfe750.png"
+                  },
+                  {
+                    "chainId": 137,
+                    "contractAddress": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+                    "displayName": "Polygon",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/d0f91824568fe7ed63f2fe8a21e68ae8aaa4133840fdba541471d470d9aaa16d.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
+                    "displayName": "Solana",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png"
+                  },
+                  {
+                    "chainId": 56,
+                    "contractAddress": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+                    "displayName": "BNB Smart Chain",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png"
+                  },
+                  {
+                    "chainId": 250,
+                    "contractAddress": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+                    "displayName": "Fantom",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/e17e84efa456c7d48f037588e37f8eb66c4be2c7ff8386258a0b99d78b3246afa4d8c21fa1f748f6a02b9487cb6f2b6f26d70bdb652a61db2b4cf058bec08dee/asset_icons/1bb53e9ac0259c3e341fea0e730521c42d44d226f60f4fb0cc68c9770296216d.png"
+                  },
+                  {
+                    "chainId": 10,
+                    "contractAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+                    "displayName": "Optimism",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/935803cc0d94b712dc08b9c7799f2d764b46c5c0c340a1d13554f6cfb68b57d1e997cadc8884292ad7f8206ed16462d2e94176990791fb157ab05aefef137e33/asset_icons/5fad6c775f5213b9926b244c2764ec961b1be3b96c84e6c413efdb3155c1c2d0.png"
+                  },
+                  {
+                    "chainId": 43114,
+                    "contractAddress": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+                    "displayName": "Avalanche C-Chain",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/35f69b8c1f2c2771170e72bdb61a986b17f7d8d20c5e10bc4fc347fe301e6137960c01c31ebbac976b9fd933bf95344d751e052a27eee0dc868f8c036bb2632a/asset_icons/d8a464a40be5c1eba32428ed1d815c878d4933231193edfa483957bd3cbfe750.png"
+                  }
+                ],
+                "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/1c3fcab5ce098b365d8ea0857271111b78b3b20d9042615431709af194d1473c.png",
+                "isPreferredAssetToken": true,
+                "uuid": "b1646860-6b23-5f7d-a506-cba0902f0ca9",
+                "name": "Aave",
+                "platformName": "AAVE",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.6047058823529412",
+                "uniqueBuyers24h": 257,
+                "searchStats": {
+                  "day": 563
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 0,
+                "sellCount24h": 0,
+                "color": "#9391F7",
+                "marketCapV2": "7563489258.20591839658527332579947861390023191056",
+                "volume24hV2": "1852410616.465356841325703228244694",
+                "displaySymbol": "AAVE",
+                "slug": "aave"
+              },
+              "primaryCbrn": "v1:asset:coinbase:uuid:b1646860-6b23-5f7d-a506-cba0902f0ca9:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDpiMTY0Njg2MC02YjIzLTVmN2QtYTUwNi1jYmEwOTAyZjBjYTk6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "b1646860-6b23-5f7d-a506-cba0902f0ca9"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0046895516788595,
+                    "day": -0.0379019220405964,
+                    "week": -0.0948115599121176,
+                    "month": -0.2059303187546331,
+                    "year": 0.2679196545461519
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZTpkMTNlMjU5NS1hMjE0LTQ4YTctOWMwOS0yZmRkOTYwZDEwZDg6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "274.4352780999999910725"
+                },
+                "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDpkMTNlMjU5NS1hMjE0LTQ4YTctOWMwOS0yZmRkOTYwZDEwZDg6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xB200000000000000000000451d033a5000cb479e"
+                  },
+                  {
+                    "chainId": 999,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xB200000000000000000000451d033a5000cb479e",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": 999,
+                    "contractAddress": null,
+                    "displayName": "HyperEVM",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/6a8c816c50549afbdb1a73933132c71d7aa26ba900d285e624d5a24ce9b068c4.png"
+                  }
+                ],
+                "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/6a8c816c50549afbdb1a73933132c71d7aa26ba900d285e624d5a24ce9b068c4.png",
+                "isPreferredAssetToken": true,
+                "uuid": "d13e2595-a214-48a7-9c09-2fdd960d10d8",
+                "name": "Hyperliquid",
+                "platformName": "HYPE",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.7848751835535977",
+                "uniqueBuyers24h": 1069,
+                "searchStats": {
+                  "day": 2045
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 0,
+                "sellCount24h": 0,
+                "color": "#AFFAE5",
+                "marketCapV2": "69247422023.0327785591736171922916975459525243613",
+                "volume24hV2": "1835800567.72167012858842236900121",
+                "displaySymbol": "HYPE",
+                "slug": "hyperliquid"
+              },
+              "primaryCbrn": "v1:asset:coinbase:uuid:d13e2595-a214-48a7-9c09-2fdd960d10d8:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDpkMTNlMjU5NS1hMjE0LTQ4YTctOWMwOS0yZmRkOTYwZDEwZDg6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "d13e2595-a214-48a7-9c09-2fdd960d10d8"
+          },
+          {
+            "node": {
+              "asset": {
+                "latestPrice": {
+                  "percentChangesV2": {
+                    "hour": 0.0178384050367261,
+                    "day": -0.0083383917446727,
+                    "week": -0.0932460855340033,
+                    "month": 0.132626252797509,
+                    "year": 11.129738178976163
+                  },
+                  "id": "TGF0ZXN0QXNzZXRQcmljZToxZDNjMjYyNS1hOGQ5LTU0NTgtODRkMC00MzdkNzU1NDA0MjE6QlJM",
+                  "quoteCurrency": "BRL",
+                  "price": "2382.4609510999999224975"
+                },
+                "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoxZDNjMjYyNS1hOGQ5LTU0NTgtODRkMC00MzdkNzU1NDA0MjE6",
+                "networks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xb200000000000000000000c2e3a82d50000CB2EC"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null
+                  }
+                ],
+                "assetNetworks": [
+                  {
+                    "chainId": 8453,
+                    "contractAddress": "0xb200000000000000000000c2e3a82d50000CB2EC",
+                    "displayName": "Base",
+                    "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png"
+                  },
+                  {
+                    "chainId": null,
+                    "contractAddress": null,
+                    "displayName": "Zcash",
+                    "iconUrl": "https://dynamic-assets.coinbase.com/000ecacb555ab8496677c23f854854b051bd62cec6bbe4c3bad9c7325183cae5f28a8758eed9c655b1b0fab1aa148e2c0fb052a02577c87ec981b16836c7cd9e/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png"
+                  }
+                ],
+                "imageUrl": "https://dynamic-assets.coinbase.com/000ecacb555ab8496677c23f854854b051bd62cec6bbe4c3bad9c7325183cae5f28a8758eed9c655b1b0fab1aa148e2c0fb052a02577c87ec981b16836c7cd9e/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png",
+                "isPreferredAssetToken": true,
+                "uuid": "1d3c2625-a8d9-5458-84d0-437d75540421",
+                "name": "Zcash",
+                "platformName": "ZEC",
+                "isAssetStablecoin": false,
+                "buyerSellerRatio24h": "0.6810126582278481",
+                "uniqueBuyers24h": 807,
+                "searchStats": {
+                  "day": 1887
+                },
+                "buyCount5m": 0,
+                "buyCount1h": 0,
+                "buyCount24h": 0,
+                "sellCount5m": 0,
+                "sellCount1h": 0,
+                "sellCount24h": 0,
+                "color": "#ECB244",
+                "marketCapV2": "39931592291.525839722373916261796982823103093252",
+                "volume24hV2": "1637845632.687720270067006613477868",
+                "displaySymbol": "ZEC",
+                "slug": "zcash"
+              },
+              "primaryCbrn": "v1:asset:coinbase:uuid:1d3c2625-a8d9-5458-84d0-437d75540421:",
+              "supportedContextsV2": {
+                "isTradable": true,
+                "isDexBuyableWithError": {
+                  "isSupported": false,
+                  "error": null
+                },
+                "isDexSellable": false,
+                "isDexBuyable": false,
+                "isStablecoinCashEquivalent": false
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoxZDNjMjYyNS1hOGQ5LTU0NTgtODRkMC00MzdkNzU1NDA0MjE6",
+              "__typename": "ViewerAsset"
+            },
+            "cursor": "1d3c2625-a8d9-5458-84d0-437d75540421"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "eyJjdXJzb3IiOiIiLCJvZmZzZXQiOiIxMCJ9",
+          "hasNextPage": true
+        }
+      }
+    },
+    "rewardsOrchestrationProgramLifetimeRewards": {
+      "total": {
+        "value": "0.190701",
+        "currency": "USDC"
+      },
+      "totalFiat": {
+        "value": "0.9603590823406666784383",
+        "currency": "BRL"
+      }
+    }
+  }
+}

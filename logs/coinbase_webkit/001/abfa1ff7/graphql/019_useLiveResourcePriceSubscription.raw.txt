@@ -1,0 +1,2722 @@
+
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325156.38274583348165225","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:10.479Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:11.441Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325298.332783333481717","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:11.728Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.48742383348170293","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:12.505Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325253.93183466681503008","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:13.614Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325358.84697950014841127","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:15.254Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325330.91735050014839853","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:16.471Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325355.31741100014840966","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:16.582Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325340.48299266681506956","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:18.226Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325244.67311150014835919","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:18.745Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.97943516681499361","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:20.241Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325129.52733333348164","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:21.355Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325092.28782800014828968","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:22.204Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325074.74229183348161501","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:23.193Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.51816850014831761","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:23.885Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325170.65447933348165876","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:24.673Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.90108033348166982","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:26.47Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325219.24998766681501426","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:27.108Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325186.05158250014833245","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:28.043Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325204.62018200014834092","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:29.449Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.15862250014835485","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:30.242Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325305.74999250014838705","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:31.149Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325389.69233900014842534","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:31.787Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325362.53000750014841295","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:32.801Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325365.54804433348174766","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:34.182Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325391.58500616681509287","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:35.29Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325391.58500616681509287","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:36.316Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325337.2091900001484014","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:37.317Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325411.17666900014843514","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:38.414Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325411.12551583348176845","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:39.291Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325361.30233150014841239","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:39.946Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325336.95342416681506795","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:40.646Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325348.41173350014840651","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:41.949Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325338.2322533334817352","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:43.266Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325296.33780983348171609","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:44.33Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325328.92237700014839762","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:45.448Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325369.07761283348174927","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:46.203Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325439.20860433348178126","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:47.339Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325422.99305050014844053","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:47.84Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325392.9661416668150935","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:48.629Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325392.9661416668150935","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:50.129Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325417.31504900014843794","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:51.265Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325396.64916966681509518","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:52.356Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325401.1506483334817639","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:53.305Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325304.36885700014838642","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:54.41Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325288.71598800014837928","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:55.482Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:55.701Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325274.75117350014837291","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:57.415Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325301.29966700014838502","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:58.345Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:48:58.764Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325190.34844850014833441","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:00.205Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325135.35879433348164266","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:01.182Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325183.49392416681499795","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:02.228Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325160.219233333481654","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:02.585Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.33839550014833623","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:04.795Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.15862250014835485","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:05.539Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:06.01Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:06.92Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.97884950014837347","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:08.937Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325313.678733333481724","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:09.601Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325366.67341400014841484","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:10.355Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325405.14059533348176572","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:11.851Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325417.36620216681510463","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:12.849Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325418.84964400014843864","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:14.492Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325431.58678250014844445","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:15.156Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325430.71717866681511072","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:15.852Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325417.21274266681510456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:17.144Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325433.68406233348177874","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:18.555Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325392.86383533348176012","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:19.332Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325412.4043450001484357","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:19.921Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325417.16158950014843787","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:21.421Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325378.08057016681508671","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:22.234Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325378.02941700014842002","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:24.336Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325397.16070133348176208","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:24.861Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325390.35733016681509231","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:25.362Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325405.39636116681509917","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:28.12Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325405.39636116681509917","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:28.12Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325397.21185450014842877","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:29.547Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325342.06874083348173695","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:30.288Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325357.21007816681507719","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:32.087Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325373.78370416681508475","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:32.396Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325368.66838750014841575","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:33.838Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325384.7816350001484231","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:35.342Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325393.01729483348176019","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:36.332Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325393.01729483348176019","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:37.022Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325393.06844800014842688","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:38.857Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325405.39636116681509917","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:39.45Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325456.907600000148456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:40.178Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325471.53740566681512934","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:41.762Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325429.18258366681511002","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:41.788Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325393.01729483348176019","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:43.642Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325407.59594733348176684","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:44.258Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325407.59594733348176684","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:46.543Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325418.90079716681510533","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:47.213Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325459.66987100014845726","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:48.293Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325520.90021150014848519","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:49.16Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325589.3943016668151831","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:50.403Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325589.44545483348184979","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:51.205Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325583.51168750014851375","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:52.453Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325593.38424866681518492","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:53.498Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325593.4865550001485183","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:54.491Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325608.67904550014852523","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:55.342Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325583.51168750014851375","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:56.533Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325583.51168750014851375","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:56.838Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325561.92505116681517057","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:58.531Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325561.7715916668151705","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:49:59.581Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325528.0105016668151551","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.017Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325441.15242466681511548","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.037Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325349.9974816668150739","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.068Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325316.79907650014839209","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.086Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.24171100014836766","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.093Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325268.40818083348170335","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.105Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325319.3055816668150599","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.129Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325277.30883183348170741","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.218Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325329.79198083348173135","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.487Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.26063600014837816","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:00.705Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325362.42770116681507957","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:01.256Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325403.35023450014843157","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:01.468Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325444.93775900014845054","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:02.013Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325446.06312866681511772","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:03.061Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325511.33456933348181416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:03.85Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325470.41203600014846216","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:04.045Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325396.5468633334817618","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:05.796Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.20948283348171147","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:07.545Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325244.77541783348169257","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:09.864Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325362.2742416668150795","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:13.103Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325439.25975750014844795","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:17.021Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325458.85142033348179022","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:17.98Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325480.48920983348180009","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:20.804Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325337.2091900001484014","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:22.964Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325378.02941700014842002","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:23.954Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325330.30351250014839825","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:27.286Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325344.42178650014840469","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:28.785Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325297.71894533348171672","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:29.731Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325256.08026766681503106","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:30.715Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.20977566681502154","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:31.058Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325170.50101983348165869","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:32.04Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325100.57464100014829346","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:32.97Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325104.10420950014829507","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:33.602Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325119.45015950014830207","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:35.275Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325131.72691950014830767","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:35.923Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.95755283348164567","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:37.582Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.90639966681497898","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:38.459Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:39.256Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325209.42857966681500978","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:40.685Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325179.81089616681499627","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:41.269Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:42.645Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:44.083Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325279.15034583348170825","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:44.809Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325266.15744150014836899","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:45.563Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:47.642Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:48.089Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:49.606Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325279.96879650014837529","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:50.576Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325296.33780983348171609","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:51.36Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325295.87743133348171588","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:52.452Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325301.04390116681505157","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:53.326Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325283.80528400014837704","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:54.543Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325291.98979066681504744","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:55.635Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:56.595Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:57.234Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:58.071Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:50:59.441Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.15862250014835485","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:00.304Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325206.7686150001483419","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:01.584Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325187.99540283348166667","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:02.45Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325174.69557950014832727","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:03.854Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325144.20829216681498003","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:04.7Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325119.85938483348163559","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:04.907Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325098.78428016681495931","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:06.449Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325087.27481766681495406","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:07.747Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325017.65535783348158897","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:08.333Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324977.0908966668149038","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:09.312Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324990.08380100014824306","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:09.823Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324949.41703350014822451","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:11.516Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324949.41703350014822451","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:12.568Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324888.23784616681486327","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:13.553Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324888.23784616681486327","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:16Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324904.70916583348153745","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:16.713Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324873.81265316681485669","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:17.798Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324799.64056150014815619","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:18.194Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324765.72601200014814072","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:18.205Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324745.31589850014813141","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:18.213Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324724.95693816681478879","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:18.544Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324799.33364250014815605","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:20.63Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324791.25144216681481903","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:21.422Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324770.58556283348147627","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:22.824Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324811.61040250014816165","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:25.266Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324754.31885583348146885","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:26.891Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324760.50838900014813834","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:27.883Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324769.35788683348147571","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:28.879Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324811.61040250014816165","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:29.648Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324826.95635250014816865","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:30.172Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324854.27214350014818111","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:31.916Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324843.37651900014817614","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:32.953Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324811.71270883348149503","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:33.704Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324830.74168683348150371","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:34.613Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324840.15386950014817467","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:35.53Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324840.10271633348150798","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:38.401Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324806.59739216681482603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:38.5Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324806.59739216681482603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:40.631Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324806.59739216681482603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:41.504Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324855.3463600001481816","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:42.198Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324867.77657950014818727","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:45.066Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324976.22129283348157007","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:45.791Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325000.67250650014824789","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:46.287Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325103.950750000148295","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:47.673Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325130.85731566681497394","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:49.237Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325147.12402266681498136","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:50.104Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325146.35672516681498101","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:51.163Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325146.35672516681498101","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:52.236Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325158.99155733348165344","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:53.15Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.87712883348166023","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:54.235Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325211.01432783348167717","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:55.065Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.61988916681503085","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:56.179Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325280.12225600014837536","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:57.133Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325287.64177150014837879","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:58.2Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325301.4019733334817184","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:51:58.719Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325236.948983333481689","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:00.075Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:01.016Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.8040933334816456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:01.939Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.8040933334816456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:02.96Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.8040933334816456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:03.422Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325174.38866050014832713","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:05.013Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325161.29344983348165449","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:06.058Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325141.85524650014831229","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:06.407Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325100.72810050014829353","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:07.933Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325165.69262216681498983","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:08.731Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325061.85169383348160913","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:10.022Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324971.61750783348156797","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:10.051Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325018.88303383348158953","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:10.234Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325031.72247866681492872","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:12.107Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324999.24021783348158057","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:14.14Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325004.91821933348158316","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:15.125Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325017.5018983334815889","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:16.151Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325010.8519866668149192","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:16.87Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324983.53619566681490674","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:17.755Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324963.2795416668148975","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:19.039Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324968.44601150014823319","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:20.109Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324925.06812616681488007","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:20.616Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324908.59680650014820589","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:21.544Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324863.83778566681485214","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:23.127Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324827.00750566681483534","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:24.151Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324806.59739216681482603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:25.173Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324806.59739216681482603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:25.771Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324782.1973316668148149","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:26.914Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324782.1973316668148149","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:28.505Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324758.30880283348147067","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:29.617Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324795.95753350014815451","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:30.36Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324796.21329933348148796","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:31.209Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324830.2813083334815035","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:32.229Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324890.07936016681486411","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:33.563Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324907.42028366681487202","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:33.789Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324934.48030883348155103","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:34.538Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324912.74021300014820778","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:36.028Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324910.5917800001482068","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:37.538Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324868.23695800014818748","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:38.603Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324896.57581233348153374","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:40.491Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324940.260616666814887","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:41.308Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324929.0069200001482152","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:42.355Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324960.15919850014822941","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:43.197Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324969.87830016681490051","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:44.487Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324969.87830016681490051","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:45.494Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325031.05748750014826175","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:45.688Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325082.31296050014828513","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:47.227Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325075.96996783348161557","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:47.555Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325085.99598850014828681","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:49.244Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325086.76328600014828716","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:50.073Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325086.81443916681495385","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:51.517Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325180.57819366681499662","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:52.471Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325193.67340433348166926","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:53.293Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325213.26506716681501153","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:53.824Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.15862250014835485","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:55.495Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325230.70829700014835282","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:56.447Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325204.15980350014834071","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:57.556Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325231.27098183348168641","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:58.518Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325180.73165316681499669","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:52:59.389Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:00.503Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325051.51875416681493775","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:01.298Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325051.46760100014827106","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:02.065Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325031.10864066681492844","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:03.539Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325047.32419450014826917","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:04.576Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325055.45754800014827288","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:05.703Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325079.80645533348161732","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:05.813Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325066.76239783348161137","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:07.474Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325035.4055066668149304","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:08.628Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325040.36736383348159933","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:09.656Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325111.72603133348163188","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:10.244Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325111.77718450014829857","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:11.388Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325111.72603133348163188","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:11.802Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.69794150014829899","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:12.721Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325103.79729050014829493","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:14.52Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325098.78428016681495931","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:15.549Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325101.03501950014829367","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:15.878Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:17.491Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325196.026450000148337","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:18.326Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325213.9300583334816785","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:19.688Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325209.47973283348167647","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:20.348Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325209.47973283348167647","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:21.523Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325183.03354566681499774","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:22.58Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.5693216668149843","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:23.523Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.5693216668149843","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:25.362Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325177.96938216681499543","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:25.752Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:27.151Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325113.51639216681496603","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:28.324Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325119.24554683348163531","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:28.859Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.69794150014829899","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:29.843Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325092.33898116681495637","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:31.939Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325108.5545350001482971","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:32.28Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325135.76801966681497618","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:32.595Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325138.63259700014831082","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:34.675Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325213.9300583334816785","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:35.609Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325238.33011883348168963","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:36.945Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.51758283348169747","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:37.384Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:38.207Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:39.925Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.92769633348170678","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:40.751Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.92769633348170678","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:42.044Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.51758283348169747","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:43.702Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:44.636Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.56873600014836416","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:45.553Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.10924566681503974","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:46.113Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.97884950014837347","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:47.442Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.92769633348170678","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:48.227Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325272.29582150014837179","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:49.693Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325266.92473900014836934","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:49.94Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325228.55986400014835184","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:51.647Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:52.695Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325113.31177950014829927","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:53.057Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325113.31177950014829927","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:54.502Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325168.4037400001483244","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:55.25Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325188.81385350014833371","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:56.488Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325177.81592266681499536","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:57.434Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325188.81385350014833371","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:58.63Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.54714650014832629","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:59.671Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.54714650014832629","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:53:59.912Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.54714650014832629","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:01.232Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.54714650014832629","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:02.039Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.69735583348167885","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:03.26Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:04.694Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.69735583348167885","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:05.648Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:06.679Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325226.36027783348168417","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:07.551Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325160.57730550014832083","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:08.556Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325205.02940733348167444","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:09.473Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325229.53177416681501895","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:10.119Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325270.65892016681503771","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:11.537Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325307.07997483348172099","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:12.291Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.00487016681504471","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:13.703Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325285.95371700014837802","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:15.116Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.00487016681504471","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:16.002Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325285.95371700014837802","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:16.669Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325304.01078483348171959","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:18.304Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325285.95371700014837802","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:18.576Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325264.98091866681503512","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:20.214Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325259.30291716681503253","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:21.356Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.38954866681500292","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:22.31Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.38954866681500292","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:23.84Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325159.1961700001483202","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:24.539Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.5693216668149843","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:25.819Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325105.53649816681496239","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:26.7Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325100.3700283334816267","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:29.128Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325124.15625083348163755","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:29.23Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.51816850014831761","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:31.092Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.51816850014831761","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:32.999Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325153.51816850014831761","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:32.999Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325129.06695483348163979","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:34.964Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325120.98475450014830277","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:35.707Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325120.98475450014830277","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:37.56Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325120.98475450014830277","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:39.531Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325128.09504466681497268","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:40.102Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325127.9927383334816393","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:41.368Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325130.95962200014830732","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:41.958Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325136.58647033348164322","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:44.723Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325198.32834250014833805","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:45.407Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325228.40640450014835177","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:46.596Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325229.12254883348168543","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:47.664Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325235.67015416681502175","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:48.339Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325224.72337650014835009","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:49.72Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325144.20829216681498003","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:50.503Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325133.1080550001483083","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:50.854Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325152.29049250014831705","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:53.185Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325164.61840566681498934","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:54.096Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325170.449866666814992","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:54.837Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.4959933334816596","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:56.809Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325191.98534983348166849","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:57.469Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325191.83189033348166842","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:59.127Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325211.27009366681501062","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:54:59.736Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325124.46316983348163769","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:00.061Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325093.720116666814957","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:00.098Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325051.46760100014827106","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:00.331Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325031.05748750014826175","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:00.944Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325056.78753033348160682","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:02.994Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325003.6905433334815826","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:04.2Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325052.64412383348160493","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:06.118Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325010.69852716681491913","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:07.602Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325054.28102516681493901","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:09.069Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.69794150014829899","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:10.08Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325184.82390650014833189","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:11.168Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325221.85879916681501545","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:12.107Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325221.80764600014834876","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:14.046Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325207.17784033348167542","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:15.314Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:16.229Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325164.8230183334816561","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:16.7Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325179.19705816681499599","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:17.511Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.33839550014833623","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:19.388Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325226.87180950014835107","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:20.337Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325207.7916783334816757","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:20.978Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325232.19173883348168683","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:22.739Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325301.60658600014838516","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:23.136Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325251.06725733348169544","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:24.06Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325220.27305100014834806","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:25.747Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325228.96908933348168536","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:26.517Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325228.91793616681501867","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:27.246Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325220.42651050014834813","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:28.508Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325228.50871083348168515","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:30.778Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325244.82657100014835926","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:30.778Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325222.6260966668150158","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:33.562Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325241.19469616681502427","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:34.449Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325241.19469616681502427","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:34.956Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325262.11634133348170048","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:36.551Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325257.30794366681503162","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:37.246Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.38511750014836955","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:38.895Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.38511750014836955","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:39.852Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.38511750014836955","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:40.891Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.33396433348170286","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:42.581Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.90374483348169719","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:43.176Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.8525916668150305","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:44.547Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.8525916668150305","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:45.132Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.8525916668150305","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:47.223Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.8525916668150305","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:47.659Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325254.8525916668150305","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:48.719Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.33396433348170286","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:49.872Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325232.60096416681502035","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:50.94Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325258.63792600014836556","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:51.881Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325248.30498633348169418","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:53.121Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325248.30498633348169418","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:53.658Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325248.30498633348169418","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:55.362Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325248.30498633348169418","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:56.726Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325267.94780233348170314","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:56.884Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.79730016681504051","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:58.522Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.79730016681504051","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:55:59.678Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.79730016681504051","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:00.87Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.66986133348171168","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:02.018Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325293.11516033348171462","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:03.043Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325326.00664650014839629","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:04.113Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325316.2363916668150585","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:04.617Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325316.2363916668150585","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:05.603Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325316.2363916668150585","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:07.081Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325340.63645216681506963","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:07.76Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325286.72101450014837837","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:08.945Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.13230900014837354","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:09.878Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325295.21244016681504891","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:10.28Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325306.56844316681505409","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:11.23Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325314.7017966668150578","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:12.52Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325314.75294983348172449","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:14.373Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325314.75294983348172449","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:15.683Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325318.99866266681505976","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:16.752Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325332.86117083348173275","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:17.964Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325346.4167600001484056","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:18.768Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325341.25029016681506991","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:19.746Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325344.11486750014840455","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:20.169Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325344.06371433348173786","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:21.245Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325341.25029016681506991","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:22.931Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325341.25029016681506991","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:23.474Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325341.25029016681506991","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:24.684Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325341.25029016681506991","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:25.268Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325302.98772150014838579","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:26.078Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.03000266681504016","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:27.851Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.59268750014837375","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:28.558Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.69499383348170713","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:29.74Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325276.64384066681504044","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:30.011Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325275.97884950014837347","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:32.101Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.80439583348170125","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:32.772Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.80439583348170125","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:35.756Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.80439583348170125","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:36.211Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.75324266681503456","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:37.365Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325239.35318216681502343","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:38.537Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325247.07731033348169362","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:39.588Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325255.21066383348169733","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:40.135Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325247.02615716681502693","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:41.911Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325232.54981100014835366","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:42.534Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325222.57494350014834911","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:44.214Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325222.57494350014834911","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:44.218Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.79966216681501223","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:45.293Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.79966216681501223","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:46.528Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.79966216681501223","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:47.673Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325247.07731033348169362","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:49.208Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325263.70208950014836787","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:49.24Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325239.35318216681502343","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:50.94Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325239.35318216681502343","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:51.35Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325239.30202900014835674","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:52.958Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:53.357Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.79966216681501223","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:57.477Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325204.87594783348167437","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:58.224Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325194.33839550014833623","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:56:58.935Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325245.74732800014835968","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:00.368Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325196.94720700014833742","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:01.047Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325196.94720700014833742","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:02.13Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325177.81592266681499536","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:03.448Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325207.74052516681500901","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:04.485Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:05.473Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:05.682Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:07.254Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:08.468Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:09.424Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:10.466Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.71450450014833777","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:11.195Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325197.66335133348167108","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:12.499Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:12.792Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.69735583348167885","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:14.419Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325214.74850900014834554","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:15.245Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325133.72189300014830858","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:16.345Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325133.72189300014830858","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:17.441Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325133.72189300014830858","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:17.911Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325133.67073983348164189","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:20.341Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:20.68Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.69794150014829899","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:22.365Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:22.954Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:23.842Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325112.74909466681496568","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:24.896Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.74495633348164238","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:25.604Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325155.41083566681498514","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:28.262Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325173.92828200014832692","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:28.502Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325175.61633650014832769","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:30.284Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.18907433348165946","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:32.466Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.18907433348165946","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:33.748Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.18907433348165946","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:34.357Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.18907433348165946","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:35.662Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325172.18907433348165946","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:36.613Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325175.61633650014832769","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:36.946Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325170.70563250014832545","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:38.664Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325162.41881950014832167","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:39.642Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.33573100014830886","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:40.58Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.28457783348164217","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:43.178Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.28457783348164217","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:43.886Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.28457783348164217","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:44.939Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.28457783348164217","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:45.889Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325134.28457783348164217","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:47.783Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325140.93448950014831187","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:49.354Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325140.83218316681497849","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:50.006Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325140.16719200014831152","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:50.714Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325143.18522883348164623","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:52.241Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325101.18847900014829374","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:53.085Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325081.59681616681495147","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:53.611Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325071.92886766681494706","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:55.239Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325056.73637716681494013","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:56.333Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325056.73637716681494013","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:56.602Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325056.73637716681494013","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:58.092Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325056.68522400014827344","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:57:59.162Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325031.10864066681492844","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:00.298Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325032.95015466681492928","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:01.308Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325033.00130783348159597","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:02.116Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"325032.95015466681492928","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:03.188Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324997.80792916681491325","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:03.567Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324960.10804533348156272","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:03.928Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324908.59680650014820589","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:04.296Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324849.82181800014817908","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:04.648Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324839.23311250014817425","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:05.859Z","percentChanges":null}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"resourcePriceUpdates":{"cbrn":"v1:fungibility:coinbase:uuid:5b71fc48-3dd3-540c-809b-f8c94d0e68b5:","price":"324863.32625400014818524","quoteCurrency":"BRL","updatedAt":"2026-07-29T19:58:06.505Z","percentChanges":null}}}}
+--graphql--

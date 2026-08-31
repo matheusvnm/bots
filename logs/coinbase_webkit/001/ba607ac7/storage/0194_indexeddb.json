@@ -1,0 +1,25 @@
+[
+  {
+    "name": "sw",
+    "version": 1,
+    "stores": [
+      "chaos-monkey"
+    ]
+  },
+  {
+    "name": "replayStorage",
+    "version": 10,
+    "stores": [
+      "chunkUploads",
+      "events",
+      "pendingCaptures"
+    ]
+  },
+  {
+    "name": "keyval-store",
+    "version": 1,
+    "stores": [
+      "keyval"
+    ]
+  }
+]

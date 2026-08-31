@@ -1,0 +1,9 @@
+[
+  {
+    "name": "keyval-store",
+    "version": 1,
+    "stores": [
+      "keyval"
+    ]
+  }
+]

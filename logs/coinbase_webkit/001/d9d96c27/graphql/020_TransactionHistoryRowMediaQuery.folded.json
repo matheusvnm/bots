@@ -1,0 +1,64 @@
+{
+  "data": {
+    "viewer": {
+      "accountByUuidV3": {
+        "account": {
+          "assetOrFiatCurrency": {
+            "__typename": "ViewerAsset",
+            "asset": {
+              "assetNetworks": [
+                {
+                  "chainId": null,
+                  "contractAddress": null,
+                  "displayName": "Cosmos",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png"
+                },
+                {
+                  "chainId": 1,
+                  "contractAddress": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+                  "displayName": "Ethereum",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+                },
+                {
+                  "chainId": 137,
+                  "contractAddress": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+                  "displayName": "Polygon",
+                  "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/d0f91824568fe7ed63f2fe8a21e68ae8aaa4133840fdba541471d470d9aaa16d.png"
+                },
+                {
+                  "chainId": null,
+                  "contractAddress": "IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+                  "displayName": "Osmosis",
+                  "iconUrl": "https://dynamic-assets.coinbase.com/5809bc9e538e9b9b2b2c2f75b38246d167de2c1548fae4a7fb5dbfdd55d3ec8f00bb7ea5b2943d0bf68573687bbf41f8b35aeda17775a76e9d320692ec150bd0/asset_icons/90884408f5b819053da3ae04fa04fe29f7b1c95b17d29b748b3b7681bbe4c759.png"
+                },
+                {
+                  "chainId": 56,
+                  "contractAddress": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+                  "displayName": "BNB Smart Chain",
+                  "iconUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/c347b6d1a7624e24c4e90089a69dfc8fb75523daf8eeb88007372a0c3a30d428.png"
+                }
+              ],
+              "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6",
+              "imageUrl": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png",
+              "displaySymbol": "ATOM",
+              "name": "Cosmos",
+              "color": "#2E3148"
+            },
+            "supportedContextsV2": {
+              "isTradable": true,
+              "isDexBuyableWithError": {
+                "isSupported": false,
+                "error": null
+              },
+              "isDexSellable": false
+            },
+            "__isNode": "ViewerAsset",
+            "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+          },
+          "id": "QWNjb3VudDpkZTUyMmM4My1hZDNiLTVjOGUtOGNhOS1hZDQ2NmJiM2ViMjM="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

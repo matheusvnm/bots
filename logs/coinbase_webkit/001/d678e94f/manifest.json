@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "engine": "webkit",
+    "device": "iPhone 14 Pro",
+    "viewport": {
+      "width": 393,
+      "height": 660
+    },
+    "headless": false,
+    "start_url": "https://www.coinbase.com/home"
+  },
+  "started_at": "2026-07-29T22:14:29.842389+00:00",
+  "ended_at": "2026-07-29T22:15:43.398339+00:00",
+  "index": [
+    {
+      "seq": 212,
+      "ts": "2026-07-29T22:14:32.312366+00:00",
+      "kind": "nav",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 588,
+      "ts": "2026-07-29T22:14:32.877729+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 1677,
+      "ts": "2026-07-29T22:14:35.090013+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 1701,
+      "ts": "2026-07-29T22:14:37.228521+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/home",
+      "label": "www_coinbase_com_home"
+    },
+    {
+      "seq": 1816,
+      "ts": "2026-07-29T22:14:39.372313+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2595,
+      "ts": "2026-07-29T22:14:41.442668+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2695,
+      "ts": "2026-07-29T22:14:43.530189+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2731,
+      "ts": "2026-07-29T22:14:45.625571+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2755,
+      "ts": "2026-07-29T22:14:47.760524+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2760,
+      "ts": "2026-07-29T22:14:49.845646+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2804,
+      "ts": "2026-07-29T22:14:51.923932+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2808,
+      "ts": "2026-07-29T22:14:54.001110+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2809,
+      "ts": "2026-07-29T22:14:56.125299+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2810,
+      "ts": "2026-07-29T22:14:58.272773+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2811,
+      "ts": "2026-07-29T22:15:00.409183+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2814,
+      "ts": "2026-07-29T22:15:02.512600+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2822,
+      "ts": "2026-07-29T22:15:04.594886+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2830,
+      "ts": "2026-07-29T22:15:06.689662+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2832,
+      "ts": "2026-07-29T22:15:08.775944+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2834,
+      "ts": "2026-07-29T22:15:10.875871+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2835,
+      "ts": "2026-07-29T22:15:12.985771+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2836,
+      "ts": "2026-07-29T22:15:15.069770+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2837,
+      "ts": "2026-07-29T22:15:17.163966+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2846,
+      "ts": "2026-07-29T22:15:19.271052+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2963,
+      "ts": "2026-07-29T22:15:21.348703+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 2989,
+      "ts": "2026-07-29T22:15:23.429443+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3007,
+      "ts": "2026-07-29T22:15:25.497092+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3010,
+      "ts": "2026-07-29T22:15:27.598751+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3012,
+      "ts": "2026-07-29T22:15:29.686534+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3016,
+      "ts": "2026-07-29T22:15:31.794010+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3021,
+      "ts": "2026-07-29T22:15:33.898637+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3022,
+      "ts": "2026-07-29T22:15:35.999433+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3023,
+      "ts": "2026-07-29T22:15:38.101804+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3024,
+      "ts": "2026-07-29T22:15:40.202570+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    },
+    {
+      "seq": 3026,
+      "ts": "2026-07-29T22:15:42.308312+00:00",
+      "kind": "tick",
+      "url": "https://www.coinbase.com/trade",
+      "label": "www_coinbase_com_trade"
+    }
+  ]
+}

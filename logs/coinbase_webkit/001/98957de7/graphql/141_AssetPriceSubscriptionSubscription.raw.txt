@@ -1,0 +1,58 @@
+
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"latestAssetPriceUpdated":{"latestPrice":{"price":"5.119297817257063","timestamp":"2026-07-29T20:09:00Z","percentChangesV2":{"hour":-0.00018986942933352235,"day":-0.00018986942933352235,"week":-0.00018986942933352235,"month":-0.00018986942933352235,"year":-0.00018986942933352235,"all":-0.02265067148459691},"id":"TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmZ1bmdpYmlsaXR5OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"latestAssetPriceUpdated":{"latestPrice":{"price":"5.119297817257063","timestamp":"2026-07-29T20:09:00Z","percentChangesV2":{"hour":-0.00018986942933352235,"day":-0.00018986942933352235,"week":-0.00018986942933352235,"month":-0.00018986942933352235,"year":-0.00018986942933352235,"all":-0.02265067148459691},"id":"TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmZ1bmdpYmlsaXR5OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"latestAssetPriceUpdated":{"latestPrice":{"price":"5.119297817257063","timestamp":"2026-07-29T20:09:00Z","percentChangesV2":{"hour":-0.00018986942933352235,"day":-0.00018986942933352235,"week":-0.00018986942933352235,"month":-0.00018986942933352235,"year":-0.00018986942933352235,"all":-0.02265067148459691},"id":"TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmZ1bmdpYmlsaXR5OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"latestAssetPriceUpdated":{"latestPrice":{"price":"5.119297817257063","timestamp":"2026-07-29T20:09:00Z","percentChangesV2":{"hour":-0.00018986942933352235,"day":-0.00018986942933352235,"week":-0.00018986942933352235,"month":-0.00018986942933352235,"year":-0.00018986942933352235,"all":-0.02265067148459691},"id":"TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmZ1bmdpYmlsaXR5OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="}}}}}
+--graphql
+content-type: application/json
+
+{"payload":{"data":{"latestAssetPriceUpdated":{"latestPrice":{"price":"5.119297817257063","timestamp":"2026-07-29T20:09:00Z","percentChangesV2":{"hour":-0.00018986942933352235,"day":-0.00018986942933352235,"week":-0.00018986942933352235,"month":-0.00018986942933352235,"year":-0.00018986942933352235,"all":-0.02265067148459691},"id":"TGF0ZXN0QXNzZXRQcmljZToyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6QlJMOnYxOmZ1bmdpYmlsaXR5OmNvaW5iYXNlOnV1aWQ6MmI5MjMxNWQtZWFiNy01YmVmLTg0ZmEtMDg5YTEzMTMzM2Y1Og=="}}}}}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql
+content-type: application/json
+
+{}
+--graphql--

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "viewer": {
+      "accountByUuidV3": {
+        "account": {
+          "buyByUuid": {
+            "uuid": "b713bb0d-0666-4d45-b014-69c1ecfdf3fd",
+            "resource": "",
+            "amount": {
+              "value": "5.688901",
+              "currency": "USDC"
+            },
+            "total": {
+              "value": "30",
+              "currency": "BRL"
+            },
+            "fee": {
+              "value": "0.73",
+              "currency": "BRL"
+            },
+            "recurringPayment": null,
+            "commitNotice": null,
+            "cardStatus": null,
+            "wblUxData": null,
+            "nextStep": null,
+            "spreadPercentage": "0.50",
+            "id": "VHJhbnNmZXJCdXk6YjcxM2JiMGQtMDY2Ni00ZDQ1LWIwMTQtNjljMWVjZmRmM2ZkOmQ2OGJjMWY2LWZkMTUtNTY5ZC05OTdmLWMwZDFkOWQ4YWE5Nw=="
+          },
+          "assetOrFiatCurrency": {
+            "__typename": "ViewerAsset",
+            "asset": {
+              "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+              "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+            },
+            "__isNode": "ViewerAsset",
+            "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+          },
+          "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+        }
+      },
+      "id": "Vmlld2VyOjA="
+    }
+  }
+}

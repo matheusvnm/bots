@@ -1,0 +1,1886 @@
+{
+  "data": {
+    "viewer": {
+      "eth2ViewerAsset": {
+        "rewardApy": null,
+        "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDozYmVjNWJmMy01MDdhLTUxYmEtOGU0MS1kYzk1M2IxYTVjNGQ6"
+      },
+      "id": "Vmlld2VyOjA=",
+      "__typename": "Viewer",
+      "assetBySymbolSR": {
+        "supportedNetworks": {
+          "supportedNetworks": [
+            {
+              "networkSlug": "bitcoin",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "lightning",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "base",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "solana",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "arbitrum",
+              "isEnabled": true
+            },
+            {
+              "networkSlug": "ethereum",
+              "isEnabled": true
+            }
+          ]
+        },
+        "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+      },
+      "userProperties": {
+        "secondFactor": {
+          "twoFactorMethod": "totp"
+        },
+        "id": "VXNlclByb3BlcnRpZXM6MA==",
+        "personalDetails": {
+          "katakanaName": ""
+        }
+      },
+      "cryptoSendLimits": null,
+      "sends": {},
+      "productEligibilityStatus": {
+        "productEligibility": {
+          "eligibilityResult": {
+            "eligibility": "ELIGIBLE"
+          }
+        }
+      },
+      "sendReceiveContacts": {
+        "allContacts": {
+          "edges": [
+            {
+              "node": {
+                "uuid": "6a3ec8514f49ecf7eb27ec1a",
+                "blockchainAddresses": [
+                  {
+                    "uuid": "6a3ec8514f49ecf7eb27ec19",
+                    "address": "9LFUw6mhsYEuuVDhJVkPbBZX1zn74KVACEqwMZhZUGd2",
+                    "destinationTag": "",
+                    "label": "Sandro Matheus Vila Nova Marques 9LFUw6...hZUGd2"
+                  }
+                ],
+                "id": "6a3ec8514f49ecf7eb27ec1a",
+                "__typename": "SendReceiveContact"
+              },
+              "cursor": ""
+            }
+          ],
+          "pageInfo": {
+            "endCursor": "",
+            "hasNextPage": false
+          }
+        }
+      },
+      "userAttestations": {
+        "edges": []
+      },
+      "connectedWeb3Wallets": null,
+      "accountHistory": {
+        "recentSends": {
+          "edges": [
+            {
+              "cursor": "332ccaba-e2ef-50f2-b7fc-97cffa7c8888",
+              "node": {
+                "amount": {
+                  "currency": "USDC"
+                },
+                "uuid": "332ccaba-e2ef-50f2-b7fc-97cffa7c8888",
+                "createdAt": "2026-07-29T19:44:59.307Z",
+                "category": "CRYPTO_SEND",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "cryptoRecipient": {
+                    "address": "0x4BA231cDF3c1b585306FBA31ecF0ADB8E5D099b9",
+                    "destinationTag": ""
+                  }
+                },
+                "viewerAsset": {
+                  "accounts": [
+                    {
+                      "primary": true,
+                      "uuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                      "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+                    }
+                  ],
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozMzJjY2FiYS1lMmVmLTUwZjItYjdmYy05N2NmZmE3Yzg4ODg=",
+                "__typename": "AccountHistoryEntry"
+              }
+            },
+            {
+              "cursor": "3292799d-1241-5857-a15a-2f7c47d011e4",
+              "node": {
+                "amount": {
+                  "currency": "USDC"
+                },
+                "uuid": "3292799d-1241-5857-a15a-2f7c47d011e4",
+                "createdAt": "2026-07-29T19:33:15.555Z",
+                "category": "CRYPTO_SEND",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "cryptoRecipient": {
+                    "address": "3yjtb8BtYCh21vgtud5SzVHVZTW5PR8PkJptPUAKoasB",
+                    "destinationTag": ""
+                  }
+                },
+                "viewerAsset": {
+                  "accounts": [
+                    {
+                      "primary": true,
+                      "uuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+                      "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc="
+                    }
+                  ],
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+                },
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTozMjkyNzk5ZC0xMjQxLTU4NTctYTE1YS0yZjdjNDdkMDExZTQ=",
+                "__typename": "AccountHistoryEntry"
+              }
+            },
+            {
+              "cursor": "0ab81ff6-6e66-5c8c-b0c7-c43432016bc6",
+              "node": {
+                "amount": {
+                  "currency": "BTC"
+                },
+                "uuid": "0ab81ff6-6e66-5c8c-b0c7-c43432016bc6",
+                "createdAt": "2026-06-29T14:54:25.86Z",
+                "category": "CRYPTO_SEND",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "cryptoRecipient": {
+                    "address": "9LFUw6mhsYEuuVDhJVkPbBZX1zn74KVACEqwMZhZUGd2",
+                    "destinationTag": ""
+                  }
+                },
+                "viewerAsset": {
+                  "accounts": [
+                    {
+                      "primary": true,
+                      "uuid": "919c6de5-aaa8-5ede-8b4a-232aef4107b4",
+                      "id": "QWNjb3VudDo5MTljNmRlNS1hYWE4LTVlZGUtOGI0YS0yMzJhZWY0MTA3YjQ="
+                    }
+                  ],
+                  "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+                },
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTowYWI4MWZmNi02ZTY2LTVjOGMtYjBjNy1jNDM0MzIwMTZiYzY=",
+                "__typename": "AccountHistoryEntry"
+              }
+            },
+            {
+              "cursor": "bfc882b1-9149-5731-8db1-22d38531bf13",
+              "node": {
+                "amount": {
+                  "currency": "ATOM"
+                },
+                "uuid": "bfc882b1-9149-5731-8db1-22d38531bf13",
+                "createdAt": "2026-06-26T21:11:18.528Z",
+                "category": "CRYPTO_SEND",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "cryptoRecipient": {
+                    "address": "cosmos137f59yvn9vra9xf7gfg3wp5y2prq9fsvl9zjsg",
+                    "destinationTag": ""
+                  }
+                },
+                "viewerAsset": {
+                  "accounts": [
+                    {
+                      "primary": true,
+                      "uuid": "de522c83-ad3b-5c8e-8ca9-ad466bb3eb23",
+                      "id": "QWNjb3VudDpkZTUyMmM4My1hZDNiLTVjOGUtOGNhOS1hZDQ2NmJiM2ViMjM="
+                    }
+                  ],
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                },
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeTpiZmM4ODJiMS05MTQ5LTU3MzEtOGRiMS0yMmQzODUzMWJmMTM=",
+                "__typename": "AccountHistoryEntry"
+              }
+            },
+            {
+              "cursor": "19b52ed8-d939-553a-bb6f-5778770a922d",
+              "node": {
+                "amount": {
+                  "currency": "ATOM"
+                },
+                "uuid": "19b52ed8-d939-553a-bb6f-5778770a922d",
+                "createdAt": "2026-06-25T14:33:16.252Z",
+                "category": "CRYPTO_SEND",
+                "details": {
+                  "__typename": "CryptoSendDetails",
+                  "cryptoRecipient": {
+                    "address": "cosmos1kly4vtdgpnumahfhk0sfpnezamrtm3wa2uk846",
+                    "destinationTag": ""
+                  }
+                },
+                "viewerAsset": {
+                  "accounts": [
+                    {
+                      "primary": true,
+                      "uuid": "de522c83-ad3b-5c8e-8ca9-ad466bb3eb23",
+                      "id": "QWNjb3VudDpkZTUyMmM4My1hZDNiLTVjOGUtOGNhOS1hZDQ2NmJiM2ViMjM="
+                    }
+                  ],
+                  "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+                },
+                "id": "QWNjb3VudEhpc3RvcnlFbnRyeToxOWI1MmVkOC1kOTM5LTU1M2EtYmI2Zi01Nzc4NzcwYTkyMmQ=",
+                "__typename": "AccountHistoryEntry"
+              }
+            }
+          ],
+          "pageInfo": {
+            "endCursor": "eyJ1YyI6IiIsInVvIjoyMH0=",
+            "hasNextPage": true
+          }
+        },
+        "allEntries": {
+          "edges": []
+        }
+      },
+      "btcAsset": {
+        "accounts": [
+          {
+            "uuid": "919c6de5-aaa8-5ede-8b4a-232aef4107b4",
+            "primary": true,
+            "id": "QWNjb3VudDo5MTljNmRlNS1hYWE4LTVlZGUtOGI0YS0yMzJhZWY0MTA3YjQ="
+          }
+        ],
+        "asset": {
+          "platformName": "BTC",
+          "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+        },
+        "supportedNetworks": {
+          "supportedNetworks": [
+            {
+              "networkSlug": "bitcoin",
+              "isEnabled": true,
+              "isDefault": true,
+              "networkName": "Bitcoin",
+              "assetImageUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/bitcoin-mainnet",
+              "estimatedFinalizationTime": 1634
+            },
+            {
+              "networkSlug": "lightning",
+              "isEnabled": true,
+              "isDefault": false,
+              "networkName": "Lightning",
+              "assetImageUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/lightning.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/lightning-mainnet",
+              "estimatedFinalizationTime": 16
+            },
+            {
+              "networkSlug": "base",
+              "isEnabled": true,
+              "isDefault": false,
+              "networkName": "Base",
+              "assetImageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/4efa653d3e19bcdc5b882aa8b8d82b1a29d109d11d51ce14826f0bed41b87df2.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/base-mainnet",
+              "estimatedFinalizationTime": 12
+            },
+            {
+              "networkSlug": "solana",
+              "isEnabled": true,
+              "isDefault": false,
+              "networkName": "Solana",
+              "assetImageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/solana-mainnet",
+              "estimatedFinalizationTime": 16
+            },
+            {
+              "networkSlug": "arbitrum",
+              "isEnabled": true,
+              "isDefault": false,
+              "networkName": "Arbitrum",
+              "assetImageUrl": "https://static-assets.coinbase.com/p2p/l2/networks/v1/arbitrum.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/arbitrum-mainnet",
+              "estimatedFinalizationTime": 248
+            },
+            {
+              "networkSlug": "ethereum",
+              "isEnabled": true,
+              "isDefault": false,
+              "networkName": "Ethereum",
+              "assetImageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+              "isFreeGasEnabled": false,
+              "arn": "networks/ethereum-mainnet",
+              "estimatedFinalizationTime": 312
+            }
+          ]
+        },
+        "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+      },
+      "p2pAllowedRecipients": {
+        "allowlistState": {
+          "status": "DISABLED",
+          "id": "6a4275b5fa18bb307534b2a5"
+        }
+      },
+      "balanceData": {
+        "availableToSendBalanceV2": {
+          "value": "10.3916887983066724189085"
+        },
+        "pendingWblHolds": []
+      },
+      "vasps": [
+        {
+          "uuid": "2d59da78-a298-48eb-a176-8de569f93b14",
+          "name": "1 Money",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d4c49b8b-1dbd-4fc0-a0d2-ccaca874988c",
+          "name": "21 Bitcoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4eaff7d3-d08f-4c50-8f6c-b13553d762e0",
+          "name": "AUDC",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "536fbe59-38da-4b99-be4b-5ecf865e78d8",
+          "name": "Amber Group",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a94d3e82-170a-40e7-b08e-429f8b0dc8bf",
+          "name": "Amina Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a541304b-9f37-4a25-89e7-2ce26bd423c7",
+          "name": "Anchorage",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "65a1cf51-4947-429d-a908-376bc2c7977c",
+          "name": "Apex network",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "63c4adf6-1dab-472f-bfbf-b3a2721e6f10",
+          "name": "Aplo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ba88b153-a8f6-4d77-9b70-7c169a1de3d9",
+          "name": "Aquanow",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "479cfeed-6227-4851-9bb2-105bcfa62cff",
+          "name": "Arbitronix",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6d94dc67-3d8e-415f-ba9f-8e646157a596",
+          "name": "Archax",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a4ae72a5-aedc-4641-8d60-d4e17ee4b86c",
+          "name": "Archway",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ff5207d1-0541-475b-addf-dd1ab7fb3578",
+          "name": "Ari10",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "771d6093-05a7-4a88-8a03-34d933c9c17d",
+          "name": "Arq Finance",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fa51ad48-32f9-417e-900c-77d3fb0034d3",
+          "name": "Artha Fintech",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "abd33f48-db72-4edd-85fc-2ca5f4de9e32",
+          "name": "B2C2",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "594db4da-940e-463b-bb59-77db4034ceec",
+          "name": "BCB Group",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2398ac44-4134-47a4-80fd-dfd5844d1141",
+          "name": "BDACS",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8d384575-dfa3-456b-b362-efd89ea0cf53",
+          "name": "BTC Direct",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7cc133b5-d8c6-42ae-8cc5-2fe083a1ca63",
+          "name": "BTC Markets",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "27b97499-6097-47c0-a552-261cb453cf2a",
+          "name": "BTCC",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "dc0fe76e-a005-41ef-906c-bb3df245202b",
+          "name": "BTCX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "19de2a08-96ff-4330-a4ba-68da2ebc6175",
+          "name": "BTG Pactual",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "45f6d169-64e0-4469-809d-f237eba9ca3b",
+          "name": "BVNK",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "036581f2-d0a9-4f72-a928-01e79d028f5a",
+          "name": "Baanx",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "dad951ea-3e53-43c1-9290-5b473b785256",
+          "name": "Backpack",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f26df7de-6fcd-411a-a3c4-4399f806c631",
+          "name": "Bake",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8187aeec-e4a0-495d-ab31-476ad1044e8c",
+          "name": "Balance Custody",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "61fd60d1-d863-456d-b5e5-c0b3aa22efd3",
+          "name": "Balcão BTC",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6ca0ac2a-258f-4e9f-9948-38abac15c5eb",
+          "name": "BankFrick",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ade51da9-75fa-483b-92e6-15100d35bae3",
+          "name": "Bare Bitcoin AS",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "95d5a270-1fab-42b1-959b-4178d85eb4a6",
+          "name": "Bequant",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f154f695-af70-4c96-814b-c6cc308b9b0f",
+          "name": "Binance",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d14066aa-1583-476f-acde-2365644b5dcc",
+          "name": "Binance.US",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b2002acf-9523-4d21-90c8-dfeda32660b0",
+          "name": "BingX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b9f458c8-47de-459f-97ca-9aefdfde2560",
+          "name": "Bipa",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "67f333fa-c1f9-439a-b41c-9da53802c38d",
+          "name": "Bit.plus",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b6c8c4d6-81a2-4f39-a8a6-e543eb10614b",
+          "name": "Bit2C",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fde72937-ad48-46e5-9ba9-ac7b21e7dce2",
+          "name": "Bit2Me",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a7019d2f-9453-4034-8ba1-d5f5c4b83bdd",
+          "name": "BitBank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "442f46fd-b16c-4e45-8570-4f4ad828d203",
+          "name": "BitGet",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3054d8d4-0fa0-4351-b9b9-fbb3d83fc3bd",
+          "name": "BitGo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3b92ed5e-c1bb-4847-b2dd-859a60c2858f",
+          "name": "BitGo EU",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b092beda-82af-4ceb-9de0-9e6c9ee459a9",
+          "name": "BitGo India",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "73ac092b-48de-4c71-b89b-dfe4b16b676f",
+          "name": "BitGo MENA",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "657a56c5-f7fe-4f1a-84cc-f1f3757fae28",
+          "name": "BitGo Singapore",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "00ba7c64-d0f8-4577-90db-5c2d89517b91",
+          "name": "BitGo US",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "206dd129-11fc-4eef-9730-0e46a3603dd6",
+          "name": "BitPay",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7b3e3b6a-96f6-457c-a0f5-3095aa06009b",
+          "name": "Bitaroo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "aeb69ef9-fb2b-4cb9-8eaa-0015fd3b61d0",
+          "name": "Bitazza",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d1f51694-c5af-4e11-8f4a-b1fbba802398",
+          "name": "Bitbns",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b9653bfb-2b71-4e4b-bff7-990936eabc79",
+          "name": "Bitcoin Suisse",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2f2e0ad4-e565-4e2b-9329-913a10b84723",
+          "name": "Bitcoin.de",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f39e07a7-d532-4a59-a68b-b9892ebb1fc9",
+          "name": "Bitcoin4U",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4b749fac-265b-4588-b7a4-fdc3720220a3",
+          "name": "BitcoinPoint",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "43a93fc0-c2ea-49b5-b253-9908980a78e0",
+          "name": "Bitfinex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "1ffa9385-e783-4faf-b690-007cb361c195",
+          "name": "Bitkub Online",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bd754684-3741-467b-9645-2c54a37ec8c2",
+          "name": "Bitlocus",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "982a332d-7a0c-462a-bbfa-62e3dc00c0d4",
+          "name": "Bitmart",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5c551af9-8954-4ac8-92fc-66d6fb9b3b13",
+          "name": "Bitmex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c48851d6-5d33-44c4-b0b6-18e27d62b106",
+          "name": "Bitpanda",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5f7d6e9f-67f1-4aa9-8288-a063192958bb",
+          "name": "Bitrue",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "30c63ae8-068c-4e9a-bd6c-f2d46c4f04d1",
+          "name": "Bits of Gold",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "cb543021-b359-4e69-8136-82809939fe11",
+          "name": "Bitso",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "094e85a9-b841-4e2f-add1-0830c7597d78",
+          "name": "Bitstamp",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8e57f024-6f2e-4007-94b4-057f5bd22b2b",
+          "name": "Bitvavo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "69baffca-6b30-4cc2-bd1c-54c6752b099e",
+          "name": "BityBank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9cecd604-636e-4917-89de-d65729c6ea9d",
+          "name": "BityPreco",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5c339ec1-0d4a-42ec-8487-247aac687b50",
+          "name": "Blacksheep",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "1e37c090-8602-4de6-ae3a-bfc1d8c0a9fb",
+          "name": "Bleap Finance",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3c2ac6e0-198d-407a-bb94-a9fc9457a28d",
+          "name": "BloFin ",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c3202dab-88c1-49c9-9fde-58de024aa63c",
+          "name": "Block, Inc",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a3600595-f5a1-4d57-b66c-1d8b3ec246ea",
+          "name": "BlockBee",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f49aaf65-bb02-44ff-a9d7-cd1ccd9071a8",
+          "name": "Blockchain.com",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0a0b8fb7-4be3-40d8-9d29-c5fe165d6725",
+          "name": "Bmex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "32a13434-4c33-43fa-a56f-476261408018",
+          "name": "Boerse Stuttgart Digital Custody",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a7cacfd9-cca7-4a01-8100-e120f6b6ccc6",
+          "name": "Boku",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "af71fc8f-098b-4677-9f10-73ab5472441f",
+          "name": "BoomFi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b0e959f1-de80-4d4d-bddf-b24e340e56c3",
+          "name": "Brale",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "670d8c8e-cad3-423d-be72-07c3be8d3962",
+          "name": "Brasil Bitcoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ac341116-9529-4c53-82e6-91d7b4f33dac",
+          "name": "Bridge Ventures",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7f1be389-ffaf-4018-8559-05f8e5c53551",
+          "name": "Bright Point International",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "dcf81d57-36a1-473b-ad6e-5c5b5d07e122",
+          "name": "Brighty",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a5a7d73c-89a7-4c45-bfca-f72caf2f4c26",
+          "name": "BtcTurk",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "11c47f42-e01f-498b-9a1d-c4a4fa6434e0",
+          "name": "Bullish",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "45b4eb05-cc34-49e5-90dd-1675a27a3670",
+          "name": "Bybit",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "54857d3d-a4c8-41b1-92ef-19a2665f2340",
+          "name": "CEX.io",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8187981b-52fe-49c4-900b-7ea8f614d655",
+          "name": "Cape Crypto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "014d69ee-e645-4da5-a8a8-160cd3d89e0d",
+          "name": "Carret",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c4928a1d-1ed3-4398-9b54-6d017f02f64d",
+          "name": "Casa",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4dc10ff8-43fe-4741-83e7-63623b7d447d",
+          "name": "Ceffu",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8c26460f-f50e-4c66-beba-a8341cb0d82d",
+          "name": "ChangeHero ",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f6d64a8c-a9c4-4446-8b65-d8cc8681313e",
+          "name": "ChangeNOW",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f3b9a5d4-7c2e-4a6a-b9b6-9d8f3e2c1f97",
+          "name": "CheckSig",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "40c90b1f-aa00-45d3-a70c-ce621f7a24bb",
+          "name": "Chipper Cash",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f0ddd116-db0f-4576-9395-39b75500ddd5",
+          "name": "Circle",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d16cff88-3fb4-444a-a11e-b83d6a9f7d6b",
+          "name": "CloudTech",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3b3f1322-ea08-49a1-bc27-99ee35e78f83",
+          "name": "Cobo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "1641446f-b73f-4970-891c-56638bf0ac71",
+          "name": "Cofinex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c3e35030-16e2-47a7-bba1-6c7aef730700",
+          "name": "CoinBank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9d1cf021-6618-4289-aac8-7135c62fdfe9",
+          "name": "CoinCafe",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "72822789-0870-423f-9fea-ecce366b02ec",
+          "name": "CoinDCX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "df1caf12-d797-4f20-bd6e-2fa3717c91bc",
+          "name": "CoinJar",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "081a92de-8c5a-46f0-9b06-2f5689a69580",
+          "name": "CoinList",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9921c441-a24a-4236-b114-14a121e05d01",
+          "name": "CoinSwitch",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9c7eeed3-f9d1-4aa6-a246-63907bf5604c",
+          "name": "CoinW",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7f877755-ccf8-46a3-88cd-dd60415842ea",
+          "name": "Coinbase",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8c2bc985-0f70-4534-b865-b3094b0c4af4",
+          "name": "Coinbox",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9e526696-9dd0-4f04-b745-5c2add4a8491",
+          "name": "Coincheck",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c06cc9b0-e0ab-4b05-a24a-dc1b9c727d90",
+          "name": "Coinex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a3b2a299-f087-4a24-9586-846b31b1084b",
+          "name": "Coinext",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9fdcc2a2-579e-411b-bba4-42ef43c17df6",
+          "name": "Coingate",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "103312cb-bf32-470c-9395-90803d88c203",
+          "name": "Coinhako",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d1c1f4ab-2394-44fc-967e-f93825b6e2df",
+          "name": "Coinify",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ded83940-307c-4fc8-8469-f25f35876d97",
+          "name": "Coinmate.io",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6013ecf0-7ab8-4263-9204-cb9345861173",
+          "name": "Coinmetro",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0d56cbba-aec2-457d-b197-35ff25b14a62",
+          "name": "Coinmotion",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a2da0e55-d6b6-483d-a376-81a020c29d85",
+          "name": "Coinone",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b817b18f-adb6-41a9-b7a1-0fc761fadac4",
+          "name": "Coinpass.com",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "997a8d6c-2fdc-4681-ae97-c3248f380e97",
+          "name": "Coinpayments",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4463681d-39a5-4f36-ae9b-ec759d14570f",
+          "name": "Coins.ph ",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b08cb556-6723-4f42-bd5d-8f1f02c6ebc6",
+          "name": "Coinspaid",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a7d61382-27dc-4a9f-9961-03fe31e64d27",
+          "name": "Coinspot",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "22bb95aa-2bf2-44ba-b4eb-e4486d659e05",
+          "name": "Coinsquare",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bcb5f436-b14e-4c61-99a9-47c7305e8ddd",
+          "name": "Coinstash",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e7b1ec22-eddf-432f-9c93-3b3135173577",
+          "name": "Conio",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "060eb7f7-e45e-4681-b627-347762f0b54f",
+          "name": "Copper",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "09a25371-40e2-4d1d-a577-9ca74453cfe7",
+          "name": "Criptan",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5ae629cb-0fd0-42b1-9550-68d378905cb6",
+          "name": "Cross River Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "994537db-724a-431d-b8a5-dd6e01fa4a63",
+          "name": "Crypto Finance",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "df9bbf17-6212-42d3-955e-aa5b24d5fb56",
+          "name": "Crypto.com",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fbdcc8a6-ec26-4dac-a2df-dba7fe28458a",
+          "name": "CryptoMarket",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "cf88fb80-40f1-42b1-a2b6-5361d45ec180",
+          "name": "Cryptowallet",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7e737568-fc4e-4baa-b092-ad984f62ad7e",
+          "name": "Cube Exchange",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bede7ca4-8a96-4f7f-876b-995b33212c83",
+          "name": "Custodia",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2cd3a1d4-4e5f-4003-896a-814d76903210",
+          "name": "Cybavo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "77b8865f-8b2b-4d85-b487-ecfff2fad85c",
+          "name": "DBS Digital Exchange",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b88a075d-c07d-4cb2-b763-3743e99a1248",
+          "name": "DFX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "72320886-f127-4383-9801-16667fda7bb9",
+          "name": "DLT Custody",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4ab48234-182e-431b-bb7a-fa5652aa2ff6",
+          "name": "Depasify",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "822492db-af00-4fb6-a5f2-ce85530d5a70",
+          "name": "Deribit",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7f44eae0-74f9-41eb-b304-cdec0c88953e",
+          "name": "ECD.rs",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "1a2038df-a1eb-4510-98b8-f68c85f0a95d",
+          "name": "Easy Crypto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3cdc5c2c-38bb-4ed2-b66c-58de19530353",
+          "name": "Electrocoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9f14f4f6-127a-4473-be2c-a047d1bd2587",
+          "name": "Enclave Markets",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6454f0f6-9022-4c40-8848-ec5b822faedc",
+          "name": "Enigma",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b80def8f-ce58-4226-95d1-b8b33ca97f57",
+          "name": "Erebor",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9869557c-d063-4602-a7ff-bf4608e5b96e",
+          "name": "Euroxen",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f6283d66-f4d6-4b8d-a1d3-bf8c9d682436",
+          "name": "FV Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b9b5072d-9a5b-4cd7-922c-475493c9aef4",
+          "name": "FalconX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "269415ff-e921-4f1c-a092-992864fa67da",
+          "name": "Fazz",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9f27dde8-01aa-4ba9-a2b8-e0ba035745d0",
+          "name": "Fidelity",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7b3e82ff-3d90-4b07-9570-eaf5e136a07b",
+          "name": "Finst",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "13d60362-75b9-448b-b1d4-b0b893f31a50",
+          "name": "Firi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f7978a0e-1f1a-4cb4-a5fb-a5269f88e892",
+          "name": "FixedFloat",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "1e1e736c-4930-49f5-9fac-5e541101f55c",
+          "name": "Flow Traders",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ccce67ce-534c-4526-9094-d6abbd928ea6",
+          "name": "Flowdesk SAS",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7e8f3e97-ce3b-4bfd-9ad6-24d34409d68f",
+          "name": "Foxbit",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d1dfe10a-2db8-4f9d-b989-4d38e9f9e638",
+          "name": "Futu",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "626e9ed2-9946-4341-b3a4-2b7c5701fe9d",
+          "name": "GMO Trust",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "486a7a4c-143e-4f2c-9d1f-2f580711f191",
+          "name": "GOin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "db7ff487-578b-4b13-ac30-51557bb961af",
+          "name": "Galaxy Digital",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c4c8666d-80cf-4543-9615-10175701bb91",
+          "name": "Garanti BBVA Kripto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "668c0c1c-6c2a-4046-84b1-9f6ff16f94e0",
+          "name": "Gate US Inc",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d8639730-e725-4bb5-a0b7-8817a862a8ad",
+          "name": "Gate.io",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ccd42629-2dd4-44d1-a21c-14f2982339c8",
+          "name": "GateHub",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c1f10465-58b4-4d33-a04d-222e77a3f5fd",
+          "name": "Gemini",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bc3eb31c-f7cc-4642-944e-d11947be3a10",
+          "name": "Giottus",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "132fa7f8-a626-4fda-873a-1040a7a41cc2",
+          "name": "HTX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2c34a7d3-4a33-445d-bd5d-0f02ea9ee2de",
+          "name": "Hex Trust",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "999787dc-b539-40e5-85c5-1ef55bee60de",
+          "name": "Hidden Road Partners",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "188d9e59-5fe9-4b94-b048-c7346960b1b5",
+          "name": "Huobi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ba566bed-c19a-494a-b4db-c67346caea0a",
+          "name": "IG.com (GB)",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "aafd5386-fa06-4c55-a363-aa7427d373ae",
+          "name": "IXFI",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8221ab04-e174-4b33-9dfc-af81b61e5ce7",
+          "name": "Iconomi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0daf6642-fc53-4604-8cec-90e5a95cabea",
+          "name": "Independent Reserve",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6d98ceeb-6dd4-4a25-aada-5fefaca3185e",
+          "name": "Itbit",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fe97311b-2c7d-45d6-a51a-b977287beb0b",
+          "name": "Januar",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7a4f3475-afaf-439b-bef8-15bfc6c9a2ab",
+          "name": "Juno",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e3f64660-90fc-4a3f-bf5d-5ba499188912",
+          "name": "Kcex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8877c1cc-60bb-4974-9edb-4716fc22c1ca",
+          "name": "Koinbx",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "11a785cb-be2d-412e-986b-3695fe57ef00",
+          "name": "Komainu",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b87b7a01-7972-4e8c-a783-3b7ffdf8c016",
+          "name": "Kraken",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5bfd12db-786f-490f-aa28-a9fc801d1e5e",
+          "name": "Kriptomat",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b7e50fed-2b2f-4f37-bf41-a47266805f55",
+          "name": "Kucoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e3260646-5790-42c5-b588-9f116691c106",
+          "name": "Kun",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0503ae7f-b25f-454a-9030-1f0ae5565d6d",
+          "name": "Kyrrex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8f8beb15-cf44-48cf-adbb-ed27e35629c7",
+          "name": "LBank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2bb0805b-599e-4aac-a5e9-c51e68473c9d",
+          "name": "LCX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e11e1759-31ab-44ca-80a1-8b14b3151fae",
+          "name": "LTP",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "332c13fa-fa79-41f3-aa7c-281923780705",
+          "name": "Laser Digital",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3a2d88b1-e05a-4989-9771-eb3a5809f568",
+          "name": "Ledn",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e2480fe5-dbf4-4c61-8054-c882b0c7688c",
+          "name": "Legend Trading",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e1b78cc1-1a99-46cf-a7e0-c072120976a6",
+          "name": "Lemon",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "95b63250-5230-4333-95ef-693d9f8c5e33",
+          "name": "LetKnowPay",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0955b336-f69e-4da1-a8db-2f631b56d2dd",
+          "name": "Living Room of Satoshi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4e8bca34-5453-4ae5-a8dd-dcdc8eadcbcb",
+          "name": "Lmax Digital",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e4716c88-1128-4030-b8cb-20d88ab63376",
+          "name": "Luno",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "737aac52-c995-4059-b63e-6580d52410ae",
+          "name": "Luso Digital Assets",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "666e5cc0-55cc-4b91-b3b0-0c6668a3f2f6",
+          "name": "M2",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "18212098-3107-4198-a032-a65e594943f7",
+          "name": "Match2pay",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "833c90d1-9493-4367-9df0-33ff1cb62348",
+          "name": "Mercado Bitcoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2a48de6c-2f02-474d-8731-2dd4124fbbbe",
+          "name": "Mercado Pago",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0ae07dc0-b805-4f51-bbdd-08886363d16c",
+          "name": "Mercuryo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5093cfbe-dfd8-427b-8851-2a10f1a0c684",
+          "name": "Mexc",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "98d5df3a-b244-4202-9f6f-4c8250a7e905",
+          "name": "Mobee",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bdfaa7b0-13a3-4a9e-8ab6-be562d10170d",
+          "name": "Moneybrain",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a03630e5-c1b3-495d-a853-bc9d1a219ac7",
+          "name": "Mudrex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "540bb169-7b63-4fef-92bd-ad2c8fb14882",
+          "name": "Mynt",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7944cb18-5a2a-4ad4-b150-5edf05cb991c",
+          "name": "NBX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a40f8663-6ccf-4cf4-b82c-0931c6d6e01d",
+          "name": "NDAX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8b0ea804-5a35-4586-971b-1832535faf7e",
+          "name": "NYDIG",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "97a09025-3308-4943-9ed9-0c9c552b753e",
+          "name": "NaoCoin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a6bd9d8e-3070-461b-90ce-87df6c65adfb",
+          "name": "Newton ",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d3a6ee3c-a499-4989-9d8a-91b300662e2a",
+          "name": "Nexdesk",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b4500c1c-3e57-4501-b6bb-16956a5a4964",
+          "name": "Nexo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "cae72a21-0bc6-4506-980a-79698be18056",
+          "name": "Nicehash",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ce2d8508-5956-43e5-a808-7bb0ae07c517",
+          "name": "Nilos",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "79cbada8-df36-4917-8888-af91549594ef",
+          "name": "Nordark",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d6629fe4-b9c3-44f7-8952-f25c7fca0d23",
+          "name": "Northcrypto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a649a686-0ae4-40c8-ba93-1813d9d70e04",
+          "name": "NovaDax",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2b85d4c4-a2b9-49a0-8678-1953f9dd9e1c",
+          "name": "Nubank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6f6a96ec-eb15-469c-8a60-43d7104c930b",
+          "name": "OKX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4f82d369-5274-483d-9d0d-f1c1536b3300",
+          "name": "OKX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8a135db5-e2df-4a6b-8c64-68a13a4a774d",
+          "name": "OKX US",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "dc5d8f81-766a-4c21-a6fe-fd3221cd34dc",
+          "name": "OSL Digital Securities Ltd",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5aa72da8-6d14-46b3-82bd-2fb11c3c3b84",
+          "name": "PDAX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "aab93e33-e525-427f-a770-02355d9c7e8d",
+          "name": "Palisade Financial",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2dda8609-6161-4a55-bb89-4d05f667d3c0",
+          "name": "Parfin",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "42e494ec-acb3-490e-b67f-502ac7a25d03",
+          "name": "Paxful",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "2324bd0f-1ca8-44ea-a84f-798a198cc98f",
+          "name": "Paxos",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "facc3efa-ad53-40f8-99b1-d56ad5136c72",
+          "name": "PayPal",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d27aff36-3257-4f57-845a-b0aec1fe38da",
+          "name": "Paysafe",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b1bbf4f1-4c80-40ac-9e05-a1840462d2f1",
+          "name": "Paytrie",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0eac6581-0daf-41b6-bfde-ec2ebabc0b6f",
+          "name": "Phemex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3d113816-cef4-4564-aa7c-853e9f661c6d",
+          "name": "Pionex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "98636216-292f-4d55-b887-31b043fb2c37",
+          "name": "Poloniex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ad748dc2-22dd-4d79-b88e-2d143de4faa7",
+          "name": "PostFinance",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "b085336b-fb27-4095-b462-b6d4a9e60fca",
+          "name": "Prime Treasury",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "185617ed-4c65-4c31-a18b-91f01124a23f",
+          "name": "Quantfury",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4450ca12-b47f-431f-a4d0-1bdc19343dbd",
+          "name": "Rain",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9e2acb20-a2a8-48a9-8b67-a1a10830b371",
+          "name": "Redotpay",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "54ed677a-e032-4b6b-889b-da29c990ca19",
+          "name": "Revolut",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "023d9944-42d3-856f-b36e-9b80e6288356",
+          "name": "Ripio",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9b5cc692-dd48-4513-ad52-0dedf9f61236",
+          "name": "Rise",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7fc9ecb5-ba4c-41b4-bdee-c0d8cd769064",
+          "name": "Robinhood",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fa154ddd-08f6-4700-b2e6-f26b7d71a844",
+          "name": "RocketFuel ",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "0b0dec55-99cd-4fed-9941-52e5757c44da",
+          "name": "Roma",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4a1a71e0-eec4-45c7-808f-39af5c1355dc",
+          "name": "SBI VC Trade",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "15c8953f-6989-4728-90c7-874041a5ce0b",
+          "name": "SEI",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "ce97c783-eb6a-4edd-b2a1-44d853c25ac5",
+          "name": "Safello",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "d0fef6ef-3cd0-4217-bf30-d45d5d36ecdd",
+          "name": "Shakepay",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e12b29df-3f3a-4849-87d6-ef767efb8d25",
+          "name": "Shares",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "50df8a16-ff22-4622-8c96-e39e2feaa081",
+          "name": "Skrill",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "abad9086-12dc-4d28-9985-ec7178955bbe",
+          "name": "Sofi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "72df82bb-4568-41a4-a325-6214026b609b",
+          "name": "Solidi",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9a4be59e-7a54-43ae-a57e-b2091a2c6aff",
+          "name": "Standard Chartered Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fb515c53-b036-4289-96a6-6062fab4ddef",
+          "name": "Standard Custody",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "dae02257-e02e-4803-a47c-7f80bdde5fc1",
+          "name": "StraitsX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6e53cf75-359a-4d1f-b3ff-1f1d201ba597",
+          "name": "SunCrypto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "685e817e-4f00-4e17-a52b-172d897730b0",
+          "name": "Swapped",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6c8de587-330b-4259-8a85-ff24b260b64d",
+          "name": "SwissQuote Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6ca5db21-434e-4bad-8fed-a1b5b8ca804c",
+          "name": "Swissborg",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fcb08d4d-e9fc-4757-ba24-0622d5a73f3c",
+          "name": "Swyftx",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4b735466-5208-4c43-b40c-33524fdce2de",
+          "name": "Sygnum",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "574c7f44-c74d-4b2a-b4ce-f88b10be8708",
+          "name": "Syz Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "17e00dae-5792-43cc-9290-bcde34bd5c1f",
+          "name": "T4trade",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "651625be-6926-4d45-9712-ed614e314067",
+          "name": "T7X",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "5030ce1f-5ff6-4910-b19d-563181de2f17",
+          "name": "Tangany",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e0cadeea-3b0f-4aa6-ad64-53690a5593bf",
+          "name": "Tap",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "cef5fdd8-1fad-48ac-a2da-ab990eeee1a0",
+          "name": "Taurus",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4434d97c-a8ad-4b33-8fc0-ff7dae662a7a",
+          "name": "Tilvest",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8d33bda9-df6b-4e5a-9ec9-8ce543be9410",
+          "name": "Tokyo Hash",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "017fe9d1-4991-465d-a87f-dec4d49ef2d1",
+          "name": "Trade Republic Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "e4ed2b45-6390-4c0d-9be7-0e9e2daac2bb",
+          "name": "Trijo",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6fe2a014-89e6-4c7e-9cda-3d915b8c4ad6",
+          "name": "Trillion Digital Assets",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3796e0b8-23ed-44d5-9d77-500da2942102",
+          "name": "Triple A",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f433bc5d-13aa-47f8-a6b2-b03e4563af36",
+          "name": "Unbank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "feb0a6bf-2200-4c78-94c2-690dab603738",
+          "name": "Uphold",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "4b2851d2-96ba-4f9c-a795-bf19b4e5e74a",
+          "name": "Upvest",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3e847e35-999d-4b70-af4f-9fcab544fd9b",
+          "name": "VALR",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c4995ea9-30b3-4be9-8728-610440c63987",
+          "name": "VAX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6220099a-06eb-45a6-9509-b9411bdc3da8",
+          "name": "Venga",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8b861a13-da3a-478c-84e4-a4ff16363257",
+          "name": "Wealthsimple Investments Inc",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "17878215-353f-4a4b-a352-336a0abb7eff",
+          "name": "WhiteBIT",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "993e1f4b-5e81-439d-bc2e-55cee2cd5cd0",
+          "name": "Wintermute",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "74d502e3-66a0-40f8-9020-6cc09886d9ca",
+          "name": "Wirex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "802a32de-802c-490b-bf06-da5f4758ff50",
+          "name": "Woo X",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "f5e995c6-fcbd-4b12-a6c5-764608e49a48",
+          "name": "XBTO",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "7f7ad515-78b5-4bd5-b1bb-35e87e9213b4",
+          "name": "XREX",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "8c8a4e10-f91e-4b83-8172-3a346d4404af",
+          "name": "Xapo Bank",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "22a6babf-e87f-43e8-bb24-9e5ee76322a5",
+          "name": "Yellow Card",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "9e30add7-80b7-4089-9b25-2172632692de",
+          "name": "YouHodler",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6f6a37eb-ed33-41a9-a957-5b91f4e55d2f",
+          "name": "Young Platform",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "c65e3227-2089-4d8b-ba76-5e2aec4715b3",
+          "name": "Zero Hash",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "a1cd0a0a-2b45-421f-bd64-9c4fc4938675",
+          "name": "Zodia",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "fd3a00fb-9614-4004-8cae-62e10cc40439",
+          "name": "ZondaCrypto",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "77623b4d-aff0-4823-b80f-87c0b91503c6",
+          "name": "Zoomex",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "43f3996e-ad55-46c7-856f-522042043f3b",
+          "name": "bitFlyer",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "6c79c265-fe29-412d-834c-b31a4360f6a7",
+          "name": "eToro",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "3ddd73ef-6641-4ea3-a126-c831974015f9",
+          "name": "sFox",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "bb8d2323-58e9-454d-91e2-b3f8f4751676",
+          "name": "xMoney",
+          "iconUrl": ""
+        },
+        {
+          "uuid": "941e41a7-87e9-4ad5-86b1-4d4551681487",
+          "name": "xWhale",
+          "iconUrl": ""
+        }
+      ],
+      "authedSurface": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9GT09URVJfRElTQ0xBSU1FUiBjYXRlZ29yaWVzOlVJX0NPTVBPTkVOVF9DQVRFR09SWV9GT09URVJfRElTQ0xBSU1FUiBmaWx0ZXJzOntmb290ZXJfZGlzY2xhaW1lcl9maWx0ZXI6e3BhZ2Vfa2V5OiJzZW5kX3ByZXZpZXcifSByZWxldmFudF90YWdzX2ZpbHRlcjp7fX0gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfRk9PVEVSX0RJU0NMQUlNRVIiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfRk9PVEVSX0RJU0NMQUlNRVIi"
+      },
+      "eligibleForScamWarning": {
+        "isUserEligible": false
+      },
+      "eligibleForScamQuiz": {
+        "isUserEligible": false
+      },
+      "eligibleForScamQuizV2": {
+        "isUserEligible": false
+      },
+      "eligibleForScamProtection": {
+        "isUserEligible": false
+      },
+      "risk": {
+        "restrictions": {
+          "hasChallenge": false,
+          "id": "Umlza1Jlc3RyaWN0aW9uczpzZW5k"
+        }
+      },
+      "sendsBlockingExperiences": {
+        "experiences": []
+      }
+    }
+  }
+}

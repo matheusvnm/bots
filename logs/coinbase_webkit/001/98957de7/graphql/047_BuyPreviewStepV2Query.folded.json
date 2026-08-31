@@ -1,0 +1,923 @@
+{
+  "data": {
+    "viewer": {
+      "accountByUuidV3": {
+        "account": {
+          "assetOrFiatCurrency": {
+            "__typename": "ViewerAsset",
+            "asset": {
+              "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+              "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+              "name": "USDC",
+              "displaySymbol": "USDC",
+              "platformName": "USDC",
+              "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5"
+            },
+            "__isNode": "ViewerAsset",
+            "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6",
+            "__isAssetOrCurrency": "ViewerAsset",
+            "rewardApy": null,
+            "rewardsOrchestrationProgramRewardRate": {
+              "platform": "RETAIL",
+              "baseRate": "3.35%",
+              "currentRate": "7.00%",
+              "boostedRate": "7.00%",
+              "isEligible": true,
+              "ineligibleReasons": []
+            },
+            "rewardsOrchestrationProgramEnrollment": {
+              "isEnrolled": false
+            },
+            "staking": null,
+            "earnAsset": {
+              "autoStaking": null,
+              "id": "RWFybkFzc2V0OjJiOTIzMTVkLWVhYjctNWJlZi04NGZhLTA4OWExMzEzMzNmNQ=="
+            },
+            "supportedContextsV2": {
+              "isTradable": true
+            }
+          },
+          "id": "QWNjb3VudDpkNjhiYzFmNi1mZDE1LTU2OWQtOTk3Zi1jMGQxZDlkOGFhOTc=",
+          "uuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97"
+        }
+      },
+      "id": "Vmlld2VyOjA=",
+      "targetAssetByUuid": {
+        "asset": {
+          "uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+          "stablecoinConfig": {
+            "peggedFiatSymbol": "USD",
+            "isConvertibleUsingCoinbaseInventory": true
+          },
+          "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+        },
+        "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+      },
+      "paymentMethodByUuidV2": {
+        "type": "WORLDPAY_CARD",
+        "id": "UE06NjljMDg1NGNhZTdkNWI0YTEyZmFkNzQzOlVOS05PV05fVFJBTlNGRVJfVFlQRTpuaWw=",
+        "uuid": "45ac13e9-2cc8-4342-b442-a02708fc31fb",
+        "name": "5162********3967",
+        "currency": "BRL",
+        "primaryBuy": false,
+        "primarySell": false,
+        "instantBuy": false,
+        "instantSell": false,
+        "createdAt": "2026-03-23T00:11:56Z",
+        "updatedAt": "2026-03-23T00:12:01Z",
+        "disableBuyReason": "",
+        "displayAsNew": false,
+        "verified": true,
+        "isIdvRequired": false,
+        "cdvStatus": "CDV_STATUS_UNKNOWN",
+        "recurringOptions": [
+          {
+            "period": "HOURLY",
+            "label": "Hourly"
+          },
+          {
+            "period": "DAILY",
+            "label": "Daily"
+          },
+          {
+            "period": "WEEKLY",
+            "label": "Weekly"
+          },
+          {
+            "period": "EVERY_TWO_WEEKS",
+            "label": "Every two weeks"
+          },
+          {
+            "period": "MONTHLY",
+            "label": "Monthly"
+          },
+          {
+            "period": "QUARTERLY",
+            "label": "Quarterly"
+          },
+          {
+            "period": "YEARLY",
+            "label": "Yearly"
+          }
+        ],
+        "allLimits": [
+          {
+            "transferTypes": [
+              "BUY",
+              "DEPOSIT"
+            ],
+            "periodInDays": "7",
+            "totalAvailableLimit": {
+              "value": "511",
+              "currency": "BRL"
+            },
+            "remainingAvailableLimit": {
+              "value": "511",
+              "currency": "BRL"
+            },
+            "description": "Restam R$511 do seu limite de R$511 por 7 dias em Cartão de crédito/débito",
+            "label": "Cartão de crédito/débito",
+            "nextRequirement": null
+          },
+          {
+            "transferTypes": [
+              "SELL"
+            ],
+            "periodInDays": "7",
+            "totalAvailableLimit": {
+              "value": "511",
+              "currency": "BRL"
+            },
+            "remainingAvailableLimit": {
+              "value": "511",
+              "currency": "BRL"
+            },
+            "description": "Restam R$511 do seu limite de R$511 por 7 dias em Venda com cartão de crédito/débito",
+            "label": "Venda com cartão de crédito/débito",
+            "nextRequirement": null
+          }
+        ],
+        "withdrawInfo": null,
+        "tradeCapabilities": {
+          "allowBuy": true,
+          "allowSell": false,
+          "allowDeposit": false,
+          "allowWithdraw": false
+        },
+        "pickerData": {
+          "__typename": "WorldpayCardPickerData",
+          "rejected": false,
+          "cdvStatus": "READY",
+          "verificationMethod": null,
+          "cardLast4": "3967",
+          "cardNetwork": "mastercard",
+          "cardType": "credit",
+          "symbol": "CREDIT_CARD",
+          "institutionName": "NU PAGAMENTOS SA",
+          "requires3dsDdc": true,
+          "ddc3dsUsage": "REQUIRED",
+          "use3ds": true,
+          "bin": "51629266"
+        }
+      },
+      "coinbaseSubscription": null,
+      "freeTrialEligibility": [
+        {
+          "isEligible": true
+        }
+      ],
+      "coinbaseSubscriptionEligibility": [
+        {
+          "isEligible": true
+        }
+      ],
+      "coinbaseSubscriptionPaymentMethods": [
+        {
+          "type": "WORLDPAY_CARD",
+          "currency": "BRL",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionWorldpayCardMetadata",
+            "paymentMethodUuid": "45ac13e9-2cc8-4342-b442-a02708fc31fb",
+            "institutionName": "NU PAGAMENTOS SA",
+            "cardLast4": "3967"
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOjQ1YWMxM2U5LTJjYzgtNDM0Mi1iNDQyLWEwMjcwOGZjMzFmYg=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "ADA",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "f81f87c0-3091-5efa-a3ec-15bebe094b51",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0",
+                    "currency": "ADA"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6QURBOjYzMDYyMDM5LTdhZmItNTZmZi04ZTE5LTVlMzIxNWRjNDA0YTp2MTphc3NldDpjb2luYmFzZTp1dWlkOjYzMDYyMDM5LTdhZmItNTZmZi04ZTE5LTVlMzIxNWRjNDA0YTo6VU5TUEVDSUZJRUQ6QVNTRVRfUExBVEZPUk1fVU5TUEVDSUZJRUQ6OlVOU1BFQ0lGSUVEOjI="
+                }
+              },
+              "asset": {
+                "imageUrl": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
+                "displaySymbol": "ADA",
+                "name": "Cardano",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo2MzA2MjAzOS03YWZiLTU2ZmYtOGUxOS01ZTMyMTVkYzQwNGE6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOmY4MWY4N2MwLTMwOTEtNWVmYS1hM2VjLTE1YmViZTA5NGI1MQ=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "ATOM",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "de522c83-ad3b-5c8e-8ca9-ad466bb3eb23",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0",
+                    "currency": "ATOM"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6QVRPTTo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6OlVOU1BFQ0lGSUVEOkFTU0VUX1BMQVRGT1JNX1VOU1BFQ0lGSUVEOjpVTlNQRUNJRklFRDoy"
+                }
+              },
+              "asset": {
+                "imageUrl": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png",
+                "displaySymbol": "ATOM",
+                "name": "Cosmos",
+                "id": "QXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDo2NGM2MDdkMi00NjYzLTU2NDktODZlMC0zYWIwNmJiYTAyMDI6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOmRlNTIyYzgzLWFkM2ItNWM4ZS04Y2E5LWFkNDY2YmIzZWIyMw=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "SOL",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "cbcb2eca-5564-51d6-a9c1-6dd2ee675730",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0",
+                    "currency": "SOL"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6U09MOjRmMDM5NDk3LTNhZjgtNWJiMy05NTFjLTZkZjlhZmE5YmUxYzp2MTphc3NldDpjb2luYmFzZTp1dWlkOjRmMDM5NDk3LTNhZjgtNWJiMy05NTFjLTZkZjlhZmE5YmUxYzo6VU5TUEVDSUZJRUQ6QVNTRVRfUExBVEZPUk1fVU5TUEVDSUZJRUQ6OlVOU1BFQ0lGSUVEOjI="
+                }
+              },
+              "asset": {
+                "imageUrl": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/b658adaf7913c1513c8d120bcb41934a5a4bf09b6adbcb436085e2fbf6eb128c.png",
+                "displaySymbol": "SOL",
+                "name": "Solana",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo0ZjAzOTQ5Ny0zYWY4LTViYjMtOTUxYy02ZGY5YWZhOWJlMWM6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOmNiY2IyZWNhLTU1NjQtNTFkNi1hOWMxLTZkZDJlZTY3NTczMA=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "USDC",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "d68bc1f6-fd15-569d-997f-c0d1d9d8aa97",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0",
+                    "currency": "USDC"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6VVNEQzoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6djE6YXNzZXQ6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6OlVOU1BFQ0lGSUVEOkFTU0VUX1BMQVRGT1JNX1VOU1BFQ0lGSUVEOjpVTlNQRUNJRklFRDoy"
+                }
+              },
+              "asset": {
+                "imageUrl": "https://dynamic-assets.coinbase.com/3c15df5e2ac7d4abbe9499ed9335041f00c620f28e8de2f93474a9f432058742cdf4674bd43f309e69778a26969372310135be97eb183d91c492154176d455b8/asset_icons/9d67b728b6c8f457717154b3a35f9ddc702eae7e76c4684ee39302c4d7fd0bb8.png",
+                "displaySymbol": "USDC",
+                "name": "USDC",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDoyYjkyMzE1ZC1lYWI3LTViZWYtODRmYS0wODlhMTMxMzMzZjU6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOmQ2OGJjMWY2LWZkMTUtNTY5ZC05OTdmLWMwZDFkOWQ4YWE5Nw=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "ETH",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "fd3e7954-0d7c-5a31-9bdb-15028c09fada",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0.0000000032327247",
+                    "currency": "ETH"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0.0000310817563565368695",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6RVRIOmQ4NWRjZTliLTViNzMtNWMzYy04OTc4LTUyMmNlMWQxYzFiNDp2MTphc3NldDpjb2luYmFzZTp1dWlkOmQ4NWRjZTliLTViNzMtNWMzYy04OTc4LTUyMmNlMWQxYzFiNDo6VU5TUEVDSUZJRUQ6QVNTRVRfUExBVEZPUk1fVU5TUEVDSUZJRUQ6OlVOU1BFQ0lGSUVEOjI="
+                }
+              },
+              "asset": {
+                "imageUrl": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+                "displaySymbol": "ETH",
+                "name": "Ethereum",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDpkODVkY2U5Yi01YjczLTVjM2MtODk3OC01MjJjZTFkMWMxYjQ6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOmZkM2U3OTU0LTBkN2MtNWEzMS05YmRiLTE1MDI4YzA5ZmFkYQ=="
+        },
+        {
+          "type": "CRYPTO_ACCOUNT",
+          "currency": "BTC",
+          "metadata": {
+            "__typename": "CoinbaseSubscriptionCryptoAccountMetadata",
+            "accountUuid": "919c6de5-aaa8-5ede-8b4a-232aef4107b4",
+            "asset": {
+              "assetCurrentBalance": {
+                "balance": {
+                  "availableToTradeBalance": {
+                    "value": "0",
+                    "currency": "BTC"
+                  },
+                  "availableToTradeBalanceFiat": {
+                    "value": "0",
+                    "currency": "BRL"
+                  },
+                  "id": "QXNzZXRDdXJyZW50QmFsYW5jZXM6QlRDOjViNzFmYzQ4LTNkZDMtNTQwYy04MDliLWY4Yzk0ZDBlNjhiNTp2MTphc3NldDpjb2luYmFzZTp1dWlkOjViNzFmYzQ4LTNkZDMtNTQwYy04MDliLWY4Yzk0ZDBlNjhiNTo6VU5TUEVDSUZJRUQ6QVNTRVRfUExBVEZPUk1fVU5TUEVDSUZJRUQ6OlVOU1BFQ0lGSUVEOjI="
+                }
+              },
+              "asset": {
+                "imageUrl": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+                "displaySymbol": "BTC",
+                "name": "Bitcoin",
+                "id": "QXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+              },
+              "id": "Vmlld2VyQXNzZXQ6djE6ZnVuZ2liaWxpdHk6Y29pbmJhc2U6dXVpZDo1YjcxZmM0OC0zZGQzLTU0MGMtODA5Yi1mOGM5NGQwZTY4YjU6"
+            }
+          },
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QYXltZW50TWV0aG9kOjkxOWM2ZGU1LWFhYTgtNWVkZS04YjRhLTIzMmFlZjQxMDdiNA=="
+        }
+      ],
+      "blockingExperiencesForRecurringBuys": {
+        "experiences": []
+      },
+      "policyEvaluation": {
+        "status": "POLICY_STATUS_SUCCESS",
+        "failureReason": ""
+      },
+      "coinbaseSubscriptionPlansV2": {
+        "defaultPlan": {
+          "tierV3": "CB1_SUBSCRIPTION_TIER_1",
+          "subscriptionPlanUuid": "6838a140af0142bdf8900829",
+          "displayName": "Monthly",
+          "tierPriority": 2,
+          "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjgzOGExNDBhZjAxNDJiZGY4OTAwODI5"
+        },
+        "tiers": [
+          {
+            "tierV3": "CB1_SUBSCRIPTION_TIER_1",
+            "plans": [
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_1",
+                "tierPriority": 2,
+                "subscriptionPlanUuid": "6838a140af0142bdf8900829",
+                "displayName": "Monthly",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4MTkxZjM3ZmI5ZjZiZWNjMTE5MGRiZA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5ZjM1NmY2MzAxMzFiZGIxZg=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjVmNGUxYjJjOWEzZDJiMDAxYzhlNGYwZA=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4YjdhNGUyMjk1NGM5MDliYTJhYTA0MQ=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMQ=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": {
+                    "__typename": "CoinbaseSubscriptionPlan",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjgzOGIwOWM3MjNlNWU4NWM3YjRlYmQ5",
+                    "subscriptionPlanUuid": "6838b09c723e5e85c7b4ebd9",
+                    "planBillingFrequency": {
+                      "numberOfUnits": 7,
+                      "unit": "DAY"
+                    },
+                    "__isNode": "CoinbaseSubscriptionPlan",
+                    "metadata": {
+                      "signUpMetadata": {
+                        "initialBillingPeriodEnd": "2026-08-05T20:09:54.849917014Z"
+                      }
+                    }
+                  },
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2026-08-29T20:09:54.849916571Z"
+                  }
+                },
+                "price": {
+                  "value": "9.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 1,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjgzOGExNDBhZjAxNDJiZGY4OTAwODI5"
+              },
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_1",
+                "tierPriority": 2,
+                "subscriptionPlanUuid": "6838a1405c6e9802ca3ce08e",
+                "displayName": "Annual",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4MTkxZjM3ZmI5ZjZiZWNjMTE5MGRiZA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5ZjM1NmY2MzAxMzFiZGIxZg=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjVmNGUxYjJjOWEzZDJiMDAxYzhlNGYwZA=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4YjdhNGUyMjk1NGM5MDliYTJhYTA0MQ=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMQ=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": {
+                    "__typename": "CoinbaseSubscriptionPlan",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjgzOGIwOWM3MjNlNWU4NWM3YjRlYmQ5",
+                    "subscriptionPlanUuid": "6838b09c723e5e85c7b4ebd9",
+                    "planBillingFrequency": {
+                      "numberOfUnits": 7,
+                      "unit": "DAY"
+                    },
+                    "__isNode": "CoinbaseSubscriptionPlan",
+                    "metadata": {
+                      "signUpMetadata": {
+                        "initialBillingPeriodEnd": "2026-08-05T20:09:54.849917014Z"
+                      }
+                    }
+                  },
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2027-07-29T20:09:54.849917495Z"
+                  }
+                },
+                "price": {
+                  "value": "99.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 12,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjgzOGExNDA1YzZlOTgwMmNhM2NlMDhl"
+              }
+            ],
+            "priority": 2
+          },
+          {
+            "tierV3": "CB1_SUBSCRIPTION_TIER_2",
+            "plans": [
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_2",
+                "tierPriority": 1,
+                "subscriptionPlanUuid": "663c46341f73466c1747806d",
+                "displayName": "Monthly",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY2M2M1MDUwOTA0YzJjZGQ4OWYyNzgzYg=="
+                  },
+                  {
+                    "benefitType": "PRIORITY_PHONE_SUPPORT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyMGU5MjNkZGExYzUxZDdhNjJmMWU4MA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5MzIyM2U1OGRhODQ2M2ZlNQ=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY1MDlmZjgyN2EwYWU5NmY2MDU0ZjA1Zg=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4Yjg1ODBjZmM2N2RhNjNmYTg2YjAwYg=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMg=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": {
+                    "__typename": "CoinbaseSubscriptionPlan",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjYzYzQ2ODg5ZGEzYzNjYTZhMzlhODI4",
+                    "subscriptionPlanUuid": "663c46889da3c3ca6a39a828",
+                    "planBillingFrequency": {
+                      "numberOfUnits": 7,
+                      "unit": "DAY"
+                    },
+                    "__isNode": "CoinbaseSubscriptionPlan",
+                    "metadata": {
+                      "signUpMetadata": {
+                        "initialBillingPeriodEnd": "2026-08-05T20:09:54.849914953Z"
+                      }
+                    }
+                  },
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2026-08-29T20:09:54.849913813Z"
+                  }
+                },
+                "price": {
+                  "value": "29.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 1,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjYzYzQ2MzQxZjczNDY2YzE3NDc4MDZk"
+              },
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_2",
+                "tierPriority": 1,
+                "subscriptionPlanUuid": "68ffe83c9a2bf2ffcc9c2f7f",
+                "displayName": "Annual",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY2M2M1MDUwOTA0YzJjZGQ4OWYyNzgzYg=="
+                  },
+                  {
+                    "benefitType": "PRIORITY_PHONE_SUPPORT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyMGU5MjNkZGExYzUxZDdhNjJmMWU4MA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5MzIyM2U1OGRhODQ2M2ZlNQ=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY1MDlmZjgyN2EwYWU5NmY2MDU0ZjA1Zg=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4Yjg1ODBjZmM2N2RhNjNmYTg2YjAwYg=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMg=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": {
+                    "__typename": "CoinbaseSubscriptionPlan",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjYzYzQ2ODg5ZGEzYzNjYTZhMzlhODI4",
+                    "subscriptionPlanUuid": "663c46889da3c3ca6a39a828",
+                    "planBillingFrequency": {
+                      "numberOfUnits": 7,
+                      "unit": "DAY"
+                    },
+                    "__isNode": "CoinbaseSubscriptionPlan",
+                    "metadata": {
+                      "signUpMetadata": {
+                        "initialBillingPeriodEnd": "2026-08-05T20:09:54.849914953Z"
+                      }
+                    }
+                  },
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2027-07-29T20:09:54.84991528Z"
+                  }
+                },
+                "price": {
+                  "value": "299.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 12,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjhmZmU4M2M5YTJiZjJmZmNjOWMyZjdm"
+              }
+            ],
+            "priority": 1
+          },
+          {
+            "tierV3": "CB1_SUBSCRIPTION_TIER_3",
+            "plans": [
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_3",
+                "tierPriority": 0,
+                "subscriptionPlanUuid": "66e3357f7abec00eebfa1ee0",
+                "displayName": "Monthly",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYxMzEwNDcyYmFlNmRiNzJiMjNiNjEyYw=="
+                  },
+                  {
+                    "benefitType": "PRIORITY_PHONE_SUPPORT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyMGU5MjNkZGExYzUxZDdhNjJmMWU4MA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5MmUxYzIyNGFjMWM2NDdmZg=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY2NmI0YzdkNjRiMTEyOGQxNTkwNjgzYg=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "PREMIUM_CONCIERGE",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3MDNmZmRhNmVhODkwMzQzYWNjOTU1Mg=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4Yjg1ODI5ZmM2N2RhNjNmYTg2YjAwYw=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMw=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": null,
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2026-08-29T20:09:54.849918034Z"
+                  }
+                },
+                "price": {
+                  "value": "299.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 1,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjZlMzM1N2Y3YWJlYzAwZWViZmExZWUw"
+              },
+              {
+                "tierV3": "CB1_SUBSCRIPTION_TIER_3",
+                "tierPriority": 0,
+                "subscriptionPlanUuid": "68c4ab5311cebc9a99d790c4",
+                "displayName": "Annual",
+                "benefits": [
+                  {
+                    "benefitType": "NO_TRADING_FEES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYxMzEwNDcyYmFlNmRiNzJiMjNiNjEyYw=="
+                  },
+                  {
+                    "benefitType": "PRIORITY_PHONE_SUPPORT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyMGU5MjNkZGExYzUxZDdhNjJmMWU4MA=="
+                  },
+                  {
+                    "benefitType": "MESSARI_TRIAL",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjYyYWI4OGVhODRlNTVkZDZjZjk3N2RlOA=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_STAKING",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5YjIwOGU5MmUxYzIyNGFjMWM2NDdmZg=="
+                  },
+                  {
+                    "benefitType": "USDC_BOOSTED_REWARD",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY2NmI0YzdkNjRiMTEyOGQxNTkwNjgzYg=="
+                  },
+                  {
+                    "benefitType": "BASE_GAS_REBATES",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjUwN2YxZjc3YmNmODZjZDc5OTQzOTAxMQ=="
+                  },
+                  {
+                    "benefitType": "PREMIUM_CONCIERGE",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3MDNmZmRhNmVhODkwMzQzYWNjOTU1Mg=="
+                  },
+                  {
+                    "benefitType": "RAISE_ALLOCATION_BOOST_BENEFIT",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY4Yjg1ODI5ZmM2N2RhNjNmYTg2YjAwYw=="
+                  },
+                  {
+                    "benefitType": "KOINLY",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY5NjgxMDhlN2Y2NTE4ZTgxNTI0YmQwNQ=="
+                  },
+                  {
+                    "benefitType": "BOOSTED_DEFI_LEND",
+                    "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuQmVuZWZpdElkOjY3YjdhMWMyZTNmNGQ1YjZhNzg5MDAwMw=="
+                  }
+                ],
+                "metadata": {
+                  "freeTrialMetadata": null,
+                  "signUpMetadata": {
+                    "initialBillingPeriodEnd": "2027-07-29T20:09:54.849918936Z"
+                  }
+                },
+                "price": {
+                  "value": "2999.99",
+                  "currency": "BRL"
+                },
+                "planBillingFrequency": {
+                  "numberOfUnits": 12,
+                  "unit": "MONTH"
+                },
+                "id": "Q29pbmJhc2VTdWJzY3JpcHRpb25QbGFuSWQ6NjhjNGFiNTMxMWNlYmM5YTk5ZDc5MGM0"
+              }
+            ],
+            "priority": 0
+          }
+        ]
+      },
+      "productEligibilityStatus": {
+        "productsEligibility": {
+          "eligibilityResults": [
+            {
+              "productName": "USDC_GATING_TARGETTED",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USER_IN_GATING_COUNTRY_LOW_REWARD",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USER_IN_GATING_COUNTRY_NO_REWARD",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USDC_GATING_RESOLUTION_HIGH_AOP",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USDC_GATING_RESOLUTION_MID_AOP",
+              "eligibility": "INELIGIBLE"
+            },
+            {
+              "productName": "USDC_GATING_RESOLUTION_LOW_AOP",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "PRE_RESOLUTION_USDC_GATING",
+              "eligibility": "ELIGIBLE"
+            },
+            {
+              "productName": "DAY_OF_RESOLUTION_USDC_GATING",
+              "eligibility": "ELIGIBLE"
+            }
+          ]
+        },
+        "usdcPostBuyCb1UpsellEligibility": {
+          "eligibilityResult": {
+            "eligibility": "INELIGIBLE"
+          }
+        }
+      },
+      "coinbaseOneUpsell": null,
+      "aibCampaignAllowedAssets": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0FDQ09VTlRfSU5GTE9XX0JPTlVTIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0FJQl9DQU1QQUlHTl9BTExPV0VEX0FTU0VUUyI="
+      },
+      "aibUpsells": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MTV9IGZpbHRlcnM6e30gdXNlcl9pbmZvOnt9IHN1cmZhY2VfbmFtZToiVUlfQ09NUE9ORU5UX1NVUkZBQ0VfQUNDT1VOVF9JTkZMT1dfQk9OVVMiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfQUlCX0FXQVJFTkVTUyIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9BSUJfQk9OVVNfRVNUSU1BVElPTiIgY2F0ZWdvcnlfbmFtZXM6IlVJX0NPTVBPTkVOVF9DQVRFR09SWV9BSUJfTE9TRV9CT05VUyI="
+      },
+      "aibOptInStatus": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0FJQl9PUFRfSU5fU1RBVFVTIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0FJQl9PUFRfSU5fU1RBVFVTIg=="
+      },
+      "cb1UsdcPostBuyUpsell": {
+        "eligibilityStatus": {
+          "ineligibleReasonsV2": [
+            {
+              "reason": "[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"cb1_basic_sweepstakes\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "28rjSLqlztywZ7SbaC04FO"
+            },
+            {
+              "reason": "[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"cb1_basic_account_protection\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "3DFHVC9BrhexEdwIxnp7hP"
+            },
+            {
+              "reason": "[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"USDC_POST_BUY_CB1_UPSELL\",\"reasons\":[{\"key\":\"expression_checker\",\"reason\":\"expression evaluated to false: cb1_basic_sweepstakes \\u0026\\u0026 cb1_basic_account_protection \\u0026\\u0026 cb1_basic_usdc_boosted_reward [sub-rule results: cb1_basic_account_protection=INELIGIBLE, cb1_basic_sweepstakes=INELIGIBLE, cb1_basic_usdc_boosted_reward=ELIGIBLE]\"}]},{\"key\":\"cb1_basic_sweepstakes\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]},{\"key\":\"cb1_basic_account_protection\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "46b4ae7c-a597-4b94-b9ee-749c678ecc33"
+            },
+            {
+              "reason": "Orphaned component from parent paths: [(46b4ae7c-a597-4b94-b9ee-749c678ecc33:ineligible:[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"USDC_POST_BUY_CB1_UPSELL\",\"reasons\":[{\"key\":\"expression_checker\",\"reason\":\"expression evaluated to false: cb1_basic_sweepstakes \\u0026\\u0026 cb1_basic_account_protection \\u0026\\u0026 cb1_basic_usdc_boosted_reward [sub-rule results: cb1_basic_account_protection=INELIGIBLE, cb1_basic_sweepstakes=INELIGIBLE, cb1_basic_usdc_boosted_reward=ELIGIBLE]\"}]},{\"key\":\"cb1_basic_sweepstakes\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]},{\"key\":\"cb1_basic_account_protection\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}]) -> (97268973-30f9-46d2-b49c-22e48f9672e3:ineligible) -> (6wSe3jHTaKKppDUuTGiWXl:ineligible)] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "6wSe3jHTaKKppDUuTGiWXl"
+            },
+            {
+              "reason": "Orphaned component from parent paths: [(46b4ae7c-a597-4b94-b9ee-749c678ecc33:ineligible:[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"USDC_POST_BUY_CB1_UPSELL\",\"reasons\":[{\"key\":\"expression_checker\",\"reason\":\"expression evaluated to false: cb1_basic_sweepstakes \\u0026\\u0026 cb1_basic_account_protection \\u0026\\u0026 cb1_basic_usdc_boosted_reward [sub-rule results: cb1_basic_account_protection=INELIGIBLE, cb1_basic_sweepstakes=INELIGIBLE, cb1_basic_usdc_boosted_reward=ELIGIBLE]\"}]},{\"key\":\"cb1_basic_sweepstakes\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]},{\"key\":\"cb1_basic_account_protection\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}]) -> (99c3ba64-cad5-46d9-8068-6f27af8d657d:ineligible)] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "99c3ba64-cad5-46d9-8068-6f27af8d657d"
+            },
+            {
+              "reason": "Orphaned component from parent paths: [(46b4ae7c-a597-4b94-b9ee-749c678ecc33:ineligible:[{\"key\":\"eligibility_service_product_types_checker\",\"reasons\":[{\"key\":\"USDC_POST_BUY_CB1_UPSELL\",\"reasons\":[{\"key\":\"expression_checker\",\"reason\":\"expression evaluated to false: cb1_basic_sweepstakes \\u0026\\u0026 cb1_basic_account_protection \\u0026\\u0026 cb1_basic_usdc_boosted_reward [sub-rule results: cb1_basic_account_protection=INELIGIBLE, cb1_basic_sweepstakes=INELIGIBLE, cb1_basic_usdc_boosted_reward=ELIGIBLE]\"}]},{\"key\":\"cb1_basic_sweepstakes\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]},{\"key\":\"cb1_basic_account_protection\",\"reasons\":[{\"key\":\"subscription_plans_checker\",\"reason\":\"User is not eligible for the benefit\"}]}]}]) -> (97268973-30f9-46d2-b49c-22e48f9672e3:ineligible)] (generated_at: 2026-07-29T20:09:54Z)",
+              "componentId": "97268973-30f9-46d2-b49c-22e48f9672e3"
+            }
+          ]
+        },
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6MX0gc2tpcF9jYWNoZTp0cnVlIHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX1BPU1RfVVNEQ19CVVkiIGNhdGVnb3J5X25hbWVzOiJVSV9DT01QT05FTlRfQ0FURUdPUllfUE9TVF9VU0RDX0JVWV9DQjFfVVBTRUxMIg=="
+      },
+      "authedSurface": {
+        "edges": [],
+        "id": "VUlDb21wb25lbnRzQ29ubmVjdGlvbjpwYWdlX29wdGlvbnM6e3NpemU6N30gc3VyZmFjZTpVSV9DT01QT05FTlRfU1VSRkFDRV9GT09URVJfRElTQ0xBSU1FUiBjYXRlZ29yaWVzOlVJX0NPTVBPTkVOVF9DQVRFR09SWV9GT09URVJfRElTQ0xBSU1FUiBmaWx0ZXJzOntmb290ZXJfZGlzY2xhaW1lcl9maWx0ZXI6e3BhZ2Vfa2V5OiJzaW1wbGVfdHJhZGluZ19wcmV2aWV3In0gcmVsZXZhbnRfdGFnc19maWx0ZXI6e319IHVzZXJfaW5mbzp7fSBzdXJmYWNlX25hbWU6IlVJX0NPTVBPTkVOVF9TVVJGQUNFX0ZPT1RFUl9ESVNDTEFJTUVSIiBjYXRlZ29yeV9uYW1lczoiVUlfQ09NUE9ORU5UX0NBVEVHT1JZX0ZPT1RFUl9ESVNDTEFJTUVSIg=="
+      },
+      "fiatAccounts": [
+        {
+          "uuid": "010753b1-1c0a-5c84-9e50-c7eb8c016850",
+          "availableBalance": {
+            "value": "0",
+            "currency": "BRL"
+          },
+          "id": "QWNjb3VudDowMTA3NTNiMS0xYzBhLTVjODQtOWU1MC1jN2ViOGMwMTY4NTA="
+        }
+      ]
+    }
+  }
+}
